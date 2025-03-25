@@ -41,11 +41,21 @@ function fetchData($url, $postData = null) {
 // Fetch main list
 $result = fetchData($apiEndpoints['getWaterOffCases']);
 if ($result['code'] === 200) {
-    file_put_contents($basePath . '/raw/getWaterOffCases.json', json_encode(json_decode($result['data']), JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE));
+    $data = json_decode($result['data'], true);
+    // sort by no
+    usort($data, function($a, $b) {
+        return strtotime($a['no']) - strtotime($b['no']);
+    });
+    file_put_contents($basePath . '/raw/getWaterOffCases.json', json_encode($data, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE));
 }
 
 // Fetch supply data
 $result = fetchData($apiEndpoints['getWaterOffSupply']);
 if ($result['code'] === 200) {
-    file_put_contents($basePath . '/raw/getWaterOffSupply.json', json_encode(json_decode($result['data']), JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE));
+    $data = json_decode($result['data'], true);
+    // sort by id
+    usort($data['supply'], function($a, $b) {
+        return strtotime($a['id']) - strtotime($b['id']);
+    });
+    file_put_contents($basePath . '/raw/getWaterOffSupply.json', json_encode($data, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE));
 }
