@@ -1,82 +1,6 @@
 {
     "supply": [
         {
-            "id": 5011,
-            "name": "老大公廟前",
-            "division": 239,
-            "contact": "嘉仁里王里長",
-            "phone": "0935306094 ( 0975311880)",
-            "address": "基隆市安樂區樂一路76巷37號",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    121.73314900000003,
-                    25.129130999999987
-                ]
-            },
-            "condition": 0,
-            "groupId": "193931",
-            "interfaceNumber": "",
-            "meterSetting": 0.5
-        },
-        {
-            "id": 5016,
-            "name": "成功一路與光二路口",
-            "division": 239,
-            "contact": "光華里陳里長",
-            "phone": "0916317388",
-            "address": "基隆市仁愛區成功一路115號",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    121.73701018095015,
-                    25.127536887824174
-                ]
-            },
-            "condition": 0,
-            "groupId": "193931",
-            "interfaceNumber": "",
-            "meterSetting": 0
-        },
-        {
-            "id": 5018,
-            "name": "東明里里民活動中心",
-            "division": 239,
-            "contact": "東明里翁里長",
-            "phone": "0936-126645",
-            "address": "基隆巿東信路35巷47號",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    121.76692754030226,
-                    25.127056068096785
-                ]
-            },
-            "condition": 0,
-            "groupId": "193931",
-            "interfaceNumber": "",
-            "meterSetting": 0
-        },
-        {
-            "id": 5019,
-            "name": "劉銘傳路口",
-            "division": 239,
-            "contact": "水錦里孫里長",
-            "phone": "0932075600",
-            "address": "基隆巿劉銘傳路1號",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    121.75099253654479,
-                    25.12793999785437
-                ]
-            },
-            "condition": 0,
-            "groupId": "193931",
-            "interfaceNumber": "",
-            "meterSetting": 0
-        },
-        {
             "id": 5103,
             "name": "1.府中路118號(與倉後街交接口)",
             "division": 76,
@@ -206,44 +130,6 @@
             },
             "condition": 0,
             "groupId": "174728",
-            "interfaceNumber": "",
-            "meterSetting": 0.5
-        },
-        {
-            "id": 5391,
-            "name": "蘆洲區中山一路196號",
-            "division": 78,
-            "contact": "錢思堯股長",
-            "phone": "02-22821817",
-            "address": "新北市蘆洲區中山一路196號",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    121.47369100000002,
-                    25.080941
-                ]
-            },
-            "condition": 0,
-            "groupId": "188370",
-            "interfaceNumber": "",
-            "meterSetting": 0.5
-        },
-        {
-            "id": 5392,
-            "name": "蘆洲區中山一路280號",
-            "division": 78,
-            "contact": "錢思堯",
-            "phone": "0222821817",
-            "address": "蘆洲區中山一路280號",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    121.47124400000004,
-                    25.079081
-                ]
-            },
-            "condition": 0,
-            "groupId": "188370",
             "interfaceNumber": "",
             "meterSetting": 0.5
         },
