@@ -248,65 +248,6 @@
             "meterSetting": 0.5
         },
         {
-            "id": 5473,
-            "name": "泰山大科里民活動中心",
-            "division": 79,
-            "contact": "黃春祥股長",
-            "phone": "02-29097480",
-            "address": "泰山區大科路300號",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    13514735.543990476,
-                    2882693.10074668
-                ]
-            },
-            "condition": 0,
-            "groupId": "200307",
-            "interfaceNumber": "",
-            "meterSetting": 0
-        },
-        {
-            "id": 5474,
-            "name": "新加坡花園城堡社區大門口",
-            "division": 79,
-            "contact": "黃春祥股長",
-            "phone": "02-29097480",
-            "address": "新北市五股區登林路81號",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    13517212.513980119,
-                    2884377.813005996
-                ]
-            },
-            "condition": 0,
-            "groupId": "200307",
-            "interfaceNumber": "",
-            "meterSetting": 0
-        },
-        {
-            "id": 5475,
-            "name": "黎明技術學院大門口",
-            "division": 79,
-            "contact": "黃春祥股長",
-            "phone": "02-29097480",
-            "address": "泰林路三段22號",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    13516369.825434815,
-                    2883840.5132267033
-                ]
-            },
-            "condition": 0,
-            "groupId": "200307",
-            "interfaceNumber": "",
-            "meterSetting": 0
-        }
-    ],
-    "notsupply": [
-        {
             "id": 5426,
             "name": "114林口區南勢二街154號(南勢活動中心",
             "division": 85,
@@ -322,7 +263,7 @@
             },
             "condition": 0,
             "groupId": "196150",
-            "interfaceNumber": "",
+            "interfaceNumber": "021140519001-2",
             "meterSetting": 0.5
         },
         {
@@ -341,7 +282,7 @@
             },
             "condition": 0,
             "groupId": "196150",
-            "interfaceNumber": "",
+            "interfaceNumber": "021140519002-2",
             "meterSetting": 0.5
         },
         {
@@ -1084,6 +1025,63 @@
             "groupId": "196150",
             "interfaceNumber": "",
             "meterSetting": 0.5
+        },
+        {
+            "id": 5473,
+            "name": "泰山大科里民活動中心",
+            "division": 79,
+            "contact": "黃春祥股長",
+            "phone": "02-29097480",
+            "address": "泰山區大科路300號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13514735.543990476,
+                    2882693.10074668
+                ]
+            },
+            "condition": 0,
+            "groupId": "200307",
+            "interfaceNumber": "",
+            "meterSetting": 0
+        },
+        {
+            "id": 5474,
+            "name": "新加坡花園城堡社區大門口",
+            "division": 79,
+            "contact": "黃春祥股長",
+            "phone": "02-29097480",
+            "address": "新北市五股區登林路81號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13517212.513980119,
+                    2884377.813005996
+                ]
+            },
+            "condition": 0,
+            "groupId": "200307",
+            "interfaceNumber": "",
+            "meterSetting": 0
+        },
+        {
+            "id": 5475,
+            "name": "黎明技術學院大門口",
+            "division": 79,
+            "contact": "黃春祥股長",
+            "phone": "02-29097480",
+            "address": "泰林路三段22號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13516369.825434815,
+                    2883840.5132267033
+                ]
+            },
+            "condition": 0,
+            "groupId": "200307",
+            "interfaceNumber": "",
+            "meterSetting": 0
         }
     ]
 }
