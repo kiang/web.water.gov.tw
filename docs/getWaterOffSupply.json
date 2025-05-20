@@ -337,7 +337,7 @@
                     25.077131995210898
                 ]
             },
-            "condition": 0,
+            "condition": 1,
             "groupId": "196150",
             "interfaceNumber": "021140519004-2",
             "meterSetting": 0.5
@@ -375,7 +375,7 @@
                     25.068049021160054
                 ]
             },
-            "condition": 0,
+            "condition": 1,
             "groupId": "196150",
             "interfaceNumber": "021140519006-2",
             "meterSetting": 0.5
@@ -470,7 +470,7 @@
                     25.001800541650105
                 ]
             },
-            "condition": 0,
+            "condition": 1,
             "groupId": "196150",
             "interfaceNumber": "021140519036-2",
             "meterSetting": 0.5
@@ -622,7 +622,7 @@
                     24.992074240610595
                 ]
             },
-            "condition": 0,
+            "condition": 1,
             "groupId": "196150",
             "interfaceNumber": "021140519014-2",
             "meterSetting": 0.5
@@ -641,7 +641,7 @@
                     25.009453496405044
                 ]
             },
-            "condition": 0,
+            "condition": 1,
             "groupId": "196150",
             "interfaceNumber": "021140519015-2",
             "meterSetting": 0.5
@@ -660,7 +660,7 @@
                     25.013106003741196
                 ]
             },
-            "condition": 0,
+            "condition": 1,
             "groupId": "196150",
             "interfaceNumber": "021140519016-2",
             "meterSetting": 0.5
@@ -679,7 +679,7 @@
                     25.011868999999994
                 ]
             },
-            "condition": 0,
+            "condition": 1,
             "groupId": "196150",
             "interfaceNumber": "021140519017-2",
             "meterSetting": 0.5
@@ -717,7 +717,7 @@
                     25.013439812243995
                 ]
             },
-            "condition": 0,
+            "condition": 1,
             "groupId": "196150",
             "interfaceNumber": "021140519019-2",
             "meterSetting": 0.5
@@ -850,7 +850,7 @@
                     25.007427879798712
                 ]
             },
-            "condition": 0,
+            "condition": 1,
             "groupId": "196150",
             "interfaceNumber": "021140519026-2",
             "meterSetting": 0.5
@@ -888,7 +888,7 @@
                     25.012324953062983
                 ]
             },
-            "condition": 0,
+            "condition": 1,
             "groupId": "196150",
             "interfaceNumber": "021140519028-2",
             "meterSetting": 0.5
@@ -1002,7 +1002,7 @@
                     25.06187900000002
                 ]
             },
-            "condition": 0,
+            "condition": 1,
             "groupId": "196150",
             "interfaceNumber": "021140519034-2",
             "meterSetting": 0.5
