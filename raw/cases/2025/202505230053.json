@@ -88,10 +88,10 @@
         ]
     },
     "startTime": "15:00:00",
-    "lastUpdatedTime": "2025-05-23T06:50:31.863+0000",
-    "endTime": "18:00:00",
-    "category": 2,
-    "type": 1,
+    "lastUpdatedTime": "2025-05-23T07:48:31.213+0000",
+    "endTime": "17:00:00",
+    "category": 1,
+    "type": 2,
     "startDate": "2025-05-22T16:00:00.000+0000",
     "pressureDownArea": null,
     "isSchedule": false
