@@ -7909,7 +7909,7 @@
         "startTime": "23:00:00",
         "lastUpdatedTime": "2025-06-11T07:51:17.568+0000",
         "endTime": "04:00:00",
-        "category": 2,
+        "category": 1,
         "type": 2,
         "startDate": "2025-06-10T16:00:00.000+0000",
         "pressureDownArea": {
@@ -14233,7 +14233,7 @@
         "startTime": "21:00:00",
         "lastUpdatedTime": "2025-06-11T12:49:25.105+0000",
         "endTime": "04:00:00",
-        "category": 2,
+        "category": 1,
         "type": 1,
         "startDate": "2025-06-10T16:00:00.000+0000",
         "pressureDownArea": null,
