@@ -56021,7 +56021,7 @@
         "startTime": "21:28:00",
         "lastUpdatedTime": "2025-06-14T13:28:15.127+0000",
         "endTime": "01:30:00",
-        "category": 2,
+        "category": 1,
         "type": 1,
         "startDate": "2025-06-13T16:00:00.000+0000",
         "pressureDownArea": null,
@@ -56277,7 +56277,7 @@
         "startTime": "23:12:00",
         "lastUpdatedTime": "2025-06-14T15:12:10.056+0000",
         "endTime": "02:00:00",
-        "category": 2,
+        "category": 1,
         "type": 1,
         "startDate": "2025-06-13T16:00:00.000+0000",
         "pressureDownArea": null,
@@ -56343,6 +56343,52 @@
         "startTime": "00:00:00",
         "lastUpdatedTime": "2025-06-14T15:51:02.564+0000",
         "endTime": "11:30:00",
+        "category": 2,
+        "type": 1,
+        "startDate": "2025-06-14T16:00:00.000+0000",
+        "pressureDownArea": null,
+        "isSchedule": false
+    },
+    {
+        "no": "202506150001",
+        "endDate": "2025-06-15T16:00:00.000+0000",
+        "actualEndTime": null,
+        "waterOffArea": {
+            "type": "MultiPolygon",
+            "coordinates": [
+                [
+                    [
+                        [
+                            13418809.073567195,
+                            2628555.0389985046
+                        ],
+                        [
+                            13419154.477108032,
+                            2628575.1595931165
+                        ],
+                        [
+                            13419348.976189278,
+                            2628363.893349692
+                        ],
+                        [
+                            13419077.34816202,
+                            2628256.5835117623
+                        ],
+                        [
+                            13418778.892675277,
+                            2628477.9100524927
+                        ],
+                        [
+                            13418809.073567195,
+                            2628555.0389985046
+                        ]
+                    ]
+                ]
+            ]
+        },
+        "startTime": "01:30:00",
+        "lastUpdatedTime": "2025-06-14T17:10:58.283+0000",
+        "endTime": "17:30:00",
         "category": 2,
         "type": 1,
         "startDate": "2025-06-14T16:00:00.000+0000",
