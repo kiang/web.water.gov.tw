@@ -116,7 +116,7 @@
         ]
     },
     "startTime": "08:30:00",
-    "lastUpdatedTime": "2025-06-19T02:11:15.736+0000",
+    "lastUpdatedTime": "2025-06-23T05:46:23.227+0000",
     "endTime": "18:30:00",
     "category": 2,
     "type": 2,
@@ -378,5 +378,5 @@
             ]
         ]
     },
-    "isSchedule": false
+    "isSchedule": true
 }
