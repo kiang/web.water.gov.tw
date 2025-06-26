@@ -968,6 +968,63 @@
             "groupId": "200307",
             "interfaceNumber": "",
             "meterSetting": 0
+        },
+        {
+            "id": 5480,
+            "name": "本處板新給水廠辦理「鶯歌區國慶街22號前汰換管線工程」",
+            "division": 18,
+            "contact": "林昆緯",
+            "phone": "02-26792224",
+            "address": "新北市鶯歌區仁愛路55號鶯歌區公所前",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    121.354363,
+                    24.955932999999987
+                ]
+            },
+            "condition": 0,
+            "groupId": "207119",
+            "interfaceNumber": "",
+            "meterSetting": 0
+        },
+        {
+            "id": 5481,
+            "name": "本處板新給水廠辦理「鶯歌區國慶街22號前汰換管線工程」",
+            "division": 18,
+            "contact": "林昆緯",
+            "phone": "02-26792224",
+            "address": "新北市鶯歌區南雅路與育智路口(惠隆宮老人會館旁)",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    121.34513499999998,
+                    24.953992999999986
+                ]
+            },
+            "condition": 0,
+            "groupId": "207119",
+            "interfaceNumber": "",
+            "meterSetting": 0
+        },
+        {
+            "id": 5482,
+            "name": "本處板新給水廠辦理「鶯歌區國慶街22號前汰換管線工程」",
+            "division": 18,
+            "contact": "林昆緯",
+            "phone": "02-26792224",
+            "address": "新北市鶯歌區建國路420號消防隊對面",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    121.342835,
+                    24.951895
+                ]
+            },
+            "condition": 0,
+            "groupId": "207119",
+            "interfaceNumber": "",
+            "meterSetting": 0
         }
     ]
 }
