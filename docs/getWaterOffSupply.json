@@ -109,7 +109,7 @@
                     24.124146999999986
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "208477",
             "interfaceNumber": null,
             "meterSetting": 0.5
@@ -128,7 +128,7 @@
                     24.155788890000007
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "208477",
             "interfaceNumber": null,
             "meterSetting": 0.5
@@ -166,7 +166,7 @@
                     24.179188999999997
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "208477",
             "interfaceNumber": null,
             "meterSetting": 0.5
@@ -192,16 +192,16 @@
         },
         {
             "id": 1813,
-            "name": "成功國小前",
+            "name": "成功國小人行道",
             "division": 20,
             "contact": "賴靜瑩",
             "phone": "04-22210169#291",
-            "address": "臺中市東區育英路60號右邊(成功國小前)",
+            "address": "東區育英路60號",
             "location": {
                 "type": "Point",
                 "coordinates": [
-                    120.69812780000039,
-                    24.13824721999996
+                    120.69818526506424,
+                    24.137477166656165
                 ]
             },
             "condition": 1,
@@ -215,12 +215,12 @@
             "division": 20,
             "contact": "賴股長",
             "phone": "04-22542191",
-            "address": "臺中市南區復興北路與大慶街交叉口",
+            "address": "南區復興北路與大慶街交叉口",
             "location": {
                 "type": "Point",
                 "coordinates": [
-                    120.65027780000001,
-                    24.11597222
+                    120.650244,
+                    24.115861999999986
                 ]
             },
             "condition": 1,
@@ -234,7 +234,7 @@
             "division": 20,
             "contact": "賴靜瑩",
             "phone": "04-22210169#291",
-            "address": "臺中市南區工學路與工學路126巷口",
+            "address": "南區工學路與工學路126巷口",
             "location": {
                 "type": "Point",
                 "coordinates": [
@@ -253,12 +253,12 @@
             "division": 20,
             "contact": "賴靜瑩",
             "phone": "04-22210169#291",
-            "address": "臺中市南區德富路與工學北路交叉口",
+            "address": "南區德富路與工學北路交叉口",
             "location": {
                 "type": "Point",
                 "coordinates": [
-                    120.65767780000029,
-                    24.116183330000013
+                    120.657837,
+                    24.116160000000022
                 ]
             },
             "condition": 1,
@@ -281,6 +281,25 @@
                 ]
             },
             "condition": 0,
+            "groupId": "208477",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 1858,
+            "name": "醒修宮停車場",
+            "division": 20,
+            "contact": "賴靜瑩",
+            "phone": "04-22210169#291",
+            "address": "南區信義南街191號附近",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.67726403474809,
+                    24.129198793718487
+                ]
+            },
+            "condition": null,
             "groupId": "208477",
             "interfaceNumber": null,
             "meterSetting": 0.5
@@ -781,7 +800,7 @@
         },
         {
             "id": 2590,
-            "name": "北屯區東山路2段112號(大坑國小門口)",
+            "name": "大坑國小門口",
             "division": 20,
             "contact": "林婉琪、呂股長、劉股長",
             "phone": "04-22210169",
@@ -793,7 +812,7 @@
                     24.195970999999982
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "208477",
             "interfaceNumber": null,
             "meterSetting": 0.5
@@ -838,7 +857,7 @@
         },
         {
             "id": 2662,
-            "name": "南區崇倫街52-3號(崇倫里活動中心)",
+            "name": "崇倫里活動中心",
             "division": 20,
             "contact": "林婉琪、呂股長、劉股長",
             "phone": "04-22210169",
@@ -857,7 +876,7 @@
         },
         {
             "id": 2665,
-            "name": "南區復興路二段152號(四育國中四育館)",
+            "name": "四育國中四育館",
             "division": 20,
             "contact": "林婉琪、呂股長、劉股長",
             "phone": "04-22210169",
@@ -869,14 +888,14 @@
                     24.125500999999986
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "208477",
             "interfaceNumber": null,
             "meterSetting": 0.5
         },
         {
             "id": 2667,
-            "name": "南區復興路2段57號(和平國小前)",
+            "name": "和平國小前",
             "division": 20,
             "contact": "林婉琪、呂股長、劉股長",
             "phone": "04-22210169",
@@ -884,18 +903,18 @@
             "location": {
                 "type": "Point",
                 "coordinates": [
-                    120.66027224063873,
-                    24.120337256789508
+                    120.6607496738434,
+                    24.120748524018108
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "208477",
             "interfaceNumber": null,
             "meterSetting": 0.5
         },
         {
             "id": 2669,
-            "name": "南區高工路191號(台中高工大門右邊)",
+            "name": "台中高工大門右邊",
             "division": 20,
             "contact": "林婉琪、呂股長、劉股長",
             "phone": "04-22210169",
@@ -914,7 +933,7 @@
         },
         {
             "id": 2672,
-            "name": "南區福田二街與樹義路口(樹仁公園)",
+            "name": "樹仁公園",
             "division": 20,
             "contact": "林婉琪、呂股長、劉股長",
             "phone": "04-22210169",
@@ -933,7 +952,7 @@
         },
         {
             "id": 2674,
-            "name": "東區忠孝路與信義街218巷口(忠孝停車場)",
+            "name": "忠孝停車場",
             "division": 20,
             "contact": "林婉琪、呂股長、劉股長",
             "phone": "04-22210169",
@@ -956,11 +975,11 @@
             "division": 20,
             "contact": "林婉琪、呂股長、劉股長",
             "phone": "04-22210169",
-            "address": "南區忠孝路111號",
+            "address": "南區忠孝路111號對面",
             "location": {
                 "type": "Point",
                 "coordinates": [
-                    120.67894577980042,
+                    120.67896455526352,
                     24.128222096404514
                 ]
             },
@@ -971,7 +990,7 @@
         },
         {
             "id": 2676,
-            "name": "東區互助街27號(新庄里辦公處旁)",
+            "name": "新庄里辦公處旁",
             "division": 20,
             "contact": "林婉琪、呂股長、劉股長",
             "phone": "04-22210169",
@@ -990,11 +1009,11 @@
         },
         {
             "id": 2677,
-            "name": "南區合作街6號(長春活動中心)",
+            "name": "長春活動中心",
             "division": 20,
             "contact": "林婉琪、呂股長、劉股長",
             "phone": "04-22210169",
-            "address": "台中市南區合作街6號(長春閱覽室)",
+            "address": "南區合作街6號",
             "location": {
                 "type": "Point",
                 "coordinates": [
@@ -1008,27 +1027,8 @@
             "meterSetting": 0.5
         },
         {
-            "id": 2678,
-            "name": "南區信義南街與國光路交叉口(醒修宮停車場)",
-            "division": 20,
-            "contact": "林婉琪、呂股長、劉股長",
-            "phone": "04-22210169",
-            "address": "南區信義南街與國光路交叉口",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    120.6776663661003,
-                    24.12937014335549
-                ]
-            },
-            "condition": 0,
-            "groupId": "208477",
-            "interfaceNumber": null,
-            "meterSetting": 0.5
-        },
-        {
             "id": 2681,
-            "name": "南區新華街168號(新榮里辦公處)",
+            "name": "新榮里辦公處",
             "division": 20,
             "contact": "林婉琪、呂股長、劉股長",
             "phone": "04-22210169",
@@ -1047,7 +1047,7 @@
         },
         {
             "id": 2684,
-            "name": "南區五權南路325號(信義國小前)",
+            "name": "信義國小前",
             "division": 20,
             "contact": "林婉琪、呂股長、劉股長",
             "phone": "04-22210169",
@@ -1059,7 +1059,7 @@
                     24.121678999999986
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "208477",
             "interfaceNumber": null,
             "meterSetting": 0.5
@@ -1078,7 +1078,7 @@
                     24.157658999999992
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "208477",
             "interfaceNumber": null,
             "meterSetting": 0.5
@@ -1097,7 +1097,7 @@
                     24.153082718314902
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "208477",
             "interfaceNumber": null,
             "meterSetting": 0.5
@@ -1116,7 +1116,7 @@
                     24.14620534959959
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "208477",
             "interfaceNumber": null,
             "meterSetting": 0.5
@@ -1135,7 +1135,7 @@
                     24.143841015652118
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "208477",
             "interfaceNumber": null,
             "meterSetting": 0.5
@@ -1180,7 +1180,7 @@
         },
         {
             "id": 2700,
-            "name": "東區立德東街45-1號(南門福神祠)",
+            "name": "南門福神祠",
             "division": 20,
             "contact": "林婉琪、呂股長、劉股長",
             "phone": "04-22210169",
@@ -1887,12 +1887,12 @@
             "division": 246,
             "contact": "賴靜瑩",
             "phone": "04-22210169",
-            "address": "臺中市東區樂業一路與樂業一路135巷口(泉源公園)",
+            "address": "東區樂業一路與樂業一路135巷口",
             "location": {
                 "type": "Point",
                 "coordinates": [
-                    120.694464,
-                    24.13556
+                    120.69432500000002,
+                    24.136932000000005
                 ]
             },
             "condition": 1,
@@ -1914,7 +1914,7 @@
                     24.123424999999994
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "208477",
             "interfaceNumber": null,
             "meterSetting": 0.5
@@ -1933,7 +1933,7 @@
                     24.150182999999984
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "208477",
             "interfaceNumber": null,
             "meterSetting": 0.5
@@ -1952,7 +1952,7 @@
                     24.14630999999999
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "208477",
             "interfaceNumber": null,
             "meterSetting": 0.5
@@ -1963,12 +1963,12 @@
             "division": 246,
             "contact": "賴靜瑩",
             "phone": "04-22210169",
-            "address": "臺中市東區長福路與東英二街交叉口(東信福德祠)",
+            "address": "東區長福路與東英二街交叉口",
             "location": {
                 "type": "Point",
                 "coordinates": [
-                    120.69943500000001,
-                    24.13514599999999
+                    120.70398100000001,
+                    24.135136000000003
                 ]
             },
             "condition": 1,
@@ -1982,12 +1982,12 @@
             "division": 246,
             "contact": "賴靜瑩",
             "phone": "04-22210169#241",
-            "address": "臺中市南區仁和路與正義街交叉口",
+            "address": "南區仁和路與正義街交叉口",
             "location": {
                 "type": "Point",
                 "coordinates": [
-                    120.68120688199998,
-                    24.126513470136796
+                    120.68109700000001,
+                    24.126377000000012
                 ]
             },
             "condition": 0,
@@ -2039,15 +2039,15 @@
             "division": 246,
             "contact": "賴靜瑩",
             "phone": "04-22210169",
-            "address": "臺中市南區復興園路與仁義街交叉口",
+            "address": "南區復興園路與仁義街交叉口",
             "location": {
                 "type": "Point",
                 "coordinates": [
-                    120.67176818847656,
-                    24.12585008616628
+                    120.6715589761734,
+                    24.12568362765593
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "208477",
             "interfaceNumber": "",
             "meterSetting": 0.5
@@ -2058,15 +2058,15 @@
             "division": 246,
             "contact": "賴靜瑩",
             "phone": "04-22210169",
-            "address": "臺中市南區興大路301巷40號",
+            "address": "南區興大路301巷40號",
             "location": {
                 "type": "Point",
                 "coordinates": [
-                    120.67229390144348,
-                    24.11698097303649
+                    120.67259300000002,
+                    24.116953999999993
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "208477",
             "interfaceNumber": "",
             "meterSetting": 0.5
@@ -2092,16 +2092,16 @@
         },
         {
             "id": 3646,
-            "name": "東門路與東光園路空地",
+            "name": "東光園道上",
             "division": 246,
             "contact": "賴靜瑩",
             "phone": "04-22210169",
-            "address": "臺中市東區東門路與東光園路",
+            "address": "東區東門路與東光園路",
             "location": {
                 "type": "Point",
                 "coordinates": [
-                    120.69447576999664,
-                    24.127470597404752
+                    120.69466200000001,
+                    24.127461
                 ]
             },
             "condition": 1,
@@ -2123,7 +2123,7 @@
                     24.19794299999998
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "208477",
             "interfaceNumber": "",
             "meterSetting": 0.5
@@ -2142,7 +2142,7 @@
                     24.17959299999998
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "208477",
             "interfaceNumber": "",
             "meterSetting": 0.5
@@ -2374,6 +2374,25 @@
             "groupId": "208455",
             "interfaceNumber": "",
             "meterSetting": 0
+        },
+        {
+            "id": 5490,
+            "name": "廍子里活動中心前",
+            "division": 246,
+            "contact": "林股長",
+            "phone": "04-22542191",
+            "address": "北屯區廍子巷100號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.733748,
+                    24.163602999999995
+                ]
+            },
+            "condition": 1,
+            "groupId": "208477",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
         }
     ]
 }
