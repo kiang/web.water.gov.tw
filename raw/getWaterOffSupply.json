@@ -109,7 +109,7 @@
                     2768543.27528512
                 ]
             },
-            "condition": 0,
+            "condition": 1,
             "groupId": "208477",
             "interfaceNumber": null,
             "meterSetting": 0.5
@@ -128,7 +128,7 @@
                     2772403.18713724
                 ]
             },
-            "condition": 0,
+            "condition": 1,
             "groupId": "208477",
             "interfaceNumber": null,
             "meterSetting": 0.5
@@ -166,7 +166,7 @@
                     2775258.32060329
                 ]
             },
-            "condition": 0,
+            "condition": 1,
             "groupId": "208477",
             "interfaceNumber": null,
             "meterSetting": 0.5
@@ -242,7 +242,7 @@
                     2767662.41614078
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "208477",
             "interfaceNumber": null,
             "meterSetting": 0.5
@@ -280,7 +280,7 @@
                     2768338.66076278
                 ]
             },
-            "condition": 0,
+            "condition": 1,
             "groupId": "208477",
             "interfaceNumber": null,
             "meterSetting": 0.5
@@ -299,7 +299,7 @@
                     2769159.466386798
                 ]
             },
-            "condition": null,
+            "condition": 1,
             "groupId": "208477",
             "interfaceNumber": null,
             "meterSetting": 0.5
@@ -812,7 +812,7 @@
                     2777306.276497888
                 ]
             },
-            "condition": 0,
+            "condition": 1,
             "groupId": "208477",
             "interfaceNumber": null,
             "meterSetting": 0.5
@@ -831,7 +831,7 @@
                     2774724.104928904
                 ]
             },
-            "condition": 0,
+            "condition": 1,
             "groupId": "208477",
             "interfaceNumber": null,
             "meterSetting": 0.5
@@ -850,7 +850,7 @@
                     2774247.3060820303
                 ]
             },
-            "condition": 0,
+            "condition": 1,
             "groupId": "208477",
             "interfaceNumber": null,
             "meterSetting": 0.5
@@ -888,7 +888,7 @@
                     2768708.4266630495
                 ]
             },
-            "condition": 0,
+            "condition": 1,
             "groupId": "208477",
             "interfaceNumber": null,
             "meterSetting": 0.5
@@ -907,7 +907,7 @@
                     2768128.760833516
                 ]
             },
-            "condition": 0,
+            "condition": 1,
             "groupId": "208477",
             "interfaceNumber": null,
             "meterSetting": 0.5
@@ -945,7 +945,7 @@
                     2766659.139531876
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "208477",
             "interfaceNumber": null,
             "meterSetting": 0.5
@@ -1059,7 +1059,7 @@
                     2768242.250534111
                 ]
             },
-            "condition": 0,
+            "condition": 1,
             "groupId": "208477",
             "interfaceNumber": null,
             "meterSetting": 0.5
@@ -1078,7 +1078,7 @@
                     2772631.3469004775
                 ]
             },
-            "condition": 0,
+            "condition": 1,
             "groupId": "208477",
             "interfaceNumber": null,
             "meterSetting": 0.5
@@ -1116,7 +1116,7 @@
                     2771234.015107601
                 ]
             },
-            "condition": 0,
+            "condition": 1,
             "groupId": "208477",
             "interfaceNumber": null,
             "meterSetting": 0.5
@@ -1135,7 +1135,7 @@
                     2770945.5847586812
                 ]
             },
-            "condition": 0,
+            "condition": 1,
             "groupId": "208477",
             "interfaceNumber": null,
             "meterSetting": 0.5
@@ -1914,7 +1914,7 @@
                     2768455.211527762
                 ]
             },
-            "condition": 0,
+            "condition": 1,
             "groupId": "208477",
             "interfaceNumber": null,
             "meterSetting": 0.5
@@ -1952,7 +1952,7 @@
                     2771246.781765655
                 ]
             },
-            "condition": 0,
+            "condition": 1,
             "groupId": "208477",
             "interfaceNumber": null,
             "meterSetting": 0.5
@@ -1990,7 +1990,7 @@
                     2768815.2759008296
                 ]
             },
-            "condition": 0,
+            "condition": 1,
             "groupId": "208477",
             "interfaceNumber": "",
             "meterSetting": 0.5
@@ -2028,7 +2028,7 @@
                     2768832.220359452
                 ]
             },
-            "condition": 0,
+            "condition": 1,
             "groupId": "208477",
             "interfaceNumber": "",
             "meterSetting": 0.5
@@ -2047,7 +2047,7 @@
                     2768730.702431261
                 ]
             },
-            "condition": 0,
+            "condition": 1,
             "groupId": "208477",
             "interfaceNumber": "",
             "meterSetting": 0.5
@@ -2066,7 +2066,7 @@
                     2767665.9531384665
                 ]
             },
-            "condition": 0,
+            "condition": 1,
             "groupId": "208477",
             "interfaceNumber": "",
             "meterSetting": 0.5
@@ -2085,7 +2085,7 @@
                     2767540.255432148
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "208477",
             "interfaceNumber": "",
             "meterSetting": 0.5
@@ -2123,7 +2123,7 @@
                     2777546.943042442
                 ]
             },
-            "condition": 0,
+            "condition": 1,
             "groupId": "208477",
             "interfaceNumber": "",
             "meterSetting": 0.5
@@ -2140,6 +2140,44 @@
                 "coordinates": [
                     13441857.456355391,
                     2775307.6187247974
+                ]
+            },
+            "condition": 1,
+            "groupId": "208477",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 4489,
+            "name": "松勇公園",
+            "division": 246,
+            "contact": "賴股長",
+            "phone": "04-22210169",
+            "address": "北屯區松竹北路32號旁松勇公園",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13436404.490006428,
+                    2776010.1350468574
+                ]
+            },
+            "condition": 0,
+            "groupId": "208477",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5084,
+            "name": "敦富二街與南興路交叉口",
+            "division": 246,
+            "contact": "賴股長",
+            "phone": "04-22542191",
+            "address": "敦富二街與南興路交叉口",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13436772.044622911,
+                    2775989.8314612187
                 ]
             },
             "condition": 0,
@@ -2390,6 +2428,44 @@
                 ]
             },
             "condition": 1,
+            "groupId": "208477",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5491,
+            "name": "東山路一段138巷8弄1號對面公園小綠地",
+            "division": 246,
+            "contact": "林股長",
+            "phone": "04-22542191",
+            "address": "東山路一段138巷8弄1號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13436571.397423662,
+                    2774025.75813286
+                ]
+            },
+            "condition": 0,
+            "groupId": "208477",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5492,
+            "name": "三光北一街106號對面人行道",
+            "division": 246,
+            "contact": "林股長",
+            "phone": "04-22542191",
+            "address": "三光北一街106號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13436071.272336252,
+                    2773914.3869939917
+                ]
+            },
+            "condition": 0,
             "groupId": "208477",
             "interfaceNumber": "",
             "meterSetting": 0.5
