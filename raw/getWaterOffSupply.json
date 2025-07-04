@@ -109,7 +109,7 @@
                     2768543.27528512
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "208477",
             "interfaceNumber": null,
             "meterSetting": 0.5
@@ -128,7 +128,7 @@
                     2772403.18713724
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "208477",
             "interfaceNumber": null,
             "meterSetting": 0.5
@@ -147,7 +147,7 @@
                     2773716.978843273
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "208477",
             "interfaceNumber": null,
             "meterSetting": 0.5
@@ -166,7 +166,7 @@
                     2775258.32060329
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "208477",
             "interfaceNumber": null,
             "meterSetting": 0.5
@@ -185,7 +185,7 @@
                     2774631.857572326
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "208477",
             "interfaceNumber": null,
             "meterSetting": 0.5
@@ -204,7 +204,7 @@
                     2770169.27119016
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "208477",
             "interfaceNumber": null,
             "meterSetting": 0.5
@@ -261,7 +261,7 @@
                     2767569.1128706057
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "208477",
             "interfaceNumber": null,
             "meterSetting": 0.5
@@ -280,7 +280,7 @@
                     2768338.66076278
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "208477",
             "interfaceNumber": null,
             "meterSetting": 0.5
@@ -299,7 +299,7 @@
                     2769159.466386798
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "208477",
             "interfaceNumber": null,
             "meterSetting": 0.5
@@ -812,7 +812,7 @@
                     2777306.276497888
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "208477",
             "interfaceNumber": null,
             "meterSetting": 0.5
@@ -831,7 +831,7 @@
                     2774724.104928904
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "208477",
             "interfaceNumber": null,
             "meterSetting": 0.5
@@ -850,7 +850,7 @@
                     2774247.3060820303
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "208477",
             "interfaceNumber": null,
             "meterSetting": 0.5
@@ -888,7 +888,7 @@
                     2768708.4266630495
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "208477",
             "interfaceNumber": null,
             "meterSetting": 0.5
@@ -926,7 +926,7 @@
                     2767234.3233740292
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "208477",
             "interfaceNumber": null,
             "meterSetting": 0.5
@@ -964,26 +964,7 @@
                     2769656.00848851
                 ]
             },
-            "condition": 1,
-            "groupId": "208477",
-            "interfaceNumber": null,
-            "meterSetting": 0.5
-        },
-        {
-            "id": 2675,
-            "name": "南區忠孝路111號對面",
-            "division": 20,
-            "contact": "林婉琪、呂股長、劉股長",
-            "phone": "04-22210169",
-            "address": "南區忠孝路111號對面",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    13433920.883751445,
-                    2769040.332112245
-                ]
-            },
-            "condition": 1,
+            "condition": 0,
             "groupId": "208477",
             "interfaceNumber": null,
             "meterSetting": 0.5
@@ -1078,7 +1059,7 @@
                     2772631.3469004775
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "208477",
             "interfaceNumber": null,
             "meterSetting": 0.5
@@ -1154,7 +1135,7 @@
                     2770577.784042869
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "208477",
             "interfaceNumber": null,
             "meterSetting": 0.5
@@ -1173,7 +1154,7 @@
                     2769210.7220247
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "208477",
             "interfaceNumber": null,
             "meterSetting": 0.5
@@ -1914,7 +1895,7 @@
                     2768455.211527762
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "208477",
             "interfaceNumber": null,
             "meterSetting": 0.5
@@ -1971,7 +1952,7 @@
                     2769883.686543
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "208477",
             "interfaceNumber": null,
             "meterSetting": 0.5
@@ -1990,7 +1971,7 @@
                     2768815.2759008296
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "208477",
             "interfaceNumber": "",
             "meterSetting": 0.5
@@ -2009,7 +1990,7 @@
                     2775122.141454881
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "208477",
             "interfaceNumber": "",
             "meterSetting": 0
@@ -2028,7 +2009,7 @@
                     2768832.220359452
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "208477",
             "interfaceNumber": "",
             "meterSetting": 0.5
@@ -2045,25 +2026,6 @@
                 "coordinates": [
                     13433096.498458102,
                     2768730.702431261
-                ]
-            },
-            "condition": 1,
-            "groupId": "208477",
-            "interfaceNumber": "",
-            "meterSetting": 0.5
-        },
-        {
-            "id": 3643,
-            "name": "興大路301巷40弄巷口",
-            "division": 246,
-            "contact": "賴靜瑩",
-            "phone": "04-22210169",
-            "address": "南區興大路301巷40號",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    13433211.60546395,
-                    2767665.9531384665
                 ]
             },
             "condition": 1,
@@ -2104,7 +2066,7 @@
                     2768947.4967467594
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "208477",
             "interfaceNumber": "",
             "meterSetting": 0.5
@@ -2123,7 +2085,7 @@
                     2777546.943042442
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "208477",
             "interfaceNumber": "",
             "meterSetting": 0.5
@@ -2161,7 +2123,7 @@
                     2776010.1350468574
                 ]
             },
-            "condition": 0,
+            "condition": 1,
             "groupId": "208477",
             "interfaceNumber": "",
             "meterSetting": 0.5
@@ -2180,7 +2142,7 @@
                     2775989.8314612187
                 ]
             },
-            "condition": 0,
+            "condition": 1,
             "groupId": "208477",
             "interfaceNumber": "",
             "meterSetting": 0.5
@@ -2427,7 +2389,7 @@
                     2773356.5572441616
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "208477",
             "interfaceNumber": "",
             "meterSetting": 0.5
@@ -2446,7 +2408,7 @@
                     2774025.75813286
                 ]
             },
-            "condition": 0,
+            "condition": 1,
             "groupId": "208477",
             "interfaceNumber": "",
             "meterSetting": 0.5
@@ -2465,7 +2427,45 @@
                     2773914.3869939917
                 ]
             },
-            "condition": 0,
+            "condition": 1,
+            "groupId": "208477",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5493,
+            "name": "南區忠孝路與濟世街口",
+            "division": 246,
+            "contact": "林股長",
+            "phone": "04-22210169",
+            "address": "南區忠孝路與濟世街口",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13433978.151477551,
+                    2769080.3285956425
+                ]
+            },
+            "condition": 1,
+            "groupId": "208477",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5494,
+            "name": "南區興大路301巷巷口",
+            "division": 246,
+            "contact": "林股長",
+            "phone": "04-22542191",
+            "address": "南區興大路301巷巷口",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13433175.921307808,
+                    2767673.7216495047
+                ]
+            },
+            "condition": 1,
             "groupId": "208477",
             "interfaceNumber": "",
             "meterSetting": 0.5
