@@ -109,7 +109,7 @@
                     24.124146999999986
                 ]
             },
-            "condition": 0,
+            "condition": 1,
             "groupId": "208477",
             "interfaceNumber": null,
             "meterSetting": 0.5
@@ -204,7 +204,7 @@
                     24.137477166656165
                 ]
             },
-            "condition": 0,
+            "condition": 1,
             "groupId": "208477",
             "interfaceNumber": null,
             "meterSetting": 0.5
@@ -261,14 +261,14 @@
                     24.116160000000022
                 ]
             },
-            "condition": 0,
+            "condition": 1,
             "groupId": "208477",
             "interfaceNumber": null,
             "meterSetting": 0.5
         },
         {
             "id": 1852,
-            "name": "南門路與正義街口",
+            "name": "南區南門路與正義街口(佈告欄旁)",
             "division": 20,
             "contact": "賴靜瑩",
             "phone": "04-22210169#291",
@@ -280,7 +280,7 @@
                     24.12246944
                 ]
             },
-            "condition": 0,
+            "condition": 1,
             "groupId": "208477",
             "interfaceNumber": null,
             "meterSetting": 0.5
@@ -299,7 +299,7 @@
                     24.129198793718487
                 ]
             },
-            "condition": 0,
+            "condition": 1,
             "groupId": "208477",
             "interfaceNumber": null,
             "meterSetting": 0.5
@@ -964,7 +964,7 @@
                     24.133269509470967
                 ]
             },
-            "condition": 0,
+            "condition": 1,
             "groupId": "208477",
             "interfaceNumber": null,
             "meterSetting": 0.5
@@ -1933,7 +1933,7 @@
                     24.14630999999999
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "208477",
             "interfaceNumber": null,
             "meterSetting": 0.5
@@ -1952,14 +1952,14 @@
                     24.135136000000003
                 ]
             },
-            "condition": 0,
+            "condition": 1,
             "groupId": "208477",
             "interfaceNumber": null,
             "meterSetting": 0.5
         },
         {
             "id": 3635,
-            "name": "南區仁和路與正義街交叉口",
+            "name": "南區仁和路與正義街口(公佈欄旁)",
             "division": 246,
             "contact": "賴靜瑩",
             "phone": "04-22210169#241",
@@ -1971,7 +1971,7 @@
                     24.126377000000012
                 ]
             },
-            "condition": 0,
+            "condition": 1,
             "groupId": "208477",
             "interfaceNumber": "",
             "meterSetting": 0.5
@@ -2066,7 +2066,7 @@
                     24.127461
                 ]
             },
-            "condition": 0,
+            "condition": 1,
             "groupId": "208477",
             "interfaceNumber": "",
             "meterSetting": 0.5
