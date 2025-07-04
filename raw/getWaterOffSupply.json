@@ -128,7 +128,7 @@
                     2772403.18713724
                 ]
             },
-            "condition": 0,
+            "condition": 1,
             "groupId": "208477",
             "interfaceNumber": null,
             "meterSetting": 0.5
@@ -204,7 +204,7 @@
                     2770169.27119016
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "208477",
             "interfaceNumber": null,
             "meterSetting": 0.5
@@ -223,7 +223,7 @@
                     2767532.7674339353
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "208477",
             "interfaceNumber": null,
             "meterSetting": 0.5
@@ -261,7 +261,7 @@
                     2767569.1128706057
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "208477",
             "interfaceNumber": null,
             "meterSetting": 0.5
@@ -299,7 +299,7 @@
                     2769159.466386798
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "208477",
             "interfaceNumber": null,
             "meterSetting": 0.5
@@ -964,7 +964,7 @@
                     2769656.00848851
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "208477",
             "interfaceNumber": null,
             "meterSetting": 0.5
@@ -983,7 +983,7 @@
                     2769754.751270344
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "208477",
             "interfaceNumber": null,
             "meterSetting": 0.5
@@ -1002,7 +1002,7 @@
                     2769681.684356185
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "208477",
             "interfaceNumber": null,
             "meterSetting": 0.5
@@ -1040,7 +1040,7 @@
                     2768242.250534111
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "208477",
             "interfaceNumber": null,
             "meterSetting": 0.5
@@ -1097,7 +1097,7 @@
                     2771234.015107601
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "208477",
             "interfaceNumber": null,
             "meterSetting": 0.5
@@ -1116,7 +1116,7 @@
                     2770945.5847586812
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "208477",
             "interfaceNumber": null,
             "meterSetting": 0.5
@@ -1173,7 +1173,7 @@
                     2768876.41051643
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "208477",
             "interfaceNumber": null,
             "meterSetting": 0.5
@@ -1895,7 +1895,7 @@
                     2768455.211527762
                 ]
             },
-            "condition": 0,
+            "condition": 1,
             "groupId": "208477",
             "interfaceNumber": null,
             "meterSetting": 0.5
@@ -1952,7 +1952,7 @@
                     2769883.686543
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "208477",
             "interfaceNumber": null,
             "meterSetting": 0.5
@@ -2009,7 +2009,7 @@
                     2768832.220359452
                 ]
             },
-            "condition": 0,
+            "condition": 1,
             "groupId": "208477",
             "interfaceNumber": "",
             "meterSetting": 0.5
@@ -2066,7 +2066,7 @@
                     2768947.4967467594
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "208477",
             "interfaceNumber": "",
             "meterSetting": 0.5
@@ -2104,7 +2104,7 @@
                     2775307.6187247974
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "208477",
             "interfaceNumber": "",
             "meterSetting": 0.5
@@ -2123,7 +2123,7 @@
                     2776010.1350468574
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "208477",
             "interfaceNumber": "",
             "meterSetting": 0.5
@@ -2142,7 +2142,7 @@
                     2775989.8314612187
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "208477",
             "interfaceNumber": "",
             "meterSetting": 0.5
@@ -2275,7 +2275,7 @@
                     2776890.122543403
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "208477",
             "interfaceNumber": "",
             "meterSetting": 0.5
@@ -2408,7 +2408,7 @@
                     2774025.75813286
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "208477",
             "interfaceNumber": "",
             "meterSetting": 0.5
@@ -2427,7 +2427,7 @@
                     2773914.3869939917
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "208477",
             "interfaceNumber": "",
             "meterSetting": 0.5
@@ -2446,7 +2446,7 @@
                     2769080.3285956425
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "208477",
             "interfaceNumber": "",
             "meterSetting": 0.5
@@ -2465,7 +2465,7 @@
                     2767673.7216495047
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "208477",
             "interfaceNumber": "",
             "meterSetting": 0.5
