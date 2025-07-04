@@ -850,7 +850,7 @@
                     24.170903415095367
                 ]
             },
-            "condition": 0,
+            "condition": 1,
             "groupId": "208477",
             "interfaceNumber": null,
             "meterSetting": 0.5
@@ -1990,7 +1990,7 @@
                     24.178072999999987
                 ]
             },
-            "condition": 0,
+            "condition": 1,
             "groupId": "208477",
             "interfaceNumber": "",
             "meterSetting": 0
@@ -2104,7 +2104,7 @@
                     24.17959299999998
                 ]
             },
-            "condition": 0,
+            "condition": 1,
             "groupId": "208477",
             "interfaceNumber": "",
             "meterSetting": 0.5
@@ -2275,7 +2275,7 @@
                     24.19256099999997
                 ]
             },
-            "condition": 0,
+            "condition": 1,
             "groupId": "208477",
             "interfaceNumber": "",
             "meterSetting": 0.5
