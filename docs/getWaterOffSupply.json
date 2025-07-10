@@ -1443,44 +1443,6 @@
             "groupId": "208455",
             "interfaceNumber": "",
             "meterSetting": 0
-        },
-        {
-            "id": 5502,
-            "name": "南投市千秋里活動中心",
-            "division": 23,
-            "contact": "謝慧貞",
-            "phone": "049-2222635",
-            "address": "南投市千秋路222號",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    120.70607700000001,
-                    23.893377999999988
-                ]
-            },
-            "condition": 0,
-            "groupId": "209950",
-            "interfaceNumber": "",
-            "meterSetting": 0.5
-        },
-        {
-            "id": 5503,
-            "name": "南投市千秋路高速公路下方",
-            "division": 23,
-            "contact": "謝慧貞",
-            "phone": "049-2222635",
-            "address": "南投市千秋路161巷口旁",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    120.71098458669438,
-                    23.893046355918138
-                ]
-            },
-            "condition": 0,
-            "groupId": "209950",
-            "interfaceNumber": "",
-            "meterSetting": 0.5
         }
     ]
 }
