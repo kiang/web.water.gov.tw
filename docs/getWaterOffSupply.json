@@ -1,6 +1,329 @@
 {
     "supply": [
         {
+            "id": 1460,
+            "name": "民生國小大門右側（359號對面）",
+            "division": 72,
+            "contact": "蔡秉諺",
+            "phone": "04-7245031#250",
+            "address": "彰化市民生里民生路338號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.54225799999993,
+                    24.084402999999995
+                ]
+            },
+            "condition": null,
+            "groupId": "210512",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 1461,
+            "name": "陽明公園南側出口",
+            "division": 72,
+            "contact": "蔡秉諺",
+            "phone": "04-7245031#250",
+            "address": "彰化市陽明里陽明街164號(對面)",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.549686,
+                    24.085537999999993
+                ]
+            },
+            "condition": null,
+            "groupId": "210512",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 1462,
+            "name": "中山國小（校門口）",
+            "division": 72,
+            "contact": "蔡秉諺",
+            "phone": "04-7245031#250",
+            "address": "彰化市中山路2段678號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.54611900000036,
+                    24.081841000000004
+                ]
+            },
+            "condition": null,
+            "groupId": "210512",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 1463,
+            "name": "全聯進德店",
+            "division": 72,
+            "contact": "蔡秉諺",
+            "phone": "04-7245031#250",
+            "address": "彰化市復興里進德路49巷35號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.55720777602784,
+                    24.08445568899221
+                ]
+            },
+            "condition": null,
+            "groupId": "210512",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 1464,
+            "name": "彰化女中(東側人行道)",
+            "division": 72,
+            "contact": "蔡秉諺",
+            "phone": "04-7245031#250",
+            "address": "彰化女中長興街42號對面",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.54485300000003,
+                    24.081368999999995
+                ]
+            },
+            "condition": null,
+            "groupId": "210512",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 1467,
+            "name": "五權里社區休閒公園",
+            "division": 72,
+            "contact": "蔡秉諺",
+            "phone": "04-7245031#250",
+            "address": "彰化市五權里自強南路22巷37號旁",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.53525836548407,
+                    24.088322013545316
+                ]
+            },
+            "condition": null,
+            "groupId": "210512",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 1468,
+            "name": "福德廟",
+            "division": 72,
+            "contact": "蔡秉諺",
+            "phone": "04-7245031#250",
+            "address": "彰化市中?里中山路3段410巷26號對面",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.56484500000039,
+                    24.086365999999998
+                ]
+            },
+            "condition": 0,
+            "groupId": "210512",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 1469,
+            "name": "彰泰國中",
+            "division": 72,
+            "contact": "蔡秉諺",
+            "phone": "04-7245031#250",
+            "address": "彰化市彰化縣彰化市自強路357號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.5479479999998,
+                    24.091267999999978
+                ]
+            },
+            "condition": null,
+            "groupId": "210512",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 1471,
+            "name": "復源碾米廠",
+            "division": 72,
+            "contact": "蔡秉諺",
+            "phone": "04-7245031#250",
+            "address": "和美鎮東興路158號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.53702299999996,
+                    24.113689999999988
+                ]
+            },
+            "condition": null,
+            "groupId": "210512",
+            "interfaceNumber": null,
+            "meterSetting": 1
+        },
+        {
+            "id": 1472,
+            "name": "彰新全聯社",
+            "division": 72,
+            "contact": "蔡秉諺",
+            "phone": "04-7245031#250",
+            "address": "彰化市彰新路一段72號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.53847100000024,
+                    24.090960000000035
+                ]
+            },
+            "condition": null,
+            "groupId": "210512",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 1473,
+            "name": "蘭大衛紀念教會",
+            "division": 72,
+            "contact": "蔡秉諺",
+            "phone": "04-7245031#250",
+            "address": "彰化市埔陽街60號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.54549199999968,
+                    24.06349500000003
+                ]
+            },
+            "condition": null,
+            "groupId": "210512",
+            "interfaceNumber": null,
+            "meterSetting": 1
+        },
+        {
+            "id": 1474,
+            "name": "英士路",
+            "division": 72,
+            "contact": "蔡秉諺",
+            "phone": "04-7245031#250",
+            "address": "彰化市英士路8巷與大埔路交叉口",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.54544400000022,
+                    24.05776499999997
+                ]
+            },
+            "condition": null,
+            "groupId": "210512",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 1475,
+            "name": "西安里社區活動中心",
+            "division": 72,
+            "contact": "蔡秉諺",
+            "phone": "04-7245031#250",
+            "address": "彰化市民族路369號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.53972000000023,
+                    24.07422499999998
+                ]
+            },
+            "condition": null,
+            "groupId": "210512",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 1476,
+            "name": "精誠路",
+            "division": 72,
+            "contact": "蔡秉諺",
+            "phone": "04-7245031#250",
+            "address": "彰化市精誠路181巷口",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.52952699999985,
+                    24.07582499999996
+                ]
+            },
+            "condition": null,
+            "groupId": "210512",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 1477,
+            "name": "萬安里",
+            "division": 72,
+            "contact": "蔡秉諺",
+            "phone": "04-7245031#250",
+            "address": "彰化市三福街96號對面",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.54695600000042,
+                    24.087854999999955
+                ]
+            },
+            "condition": null,
+            "groupId": "210512",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 1478,
+            "name": "後火車站",
+            "division": 72,
+            "contact": "蔡秉諺",
+            "phone": "04-7245031#250",
+            "address": "彰化市辭修路294號對面",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.5370509999996,
+                    24.08265700000001
+                ]
+            },
+            "condition": null,
+            "groupId": "210512",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 1479,
+            "name": "阿夷里泰和路2段182巷與泰和東街口",
+            "division": 72,
+            "contact": "蔡秉諺",
+            "phone": "04-7245031#250",
+            "address": "彰化市阿夷里泰和路2段182巷與泰和東街口",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.55475400000036,
+                    24.092901999999953
+                ]
+            },
+            "condition": null,
+            "groupId": "210512",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
             "id": 240,
             "name": "立新國小",
             "division": 26,
@@ -74,6 +397,348 @@
             "condition": 0,
             "groupId": "65070",
             "interfaceNumber": "04110A470404-2",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 1437,
+            "name": "自來水公司第十一區管理處(門口右側)",
+            "division": 72,
+            "contact": "蔡秉諺",
+            "phone": "04-7245031#250",
+            "address": "彰化市桃源里公園路2段1號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.55669600000017,
+                    24.07455799999996
+                ]
+            },
+            "condition": null,
+            "groupId": "210512",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 1438,
+            "name": "華陽市場對面",
+            "division": 72,
+            "contact": "蔡秉諺",
+            "phone": "04-7245031#250",
+            "address": "彰化市華陽里旭光路66號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.54645600000039,
+                    24.074731000000007
+                ]
+            },
+            "condition": null,
+            "groupId": "210512",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 1439,
+            "name": "彰興國中（大門右側）",
+            "division": 72,
+            "contact": "蔡秉諺",
+            "phone": "04-7245031#250",
+            "address": "彰化市延和里埔西街107號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.53764999999973,
+                    24.05927400000001
+                ]
+            },
+            "condition": null,
+            "groupId": "210512",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 1441,
+            "name": "延平公園（秀傳腫瘤大門對面）",
+            "division": 72,
+            "contact": "蔡秉諺",
+            "phone": "04-7245031#250",
+            "address": "彰化市延平里文心街31號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.5414450175158,
+                    24.066433909210776
+                ]
+            },
+            "condition": null,
+            "groupId": "210512",
+            "interfaceNumber": null,
+            "meterSetting": 1
+        },
+        {
+            "id": 1442,
+            "name": "建寶里",
+            "division": 72,
+            "contact": "蔡秉諺",
+            "phone": "04-7245031#250",
+            "address": "彰化市建寶里介壽南路14巷34號旁",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.54681999999995,
+                    24.06789499999999
+                ]
+            },
+            "condition": null,
+            "groupId": "210512",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 1443,
+            "name": "泰和派出所",
+            "division": 72,
+            "contact": "蔡秉諺",
+            "phone": "04-7245031#250",
+            "address": "彰化市阿夷里泰和路2段399號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.5560340000002,
+                    24.09569399999995
+                ]
+            },
+            "condition": null,
+            "groupId": "210512",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 1444,
+            "name": "彰化高工（康樂公司對面）",
+            "division": 72,
+            "contact": "蔡秉諺",
+            "phone": "04-7245031#250",
+            "address": "彰化市和調里實踐路9號對面",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.5537190000001,
+                    24.083576000000008
+                ]
+            },
+            "condition": null,
+            "groupId": "210512",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 1445,
+            "name": "金馬停車場門口",
+            "division": 72,
+            "contact": "蔡秉諺",
+            "phone": "04-7245031#250",
+            "address": "彰化市下廍里茄苳路1段與永康街交叉口",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.54595600000036,
+                    24.093129999999974
+                ]
+            },
+            "condition": null,
+            "groupId": "210512",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 1446,
+            "name": "泰和國小",
+            "division": 72,
+            "contact": "蔡秉諺",
+            "phone": "04-7245031#250",
+            "address": "彰化市泰和路二段145巷1號 ?",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.55118599999992,
+                    24.093348000000024
+                ]
+            },
+            "condition": null,
+            "groupId": "210512",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 1450,
+            "name": "彰化市第二停車場（旭光西路）",
+            "division": 72,
+            "contact": "蔡秉諺",
+            "phone": "04-7245031#250",
+            "address": "彰化市成功里旭光西路75號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.54081600000016,
+                    24.071187999999967
+                ]
+            },
+            "condition": null,
+            "groupId": "210512",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 1451,
+            "name": "忠孝國小（大門口）",
+            "division": 72,
+            "contact": "蔡秉諺",
+            "phone": "04-7245031#250",
+            "address": "彰化市西勢里忠誠路61號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.53263600000005,
+                    24.084279000000002
+                ]
+            },
+            "condition": null,
+            "groupId": "210512",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 1453,
+            "name": "精誠中學（舊校門口）",
+            "division": 72,
+            "contact": "蔡秉諺",
+            "phone": "04-7245031#250",
+            "address": "彰化市平和里中華西路250巷校門口",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.52691200000007,
+                    24.07166099999997
+                ]
+            },
+            "condition": null,
+            "groupId": "210512",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 1454,
+            "name": "南郭國小（南校街大門口）",
+            "division": 72,
+            "contact": "蔡秉諺",
+            "phone": "04-7245031#250",
+            "address": "彰化市光南里南校街19號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.54728100000032,
+                    24.07171899999998
+                ]
+            },
+            "condition": null,
+            "groupId": "210512",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 1455,
+            "name": "南興國小（電力公司門口斜對面）",
+            "division": 72,
+            "contact": "蔡秉諺",
+            "phone": "04-7245031#250",
+            "address": "彰化市南興里中山路1段213號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.53353000000033,
+                    24.058885999999962
+                ]
+            },
+            "condition": null,
+            "groupId": "210512",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 1456,
+            "name": "平和國小（尚義門旁）",
+            "division": 72,
+            "contact": "蔡秉諺",
+            "phone": "04-7245031#250",
+            "address": "彰化市彰安里中正路2段440之2號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.53573999999986,
+                    24.071222999999993
+                ]
+            },
+            "condition": null,
+            "groupId": "210512",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 1457,
+            "name": "張文宗診所前",
+            "division": 72,
+            "contact": "蔡秉諺",
+            "phone": "04-7245031#250",
+            "address": "彰化市光復里長安街25號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.54129200000003,
+                    24.081391999999987
+                ]
+            },
+            "condition": null,
+            "groupId": "210512",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 1458,
+            "name": "信義國小",
+            "division": 72,
+            "contact": "蔡秉諺",
+            "phone": "04-7245031#250",
+            "address": "彰化市向陽里崙平南路377號對面",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.52816808223723,
+                    24.06266231174354
+                ]
+            },
+            "condition": null,
+            "groupId": "210512",
+            "interfaceNumber": null,
+            "meterSetting": 1
+        },
+        {
+            "id": 1459,
+            "name": "彰化縣政府（停車場旁）",
+            "division": 72,
+            "contact": "蔡秉諺",
+            "phone": "04-7245031#250",
+            "address": "彰化市東興里中山路2段416號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.54524900000028,
+                    24.074947999999978
+                ]
+            },
+            "condition": null,
+            "groupId": "210512",
+            "interfaceNumber": null,
             "meterSetting": 0.5
         },
         {
@@ -1234,6 +1899,120 @@
             "groupId": "65070",
             "interfaceNumber": null,
             "meterSetting": 0.5
+        },
+        {
+            "id": 3622,
+            "name": "延和公園(埔西街全家對面)",
+            "division": 72,
+            "contact": "蔡秉諺",
+            "phone": "04-7245031#250",
+            "address": "彰化縣彰化市彰化市埔西街220號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.54013609886171,
+                    24.060158056726813
+                ]
+            },
+            "condition": 0,
+            "groupId": "210512",
+            "interfaceNumber": "",
+            "meterSetting": 1
+        },
+        {
+            "id": 3623,
+            "name": "蘭大衛紀念教會",
+            "division": 72,
+            "contact": "蔡秉諺",
+            "phone": "04-7245031#250",
+            "address": "彰化縣彰化市埔陽街60號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.54545700000001,
+                    24.063337000000008
+                ]
+            },
+            "condition": 0,
+            "groupId": "210512",
+            "interfaceNumber": "",
+            "meterSetting": 0
+        },
+        {
+            "id": 3624,
+            "name": "市立殯儀館地第二停車場",
+            "division": 72,
+            "contact": "蔡秉諺",
+            "phone": "04-7245031#250",
+            "address": "彰化縣彰化市大埔路132號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.54543000000001,
+                    24.056651000000006
+                ]
+            },
+            "condition": 0,
+            "groupId": "210512",
+            "interfaceNumber": "",
+            "meterSetting": 0
+        },
+        {
+            "id": 3626,
+            "name": "中寮里里長家前",
+            "division": 72,
+            "contact": "蔡秉諺",
+            "phone": "04-7245031#250",
+            "address": "彰化縣和美鎮東興路4號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.53989300000002,
+                    24.113807000000005
+                ]
+            },
+            "condition": 0,
+            "groupId": "210512",
+            "interfaceNumber": "",
+            "meterSetting": 1
+        },
+        {
+            "id": 3628,
+            "name": "中圍里復源碾米工廠",
+            "division": 72,
+            "contact": "蔡秉諺",
+            "phone": "04-7245031#250",
+            "address": "彰化縣和美鎮東興路158號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.53671800000001,
+                    24.11365599999999
+                ]
+            },
+            "condition": 0,
+            "groupId": "210512",
+            "interfaceNumber": "",
+            "meterSetting": 1
+        },
+        {
+            "id": 3629,
+            "name": "中圍里福意堂",
+            "division": 72,
+            "contact": "蔡秉諺",
+            "phone": "04-7245031#250",
+            "address": "彰化縣和美鎮竹社路352號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.529877,
+                    24.116492999999977
+                ]
+            },
+            "condition": 0,
+            "groupId": "210512",
+            "interfaceNumber": "",
+            "meterSetting": 1
         },
         {
             "id": 5473,
