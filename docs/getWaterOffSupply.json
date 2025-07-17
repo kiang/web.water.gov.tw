@@ -14,7 +14,7 @@
                     24.137804999999997
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "211169",
             "interfaceNumber": null,
             "meterSetting": 0.5
@@ -90,45 +90,45 @@
                     24.155522749140996
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "211169",
             "interfaceNumber": null,
             "meterSetting": 0.5
         },
         {
-            "id": 274,
-            "name": "民龍里活動中心",
+            "id": 272,
+            "name": "大忠公園",
             "division": 20,
-            "contact": "林股長",
+            "contact": "賴股長",
             "phone": "04-22542191",
-            "address": "臺中市西屯路一段169號",
+            "address": "臺中市西區精誠二十八街與精誠三十街交叉口",
             "location": {
                 "type": "Point",
                 "coordinates": [
-                    120.67021799999986,
-                    24.15354500000001
+                    120.65617650747299,
+                    24.143662342675814
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "211169",
             "interfaceNumber": null,
             "meterSetting": 0.5
         },
         {
-            "id": 276,
-            "name": "中美公園",
-            "division": 246,
-            "contact": "林股長",
+            "id": 170,
+            "name": "田心公園",
+            "division": 20,
+            "contact": "賴股長",
             "phone": "04-22542191",
-            "address": "臺中市中美街與長春街交叉口(中美公園)",
+            "address": "臺中市南屯區南屯區惠德街與惠弘街交叉口(田心公園)",
             "location": {
                 "type": "Point",
                 "coordinates": [
-                    120.66062736550518,
-                    24.154211452449804
+                    120.6428807973862,
+                    24.139973791330714
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "211169",
             "interfaceNumber": null,
             "meterSetting": 0.5
@@ -153,39 +153,58 @@
             "meterSetting": 0.5
         },
         {
-            "id": 272,
-            "name": "大忠公園",
+            "id": 368,
+            "name": "柳陽東街與北平路交叉口",
             "division": 20,
-            "contact": "賴股長",
+            "contact": "林股長",
             "phone": "04-22542191",
-            "address": "臺中市西區精誠二十八街與精誠三十街交叉口",
+            "address": "臺中市北屯區柳陽東街與北平路四段交叉口",
             "location": {
                 "type": "Point",
                 "coordinates": [
-                    120.65617650747299,
-                    24.143662342675814
+                    120.69039881229402,
+                    24.170316120582207
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "211169",
             "interfaceNumber": null,
             "meterSetting": 0.5
         },
         {
-            "id": 170,
-            "name": "田心公園",
+            "id": 274,
+            "name": "民龍里活動中心",
             "division": 20,
-            "contact": "賴股長",
+            "contact": "林股長",
             "phone": "04-22542191",
-            "address": "臺中市南屯區南屯區惠德街與惠弘街交叉口(田心公園)",
+            "address": "臺中市西屯路一段169號",
             "location": {
                 "type": "Point",
                 "coordinates": [
-                    120.6428807973862,
-                    24.139973791330714
+                    120.67021799999986,
+                    24.15354500000001
                 ]
             },
-            "condition": 1,
+            "condition": 0,
+            "groupId": "211169",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 276,
+            "name": "中美公園",
+            "division": 246,
+            "contact": "林股長",
+            "phone": "04-22542191",
+            "address": "臺中市中美街與長春街交叉口(中美公園)",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.66062736550518,
+                    24.154211452449804
+                ]
+            },
+            "condition": 0,
             "groupId": "211169",
             "interfaceNumber": null,
             "meterSetting": 0.5
@@ -205,25 +224,6 @@
                 ]
             },
             "condition": 0,
-            "groupId": "211169",
-            "interfaceNumber": null,
-            "meterSetting": 0.5
-        },
-        {
-            "id": 368,
-            "name": "柳陽東街與北平路交叉口",
-            "division": 20,
-            "contact": "林股長",
-            "phone": "04-22542191",
-            "address": "臺中市北屯區柳陽東街與北平路四段交叉口",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    120.69039881229402,
-                    24.170316120582207
-                ]
-            },
-            "condition": 1,
             "groupId": "211169",
             "interfaceNumber": null,
             "meterSetting": 0.5
@@ -286,25 +286,6 @@
             "meterSetting": 0.5
         },
         {
-            "id": 361,
-            "name": "自治街與大明街交叉口",
-            "division": 20,
-            "contact": "林股長",
-            "phone": "04-22542191",
-            "address": "臺中市西區自治街與大明街交叉口",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    120.6720939999996,
-                    24.137674999999966
-                ]
-            },
-            "condition": 1,
-            "groupId": "211169",
-            "interfaceNumber": null,
-            "meterSetting": 0.5
-        },
-        {
             "id": 362,
             "name": "忠明南路175巷(三角公園)",
             "division": 20,
@@ -318,7 +299,26 @@
                     24.14962199999998
                 ]
             },
-            "condition": 1,
+            "condition": 0,
+            "groupId": "211169",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 361,
+            "name": "自治街與大明街交叉口",
+            "division": 20,
+            "contact": "林股長",
+            "phone": "04-22542191",
+            "address": "臺中市西區自治街與大明街交叉口",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.6720939999996,
+                    24.137674999999966
+                ]
+            },
+            "condition": 0,
             "groupId": "211169",
             "interfaceNumber": null,
             "meterSetting": 0.5
@@ -413,7 +413,7 @@
                     24.153333329999963
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "211169",
             "interfaceNumber": null,
             "meterSetting": 0.5
@@ -432,7 +432,7 @@
                     24.115861999999986
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "211169",
             "interfaceNumber": null,
             "meterSetting": 0.5
@@ -470,7 +470,7 @@
                     24.180196991053556
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "211169",
             "interfaceNumber": null,
             "meterSetting": 0.5
@@ -508,7 +508,7 @@
                     24.189467000000015
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "211169",
             "interfaceNumber": null,
             "meterSetting": 0.5
@@ -527,7 +527,7 @@
                     24.182406000000007
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "211169",
             "interfaceNumber": null,
             "meterSetting": 0.5
@@ -546,7 +546,7 @@
                     24.180187
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "211169",
             "interfaceNumber": null,
             "meterSetting": 0.5
@@ -603,7 +603,7 @@
                     24.165320999999995
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "211169",
             "interfaceNumber": null,
             "meterSetting": 0.5
@@ -660,7 +660,7 @@
                     24.144278999999973
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "211169",
             "interfaceNumber": null,
             "meterSetting": 0.5
@@ -698,7 +698,7 @@
                     24.17186
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "211169",
             "interfaceNumber": null,
             "meterSetting": 0.5
@@ -736,7 +736,7 @@
                     24.145523999999984
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "211169",
             "interfaceNumber": null,
             "meterSetting": 0.5
@@ -755,7 +755,7 @@
                     24.13181599999998
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "211169",
             "interfaceNumber": null,
             "meterSetting": 0.5
@@ -812,7 +812,7 @@
                     24.137843999999998
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "211169",
             "interfaceNumber": null,
             "meterSetting": 0.5
@@ -869,7 +869,7 @@
                     24.183901508555227
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "211169",
             "interfaceNumber": "",
             "meterSetting": 0.5
@@ -888,7 +888,7 @@
                     24.185350009265292
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "211169",
             "interfaceNumber": "",
             "meterSetting": 0.5
@@ -907,7 +907,7 @@
                     24.184812999999984
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "211169",
             "interfaceNumber": "",
             "meterSetting": 0.5
@@ -926,7 +926,7 @@
                     24.17354865397365
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "211169",
             "interfaceNumber": "",
             "meterSetting": 0.5
@@ -964,7 +964,7 @@
                     24.145355999999996
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "211169",
             "interfaceNumber": "",
             "meterSetting": 0.5
@@ -1249,7 +1249,7 @@
                     24.135944999999996
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "211169",
             "interfaceNumber": "",
             "meterSetting": 0.5
@@ -1289,6 +1289,25 @@
             },
             "condition": 0,
             "groupId": "211324",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5514,
+            "name": "潭子頭家公園",
+            "division": 5,
+            "contact": "張股長",
+            "phone": "04-25269895分機18",
+            "address": "潭子區頭家里和平路11號對面",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.697923,
+                    24.195186999999997
+                ]
+            },
+            "condition": 0,
+            "groupId": "211380",
             "interfaceNumber": "",
             "meterSetting": 0.5
         }
