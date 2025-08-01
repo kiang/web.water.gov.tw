@@ -55,7 +55,7 @@
     },
     {
         "no": "202508010062",
-        "endDate": "2025-07-31T16:00:00.000+0000",
+        "endDate": "2025-08-01T16:00:00.000+0000",
         "actualEndTime": null,
         "waterOffArea": {
             "type": "MultiPolygon",
@@ -227,9 +227,9 @@
             ]
         },
         "startTime": "17:11:00",
-        "lastUpdatedTime": "2025-08-01T12:50:07.776+0000",
-        "endTime": "23:00:00",
-        "category": 2,
+        "lastUpdatedTime": "2025-08-01T14:53:31.002+0000",
+        "endTime": "00:00:00",
+        "category": 1,
         "type": 1,
         "startDate": "2025-07-31T16:00:00.000+0000",
         "pressureDownArea": null,
@@ -6195,7 +6195,7 @@
         "startTime": "17:30:00",
         "lastUpdatedTime": "2025-08-01T12:22:07.682+0000",
         "endTime": "00:00:00",
-        "category": 2,
+        "category": 1,
         "type": 1,
         "startDate": "2025-07-31T16:00:00.000+0000",
         "pressureDownArea": null,
@@ -11793,7 +11793,7 @@
         "startTime": "18:13:00",
         "lastUpdatedTime": "2025-08-01T10:14:56.779+0000",
         "endTime": "23:00:00",
-        "category": 2,
+        "category": 1,
         "type": 1,
         "startDate": "2025-07-31T16:00:00.000+0000",
         "pressureDownArea": {
@@ -24397,7 +24397,7 @@
         "startTime": "18:30:00",
         "lastUpdatedTime": "2025-08-01T10:28:04.130+0000",
         "endTime": "00:00:00",
-        "category": 2,
+        "category": 1,
         "type": 1,
         "startDate": "2025-07-31T16:00:00.000+0000",
         "pressureDownArea": null,
@@ -24911,7 +24911,7 @@
         "startTime": "19:15:00",
         "lastUpdatedTime": "2025-08-01T11:16:19.017+0000",
         "endTime": "00:00:00",
-        "category": 2,
+        "category": 1,
         "type": 1,
         "startDate": "2025-07-31T16:00:00.000+0000",
         "pressureDownArea": {
@@ -25453,7 +25453,7 @@
         "startTime": "19:23:00",
         "lastUpdatedTime": "2025-08-01T11:39:23.699+0000",
         "endTime": "00:00:00",
-        "category": 2,
+        "category": 1,
         "type": 1,
         "startDate": "2025-07-31T16:00:00.000+0000",
         "pressureDownArea": {
