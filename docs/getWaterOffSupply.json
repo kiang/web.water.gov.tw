@@ -96,6 +96,25 @@
             "meterSetting": 0.5
         },
         {
+            "id": 1465,
+            "name": "高學忠門前(彰南路1段99號)",
+            "division": 72,
+            "contact": "蔡秉諺",
+            "phone": "04-7245031#250",
+            "address": "彰化市中庄里彰南路1段99號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.567704,
+                    24.087890999999996
+                ]
+            },
+            "condition": null,
+            "groupId": "210836",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
             "id": 1467,
             "name": "五權里社區休閒公園",
             "division": 72,
@@ -495,17 +514,36 @@
             "meterSetting": 0.5
         },
         {
-            "id": 1450,
-            "name": "彰化市第二停車場（旭光西路）",
+            "id": 1447,
+            "name": "玉皇宮（福山里）",
             "division": 72,
             "contact": "蔡秉諺",
             "phone": "04-7245031#250",
-            "address": "彰化市成功里旭光西路75號",
+            "address": "彰化市福山里福山街168號",
             "location": {
                 "type": "Point",
                 "coordinates": [
-                    120.54081600000016,
-                    24.071187999999967
+                    120.57003,
+                    24.082415999999988
+                ]
+            },
+            "condition": null,
+            "groupId": "210836",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 1450,
+            "name": "成功社區活動中心",
+            "division": 72,
+            "contact": "蔡秉諺",
+            "phone": "04-7245031#250",
+            "address": "彰化市成功里旭光西路39號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.541403,
+                    24.070964999999976
                 ]
             },
             "condition": null,
@@ -525,6 +563,25 @@
                 "coordinates": [
                     120.53263600000005,
                     24.084279000000002
+                ]
+            },
+            "condition": null,
+            "groupId": "210836",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 1452,
+            "name": "東芳國小（大門右側）",
+            "division": 72,
+            "contact": "蔡秉諺",
+            "phone": "04-7245031#250",
+            "address": "彰化市東芳里彰馬路45號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.51638800000013,
+                    24.062571999999996
                 ]
             },
             "condition": null,
@@ -666,17 +723,36 @@
             "meterSetting": 0.5
         },
         {
-            "id": 3626,
-            "name": "中寮里里長家前",
+            "id": 3622,
+            "name": "延和公園(埔西街全家對面)",
             "division": 72,
             "contact": "蔡秉諺",
             "phone": "04-7245031#250",
-            "address": "彰化縣和美鎮東興路4號",
+            "address": "彰化縣彰化市彰化市埔西街220號",
             "location": {
                 "type": "Point",
                 "coordinates": [
-                    120.53989300000002,
-                    24.113807000000005
+                    120.54013609886171,
+                    24.060158056726813
+                ]
+            },
+            "condition": 0,
+            "groupId": "210836",
+            "interfaceNumber": "",
+            "meterSetting": 1
+        },
+        {
+            "id": 3626,
+            "name": "中寮里社區活動中心(池王宮)",
+            "division": 72,
+            "contact": "蔡秉諺",
+            "phone": "04-7245031#250",
+            "address": "彰化縣和美鎮東興路25號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.53936300000001,
+                    24.113703999999977
                 ]
             },
             "condition": 0,
@@ -854,6 +930,25 @@
             "groupId": "210836",
             "interfaceNumber": "",
             "meterSetting": 0.8
+        },
+        {
+            "id": 5522,
+            "name": "和美鎮犁盛里高香宮",
+            "division": 72,
+            "contact": "蔡秉諺",
+            "phone": "04-7254043#250",
+            "address": "彰化縣和美鎮東平路220號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.52800698947722,
+                    24.10379258810654
+                ]
+            },
+            "condition": 0,
+            "groupId": "210836",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
         }
     ]
 }
