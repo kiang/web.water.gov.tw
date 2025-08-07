@@ -949,6 +949,25 @@
             "groupId": "210836",
             "interfaceNumber": "",
             "meterSetting": 0.5
+        },
+        {
+            "id": 5523,
+            "name": "堡祥營造旁(三福街92號旁)",
+            "division": 72,
+            "contact": "蔡秉諺",
+            "phone": "04-7254043#250",
+            "address": "彰化市三福街與三民路403巷口",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.54682245149141,
+                    24.087836581392388
+                ]
+            },
+            "condition": 0,
+            "groupId": "210836",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
         }
     ]
 }
