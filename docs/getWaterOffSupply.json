@@ -1,6 +1,2153 @@
 {
     "supply": [
         {
+            "id": 1797,
+            "name": "長福路499號對面公園",
+            "division": 20,
+            "contact": "賴靜瑩",
+            "phone": "04-22542191",
+            "address": "臺中市東區長福路499號對面公園邊",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.70148329999988,
+                    24.14400833
+                ]
+            },
+            "condition": null,
+            "groupId": "208477",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 1798,
+            "name": "樂成宮",
+            "division": 20,
+            "contact": "林股長",
+            "phone": "04-22542191",
+            "address": "臺中市東區旱溪街48號(樂成宮前)",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.69779720000001,
+                    24.140322220000023
+                ]
+            },
+            "condition": null,
+            "groupId": "208477",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 1799,
+            "name": "三賢公園",
+            "division": 20,
+            "contact": "賴靜瑩",
+            "phone": "04-22210169#291",
+            "address": "臺中市東區三賢街與東英15街口(三賢公園前)",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.70797780000025,
+                    24.14636110999998
+                ]
+            },
+            "condition": 0,
+            "groupId": "208477",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 1868,
+            "name": "四育國中四育館",
+            "division": 20,
+            "contact": "林股長",
+            "phone": "04-22542191",
+            "address": "臺中市南區復興路二段152號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.665448,
+                    24.125500999999986
+                ]
+            },
+            "condition": null,
+            "groupId": "208477",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 240,
+            "name": "立新國小",
+            "division": 26,
+            "contact": "陳柏愷",
+            "phone": "04-24821831",
+            "address": "臺中市大里區立新一街與好來五街口(立新國小)",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.69956300000003,
+                    24.105927000000005
+                ]
+            },
+            "condition": 1,
+            "groupId": "65070",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 241,
+            "name": "健民活動中心",
+            "division": 26,
+            "contact": "陳柏愷",
+            "phone": "04-24821831",
+            "address": "大里區健民路(健民活動中心)",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.73094600000002,
+                    24.08867300000001
+                ]
+            },
+            "condition": 1,
+            "groupId": "65070",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 238,
+            "name": "興隆活動中心",
+            "division": 26,
+            "contact": "陳柏愷",
+            "phone": "04-24821831",
+            "address": "太平區興隆路76號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.73251899999975,
+                    24.111664000000005
+                ]
+            },
+            "condition": 1,
+            "groupId": "65070",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 239,
+            "name": "坪林森林公園",
+            "division": 26,
+            "contact": "陳柏愷",
+            "phone": "04-24821831",
+            "address": "臺中市太平區中山路二段401號旁(坪林森林公園)",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.7282193005085,
+                    24.149958578725904
+                ]
+            },
+            "condition": 0,
+            "groupId": "65070",
+            "interfaceNumber": "04110A470404-2",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 329,
+            "name": "建德里活動中心",
+            "division": 20,
+            "contact": "林股長",
+            "phone": "04-22542191",
+            "address": "台中市北區國強街62號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.697472,
+                    24.157658999999992
+                ]
+            },
+            "condition": 0,
+            "groupId": "208477",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 316,
+            "name": "繼光街與光復路交叉口",
+            "division": 20,
+            "contact": "賴股長",
+            "phone": "04-22542191",
+            "address": "臺中市繼光街與光復路交叉口",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.68447381258012,
+                    24.140935713120964
+                ]
+            },
+            "condition": null,
+            "groupId": "208477",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 286,
+            "name": "興中街88號(四里活動中心)",
+            "division": 20,
+            "contact": "賴股長",
+            "phone": "04-22542191",
+            "address": "臺中市興中街88號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.67978599999977,
+                    24.144278999999997
+                ]
+            },
+            "condition": null,
+            "groupId": "208477",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 337,
+            "name": "北屯里辦公處",
+            "division": 20,
+            "contact": "賴股長",
+            "phone": "04-22542191",
+            "address": "臺中市崇興路一段38號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.69109700000011,
+                    24.166003999999962
+                ]
+            },
+            "condition": 0,
+            "groupId": "208477",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 138,
+            "name": "崇倫里活動中心",
+            "division": 20,
+            "contact": "賴靜瑩",
+            "phone": "04-22210169#291",
+            "address": "臺中市南區崇倫街52-3號(崇倫里活動中心)",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.65732900000017,
+                    24.12870800000003
+                ]
+            },
+            "condition": null,
+            "groupId": "208477",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 1803,
+            "name": "南門福神祠",
+            "division": 20,
+            "contact": "林股長",
+            "phone": "04-22542191",
+            "address": "臺中市東區立德東街45-1號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.68855100000002,
+                    24.126894999999987
+                ]
+            },
+            "condition": 0,
+            "groupId": "208477",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 1805,
+            "name": "忠孝停車場",
+            "division": 20,
+            "contact": "林股長",
+            "phone": "04-22542191",
+            "address": "臺中市東區忠孝路與信義街218巷口",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.690516,
+                    24.133176999999993
+                ]
+            },
+            "condition": 0,
+            "groupId": "208477",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 1813,
+            "name": "成功國小人行道",
+            "division": 20,
+            "contact": "林股長",
+            "phone": "04-22542191",
+            "address": "東區育英路60號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.69818526506424,
+                    24.137477166656165
+                ]
+            },
+            "condition": 0,
+            "groupId": "208477",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 1836,
+            "name": "復興北路與大慶街交叉口",
+            "division": 20,
+            "contact": "林股長",
+            "phone": "04-22542191",
+            "address": "台中市南區復興北路與大慶街交叉口",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.650244,
+                    24.115861999999986
+                ]
+            },
+            "condition": 0,
+            "groupId": "208477",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 1838,
+            "name": "台中高工",
+            "division": 20,
+            "contact": "林股長",
+            "phone": "04-22542191",
+            "address": "臺中市南區高工路191號(台中高工大門右邊)",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.66171940000038,
+                    24.11330000000001
+                ]
+            },
+            "condition": null,
+            "groupId": "208477",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 1840,
+            "name": "工學路與工學路126巷口",
+            "division": 20,
+            "contact": "林股長",
+            "phone": "04-22542191",
+            "address": "南區工學路與工學路126巷口",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.66103060000002,
+                    24.116924999999966
+                ]
+            },
+            "condition": 0,
+            "groupId": "208477",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 1841,
+            "name": "信義國小",
+            "division": 20,
+            "contact": "林股長",
+            "phone": "04-22542191",
+            "address": "臺中市南區五權南路325號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.66985100000002,
+                    24.121678999999986
+                ]
+            },
+            "condition": null,
+            "groupId": "208477",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 1844,
+            "name": "德富路與工學北路交叉口",
+            "division": 20,
+            "contact": "林股長",
+            "phone": "04-22542191",
+            "address": "台中市南區德富路與工學北路交叉口",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.657837,
+                    24.116160000000022
+                ]
+            },
+            "condition": 0,
+            "groupId": "208477",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 1852,
+            "name": "南區南門路與正義街口(佈告欄旁)",
+            "division": 20,
+            "contact": "林股長",
+            "phone": "04-22542191",
+            "address": "臺中市南區南門路與正義街口(於正義街側)",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.68105830000033,
+                    24.12246944
+                ]
+            },
+            "condition": 0,
+            "groupId": "208477",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 1857,
+            "name": "和平國小",
+            "division": 20,
+            "contact": "賴靜瑩",
+            "phone": "04-22210169#291",
+            "address": "臺中市南區復興路2段57號(和平國小前)",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.66026109999969,
+                    24.120322220000013
+                ]
+            },
+            "condition": null,
+            "groupId": "208477",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 1858,
+            "name": "醒修宮停車場",
+            "division": 20,
+            "contact": "林股長",
+            "phone": "04-22542191",
+            "address": "南區信義南街191號附近",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.67726403474809,
+                    24.129198793718487
+                ]
+            },
+            "condition": 0,
+            "groupId": "208477",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 1903,
+            "name": "長億活動中心",
+            "division": 26,
+            "contact": "陳柏愷",
+            "phone": "04-24821831",
+            "address": "臺中市太平區長億路1號（長億活動中心）",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.72131300000002,
+                    24.11929899999999
+                ]
+            },
+            "condition": 1,
+            "groupId": "65070",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 1904,
+            "name": "東平國小前",
+            "division": 26,
+            "contact": "陳柏愷",
+            "phone": "04-24821831",
+            "address": "臺中市太平區中興東路213號（東平國小前）",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.72345280000005,
+                    24.132238890000018
+                ]
+            },
+            "condition": 1,
+            "groupId": "65070",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 1905,
+            "name": "新平立體停車場",
+            "division": 26,
+            "contact": "陳柏愷",
+            "phone": "04-24821831",
+            "address": "臺中市太平區樹孝路1號（新平立體停車場）",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.71588516235352,
+                    24.14898815867621
+                ]
+            },
+            "condition": 1,
+            "groupId": "65070",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 1906,
+            "name": "太平區公所",
+            "division": 26,
+            "contact": "陳柏愷",
+            "phone": "04-24821831",
+            "address": "臺中市太平區中平路144號（太平區公所）",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.71860829999954,
+                    24.12656667
+                ]
+            },
+            "condition": 1,
+            "groupId": "65070",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 1907,
+            "name": "宜欣里聯合活動中心",
+            "division": 26,
+            "contact": "陳柏愷",
+            "phone": "04-24821831",
+            "address": "臺中市太平區宜昌東路1號(宜欣里聯合活動中心)",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.715271,
+                    24.138599999999972
+                ]
+            },
+            "condition": 1,
+            "groupId": "65070",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 1908,
+            "name": "新仁活動中心",
+            "division": 26,
+            "contact": "陳柏愷",
+            "phone": "04-24821831",
+            "address": "臺中市大里區立新街71號（新仁活動中心）",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.70561100000002,
+                    24.10792599999998
+                ]
+            },
+            "condition": 1,
+            "groupId": "65070",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 1909,
+            "name": "仁德活動中心旁",
+            "division": 26,
+            "contact": "陳柏愷",
+            "phone": "04-24821831",
+            "address": "臺中市大里區文化街117號旁（仁德活動中心旁）",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.7000708580017,
+                    24.092751183971732
+                ]
+            },
+            "condition": 1,
+            "groupId": "65070",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 1912,
+            "name": "聖明宮",
+            "division": 26,
+            "contact": "陳柏愷",
+            "phone": "04-24821831",
+            "address": "臺中市大里區塗城路96號（聖明宮）",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.71273624897003,
+                    24.085862001666868
+                ]
+            },
+            "condition": 1,
+            "groupId": "65070",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 1913,
+            "name": "國光花市停車場",
+            "division": 26,
+            "contact": "陳柏愷",
+            "phone": "04-24821831",
+            "address": "臺中市大里區德芳南路422號對面停車場(國光花市停車場)",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.68798900000002,
+                    24.10406200000001
+                ]
+            },
+            "condition": 1,
+            "groupId": "65070",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 1914,
+            "name": "金城活動中心",
+            "division": 26,
+            "contact": "陳柏愷",
+            "phone": "04-24821831",
+            "address": "臺中市大里區塗城路923巷（金城活動中心）",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.69559440000018,
+                    24.090277779999973
+                ]
+            },
+            "condition": 1,
+            "groupId": "65070",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 1915,
+            "name": "瑞城活動中心",
+            "division": 26,
+            "contact": "陳柏愷",
+            "phone": "04-24821831",
+            "address": "臺中市大里區瑞和街36號（瑞城活動中心）",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.7038749999996,
+                    24.086430560000018
+                ]
+            },
+            "condition": 1,
+            "groupId": "65070",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 1916,
+            "name": "東興活動中心",
+            "division": 26,
+            "contact": "陳柏愷",
+            "phone": "04-24821831",
+            "address": "臺中市大里區永興路260號（東興活動中心）",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.68129539489748,
+                    24.11237603788521
+                ]
+            },
+            "condition": 1,
+            "groupId": "65070",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 1917,
+            "name": "振坤宮廣場左側",
+            "division": 26,
+            "contact": "陳柏愷",
+            "phone": "04-24821831",
+            "address": "臺中市大里區仁化路518號(振坤宮廣場左側)",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.70165872573853,
+                    24.096258684699535
+                ]
+            },
+            "condition": 1,
+            "groupId": "65070",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 1918,
+            "name": "太子宮",
+            "division": 26,
+            "contact": "陳柏愷",
+            "phone": "04-24821831",
+            "address": "臺中市大里區東湖里東南路207巷36號(太子宮)",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.69279670715335,
+                    24.076999914325956
+                ]
+            },
+            "condition": 1,
+            "groupId": "65070",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 1919,
+            "name": "市立圖書館大里大新分館邊",
+            "division": 26,
+            "contact": "陳柏愷",
+            "phone": "04-24821831",
+            "address": "臺中市大里區大新街36號(市立圖書館大里大新分館邊)",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.67843,
+                    24.09964599999999
+                ]
+            },
+            "condition": 1,
+            "groupId": "65070",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 1920,
+            "name": "兒青館",
+            "division": 26,
+            "contact": "陳柏愷",
+            "phone": "04-24821831",
+            "address": "臺中市大里區新光路32號（兒青館）",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.69199740886688,
+                    24.11049827355864
+                ]
+            },
+            "condition": 1,
+            "groupId": "65070",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 1921,
+            "name": "臺中市大里區大智路558號旁",
+            "division": 26,
+            "contact": "陳柏愷",
+            "phone": "04-24821831",
+            "address": "臺中市大里區大智路558號旁",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.690098,
+                    24.12250900000001
+                ]
+            },
+            "condition": 1,
+            "groupId": "65070",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 1922,
+            "name": "大元里活動中心",
+            "division": 26,
+            "contact": "陳柏愷",
+            "phone": "04-24821831",
+            "address": "臺中市大里區大元路62-1號（大元里活動中心）",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.68872499999976,
+                    24.09575000000003
+                ]
+            },
+            "condition": 1,
+            "groupId": "65070",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 1945,
+            "name": "光明光華里活動中心",
+            "division": 26,
+            "contact": "陳柏愷",
+            "phone": "04-24821831",
+            "address": "臺中市太平區大興十一街207號旁(光明光華里活動中心)",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.72945899999999,
+                    24.153284999999986
+                ]
+            },
+            "condition": 1,
+            "groupId": "65070",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 1946,
+            "name": "頭汴國小前",
+            "division": 26,
+            "contact": "陳柏愷",
+            "phone": "04-24821831",
+            "address": "臺中市太平區北田路20號（頭汴國小前)",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.75150000000022,
+                    24.123277779999974
+                ]
+            },
+            "condition": 1,
+            "groupId": "65070",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 1947,
+            "name": "臺中市屯區藝文中心",
+            "division": 26,
+            "contact": "陳柏愷",
+            "phone": "04-24821831",
+            "address": "臺中市太平區大興路201號(臺中市屯區藝文中心)",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.7338398694992,
+                    24.156185979154042
+                ]
+            },
+            "condition": 1,
+            "groupId": "65070",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 1948,
+            "name": "7-11光興店",
+            "division": 26,
+            "contact": "陳柏愷",
+            "phone": "04-24821831",
+            "address": "臺中市太平區東方街與光興路口(7-11光興店)",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.73432937264444,
+                    24.121588190505552
+                ]
+            },
+            "condition": 1,
+            "groupId": "65070",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 1949,
+            "name": "新坪活動中心",
+            "division": 26,
+            "contact": "陳柏愷",
+            "phone": "04-24821831",
+            "address": "臺中市太平區新平路三段394巷1號(新坪活動中心)",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.72566,
+                    24.156304999999993
+                ]
+            },
+            "condition": 1,
+            "groupId": "65070",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 1950,
+            "name": "太平國中",
+            "division": 26,
+            "contact": "陳柏愷",
+            "phone": "04-24821831",
+            "address": "臺中市太平區中山路二段116號(太平國中)",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.73434948921205,
+                    24.148204964359582
+                ]
+            },
+            "condition": 1,
+            "groupId": "65070",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 2439,
+            "name": "北屯區建和路二段245號及軍福十五路交叉口",
+            "division": 246,
+            "contact": "林股長",
+            "phone": "04-22542191",
+            "address": "台中市北屯區建和路二段245號與軍福十五路交叉口",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.724498,
+                    24.173860000000005
+                ]
+            },
+            "condition": 0,
+            "groupId": "208477",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 2443,
+            "name": "臺中市太平區大興１９街口",
+            "division": 26,
+            "contact": "陳柏愷",
+            "phone": "04-24821831",
+            "address": "臺中市太平區大興19街與大興路口",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.74295800000002,
+                    24.157517999999992
+                ]
+            },
+            "condition": 1,
+            "groupId": "65070",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 2599,
+            "name": "東光公園",
+            "division": 246,
+            "contact": "林股長",
+            "phone": "04-22542191",
+            "address": "北屯區東山路一段37巷",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.69937080144882,
+                    24.170903415095367
+                ]
+            },
+            "condition": 0,
+            "groupId": "208477",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 2689,
+            "name": "北區東光路肉品市場(停車場前)",
+            "division": 20,
+            "contact": "林股長",
+            "phone": "04-22542191",
+            "address": "台中市北區東光路肉品市場(停車場前)",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.69931400000002,
+                    24.15743
+                ]
+            },
+            "condition": 0,
+            "groupId": "208477",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 2690,
+            "name": "北區自強一街2號旁空地",
+            "division": 20,
+            "contact": "林股長",
+            "phone": "04-22542191",
+            "address": "台中市北區自強一街2號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.69704299999998,
+                    24.153080999999982
+                ]
+            },
+            "condition": 0,
+            "groupId": "208477",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 2773,
+            "name": "東區自由路三段與進德路交叉口",
+            "division": 246,
+            "contact": "林股長",
+            "phone": "04-22542191",
+            "address": "東區自由路三段與進德路交叉口",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.69229513406755,
+                    24.14259519476776
+                ]
+            },
+            "condition": 0,
+            "groupId": "208477",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 2787,
+            "name": "新福里活動中心",
+            "division": 26,
+            "contact": "陳柏愷",
+            "phone": "04-24821831",
+            "address": "臺中市太平區振福路300巷1號(新福里活動中心)",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.70675760507585,
+                    24.150069937932386
+                ]
+            },
+            "condition": 1,
+            "groupId": "65070",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 2788,
+            "name": "番仔路土地公廟",
+            "division": 26,
+            "contact": "陳柏愷",
+            "phone": "04-24821831",
+            "address": "臺中市太平區新光路7-1號(番仔路土地公廟)",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.70991188287738,
+                    24.15501859413393
+                ]
+            },
+            "condition": 1,
+            "groupId": "65070",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 2789,
+            "name": "新光活動中心",
+            "division": 26,
+            "contact": "陳柏愷",
+            "phone": "04-24821831",
+            "address": "太平區樹德九街62號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.71042700000001,
+                    24.15621799999998
+                ]
+            },
+            "condition": 1,
+            "groupId": "65070",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 2790,
+            "name": "立文公園",
+            "division": 26,
+            "contact": "陳柏愷",
+            "phone": "04-24821831",
+            "address": "臺中市太平區育才路440號對面(立文公園)",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.71587508157425,
+                    24.15684287308378
+                ]
+            },
+            "condition": 1,
+            "groupId": "65070",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 2792,
+            "name": "太平交通分隊",
+            "division": 26,
+            "contact": "陳柏愷",
+            "phone": "04-24821831",
+            "address": "臺中市太平區新平路三段72號(太平交通分隊)",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.72029739618303,
+                    24.150490899330656
+                ]
+            },
+            "condition": 1,
+            "groupId": "65070",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 2794,
+            "name": "宜昌兒童公園",
+            "division": 26,
+            "contact": "陳柏愷",
+            "phone": "04-24821831",
+            "address": "臺中市太平區宜昌路330號對面(宜昌兒童公園)",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.71314930915833,
+                    24.14386059623708
+                ]
+            },
+            "condition": 1,
+            "groupId": "65070",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 2795,
+            "name": "太平宜佳公園",
+            "division": 26,
+            "contact": "陳柏愷",
+            "phone": "04-24821831",
+            "address": "臺中市太平區宜佳街31巷7號對面(太平宜佳公園)",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.71304400000002,
+                    24.139154
+                ]
+            },
+            "condition": 1,
+            "groupId": "65070",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 2797,
+            "name": "玉皇宫",
+            "division": 26,
+            "contact": "陳柏愷",
+            "phone": "04-24821831",
+            "address": "臺中市太平區東平路637號(玉皇宫)",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.71558743715285,
+                    24.133362524913323
+                ]
+            },
+            "condition": 1,
+            "groupId": "65070",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 2800,
+            "name": "社區公園",
+            "division": 26,
+            "contact": "陳柏愷",
+            "phone": "04-24821831",
+            "address": "臺中市大里區吉隆路與日新路口(社區公園)",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.69228172302248,
+                    24.11833475818357
+                ]
+            },
+            "condition": 1,
+            "groupId": "65070",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 2801,
+            "name": "內新國小側門",
+            "division": 26,
+            "contact": "陳柏愷",
+            "phone": "04-24821831",
+            "address": "臺中市大里區日新路與新仁路轉角(內新國小側門)",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.6950926780701,
+                    24.11224873269953
+                ]
+            },
+            "condition": 1,
+            "groupId": "65070",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 2802,
+            "name": "加恩台福基督教會",
+            "division": 26,
+            "contact": "陳柏愷",
+            "phone": "04-24821831",
+            "address": "臺中市大里區新甲路1號(加恩台福基督教會)",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.69836229085922,
+                    24.102362608809617
+                ]
+            },
+            "condition": 1,
+            "groupId": "65070",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 2805,
+            "name": "永豐路258號",
+            "division": 26,
+            "contact": "陳柏愷",
+            "phone": "04-24821831",
+            "address": "臺中市太平區永豐路258號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.70605754852292,
+                    24.117233125785635
+                ]
+            },
+            "condition": 1,
+            "groupId": "65070",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 2806,
+            "name": "長億公園",
+            "division": 26,
+            "contact": "陳柏愷",
+            "phone": "04-24821831",
+            "address": "臺中市太平區永成北路151巷2號對面(長億公園)",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.71472108364104,
+                    24.118045886605387
+                ]
+            },
+            "condition": 1,
+            "groupId": "65070",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 2808,
+            "name": "中平公園",
+            "division": 26,
+            "contact": "陳柏愷",
+            "phone": "04-24821831",
+            "address": "臺中市太平區太平路176號(中平公園)",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.71806848049162,
+                    24.122880727565448
+                ]
+            },
+            "condition": 1,
+            "groupId": "65070",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 2809,
+            "name": "中平活動中心",
+            "division": 26,
+            "contact": "陳柏愷",
+            "phone": "04-24821831",
+            "address": "臺中市太平區中平九街181號(中平活動中心)",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.721544,
+                    24.122632999999993
+                ]
+            },
+            "condition": 1,
+            "groupId": "65070",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 2810,
+            "name": "建國建興活動中心",
+            "division": 26,
+            "contact": "陳柏愷",
+            "phone": "04-24821831",
+            "address": "臺中市太平區精美路301巷25號(建國建興活動中心)",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.72605199999998,
+                    24.126000000000012
+                ]
+            },
+            "condition": 1,
+            "groupId": "65070",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 2811,
+            "name": "正誠公園",
+            "division": 26,
+            "contact": "陳柏愷",
+            "phone": "04-24821831",
+            "address": "臺中市太平區鵬儀路469號(正誠公園)",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.73170751333237,
+                    24.1296345109166
+                ]
+            },
+            "condition": 1,
+            "groupId": "65070",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 2812,
+            "name": "大明高中",
+            "division": 26,
+            "contact": "陳柏愷",
+            "phone": "04-24821831",
+            "address": "臺中市大里區新仁路三段210號(大明高中)",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.68532407283782,
+                    24.115859744116698
+                ]
+            },
+            "condition": 1,
+            "groupId": "65070",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 2813,
+            "name": "西榮路與光榮街口",
+            "division": 26,
+            "contact": "陳柏愷",
+            "phone": "04-24821831",
+            "address": "臺中市大里區西榮路與光榮街口",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.684214,
+                    24.111860999999994
+                ]
+            },
+            "condition": 1,
+            "groupId": "65070",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 2855,
+            "name": "草湖國小",
+            "division": 26,
+            "contact": "陳柏愷",
+            "phone": "04-24821831",
+            "address": "臺中市大里區西湖路32號(草湖國小)",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.68930983543397,
+                    24.078143522884094
+                ]
+            },
+            "condition": 1,
+            "groupId": "65070",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 2930,
+            "name": "益民國小",
+            "division": 26,
+            "contact": "陳柏愷",
+            "phone": "04-24821831",
+            "address": "臺中市大里區益民路二段48號(益民國小)",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.68718552589417,
+                    24.106774489957445
+                ]
+            },
+            "condition": 1,
+            "groupId": "65070",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 2931,
+            "name": "永隆活動中心旁",
+            "division": 26,
+            "contact": "陳柏愷",
+            "phone": "04-24821831",
+            "address": "臺中市大里區永隆六街16號對面(永隆活動中心旁)",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.67537899999999,
+                    24.107881999999996
+                ]
+            },
+            "condition": 1,
+            "groupId": "65070",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 2933,
+            "name": "7-11樹王店",
+            "division": 26,
+            "contact": "陳柏愷",
+            "phone": "04-24821831",
+            "address": "臺中市大里區文心南路1252號(7-11樹王店)",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.66746726632115,
+                    24.105265114872253
+                ]
+            },
+            "condition": 1,
+            "groupId": "65070",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 2935,
+            "name": "武澤宮財神廟",
+            "division": 26,
+            "contact": "陳柏愷",
+            "phone": "04-24821831",
+            "address": "臺中市大里區爽文路252號(武澤宮財神廟)",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.67470252513885,
+                    24.09738743065284
+                ]
+            },
+            "condition": 1,
+            "groupId": "65070",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 2939,
+            "name": "圖書館太平坪林分館",
+            "division": 26,
+            "contact": "陳柏愷",
+            "phone": "04-24821831",
+            "address": "臺中市太平區中山路一段213號(圖書館太平坪林分館)",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.73159217834475,
+                    24.141946579874414
+                ]
+            },
+            "condition": 1,
+            "groupId": "65070",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 2940,
+            "name": "豐年公園",
+            "division": 26,
+            "contact": "陳柏愷",
+            "phone": "04-24821831",
+            "address": "臺中市太平區大源二街與中山路二段541巷口",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.7236635684967,
+                    24.14489346784137
+                ]
+            },
+            "condition": 1,
+            "groupId": "65070",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 2942,
+            "name": "東村公園",
+            "division": 26,
+            "contact": "陳柏愷",
+            "phone": "04-24821831",
+            "address": "臺中市太平區東村八街13巷(東村公園)",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.72480618953706,
+                    24.1370659532102
+                ]
+            },
+            "condition": 1,
+            "groupId": "65070",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 2943,
+            "name": "東平活動中心",
+            "division": 26,
+            "contact": "陳柏愷",
+            "phone": "04-24821831",
+            "address": "臺中市太平區中和街32號(東平活動中心)",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.721949,
+                    24.134461999999996
+                ]
+            },
+            "condition": 1,
+            "groupId": "65070",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 2945,
+            "name": "太平區運動場",
+            "division": 26,
+            "contact": "陳柏愷",
+            "phone": "04-24821831",
+            "address": "臺中市太平區中平路29巷口(太平區運動場)",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.71926500000002,
+                    24.133161000000005
+                ]
+            },
+            "condition": 1,
+            "groupId": "65070",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 2947,
+            "name": "光隆國小人行道",
+            "division": 26,
+            "contact": "陳柏愷",
+            "phone": "04-24821831",
+            "address": "臺中市太平區光興路487巷5號旁35米處(光隆國小)",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.72856399999999,
+                    24.10462699999999
+                ]
+            },
+            "condition": 1,
+            "groupId": "65070",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 2948,
+            "name": "德隆里社區活動中心",
+            "division": 26,
+            "contact": "陳柏愷",
+            "phone": "04-24821831",
+            "address": "臺中市太平區德興街136巷178號(德隆里社區活動中心)",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.72225600000002,
+                    24.107774999999997
+                ]
+            },
+            "condition": 1,
+            "groupId": "65070",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 2949,
+            "name": "光興路765巷巷口",
+            "division": 26,
+            "contact": "陳柏愷",
+            "phone": "04-24821831",
+            "address": "臺中市太平區光興路765巷巷口",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.73014378547668,
+                    24.110637821528968
+                ]
+            },
+            "condition": 1,
+            "groupId": "65070",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 2950,
+            "name": "建錄宮",
+            "division": 26,
+            "contact": "陳柏愷",
+            "phone": "04-24821831",
+            "address": "臺中市太平區長龍路一段318號(建錄宮)",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.74514001607893,
+                    24.129873175606622
+                ]
+            },
+            "condition": 1,
+            "groupId": "65070",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 2951,
+            "name": "佛恩寺前",
+            "division": 26,
+            "contact": "陳柏愷",
+            "phone": "04-24821831",
+            "address": "臺中市太平區長龍路三段166號對面(佛恩寺前)",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.76985200000001,
+                    24.10286999999999
+                ]
+            },
+            "condition": 1,
+            "groupId": "65070",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 2952,
+            "name": "夏田活動中心",
+            "division": 26,
+            "contact": "陳柏愷",
+            "phone": "04-24821831",
+            "address": "臺中市大里區頂厝路125號(夏田活動中心)",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.66865400000002,
+                    24.085492000000002
+                ]
+            },
+            "condition": 1,
+            "groupId": "65070",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 2957,
+            "name": "合歡福德宮前",
+            "division": 26,
+            "contact": "陳柏愷",
+            "phone": "04-24821831",
+            "address": "臺中市大里區新生路108號(合歡福德宮前)",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.69038540124893,
+                    24.10431149402944
+                ]
+            },
+            "condition": 1,
+            "groupId": "65070",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 2961,
+            "name": "泉源公園",
+            "division": 246,
+            "contact": "林股長",
+            "phone": "04-22542191",
+            "address": "台中市東區樂業一路與樂業一路135巷口",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.69432500000002,
+                    24.136932000000005
+                ]
+            },
+            "condition": 0,
+            "groupId": "208477",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 2963,
+            "name": "福興里辦公處",
+            "division": 246,
+            "contact": "林股長",
+            "phone": "04-22542191",
+            "address": "臺中市南區福中街39號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.66708300000002,
+                    24.12645099999999
+                ]
+            },
+            "condition": 0,
+            "groupId": "208477",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 2964,
+            "name": "合作里集會所",
+            "division": 246,
+            "contact": "林股長",
+            "phone": "04-22542191",
+            "address": "東區自強街2巷32號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.69662499999998,
+                    24.150182999999984
+                ]
+            },
+            "condition": 0,
+            "groupId": "208477",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 2965,
+            "name": "千合花藝中心旁空地",
+            "division": 246,
+            "contact": "林股長",
+            "phone": "04-22542191",
+            "address": "台中市東區南京東路一段與進化路168巷交叉口",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.69708700000001,
+                    24.14630999999999
+                ]
+            },
+            "condition": 0,
+            "groupId": "208477",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 2966,
+            "name": "東信福德祠",
+            "division": 246,
+            "contact": "林股長",
+            "phone": "04-22542191",
+            "address": "東區長福路與東英二街交叉口",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.70398100000001,
+                    24.135136000000003
+                ]
+            },
+            "condition": 0,
+            "groupId": "208477",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 3175,
+            "name": "進化北路55-4號前(北屯市場)",
+            "division": 246,
+            "contact": "賴股長",
+            "phone": "04-22542191",
+            "address": "台中市北屯區進化北路55-4號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.690265,
+                    24.16274500000001
+                ]
+            },
+            "condition": 0,
+            "groupId": "208477",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 3635,
+            "name": "南區仁和路與正義街口(國光國小)",
+            "division": 246,
+            "contact": "林股長",
+            "phone": "04-22542191",
+            "address": "台中市南區仁和路與正義街交叉口",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.68109700000001,
+                    24.126377000000012
+                ]
+            },
+            "condition": 0,
+            "groupId": "208477",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 3636,
+            "name": "北屯區和祥街43號對面",
+            "division": 246,
+            "contact": "林股長",
+            "phone": "04-22542191",
+            "address": "北屯區和祥街43號對面",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.72739800000001,
+                    24.178072999999987
+                ]
+            },
+            "condition": 0,
+            "groupId": "208477",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 3637,
+            "name": "樹仁公園",
+            "division": 246,
+            "contact": "林股長",
+            "phone": "04-22542191",
+            "address": "台中市南區福田二街與樹義路口",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.65281033515932,
+                    24.10875023872823
+                ]
+            },
+            "condition": 0,
+            "groupId": "208477",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 3640,
+            "name": "南區建成路與仁和路交叉口",
+            "division": 246,
+            "contact": "林股長",
+            "phone": "04-22542191",
+            "address": "台中市南區建成路與仁和路交叉口",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.67769300000002,
+                    24.12638799999999
+                ]
+            },
+            "condition": 0,
+            "groupId": "208477",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 3642,
+            "name": "南區復興園路與仁義街交叉口",
+            "division": 246,
+            "contact": "林股長",
+            "phone": "04-22542191",
+            "address": "南區復興園路與仁義街交叉口",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.6715589761734,
+                    24.12568362765593
+                ]
+            },
+            "condition": 0,
+            "groupId": "208477",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 3644,
+            "name": "南區南和路與南和路38巷口",
+            "division": 246,
+            "contact": "林股長",
+            "phone": "04-22542191",
+            "address": "台中市南區南和路與南和路38巷口",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.66864000000001,
+                    24.11593999999999
+                ]
+            },
+            "condition": 0,
+            "groupId": "208477",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 3646,
+            "name": "東光園道上",
+            "division": 246,
+            "contact": "林股長",
+            "phone": "04-22542191",
+            "address": "台中市東區東門路與東光園路口",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.69466200000001,
+                    24.127461
+                ]
+            },
+            "condition": 0,
+            "groupId": "208477",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 3649,
+            "name": "新庄里辦公處",
+            "division": 246,
+            "contact": "林股長",
+            "phone": "04-22542191",
+            "address": "臺中市東區互助街27號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.68448299999999,
+                    24.13407900000001
+                ]
+            },
+            "condition": 0,
+            "groupId": "208477",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 3657,
+            "name": "仁德活動中心",
+            "division": 17,
+            "contact": "邱祈瑋",
+            "phone": "04-23381614",
+            "address": "烏日區仁德里信義街116號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.64007700000003,
+                    24.10550599999999
+                ]
+            },
+            "condition": 0,
+            "groupId": "216524",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 3658,
+            "name": "天德宮廣場",
+            "division": 17,
+            "contact": "邱祈瑋",
+            "phone": "04-23381614",
+            "address": "烏日區九德里中山路1段144號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.6429596241518,
+                    24.10983142150293
+                ]
+            },
+            "condition": 0,
+            "groupId": "216524",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 3659,
+            "name": "烏日區圖書館",
+            "division": 17,
+            "contact": "邱祈瑋",
+            "phone": "04-23381614",
+            "address": "烏日區九德里興祥街121號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.637366,
+                    24.10933999999999
+                ]
+            },
+            "condition": 0,
+            "groupId": "216524",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 3661,
+            "name": "三和社區活動中心停車場",
+            "division": 17,
+            "contact": "邱祈瑋",
+            "phone": "04-23381614",
+            "address": "烏日區三和里三榮北一路與三榮八路交叉口",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.60378962029645,
+                    24.108349792258206
+                ]
+            },
+            "condition": 0,
+            "groupId": "216524",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 3662,
+            "name": "五張犁福德宮對面",
+            "division": 17,
+            "contact": "邱祈瑋",
+            "phone": "04-23381614",
+            "address": "烏日區五光里五光路223號旁",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.6513573766046,
+                    24.09385487284873
+                ]
+            },
+            "condition": 0,
+            "groupId": "216524",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 3663,
+            "name": "五光社區老人活動中心",
+            "division": 17,
+            "contact": "邱祈瑋",
+            "phone": "04-23381614",
+            "address": "烏日區五光里五光路107號對面",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.65497835857973,
+                    24.095072454005933
+                ]
+            },
+            "condition": 0,
+            "groupId": "216524",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 3664,
+            "name": "烏日正和書院",
+            "division": 17,
+            "contact": "邱祈瑋",
+            "phone": "04-23381614",
+            "address": "台中市烏日區三榮路二段420號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.59558900000002,
+                    24.10899699999999
+                ]
+            },
+            "condition": 0,
+            "groupId": "216524",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 4489,
+            "name": "松勇公園",
+            "division": 246,
+            "contact": "林股長",
+            "phone": "04-22542191",
+            "address": "北屯區松竹北路32號旁松勇公園",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.70127516984938,
+                    24.185350009265292
+                ]
+            },
+            "condition": 0,
+            "groupId": "208477",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5084,
+            "name": "敦富二街與南興路交叉口",
+            "division": 246,
+            "contact": "林股長",
+            "phone": "04-22542191",
+            "address": "台中市北屯區敦富二街與南興路交叉口",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.70436799999999,
+                    24.185095999999984
+                ]
+            },
+            "condition": 0,
+            "groupId": "208477",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
             "id": 5473,
             "name": "泰山大科里民活動中心",
             "division": 79,
@@ -113,6 +2260,500 @@
             "groupId": "207119",
             "interfaceNumber": "",
             "meterSetting": 0
+        },
+        {
+            "id": 5490,
+            "name": "廍子里活動中心前",
+            "division": 246,
+            "contact": "林股長",
+            "phone": "04-22542191",
+            "address": "台中市北屯區廍子巷100號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.77889300000002,
+                    24.172053999999978
+                ]
+            },
+            "condition": 0,
+            "groupId": "208477",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5491,
+            "name": "東山路一段138巷8弄1號對面公園小綠地",
+            "division": 246,
+            "contact": "林股長",
+            "phone": "04-22542191",
+            "address": "東山路一段138巷8弄1號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.70277452468872,
+                    24.169087687489974
+                ]
+            },
+            "condition": 0,
+            "groupId": "208477",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5492,
+            "name": "三光北一街106號對面人行道",
+            "division": 246,
+            "contact": "林股長",
+            "phone": "04-22542191",
+            "address": "台中市北屯區三光北一街106號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.69843500000002,
+                    24.168326000000008
+                ]
+            },
+            "condition": 0,
+            "groupId": "208477",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5493,
+            "name": "南區忠孝路與濟世街口",
+            "division": 246,
+            "contact": "林股長",
+            "phone": "04-22542191",
+            "address": "台中市南區忠孝路與濟世街口",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.679479,
+                    24.128550000000004
+                ]
+            },
+            "condition": 0,
+            "groupId": "208477",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5494,
+            "name": "南區興大路301巷巷口",
+            "division": 246,
+            "contact": "林股長",
+            "phone": "04-22542191",
+            "address": "南區興大路301巷巷口",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.67227244377138,
+                    24.117017694341538
+                ]
+            },
+            "condition": 0,
+            "groupId": "208477",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5498,
+            "name": "長春里活動中心",
+            "division": 246,
+            "contact": "林股長",
+            "phone": "04-22542191",
+            "address": "台中市南區合作街6號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.679215,
+                    24.13347999999998
+                ]
+            },
+            "condition": 0,
+            "groupId": "208477",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5501,
+            "name": "國豐街360號(里民集會所)",
+            "division": 246,
+            "contact": "林股長",
+            "phone": "04-22542191",
+            "address": "台中市北屯區國豐街360號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.69652299999998,
+                    24.163773999999986
+                ]
+            },
+            "condition": 0,
+            "groupId": "208477",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5507,
+            "name": "大智路與建德街口",
+            "division": 246,
+            "contact": "林股長",
+            "phone": "04-22542191",
+            "address": "台中市東區大智路與建德街口",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.69021000000002,
+                    24.129618999999995
+                ]
+            },
+            "condition": 0,
+            "groupId": "208477",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5525,
+            "name": "南區復興路二段與新和街交叉口(家樂福)",
+            "division": 246,
+            "contact": "黃宇宣",
+            "phone": "04-22542191",
+            "address": "南區復興路二段與新和街交叉口(家樂福)",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.66309000000001,
+                    24.123801000000004
+                ]
+            },
+            "condition": 0,
+            "groupId": "208477",
+            "interfaceNumber": "",
+            "meterSetting": 0
+        },
+        {
+            "id": 5527,
+            "name": "北屯區景賢六路200號前(東山國中前)",
+            "division": 246,
+            "contact": "黃宇宣",
+            "phone": "04-22542191",
+            "address": "北屯區景賢六路200號前(東山國中前)",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.712161,
+                    24.166556999999983
+                ]
+            },
+            "condition": 0,
+            "groupId": "208477",
+            "interfaceNumber": "",
+            "meterSetting": 0
+        },
+        {
+            "id": 5528,
+            "name": "北屯區松竹五路1段289號",
+            "division": 246,
+            "contact": "黃宇宣",
+            "phone": "04-22542191",
+            "address": "北屯區松竹五路1段289號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.71298,
+                    24.181838
+                ]
+            },
+            "condition": 0,
+            "groupId": "208477",
+            "interfaceNumber": "",
+            "meterSetting": 0
+        },
+        {
+            "id": 5530,
+            "name": "北屯區軍和街1號對面",
+            "division": 246,
+            "contact": "黃宇宣",
+            "phone": "04-22542191",
+            "address": "北屯區軍和街1號對面",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.71482500000002,
+                    24.174319
+                ]
+            },
+            "condition": 0,
+            "groupId": "208477",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5531,
+            "name": "東區進德北路81號對面路口人行道",
+            "division": 246,
+            "contact": "黃宇宣",
+            "phone": "04-22542191",
+            "address": "東區進德北路81號對面路口人行道",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.69228000000001,
+                    24.150638000000004
+                ]
+            },
+            "condition": 0,
+            "groupId": "208477",
+            "interfaceNumber": "",
+            "meterSetting": 0
+        },
+        {
+            "id": 5532,
+            "name": "北屯區國校巷與進化北路口",
+            "division": 246,
+            "contact": "黃宇宣",
+            "phone": "04-22542191",
+            "address": "北屯區國校巷與進化北路口",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.69074900000001,
+                    24.162993
+                ]
+            },
+            "condition": 0,
+            "groupId": "208477",
+            "interfaceNumber": "",
+            "meterSetting": 0
+        },
+        {
+            "id": 5533,
+            "name": "北屯區北平路4段46-8號",
+            "division": 246,
+            "contact": "黃宇宣",
+            "phone": "04-22542191",
+            "address": "北屯區北平路4段46-8號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.68823499999999,
+                    24.17048
+                ]
+            },
+            "condition": 0,
+            "groupId": "208477",
+            "interfaceNumber": "",
+            "meterSetting": 0
+        },
+        {
+            "id": 5534,
+            "name": "北區國豐街61號",
+            "division": 246,
+            "contact": "黃宇宣",
+            "phone": "04-22542191",
+            "address": "北區國豐街61號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.69586200000002,
+                    24.157758000000015
+                ]
+            },
+            "condition": 0,
+            "groupId": "208477",
+            "interfaceNumber": "",
+            "meterSetting": 0
+        },
+        {
+            "id": 5535,
+            "name": "大肚區中和里活動中心",
+            "division": 19,
+            "contact": "張子元",
+            "phone": "0426312127",
+            "address": "台中市大肚區中和里南榮路299號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.57448799999999,
+                    24.112472000000004
+                ]
+            },
+            "condition": 0,
+            "groupId": "216527",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5537,
+            "name": "大肚區王田里",
+            "division": 19,
+            "contact": "張子元",
+            "phone": "0426312127",
+            "address": "大肚區王田里興和路262號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.578855,
+                    24.120726999999988
+                ]
+            },
+            "condition": 0,
+            "groupId": "216527",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5538,
+            "name": "大肚區王田里王福街",
+            "division": 19,
+            "contact": "張子元",
+            "phone": "0426312127",
+            "address": "台中市大肚區王田里王福街500號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.57352700000001,
+                    24.124188999999987
+                ]
+            },
+            "condition": 0,
+            "groupId": "216527",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5539,
+            "name": "北屯區東山路2段30號前(大坑圓環東山派出所邊)",
+            "division": 246,
+            "contact": "黃宇宣",
+            "phone": "04-22542191",
+            "address": "台中市北屯區東山路2段30號前(大坑圓環東山派出所邊)",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.74030361561996,
+                    24.17918077624251
+                ]
+            },
+            "condition": 0,
+            "groupId": "208477",
+            "interfaceNumber": "",
+            "meterSetting": 0
+        },
+        {
+            "id": 5540,
+            "name": "大肚區王田里王福街1號(台茂公司廣場)",
+            "division": 19,
+            "contact": "張子元",
+            "phone": "0426312127",
+            "address": "大肚區王田路王福街1號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.58341400000002,
+                    24.120255999999983
+                ]
+            },
+            "condition": 0,
+            "groupId": "216527",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5541,
+            "name": "大肚區社腳里",
+            "division": 19,
+            "contact": "張子元",
+            "phone": "0426312127",
+            "address": "台中市大肚區社腳里沙田路一段710巷12號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.55661799999999,
+                    24.12964699999999
+                ]
+            },
+            "condition": 0,
+            "groupId": "216527",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5542,
+            "name": "大肚區福山里",
+            "division": 19,
+            "contact": "張子元",
+            "phone": "0426312127",
+            "address": "台中市大肚區福山里王福街988巷77號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.56539982557295,
+                    24.127659084539353
+                ]
+            },
+            "condition": 0,
+            "groupId": "216527",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5543,
+            "name": "大肚區營埔里",
+            "division": 19,
+            "contact": "張子元",
+            "phone": "0426312127",
+            "address": "台中市大肚區營埔里營埔二街52號旁",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.558102,
+                    24.121522000000002
+                ]
+            },
+            "condition": 0,
+            "groupId": "216527",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5544,
+            "name": "自治公園對面",
+            "division": 17,
+            "contact": "洪協澤",
+            "phone": "04-23381614",
+            "address": "烏日區烏日里公園路與五光路口",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.62870000000001,
+                    24.101943000000002
+                ]
+            },
+            "condition": 0,
+            "groupId": "216524",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5545,
+            "name": "烏日朝天宮",
+            "division": 17,
+            "contact": "洪協澤",
+            "phone": "04-23381614",
+            "address": "烏日區烏日里公園路401號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.62122900000003,
+                    24.102781000000007
+                ]
+            },
+            "condition": 0,
+            "groupId": "216524",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
         }
     ]
 }
