@@ -90,7 +90,7 @@
                     24.105927000000005
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "65070",
             "interfaceNumber": null,
             "meterSetting": 0.5
@@ -109,7 +109,7 @@
                     24.08867300000001
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "65070",
             "interfaceNumber": null,
             "meterSetting": 0.5
@@ -128,8 +128,27 @@
                     24.111664000000005
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "65070",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 329,
+            "name": "建德里活動中心",
+            "division": 20,
+            "contact": "林股長",
+            "phone": "04-22542191",
+            "address": "台中市北區國強街62號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.697472,
+                    24.157658999999992
+                ]
+            },
+            "condition": 0,
+            "groupId": "208477",
             "interfaceNumber": null,
             "meterSetting": 0.5
         },
@@ -150,25 +169,6 @@
             "condition": 0,
             "groupId": "65070",
             "interfaceNumber": "04110A470404-2",
-            "meterSetting": 0.5
-        },
-        {
-            "id": 329,
-            "name": "建德里活動中心",
-            "division": 20,
-            "contact": "林股長",
-            "phone": "04-22542191",
-            "address": "台中市北區國強街62號",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    120.697472,
-                    24.157658999999992
-                ]
-            },
-            "condition": 0,
-            "groupId": "208477",
-            "interfaceNumber": null,
             "meterSetting": 0.5
         },
         {
@@ -470,7 +470,7 @@
                     24.11929899999999
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "65070",
             "interfaceNumber": null,
             "meterSetting": 0.5
@@ -489,7 +489,7 @@
                     24.132238890000018
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "65070",
             "interfaceNumber": null,
             "meterSetting": 0.5
@@ -508,7 +508,7 @@
                     24.14898815867621
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "65070",
             "interfaceNumber": null,
             "meterSetting": 0.5
@@ -527,7 +527,7 @@
                     24.12656667
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "65070",
             "interfaceNumber": null,
             "meterSetting": 0.5
@@ -546,7 +546,7 @@
                     24.138599999999972
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "65070",
             "interfaceNumber": null,
             "meterSetting": 0.5
@@ -565,7 +565,7 @@
                     24.10792599999998
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "65070",
             "interfaceNumber": null,
             "meterSetting": 0.5
@@ -584,7 +584,7 @@
                     24.092751183971732
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "65070",
             "interfaceNumber": null,
             "meterSetting": 0.5
@@ -603,7 +603,7 @@
                     24.085862001666868
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "65070",
             "interfaceNumber": null,
             "meterSetting": 0.5
@@ -622,7 +622,7 @@
                     24.10406200000001
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "65070",
             "interfaceNumber": null,
             "meterSetting": 0.5
@@ -641,7 +641,7 @@
                     24.090277779999973
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "65070",
             "interfaceNumber": null,
             "meterSetting": 0.5
@@ -660,7 +660,7 @@
                     24.086430560000018
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "65070",
             "interfaceNumber": null,
             "meterSetting": 0.5
@@ -679,7 +679,7 @@
                     24.11237603788521
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "65070",
             "interfaceNumber": null,
             "meterSetting": 0.5
@@ -698,7 +698,7 @@
                     24.096258684699535
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "65070",
             "interfaceNumber": null,
             "meterSetting": 0.5
@@ -717,7 +717,7 @@
                     24.076999914325956
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "65070",
             "interfaceNumber": null,
             "meterSetting": 0.5
@@ -736,7 +736,7 @@
                     24.09964599999999
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "65070",
             "interfaceNumber": null,
             "meterSetting": 0.5
@@ -755,7 +755,7 @@
                     24.11049827355864
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "65070",
             "interfaceNumber": null,
             "meterSetting": 0.5
@@ -774,7 +774,7 @@
                     24.12250900000001
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "65070",
             "interfaceNumber": null,
             "meterSetting": 0.5
@@ -793,7 +793,7 @@
                     24.09575000000003
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "65070",
             "interfaceNumber": null,
             "meterSetting": 0.5
@@ -812,7 +812,7 @@
                     24.153284999999986
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "65070",
             "interfaceNumber": null,
             "meterSetting": 0.5
@@ -831,7 +831,7 @@
                     24.123277779999974
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "65070",
             "interfaceNumber": null,
             "meterSetting": 0.5
@@ -850,7 +850,7 @@
                     24.156185979154042
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "65070",
             "interfaceNumber": null,
             "meterSetting": 0.5
@@ -869,7 +869,7 @@
                     24.121588190505552
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "65070",
             "interfaceNumber": null,
             "meterSetting": 0.5
@@ -888,7 +888,7 @@
                     24.156304999999993
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "65070",
             "interfaceNumber": null,
             "meterSetting": 0.5
@@ -907,7 +907,7 @@
                     24.148204964359582
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "65070",
             "interfaceNumber": null,
             "meterSetting": 0.5
@@ -945,7 +945,7 @@
                     24.157517999999992
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "65070",
             "interfaceNumber": null,
             "meterSetting": 0.5
@@ -1040,7 +1040,7 @@
                     24.150069937932386
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "65070",
             "interfaceNumber": null,
             "meterSetting": 0.5
@@ -1059,7 +1059,7 @@
                     24.15501859413393
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "65070",
             "interfaceNumber": null,
             "meterSetting": 0.5
@@ -1078,7 +1078,7 @@
                     24.15621799999998
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "65070",
             "interfaceNumber": null,
             "meterSetting": 0.5
@@ -1097,7 +1097,7 @@
                     24.15684287308378
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "65070",
             "interfaceNumber": null,
             "meterSetting": 0.5
@@ -1116,7 +1116,7 @@
                     24.150490899330656
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "65070",
             "interfaceNumber": null,
             "meterSetting": 0.5
@@ -1135,7 +1135,7 @@
                     24.14386059623708
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "65070",
             "interfaceNumber": null,
             "meterSetting": 0.5
@@ -1154,7 +1154,7 @@
                     24.139154
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "65070",
             "interfaceNumber": null,
             "meterSetting": 0.5
@@ -1173,7 +1173,7 @@
                     24.133362524913323
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "65070",
             "interfaceNumber": null,
             "meterSetting": 0.5
@@ -1192,7 +1192,7 @@
                     24.11833475818357
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "65070",
             "interfaceNumber": null,
             "meterSetting": 0.5
@@ -1211,7 +1211,7 @@
                     24.11224873269953
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "65070",
             "interfaceNumber": null,
             "meterSetting": 0.5
@@ -1230,7 +1230,7 @@
                     24.102362608809617
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "65070",
             "interfaceNumber": null,
             "meterSetting": 0.5
@@ -1249,7 +1249,7 @@
                     24.117233125785635
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "65070",
             "interfaceNumber": null,
             "meterSetting": 0.5
@@ -1268,7 +1268,7 @@
                     24.118045886605387
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "65070",
             "interfaceNumber": null,
             "meterSetting": 0.5
@@ -1287,7 +1287,7 @@
                     24.122880727565448
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "65070",
             "interfaceNumber": null,
             "meterSetting": 0.5
@@ -1306,7 +1306,7 @@
                     24.122632999999993
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "65070",
             "interfaceNumber": null,
             "meterSetting": 0.5
@@ -1325,7 +1325,7 @@
                     24.126000000000012
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "65070",
             "interfaceNumber": null,
             "meterSetting": 0.5
@@ -1344,7 +1344,7 @@
                     24.1296345109166
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "65070",
             "interfaceNumber": null,
             "meterSetting": 0.5
@@ -1363,7 +1363,7 @@
                     24.115859744116698
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "65070",
             "interfaceNumber": null,
             "meterSetting": 0.5
@@ -1382,7 +1382,7 @@
                     24.111860999999994
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "65070",
             "interfaceNumber": null,
             "meterSetting": 0.5
@@ -1401,7 +1401,7 @@
                     24.078143522884094
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "65070",
             "interfaceNumber": null,
             "meterSetting": 0.5
@@ -1420,7 +1420,7 @@
                     24.106774489957445
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "65070",
             "interfaceNumber": null,
             "meterSetting": 0.5
@@ -1439,7 +1439,7 @@
                     24.107881999999996
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "65070",
             "interfaceNumber": null,
             "meterSetting": 0.5
@@ -1458,7 +1458,7 @@
                     24.105265114872253
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "65070",
             "interfaceNumber": null,
             "meterSetting": 0.5
@@ -1477,7 +1477,7 @@
                     24.09738743065284
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "65070",
             "interfaceNumber": null,
             "meterSetting": 0.5
@@ -1496,7 +1496,7 @@
                     24.141946579874414
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "65070",
             "interfaceNumber": null,
             "meterSetting": 0.5
@@ -1515,7 +1515,7 @@
                     24.14489346784137
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "65070",
             "interfaceNumber": null,
             "meterSetting": 0.5
@@ -1534,7 +1534,7 @@
                     24.1370659532102
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "65070",
             "interfaceNumber": null,
             "meterSetting": 0.5
@@ -1553,7 +1553,7 @@
                     24.134461999999996
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "65070",
             "interfaceNumber": null,
             "meterSetting": 0.5
@@ -1572,7 +1572,7 @@
                     24.133161000000005
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "65070",
             "interfaceNumber": null,
             "meterSetting": 0.5
@@ -1591,7 +1591,7 @@
                     24.10462699999999
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "65070",
             "interfaceNumber": null,
             "meterSetting": 0.5
@@ -1610,7 +1610,7 @@
                     24.107774999999997
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "65070",
             "interfaceNumber": null,
             "meterSetting": 0.5
@@ -1629,7 +1629,7 @@
                     24.110637821528968
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "65070",
             "interfaceNumber": null,
             "meterSetting": 0.5
@@ -1648,7 +1648,7 @@
                     24.129873175606622
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "65070",
             "interfaceNumber": null,
             "meterSetting": 0.5
@@ -1667,7 +1667,7 @@
                     24.10286999999999
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "65070",
             "interfaceNumber": null,
             "meterSetting": 0.5
@@ -1686,7 +1686,7 @@
                     24.085492000000002
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "65070",
             "interfaceNumber": null,
             "meterSetting": 0.5
@@ -1705,7 +1705,7 @@
                     24.10431149402944
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "65070",
             "interfaceNumber": null,
             "meterSetting": 0.5
@@ -2035,7 +2035,7 @@
         },
         {
             "id": 3661,
-            "name": "三和社區活動中心停車場",
+            "name": "廣停三停車場",
             "division": 17,
             "contact": "邱祈瑋",
             "phone": "04-23381614",
@@ -2490,25 +2490,6 @@
             "meterSetting": 0.5
         },
         {
-            "id": 5531,
-            "name": "東區進德北路81號對面路口人行道",
-            "division": 246,
-            "contact": "黃宇宣",
-            "phone": "04-22542191",
-            "address": "東區進德北路81號對面路口人行道",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    120.69228000000001,
-                    24.150638000000004
-                ]
-            },
-            "condition": 0,
-            "groupId": "208477",
-            "interfaceNumber": "",
-            "meterSetting": 0
-        },
-        {
             "id": 5532,
             "name": "北屯區國校巷與進化北路口",
             "division": 246,
@@ -2752,6 +2733,63 @@
             },
             "condition": 0,
             "groupId": "216524",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5546,
+            "name": "烏日國中旁",
+            "division": 17,
+            "contact": "洪協澤",
+            "phone": "04-23381614",
+            "address": "公園路與榮泰街口",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.61821500000002,
+                    24.105158000000003
+                ]
+            },
+            "condition": 0,
+            "groupId": "216524",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5547,
+            "name": "烏日營運所",
+            "division": 17,
+            "contact": "洪協澤",
+            "phone": "04-23381614",
+            "address": "烏日區烏日里五光路1031號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.62759488821031,
+                    24.10354516456027
+                ]
+            },
+            "condition": 0,
+            "groupId": "216524",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5548,
+            "name": "東區進德北路81號對面路口人行道",
+            "division": 246,
+            "contact": "黃宇萱",
+            "phone": "04-22542191",
+            "address": "東區進德北路81號對面路口人行道",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.69259307629281,
+                    24.150622303481672
+                ]
+            },
+            "condition": 0,
+            "groupId": "208477",
             "interfaceNumber": "",
             "meterSetting": 0.5
         }
