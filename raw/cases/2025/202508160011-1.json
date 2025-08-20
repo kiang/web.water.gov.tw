@@ -1,7 +1,7 @@
 {
     "no": "202508160011-1",
     "endDate": "2025-08-20T06:00:00.000+0000",
-    "actualEndTime": null,
+    "actualEndTime": "2025-08-20T03:23:44.789+0000",
     "waterOffArea": {
         "type": "MultiPolygon",
         "coordinates": [
