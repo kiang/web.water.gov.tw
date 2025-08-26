@@ -40,11 +40,11 @@
         ]
     },
     "startTime": "09:00:00",
-    "lastUpdatedTime": "2025-08-22T03:45:27.644+0000",
+    "lastUpdatedTime": "2025-08-26T06:35:43.934+0000",
     "endTime": "16:00:00",
     "category": 3,
     "type": 2,
-    "startDate": "2025-08-26T16:00:00.000+0000",
+    "startDate": "2025-08-27T16:00:00.000+0000",
     "pressureDownArea": null,
     "isSchedule": true
 }
