@@ -971,7 +971,7 @@
         },
         {
             "id": 5549,
-            "name": "彰化市中央里辦公處",
+            "name": "彰化市中央聯合里辦公處",
             "division": 72,
             "contact": "蔡秉諺",
             "phone": "04-7254043#250",
@@ -981,6 +981,25 @@
                 "coordinates": [
                     13418384.40588774,
                     2762915.267679088
+                ]
+            },
+            "condition": 0,
+            "groupId": "210836",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5553,
+            "name": "華陽里守望相助隊前",
+            "division": 72,
+            "contact": "蔡秉諺",
+            "phone": "04-7245031#250",
+            "address": "彰化市南郭路一段207-1號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13419503.389409192,
+                    2762340.751775106
                 ]
             },
             "condition": 0,
