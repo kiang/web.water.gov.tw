@@ -39,25 +39,6 @@
             "meterSetting": 0.5
         },
         {
-            "id": 1462,
-            "name": "中山國小（側門天橋下）",
-            "division": 72,
-            "contact": "蔡秉諺",
-            "phone": "04-7245031#250",
-            "address": "彰化市中正里中山路2段678號",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    120.54663800000002,
-                    24.081909000000007
-                ]
-            },
-            "condition": null,
-            "groupId": "210836",
-            "interfaceNumber": null,
-            "meterSetting": 0.5
-        },
-        {
             "id": 1463,
             "name": "全聯進德店",
             "division": 72,
@@ -1000,6 +981,25 @@
                 "coordinates": [
                     120.54945,
                     24.073285000000002
+                ]
+            },
+            "condition": 0,
+            "groupId": "210836",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5585,
+            "name": "彰化市公所廣場(介壽館)",
+            "division": 72,
+            "contact": "蔡秉諺",
+            "phone": "04-7245031#250",
+            "address": "彰化縣彰化市民生路259號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.5424885661956,
+                    24.08127877174665
                 ]
             },
             "condition": 0,
