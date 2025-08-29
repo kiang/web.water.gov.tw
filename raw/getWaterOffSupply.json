@@ -1006,6 +1006,63 @@
             "groupId": "210836",
             "interfaceNumber": "",
             "meterSetting": 0.5
+        },
+        {
+            "id": 5656,
+            "name": "國聖國小大門",
+            "division": 72,
+            "contact": "蔡秉諺",
+            "phone": "04-7254043#250",
+            "address": "彰化市中山路三段608號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13421627.365293529,
+                    2764633.9424816174
+                ]
+            },
+            "condition": 0,
+            "groupId": "210836",
+            "interfaceNumber": "",
+            "meterSetting": 0.3
+        },
+        {
+            "id": 5657,
+            "name": "線東路一段466-1號(台塑加油站對面)",
+            "division": 72,
+            "contact": "蔡秉諺",
+            "phone": "04-7254043#250",
+            "address": "彰化市線東路一段466-1號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13416065.509575026,
+                    2762520.956316438
+                ]
+            },
+            "condition": 0,
+            "groupId": "210836",
+            "interfaceNumber": "",
+            "meterSetting": 0.3
+        },
+        {
+            "id": 5658,
+            "name": "資源回收場門口",
+            "division": 72,
+            "contact": "蔡秉諺",
+            "phone": "04-7254043#250",
+            "address": "彰化市寶廍路378-38號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13420310.010439482,
+                    2766353.781994189
+                ]
+            },
+            "condition": 0,
+            "groupId": "210836",
+            "interfaceNumber": "",
+            "meterSetting": 0.3
         }
     ]
 }
