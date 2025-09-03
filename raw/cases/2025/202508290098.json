@@ -1,7 +1,7 @@
 {
     "no": "202508290098",
     "endDate": "2025-09-02T16:00:00.000+0000",
-    "actualEndTime": null,
+    "actualEndTime": "2025-09-03T03:00:33.639+0000",
     "waterOffArea": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -48,9 +48,9 @@
         ]
     },
     "startTime": "10:00:00",
-    "lastUpdatedTime": "2025-08-29T09:06:50.609+0000",
+    "lastUpdatedTime": "2025-09-03T03:00:33.639+0000",
     "endTime": "16:30:00",
-    "category": 3,
+    "category": 1,
     "type": 2,
     "startDate": "2025-09-02T16:00:00.000+0000",
     "pressureDownArea": null,
