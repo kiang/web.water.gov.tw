@@ -2359,25 +2359,6 @@
             "meterSetting": 0.5
         },
         {
-            "id": 5567,
-            "name": "0910岡山國小",
-            "division": 4,
-            "contact": "葉天祥",
-            "phone": "07-6222814",
-            "address": "高雄市岡山區平安里柳橋東路36號",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    13391030.201373579,
-                    2606814.311256583
-                ]
-            },
-            "condition": 0,
-            "groupId": "218579",
-            "interfaceNumber": "",
-            "meterSetting": 0.5
-        },
-        {
             "id": 5568,
             "name": "0910勵志新城協和教會",
             "division": 4,
@@ -2541,25 +2522,6 @@
                 "coordinates": [
                     13390088.77243994,
                     2606832.061119536
-                ]
-            },
-            "condition": 0,
-            "groupId": "218579",
-            "interfaceNumber": "",
-            "meterSetting": 0.5
-        },
-        {
-            "id": 5579,
-            "name": "0910前峰國中",
-            "division": 4,
-            "contact": "葉天祥",
-            "phone": "07-6222814",
-            "address": "高雄市岡山區信義里樹人路1號",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    13390445.662727425,
-                    2606575.8370622005
                 ]
             },
             "condition": 0,
@@ -3073,6 +3035,44 @@
                 "coordinates": [
                     13394788.013424288,
                     2617145.072122797
+                ]
+            },
+            "condition": 0,
+            "groupId": "218579",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5567,
+            "name": "0910岡山國小(校前路)",
+            "division": 4,
+            "contact": "葉天祥",
+            "phone": "07-6222814",
+            "address": "高雄市岡山區平安里柳橋東路36號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13391030.201373579,
+                    2606814.311256583
+                ]
+            },
+            "condition": 0,
+            "groupId": "218579",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5579,
+            "name": "0910前峰國中(仁壽路)",
+            "division": 4,
+            "contact": "葉天祥",
+            "phone": "07-6222814",
+            "address": "高雄市岡山區信義里樹人路1號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13390445.662727425,
+                    2606575.8370622005
                 ]
             },
             "condition": 0,
