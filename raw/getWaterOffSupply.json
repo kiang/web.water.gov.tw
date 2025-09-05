@@ -1922,25 +1922,6 @@
             "meterSetting": 0.5
         },
         {
-            "id": 5613,
-            "name": "0910和平國小",
-            "division": 4,
-            "contact": "葉天祥",
-            "phone": "07-6222814",
-            "address": "高雄市岡山區和平里和平路1號",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    13392160.762122078,
-                    2605682.9479031973
-                ]
-            },
-            "condition": 0,
-            "groupId": "218579",
-            "interfaceNumber": "",
-            "meterSetting": 0.5
-        },
-        {
             "id": 5614,
             "name": "0910大遼代天府",
             "division": 4,
@@ -2294,6 +2275,25 @@
                 "coordinates": [
                     13394231.08201185,
                     2610761.8932170933
+                ]
+            },
+            "condition": 0,
+            "groupId": "218579",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5613,
+            "name": "0910和平國小(和平二街)",
+            "division": 4,
+            "contact": "葉天祥",
+            "phone": "07-6222814",
+            "address": "高雄市岡山區和平里和平路1號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13392160.762122078,
+                    2605682.9479031973
                 ]
             },
             "condition": 0,
