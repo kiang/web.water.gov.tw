@@ -1101,6 +1101,25 @@
             "groupId": "210836",
             "interfaceNumber": "",
             "meterSetting": 0.5
+        },
+        {
+            "id": 5661,
+            "name": "台灣道教總廟玄義宮廟前",
+            "division": 23,
+            "contact": "郭子瑄",
+            "phone": "049-2222635",
+            "address": "南投縣中寮鄉永福村竹坑巷16-1號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.73448,
+                    23.89479800000002
+                ]
+            },
+            "condition": 0,
+            "groupId": "220679",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
         }
     ],
     "notsupply": [
