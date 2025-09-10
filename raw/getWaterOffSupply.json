@@ -970,6 +970,63 @@
             "meterSetting": 0.5
         },
         {
+            "id": 5550,
+            "name": "0910中山高中",
+            "division": 7,
+            "contact": "林宏勳",
+            "phone": "07-3513332",
+            "address": "楠梓區藍昌路416號消防栓旁",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13390867.786236513,
+                    2599337.04076199
+                ]
+            },
+            "condition": 0,
+            "groupId": "218579",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5551,
+            "name": "0910援中國小",
+            "division": 7,
+            "contact": "林宏勳",
+            "phone": "07-3513332",
+            "address": "楠梓區大學西路567號(大學南路全家超商對面)",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13389327.347122915,
+                    2599293.5915013533
+                ]
+            },
+            "condition": 0,
+            "groupId": "218579",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5552,
+            "name": "0910楠梓公3公園",
+            "division": 7,
+            "contact": "林宏勳",
+            "phone": "07-3513332",
+            "address": "楠梓區大學二十七街與大學西路交叉口",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13389655.739620756,
+                    2598764.1231710706
+                ]
+            },
+            "condition": 0,
+            "groupId": "218579",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
             "id": 5553,
             "name": "華陽里守望相助隊前",
             "division": 72,
@@ -985,160 +1042,6 @@
             },
             "condition": 0,
             "groupId": "210836",
-            "interfaceNumber": "",
-            "meterSetting": 0.5
-        },
-        {
-            "id": 5585,
-            "name": "彰化市公所廣場(介壽館)",
-            "division": 72,
-            "contact": "蔡秉諺",
-            "phone": "04-7245031#250",
-            "address": "彰化縣彰化市民生路259號",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    13418728.446142895,
-                    2763315.413866436
-                ]
-            },
-            "condition": 0,
-            "groupId": "210836",
-            "interfaceNumber": "",
-            "meterSetting": 0.5
-        },
-        {
-            "id": 5656,
-            "name": "國聖國小大門",
-            "division": 72,
-            "contact": "蔡秉諺",
-            "phone": "04-7254043#250",
-            "address": "彰化市中山路三段608號",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    13421582.524792876,
-                    2764678.677078943
-                ]
-            },
-            "condition": 0,
-            "groupId": "210836",
-            "interfaceNumber": "",
-            "meterSetting": 0.3
-        },
-        {
-            "id": 5657,
-            "name": "線東路一段466-1號(台塑加油站對面)",
-            "division": 72,
-            "contact": "蔡秉諺",
-            "phone": "04-7254043#250",
-            "address": "彰化市線東路一段466-1號",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    13416051.159561688,
-                    2762521.813946508
-                ]
-            },
-            "condition": 0,
-            "groupId": "210836",
-            "interfaceNumber": "",
-            "meterSetting": 0.3
-        },
-        {
-            "id": 5658,
-            "name": "資源回收場門口",
-            "division": 72,
-            "contact": "蔡秉諺",
-            "phone": "04-7254043#250",
-            "address": "彰化市寶廍路378-38號",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    13420240.740990657,
-                    2766397.08885961
-                ]
-            },
-            "condition": 0,
-            "groupId": "210836",
-            "interfaceNumber": "",
-            "meterSetting": 0.3
-        },
-        {
-            "id": 5659,
-            "name": "南北管音樂戲曲館(崙平北路61巷口)",
-            "division": 72,
-            "contact": "蔡秉諺",
-            "phone": "04-7245031#250",
-            "address": "彰化市崙平里平和七街66號",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    13417342.920224726,
-                    2761750.7386551434
-                ]
-            },
-            "condition": 0,
-            "groupId": "210836",
-            "interfaceNumber": "",
-            "meterSetting": 0.3
-        },
-        {
-            "id": 5660,
-            "name": "華山公園（魚市場附近）",
-            "division": 72,
-            "contact": "蔡秉諺",
-            "phone": "04-7254043#250",
-            "address": "彰化市華山路273巷8號斜對面",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    13417983.824189613,
-                    2762600.912033299
-                ]
-            },
-            "condition": 0,
-            "groupId": "210836",
-            "interfaceNumber": "",
-            "meterSetting": 0.5
-        },
-        {
-            "id": 5661,
-            "name": "台灣道教總廟玄義宮廟前",
-            "division": 23,
-            "contact": "郭子瑄",
-            "phone": "049-2222635",
-            "address": "南投縣中寮鄉永福村竹坑巷16-1號",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    13440100.834790673,
-                    2740594.0175160393
-                ]
-            },
-            "condition": 0,
-            "groupId": "220679",
-            "interfaceNumber": "",
-            "meterSetting": 0.5
-        }
-    ],
-    "notsupply": [
-        {
-            "id": 5573,
-            "name": "0910本洲里活動中心",
-            "division": 4,
-            "contact": "葉天祥",
-            "phone": "07-6222814",
-            "address": "高雄市岡山區本洲里本洲二街6號",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    13387407.085906731,
-                    2609050.3409116874
-                ]
-            },
-            "condition": 0,
-            "groupId": "218579",
             "interfaceNumber": "",
             "meterSetting": 0.5
         },
@@ -1200,36 +1103,17 @@
             "meterSetting": 0.5
         },
         {
-            "id": 5561,
-            "name": "0910竹圍里社區活動中心",
+            "id": 5557,
+            "name": "0910華崗社區發展協會",
             "division": 4,
             "contact": "葉天祥",
             "phone": "07-6222814",
-            "address": "高雄市岡山區竹圍里竹圍中街66號",
+            "address": "高雄市岡山區華崗里大埔二街170號",
             "location": {
                 "type": "Point",
                 "coordinates": [
-                    13391983.318853753,
-                    2607979.0809351034
-                ]
-            },
-            "condition": 0,
-            "groupId": "218579",
-            "interfaceNumber": "",
-            "meterSetting": 0.5
-        },
-        {
-            "id": 5550,
-            "name": "0910中山高中",
-            "division": 7,
-            "contact": "林宏勳",
-            "phone": "07-3513332",
-            "address": "楠梓區藍昌路416號消防栓旁",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    13390867.786236513,
-                    2599337.04076199
+                    13394231.08201185,
+                    2610761.8932170933
                 ]
             },
             "condition": 0,
@@ -1287,6 +1171,25 @@
                 "coordinates": [
                     13391575.555558976,
                     2608490.73140772
+                ]
+            },
+            "condition": 0,
+            "groupId": "218579",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5561,
+            "name": "0910竹圍里社區活動中心",
+            "division": 4,
+            "contact": "葉天祥",
+            "phone": "07-6222814",
+            "address": "高雄市岡山區竹圍里竹圍中街66號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13391983.318853753,
+                    2607979.0809351034
                 ]
             },
             "condition": 0,
@@ -1371,6 +1274,120 @@
             "meterSetting": 0.5
         },
         {
+            "id": 5566,
+            "name": "0910自來水公司岡山服務所",
+            "division": 4,
+            "contact": "葉天祥",
+            "phone": "07-6222814",
+            "address": "高雄市岡山區岡山里岡山路450號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13391239.1480578,
+                    2607575.519845501
+                ]
+            },
+            "condition": 0,
+            "groupId": "218579",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5567,
+            "name": "0910岡山國小(校前路)",
+            "division": 4,
+            "contact": "葉天祥",
+            "phone": "07-6222814",
+            "address": "高雄市岡山區平安里柳橋東路36號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13391030.201373579,
+                    2606814.311256583
+                ]
+            },
+            "condition": 0,
+            "groupId": "218579",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5568,
+            "name": "0910勵志新城協和教會",
+            "division": 4,
+            "contact": "葉天祥",
+            "phone": "07-6222814",
+            "address": "高雄市岡山區忠孝里勵志二路66號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13391136.400167797,
+                    2606583.8062706348
+                ]
+            },
+            "condition": 0,
+            "groupId": "218579",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5569,
+            "name": "0910岡山河堤公園",
+            "division": 4,
+            "contact": "葉天祥",
+            "phone": "07-6222814",
+            "address": "高雄市岡山區仁義里仁義路2號前",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13391219.110549456,
+                    2606162.047250507
+                ]
+            },
+            "condition": 0,
+            "groupId": "218579",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5570,
+            "name": "0910慈惠堂",
+            "division": 4,
+            "contact": "葉天祥",
+            "phone": "07-6222814",
+            "address": "高雄市岡山區維仁里維新路143巷7號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13390828.156497791,
+                    2606951.360014679
+                ]
+            },
+            "condition": 0,
+            "groupId": "218579",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5571,
+            "name": "0910壽天宮",
+            "division": 4,
+            "contact": "葉天祥",
+            "phone": "07-6222814",
+            "address": "高雄市岡山區壽天里公園路40號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13390736.206598395,
+                    2607676.348813473
+                ]
+            },
+            "condition": 0,
+            "groupId": "218579",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
             "id": 5572,
             "name": "0910碧雲宮",
             "division": 4,
@@ -1382,6 +1399,215 @@
                 "coordinates": [
                     13389912.998963978,
                     2609729.0469483654
+                ]
+            },
+            "condition": 0,
+            "groupId": "218579",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5573,
+            "name": "0910本洲里活動中心",
+            "division": 4,
+            "contact": "葉天祥",
+            "phone": "07-6222814",
+            "address": "高雄市岡山區本洲里本洲二街6號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13387407.085906731,
+                    2609050.3409116874
+                ]
+            },
+            "condition": 0,
+            "groupId": "218579",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5574,
+            "name": "0910壽峰里辦公處",
+            "division": 4,
+            "contact": "葉天祥",
+            "phone": "07-6222814",
+            "address": "高雄市岡山區壽峰里前峰路102號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13390267.551542157,
+                    2607384.7313925102
+                ]
+            },
+            "condition": 0,
+            "groupId": "218579",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5575,
+            "name": "0910前鋒龍峰宮",
+            "division": 4,
+            "contact": "葉天祥",
+            "phone": "07-6222814",
+            "address": "高雄市岡山區前峰里大公路6號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13390169.256431786,
+                    2607371.690237224
+                ]
+            },
+            "condition": 0,
+            "groupId": "218579",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5576,
+            "name": "0910協和里活動中心",
+            "division": 4,
+            "contact": "葉天祥",
+            "phone": "07-6222814",
+            "address": "高雄市岡山區協和里協和街64-1號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13389733.663264312,
+                    2607373.0185025665
+                ]
+            },
+            "condition": 0,
+            "groupId": "218579",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5577,
+            "name": "0910後協里代天府",
+            "division": 4,
+            "contact": "葉天祥",
+            "phone": "07-6222814",
+            "address": "高雄市岡山區後協里介壽西路106號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13389719.303049998,
+                    2605974.172962363
+                ]
+            },
+            "condition": 0,
+            "groupId": "218579",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5578,
+            "name": "0910仁壽宮",
+            "division": 4,
+            "contact": "葉天祥",
+            "phone": "07-6222814",
+            "address": "高雄市岡山區仁壽里正言街76巷1號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13390088.77243994,
+                    2606832.061119536
+                ]
+            },
+            "condition": 0,
+            "groupId": "218579",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5579,
+            "name": "0910前峰國中(仁壽路)",
+            "division": 4,
+            "contact": "葉天祥",
+            "phone": "07-6222814",
+            "address": "高雄市岡山區信義里樹人路1號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13390445.662727425,
+                    2606575.8370622005
+                ]
+            },
+            "condition": 0,
+            "groupId": "218579",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5580,
+            "name": "0910劉厝寶公宮",
+            "division": 4,
+            "contact": "葉天祥",
+            "phone": "07-6222814",
+            "address": "高雄市岡山區劉厝里劉厝路145號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13390519.022271859,
+                    2605562.933767594
+                ]
+            },
+            "condition": 0,
+            "groupId": "218579",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5581,
+            "name": "0910協榮社區發展協會",
+            "division": 4,
+            "contact": "葉天祥",
+            "phone": "07-6222814",
+            "address": "高雄市岡山區協榮里久和路53-1號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13389634.349738803,
+                    2605791.4545563348
+                ]
+            },
+            "condition": 0,
+            "groupId": "218579",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5582,
+            "name": "0910白米里長服務處",
+            "division": 4,
+            "contact": "葉天祥",
+            "phone": "07-6222814",
+            "address": "高雄市岡山區白米里光潭路97號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13388927.153553512,
+                    2604919.291386121
+                ]
+            },
+            "condition": 0,
+            "groupId": "218579",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5583,
+            "name": "0910福興宮",
+            "division": 4,
+            "contact": "葉天祥",
+            "phone": "07-6222814",
+            "address": "高雄市岡山區福興里頂潭路13巷71號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13388178.822485957,
+                    2604441.2806977644
                 ]
             },
             "condition": 0,
@@ -1409,21 +1635,21 @@
             "meterSetting": 0.5
         },
         {
-            "id": 5583,
-            "name": "0910福興宮",
-            "division": 4,
-            "contact": "葉天祥",
-            "phone": "07-6222814",
-            "address": "高雄市岡山區福興里頂潭路13巷71號",
+            "id": 5585,
+            "name": "彰化市公所廣場(介壽館)",
+            "division": 72,
+            "contact": "蔡秉諺",
+            "phone": "04-7245031#250",
+            "address": "彰化縣彰化市民生路259號",
             "location": {
                 "type": "Point",
                 "coordinates": [
-                    13388178.822485957,
-                    2604441.2806977644
+                    13418728.446142895,
+                    2763315.413866436
                 ]
             },
             "condition": 0,
-            "groupId": "218579",
+            "groupId": "210836",
             "interfaceNumber": "",
             "meterSetting": 0.5
         },
@@ -1477,82 +1703,6 @@
                 "coordinates": [
                     13385972.73426786,
                     2599810.8865124793
-                ]
-            },
-            "condition": 0,
-            "groupId": "218579",
-            "interfaceNumber": "",
-            "meterSetting": 0.5
-        },
-        {
-            "id": 5593,
-            "name": "0910智蚵信蚵活動中心2",
-            "division": 4,
-            "contact": "葉天祥",
-            "phone": "07-6222814",
-            "address": "高雄市梓官區廣澤路3號",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    13386679.501714908,
-                    2599355.023961658
-                ]
-            },
-            "condition": 0,
-            "groupId": "218579",
-            "interfaceNumber": "",
-            "meterSetting": 0.5
-        },
-        {
-            "id": 5601,
-            "name": "0910安樂宮1",
-            "division": 4,
-            "contact": "葉天祥",
-            "phone": "07-6222814",
-            "address": "高雄市彌陀區過港里產業路3號",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    13385362.703458315,
-                    2606453.522271137
-                ]
-            },
-            "condition": 0,
-            "groupId": "218579",
-            "interfaceNumber": "",
-            "meterSetting": 0.5
-        },
-        {
-            "id": 5606,
-            "name": "0910彌陀區消防分隊",
-            "division": 4,
-            "contact": "葉天祥",
-            "phone": "07-6222814",
-            "address": "高雄市彌陀區彌靖里中正北路7號",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    13385757.108414194,
-                    2605910.9047256107
-                ]
-            },
-            "condition": 0,
-            "groupId": "218579",
-            "interfaceNumber": "",
-            "meterSetting": 0.5
-        },
-        {
-            "id": 5628,
-            "name": "0910仕豐社區活動中心",
-            "division": 4,
-            "contact": "葉天祥",
-            "phone": "07-6222814",
-            "address": "高雄市橋頭區仕豐里仕豐南路49號",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    13392848.60525569,
-                    2601748.533390774
                 ]
             },
             "condition": 0,
@@ -1620,6 +1770,25 @@
         {
             "id": 5592,
             "name": "0910智蚵信蚵活動中心1",
+            "division": 4,
+            "contact": "葉天祥",
+            "phone": "07-6222814",
+            "address": "高雄市梓官區廣澤路3號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13386679.501714908,
+                    2599355.023961658
+                ]
+            },
+            "condition": 0,
+            "groupId": "218579",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5593,
+            "name": "0910智蚵信蚵活動中心2",
             "division": 4,
             "contact": "葉天祥",
             "phone": "07-6222814",
@@ -1732,6 +1901,25 @@
             "meterSetting": 0.5
         },
         {
+            "id": 5599,
+            "name": "0910大舍甲大壽宮",
+            "division": 4,
+            "contact": "葉天祥",
+            "phone": "07-6222814",
+            "address": "高雄市梓官區大舍里大舍東路公厝巷4號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13387678.928103248,
+                    2601590.8866365855
+                ]
+            },
+            "condition": 0,
+            "groupId": "218579",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
             "id": 5600,
             "name": "0910典寶代天府",
             "division": 4,
@@ -1743,6 +1931,25 @@
                 "coordinates": [
                     13387183.791453501,
                     2600321.089952639
+                ]
+            },
+            "condition": 0,
+            "groupId": "218579",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5601,
+            "name": "0910安樂宮1",
+            "division": 4,
+            "contact": "葉天祥",
+            "phone": "07-6222814",
+            "address": "高雄市彌陀區過港里產業路3號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13385362.703458315,
+                    2606453.522271137
                 ]
             },
             "condition": 0,
@@ -1819,6 +2026,25 @@
                 "coordinates": [
                     13385399.33912722,
                     2605700.267763431
+                ]
+            },
+            "condition": 0,
+            "groupId": "218579",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5606,
+            "name": "0910彌陀區消防分隊",
+            "division": 4,
+            "contact": "葉天祥",
+            "phone": "07-6222814",
+            "address": "高雄市彌陀區彌靖里中正北路7號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13385757.108414194,
+                    2605910.9047256107
                 ]
             },
             "condition": 0,
@@ -1933,6 +2159,25 @@
                 "coordinates": [
                     13384874.513503319,
                     2603118.7803060235
+                ]
+            },
+            "condition": 0,
+            "groupId": "218579",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5613,
+            "name": "0910和平國小(和平二街)",
+            "division": 4,
+            "contact": "葉天祥",
+            "phone": "07-6222814",
+            "address": "高雄市岡山區和平里和平路1號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13392160.762122078,
+                    2605682.9479031973
                 ]
             },
             "condition": 0,
@@ -2207,6 +2452,25 @@
             "meterSetting": 0.5
         },
         {
+            "id": 5628,
+            "name": "0910仕豐社區活動中心",
+            "division": 4,
+            "contact": "葉天祥",
+            "phone": "07-6222814",
+            "address": "高雄市橋頭區仕豐里仕豐南路49號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13392848.60525569,
+                    2601748.533390774
+                ]
+            },
+            "condition": 0,
+            "groupId": "218579",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
             "id": 5629,
             "name": "0910仕隆國小後門",
             "division": 4,
@@ -2283,17 +2547,17 @@
             "meterSetting": 0.5
         },
         {
-            "id": 5557,
-            "name": "0910華崗社區發展協會",
-            "division": 4,
-            "contact": "葉天祥",
-            "phone": "07-6222814",
-            "address": "高雄市岡山區華崗里大埔二街170號",
+            "id": 5633,
+            "name": "0910路竹區公所",
+            "division": 8,
+            "contact": "朱慧祺",
+            "phone": "07-6934819",
+            "address": "高雄市路竹區國昌路76號",
             "location": {
                 "type": "Point",
                 "coordinates": [
-                    13394231.08201185,
-                    2610761.8932170933
+                    13387202.03540469,
+                    2614467.8478979627
                 ]
             },
             "condition": 0,
@@ -2302,321 +2566,17 @@
             "meterSetting": 0.5
         },
         {
-            "id": 5613,
-            "name": "0910和平國小(和平二街)",
-            "division": 4,
-            "contact": "葉天祥",
-            "phone": "07-6222814",
-            "address": "高雄市岡山區和平里和平路1號",
+            "id": 5634,
+            "name": "0910路竹一甲觀音亭",
+            "division": 8,
+            "contact": "朱慧祺",
+            "phone": "07-6934819",
+            "address": "高雄市路竹區大智路39號",
             "location": {
                 "type": "Point",
                 "coordinates": [
-                    13392160.762122078,
-                    2605682.9479031973
-                ]
-            },
-            "condition": 0,
-            "groupId": "218579",
-            "interfaceNumber": "",
-            "meterSetting": 0.5
-        },
-        {
-            "id": 5551,
-            "name": "0910援中國小",
-            "division": 7,
-            "contact": "林宏勳",
-            "phone": "07-3513332",
-            "address": "楠梓區大學西路567號(大學南路全家超商對面)",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    13389327.347122915,
-                    2599293.5915013533
-                ]
-            },
-            "condition": 0,
-            "groupId": "218579",
-            "interfaceNumber": "",
-            "meterSetting": 0.5
-        },
-        {
-            "id": 5552,
-            "name": "0910楠梓公3公園",
-            "division": 7,
-            "contact": "林宏勳",
-            "phone": "07-3513332",
-            "address": "楠梓區大學二十七街與大學西路交叉口",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    13389655.739620756,
-                    2598764.1231710706
-                ]
-            },
-            "condition": 0,
-            "groupId": "218579",
-            "interfaceNumber": "",
-            "meterSetting": 0.5
-        },
-        {
-            "id": 5566,
-            "name": "0910自來水公司岡山服務所",
-            "division": 4,
-            "contact": "葉天祥",
-            "phone": "07-6222814",
-            "address": "高雄市岡山區岡山里岡山路450號",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    13391239.1480578,
-                    2607575.519845501
-                ]
-            },
-            "condition": 0,
-            "groupId": "218579",
-            "interfaceNumber": "",
-            "meterSetting": 0.5
-        },
-        {
-            "id": 5568,
-            "name": "0910勵志新城協和教會",
-            "division": 4,
-            "contact": "葉天祥",
-            "phone": "07-6222814",
-            "address": "高雄市岡山區忠孝里勵志二路66號",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    13391136.400167797,
-                    2606583.8062706348
-                ]
-            },
-            "condition": 0,
-            "groupId": "218579",
-            "interfaceNumber": "",
-            "meterSetting": 0.5
-        },
-        {
-            "id": 5569,
-            "name": "0910岡山河堤公園",
-            "division": 4,
-            "contact": "葉天祥",
-            "phone": "07-6222814",
-            "address": "高雄市岡山區仁義里仁義路2號前",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    13391219.110549456,
-                    2606162.047250507
-                ]
-            },
-            "condition": 0,
-            "groupId": "218579",
-            "interfaceNumber": "",
-            "meterSetting": 0.5
-        },
-        {
-            "id": 5570,
-            "name": "0910慈惠堂",
-            "division": 4,
-            "contact": "葉天祥",
-            "phone": "07-6222814",
-            "address": "高雄市岡山區維仁里維新路143巷7號",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    13390828.156497791,
-                    2606951.360014679
-                ]
-            },
-            "condition": 0,
-            "groupId": "218579",
-            "interfaceNumber": "",
-            "meterSetting": 0.5
-        },
-        {
-            "id": 5571,
-            "name": "0910壽天宮",
-            "division": 4,
-            "contact": "葉天祥",
-            "phone": "07-6222814",
-            "address": "高雄市岡山區壽天里公園路40號",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    13390736.206598395,
-                    2607676.348813473
-                ]
-            },
-            "condition": 0,
-            "groupId": "218579",
-            "interfaceNumber": "",
-            "meterSetting": 0.5
-        },
-        {
-            "id": 5574,
-            "name": "0910壽峰里辦公處",
-            "division": 4,
-            "contact": "葉天祥",
-            "phone": "07-6222814",
-            "address": "高雄市岡山區壽峰里前峰路102號",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    13390267.551542157,
-                    2607384.7313925102
-                ]
-            },
-            "condition": 0,
-            "groupId": "218579",
-            "interfaceNumber": "",
-            "meterSetting": 0.5
-        },
-        {
-            "id": 5575,
-            "name": "0910前鋒龍峰宮",
-            "division": 4,
-            "contact": "葉天祥",
-            "phone": "07-6222814",
-            "address": "高雄市岡山區前峰里大公路6號",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    13390169.256431786,
-                    2607371.690237224
-                ]
-            },
-            "condition": 0,
-            "groupId": "218579",
-            "interfaceNumber": "",
-            "meterSetting": 0.5
-        },
-        {
-            "id": 5576,
-            "name": "0910協和里活動中心",
-            "division": 4,
-            "contact": "葉天祥",
-            "phone": "07-6222814",
-            "address": "高雄市岡山區協和里協和街64-1號",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    13389733.663264312,
-                    2607373.0185025665
-                ]
-            },
-            "condition": 0,
-            "groupId": "218579",
-            "interfaceNumber": "",
-            "meterSetting": 0.5
-        },
-        {
-            "id": 5577,
-            "name": "0910後協里代天府",
-            "division": 4,
-            "contact": "葉天祥",
-            "phone": "07-6222814",
-            "address": "高雄市岡山區後協里介壽西路106號",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    13389719.303049998,
-                    2605974.172962363
-                ]
-            },
-            "condition": 0,
-            "groupId": "218579",
-            "interfaceNumber": "",
-            "meterSetting": 0.5
-        },
-        {
-            "id": 5578,
-            "name": "0910仁壽宮",
-            "division": 4,
-            "contact": "葉天祥",
-            "phone": "07-6222814",
-            "address": "高雄市岡山區仁壽里正言街76巷1號",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    13390088.77243994,
-                    2606832.061119536
-                ]
-            },
-            "condition": 0,
-            "groupId": "218579",
-            "interfaceNumber": "",
-            "meterSetting": 0.5
-        },
-        {
-            "id": 5580,
-            "name": "0910劉厝寶公宮",
-            "division": 4,
-            "contact": "葉天祥",
-            "phone": "07-6222814",
-            "address": "高雄市岡山區劉厝里劉厝路145號",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    13390519.022271859,
-                    2605562.933767594
-                ]
-            },
-            "condition": 0,
-            "groupId": "218579",
-            "interfaceNumber": "",
-            "meterSetting": 0.5
-        },
-        {
-            "id": 5581,
-            "name": "0910協榮社區發展協會",
-            "division": 4,
-            "contact": "葉天祥",
-            "phone": "07-6222814",
-            "address": "高雄市岡山區協榮里久和路53-1號",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    13389634.349738803,
-                    2605791.4545563348
-                ]
-            },
-            "condition": 0,
-            "groupId": "218579",
-            "interfaceNumber": "",
-            "meterSetting": 0.5
-        },
-        {
-            "id": 5582,
-            "name": "0910白米里長服務處",
-            "division": 4,
-            "contact": "葉天祥",
-            "phone": "07-6222814",
-            "address": "高雄市岡山區白米里光潭路97號",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    13388927.153553512,
-                    2604919.291386121
-                ]
-            },
-            "condition": 0,
-            "groupId": "218579",
-            "interfaceNumber": "",
-            "meterSetting": 0.5
-        },
-        {
-            "id": 5599,
-            "name": "0910大舍甲大壽宮",
-            "division": 4,
-            "contact": "葉天祥",
-            "phone": "07-6222814",
-            "address": "高雄市梓官區大舍里大舍東路公厝巷4號",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    13387678.928103248,
-                    2601590.8866365855
+                    13388325.694344757,
+                    2616770.4035886717
                 ]
             },
             "condition": 0,
@@ -2655,82 +2615,6 @@
                 "coordinates": [
                     13390503.103584677,
                     2615899.3111687466
-                ]
-            },
-            "condition": 0,
-            "groupId": "218579",
-            "interfaceNumber": "",
-            "meterSetting": 0.5
-        },
-        {
-            "id": 5655,
-            "name": "0910新港宮",
-            "division": 8,
-            "contact": "朱慧祺",
-            "phone": "07-6934819",
-            "address": "高雄市永安區新興路128號",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    13381673.241574952,
-                    2610460.076075532
-                ]
-            },
-            "condition": 0,
-            "groupId": "218579",
-            "interfaceNumber": "",
-            "meterSetting": 0.5
-        },
-        {
-            "id": 5633,
-            "name": "0910路竹區公所",
-            "division": 8,
-            "contact": "朱慧祺",
-            "phone": "07-6934819",
-            "address": "高雄市路竹區國昌路76號",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    13387202.03540469,
-                    2614467.8478979627
-                ]
-            },
-            "condition": 0,
-            "groupId": "218579",
-            "interfaceNumber": "",
-            "meterSetting": 0.5
-        },
-        {
-            "id": 5654,
-            "name": "0910烏樹林保寧宮",
-            "division": 8,
-            "contact": "朱慧祺",
-            "phone": "07-6934819",
-            "address": "高雄市永安區保安路240號",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    13384529.811028197,
-                    2612162.5953487004
-                ]
-            },
-            "condition": 0,
-            "groupId": "218579",
-            "interfaceNumber": "",
-            "meterSetting": 0.5
-        },
-        {
-            "id": 5634,
-            "name": "0910路竹一甲觀音亭",
-            "division": 8,
-            "contact": "朱慧祺",
-            "phone": "07-6934819",
-            "address": "高雄市路竹區大智路39號",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    13388325.694344757,
-                    2616770.4035886717
                 ]
             },
             "condition": 0,
@@ -2929,6 +2813,25 @@
             "meterSetting": 0.5
         },
         {
+            "id": 5647,
+            "name": "0910阿蓮農會",
+            "division": 8,
+            "contact": "朱慧祺",
+            "phone": "07-6934819",
+            "address": "高雄市阿蓮區中山路200號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13394788.013424288,
+                    2617145.072122797
+                ]
+            },
+            "condition": 0,
+            "groupId": "218579",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
             "id": 5648,
             "name": "0910阿蓮青旗興濟宮",
             "division": 8,
@@ -3043,17 +2946,17 @@
             "meterSetting": 0.5
         },
         {
-            "id": 5647,
-            "name": "0910阿蓮農會",
+            "id": 5654,
+            "name": "0910烏樹林保寧宮",
             "division": 8,
             "contact": "朱慧祺",
             "phone": "07-6934819",
-            "address": "高雄市阿蓮區中山路200號",
+            "address": "高雄市永安區保安路240號",
             "location": {
                 "type": "Point",
                 "coordinates": [
-                    13394788.013424288,
-                    2617145.072122797
+                    13384529.811028197,
+                    2612162.5953487004
                 ]
             },
             "condition": 0,
@@ -3062,17 +2965,17 @@
             "meterSetting": 0.5
         },
         {
-            "id": 5567,
-            "name": "0910岡山國小(校前路)",
-            "division": 4,
-            "contact": "葉天祥",
-            "phone": "07-6222814",
-            "address": "高雄市岡山區平安里柳橋東路36號",
+            "id": 5655,
+            "name": "0910新港宮",
+            "division": 8,
+            "contact": "朱慧祺",
+            "phone": "07-6934819",
+            "address": "高雄市永安區新興路128號",
             "location": {
                 "type": "Point",
                 "coordinates": [
-                    13391030.201373579,
-                    2606814.311256583
+                    13381673.241574952,
+                    2610460.076075532
                 ]
             },
             "condition": 0,
@@ -3081,21 +2984,116 @@
             "meterSetting": 0.5
         },
         {
-            "id": 5579,
-            "name": "0910前峰國中(仁壽路)",
-            "division": 4,
-            "contact": "葉天祥",
-            "phone": "07-6222814",
-            "address": "高雄市岡山區信義里樹人路1號",
+            "id": 5656,
+            "name": "國聖國小大門",
+            "division": 72,
+            "contact": "蔡秉諺",
+            "phone": "04-7254043#250",
+            "address": "彰化市中山路三段608號",
             "location": {
                 "type": "Point",
                 "coordinates": [
-                    13390445.662727425,
-                    2606575.8370622005
+                    13421582.524792876,
+                    2764678.677078943
                 ]
             },
             "condition": 0,
-            "groupId": "218579",
+            "groupId": "210836",
+            "interfaceNumber": "",
+            "meterSetting": 0.3
+        },
+        {
+            "id": 5657,
+            "name": "線東路一段466-1號(台塑加油站對面)",
+            "division": 72,
+            "contact": "蔡秉諺",
+            "phone": "04-7254043#250",
+            "address": "彰化市線東路一段466-1號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13416051.159561688,
+                    2762521.813946508
+                ]
+            },
+            "condition": 0,
+            "groupId": "210836",
+            "interfaceNumber": "",
+            "meterSetting": 0.3
+        },
+        {
+            "id": 5658,
+            "name": "資源回收場門口",
+            "division": 72,
+            "contact": "蔡秉諺",
+            "phone": "04-7254043#250",
+            "address": "彰化市寶廍路378-38號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13420240.740990657,
+                    2766397.08885961
+                ]
+            },
+            "condition": 0,
+            "groupId": "210836",
+            "interfaceNumber": "",
+            "meterSetting": 0.3
+        },
+        {
+            "id": 5659,
+            "name": "南北管音樂戲曲館(崙平北路61巷口)",
+            "division": 72,
+            "contact": "蔡秉諺",
+            "phone": "04-7245031#250",
+            "address": "彰化市崙平里平和七街66號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13417342.920224726,
+                    2761750.7386551434
+                ]
+            },
+            "condition": 0,
+            "groupId": "210836",
+            "interfaceNumber": "",
+            "meterSetting": 0.3
+        },
+        {
+            "id": 5660,
+            "name": "華山公園（魚市場附近）",
+            "division": 72,
+            "contact": "蔡秉諺",
+            "phone": "04-7254043#250",
+            "address": "彰化市華山路273巷8號斜對面",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13417983.824189613,
+                    2762600.912033299
+                ]
+            },
+            "condition": 0,
+            "groupId": "210836",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5661,
+            "name": "台灣道教總廟玄義宮廟前",
+            "division": 23,
+            "contact": "郭子瑄",
+            "phone": "049-2222635",
+            "address": "南投縣中寮鄉永福村竹坑巷16-1號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13440100.834790673,
+                    2740594.0175160393
+                ]
+            },
+            "condition": 0,
+            "groupId": "220679",
             "interfaceNumber": "",
             "meterSetting": 0.5
         }
