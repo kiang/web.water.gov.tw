@@ -1,12 +1,12 @@
 {
     "no": "202509230010",
     "endDate": "2025-09-22T16:00:00.000+0000",
-    "actualEndTime": null,
+    "actualEndTime": "2025-09-23T01:43:47.588+0000",
     "waterOffArea": null,
     "startTime": "09:04:00",
-    "lastUpdatedTime": "2025-09-23T01:04:57.625+0000",
+    "lastUpdatedTime": "2025-09-23T01:43:47.588+0000",
     "endTime": "10:00:00",
-    "category": 2,
+    "category": 1,
     "type": 1,
     "startDate": "2025-09-22T16:00:00.000+0000",
     "pressureDownArea": {
