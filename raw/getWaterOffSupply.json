@@ -132,9 +132,7 @@
             "groupId": "220679",
             "interfaceNumber": "",
             "meterSetting": 0.5
-        }
-    ],
-    "notsupply": [
+        },
         {
             "id": 5663,
             "name": "光復衛生所加水站",
@@ -149,29 +147,10 @@
                     2713478.1151418737
                 ]
             },
-            "condition": 0,
+            "condition": 1,
             "groupId": "223614",
             "interfaceNumber": "",
             "meterSetting": 0.5
-        },
-        {
-            "id": 5664,
-            "name": "光復國中加水站",
-            "division": 274,
-            "contact": "簡睿宏",
-            "phone": "03-8762058-101",
-            "address": "976花蓮縣光復鄉中學街156號",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    13517087.613511449,
-                    2713459.8831841215
-                ]
-            },
-            "condition": 0,
-            "groupId": "223614",
-            "interfaceNumber": "",
-            "meterSetting": 0
         },
         {
             "id": 5665,
@@ -187,7 +166,7 @@
                     2713154.561774145
                 ]
             },
-            "condition": 0,
+            "condition": 1,
             "groupId": "223614",
             "interfaceNumber": "",
             "meterSetting": 0
@@ -206,7 +185,7 @@
                     2713697.8726521498
                 ]
             },
-            "condition": 0,
+            "condition": 1,
             "groupId": "223614",
             "interfaceNumber": "",
             "meterSetting": 0
@@ -225,7 +204,7 @@
                     2713090.022052202
                 ]
             },
-            "condition": 0,
+            "condition": 1,
             "groupId": "223614",
             "interfaceNumber": "",
             "meterSetting": 0
@@ -244,7 +223,7 @@
                     2713595.1648090463
                 ]
             },
-            "condition": 0,
+            "condition": 1,
             "groupId": "223614",
             "interfaceNumber": "",
             "meterSetting": 0
@@ -263,7 +242,7 @@
                     2713595.1648090463
                 ]
             },
-            "condition": 0,
+            "condition": 1,
             "groupId": "223614",
             "interfaceNumber": "",
             "meterSetting": 0
@@ -282,7 +261,7 @@
                     2713595.1648090463
                 ]
             },
-            "condition": 0,
+            "condition": 1,
             "groupId": "223614",
             "interfaceNumber": "",
             "meterSetting": 0
@@ -301,64 +280,7 @@
                     2713595.1648090463
                 ]
             },
-            "condition": 0,
-            "groupId": "223614",
-            "interfaceNumber": "",
-            "meterSetting": 0
-        },
-        {
-            "id": 5672,
-            "name": "光復商工加水站",
-            "division": 274,
-            "contact": "簡睿宏",
-            "phone": "03-8762058-101",
-            "address": "976花蓮縣光復鄉林森路100號",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    13517211.066826738,
-                    2712925.088398326
-                ]
-            },
-            "condition": 0,
-            "groupId": "223614",
-            "interfaceNumber": "",
-            "meterSetting": 0
-        },
-        {
-            "id": 5673,
-            "name": "全家便利商店加水站",
-            "division": 274,
-            "contact": "簡睿宏",
-            "phone": "03-8762058-101",
-            "address": "976花蓮縣光復鄉中山路二段223號",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    13516813.544925114,
-                    2712752.4993777596
-                ]
-            },
-            "condition": 0,
-            "groupId": "223614",
-            "interfaceNumber": "",
-            "meterSetting": 0
-        },
-        {
-            "id": 5674,
-            "name": "中華電信加水站",
-            "division": 274,
-            "contact": "簡睿宏",
-            "phone": "03-8762058-101",
-            "address": "97645花蓮縣光復鄉中正路一段132號",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    13516974.735547783,
-                    2712663.0455244407
-                ]
-            },
-            "condition": 0,
+            "condition": 1,
             "groupId": "223614",
             "interfaceNumber": "",
             "meterSetting": 0
@@ -377,64 +299,7 @@
                     2712583.923038558
                 ]
             },
-            "condition": 0,
-            "groupId": "223614",
-            "interfaceNumber": "",
-            "meterSetting": 0
-        },
-        {
-            "id": 5676,
-            "name": "福德宮加水站",
-            "division": 274,
-            "contact": "簡睿宏",
-            "phone": "03-8762058-101",
-            "address": "976花蓮縣光復鄉中正路一段329號",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    13517719.574260682,
-                    2712443.6669426486
-                ]
-            },
-            "condition": 0,
-            "groupId": "223614",
-            "interfaceNumber": "",
-            "meterSetting": 0
-        },
-        {
-            "id": 5677,
-            "name": "光復圖書館加水站",
-            "division": 274,
-            "contact": "簡睿宏",
-            "phone": "03-8762058-101",
-            "address": "976花蓮縣光復鄉忠孝路23巷11號",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    13516827.459861465,
-                    2712475.14545609
-                ]
-            },
-            "condition": 0,
-            "groupId": "223614",
-            "interfaceNumber": "",
-            "meterSetting": 0
-        },
-        {
-            "id": 5678,
-            "name": "大安教會加水站",
-            "division": 274,
-            "contact": "簡睿宏",
-            "phone": "03-8762058-101",
-            "address": "976花蓮縣光復鄉中山路二段129號",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    13516687.642581029,
-                    2712485.597794803
-                ]
-            },
-            "condition": 0,
+            "condition": 1,
             "groupId": "223614",
             "interfaceNumber": "",
             "meterSetting": 0
@@ -453,7 +318,7 @@
                     2711801.105663728
                 ]
             },
-            "condition": 0,
+            "condition": 1,
             "groupId": "223614",
             "interfaceNumber": "",
             "meterSetting": 0
@@ -472,7 +337,7 @@
                     2713204.516428188
                 ]
             },
-            "condition": 0,
+            "condition": 1,
             "groupId": "223614",
             "interfaceNumber": "",
             "meterSetting": 0
@@ -559,15 +424,15 @@
             "division": 274,
             "contact": "簡睿宏",
             "phone": "03-8762058-101",
-            "address": "花蓮縣光復鄉大馬村",
+            "address": "花蓮縣光復鄉大馬村林森路730號",
             "location": {
                 "type": "Point",
                 "coordinates": [
-                    13405908.20579563,
-                    2757594.782872964
+                    13515171.056161452,
+                    2715122.8002349967
                 ]
             },
-            "condition": 0,
+            "condition": 1,
             "groupId": "223614",
             "interfaceNumber": "",
             "meterSetting": 0.5
@@ -578,18 +443,18 @@
             "division": 274,
             "contact": "簡睿宏",
             "phone": "03-8762058-101",
-            "address": "花蓮縣光復鄉大馬村",
+            "address": "花蓮縣光復鄉大馬村林森路460號及八德街路口",
             "location": {
                 "type": "Point",
                 "coordinates": [
-                    13405908.20579563,
-                    2757594.782872964
+                    13516383.200153831,
+                    2714452.6492085448
                 ]
             },
-            "condition": 0,
+            "condition": 1,
             "groupId": "223614",
             "interfaceNumber": "",
-            "meterSetting": 0
+            "meterSetting": 0.5
         },
         {
             "id": 5687,
@@ -605,7 +470,7 @@
                     2714416.1168284984
                 ]
             },
-            "condition": 0,
+            "condition": 1,
             "groupId": "223614",
             "interfaceNumber": "",
             "meterSetting": 0
@@ -624,7 +489,7 @@
                     2716276.4826112604
                 ]
             },
-            "condition": 0,
+            "condition": 1,
             "groupId": "223614",
             "interfaceNumber": "",
             "meterSetting": 0
@@ -643,10 +508,48 @@
                     2713028.76425355
                 ]
             },
-            "condition": 0,
+            "condition": 1,
             "groupId": "223614",
             "interfaceNumber": "",
             "meterSetting": 0
+        },
+        {
+            "id": 5690,
+            "name": "大進國小加水站1",
+            "division": 274,
+            "contact": "黃佳能",
+            "phone": "03-8762051-101",
+            "address": "花蓮縣光復鄉糖廠街4號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13516332.97868336,
+                    2711410.1367915384
+                ]
+            },
+            "condition": 0,
+            "groupId": "223614",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5691,
+            "name": "大進國小加水站2",
+            "division": 274,
+            "contact": "黃佳能",
+            "phone": "03-8762051-101",
+            "address": "花蓮縣光復鄉糖廠街4號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13516332.97868336,
+                    2711410.1367915384
+                ]
+            },
+            "condition": 0,
+            "groupId": "223614",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
         }
     ]
 }
