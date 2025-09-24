@@ -133,5 +133,520 @@
             "interfaceNumber": "",
             "meterSetting": 0.5
         }
+    ],
+    "notsupply": [
+        {
+            "id": 5663,
+            "name": "光復衛生所加水站",
+            "division": 274,
+            "contact": "簡睿宏",
+            "phone": "03-8762058-101",
+            "address": "976花蓮縣光復鄉中學街158號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    121.42594100000001,
+                    23.671898000000002
+                ]
+            },
+            "condition": 0,
+            "groupId": "223614",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5664,
+            "name": "光復國中加水站",
+            "division": 274,
+            "contact": "簡睿宏",
+            "phone": "03-8762058-101",
+            "address": "976花蓮縣光復鄉中學街156號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    121.42606400000001,
+                    23.671748000000008
+                ]
+            },
+            "condition": 0,
+            "groupId": "223614",
+            "interfaceNumber": "",
+            "meterSetting": 0
+        },
+        {
+            "id": 5665,
+            "name": "光復鄉公所取水站",
+            "division": 274,
+            "contact": "簡睿宏",
+            "phone": "03-8762058-101",
+            "address": "976花蓮縣光復鄉中華路257號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    121.42345700000001,
+                    23.669235999999998
+                ]
+            },
+            "condition": 0,
+            "groupId": "223614",
+            "interfaceNumber": "",
+            "meterSetting": 0
+        },
+        {
+            "id": 5666,
+            "name": "光復國小取水站",
+            "division": 274,
+            "contact": "簡睿宏",
+            "phone": "03-8762058-101",
+            "address": "976花蓮縣光復鄉中山路三段75號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    121.42700399999998,
+                    23.673706
+                ]
+            },
+            "condition": 0,
+            "groupId": "223614",
+            "interfaceNumber": "",
+            "meterSetting": 0
+        },
+        {
+            "id": 5667,
+            "name": "光復教會加水站",
+            "division": 274,
+            "contact": "簡睿宏",
+            "phone": "03-8762058-101",
+            "address": "976花蓮縣光復鄉敦厚路194號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    121.42645400000004,
+                    23.668704999999996
+                ]
+            },
+            "condition": 0,
+            "groupId": "223614",
+            "interfaceNumber": "",
+            "meterSetting": 0
+        },
+        {
+            "id": 5668,
+            "name": "三玄宮加水站",
+            "division": 274,
+            "contact": "簡睿宏",
+            "phone": "03-8762058-101",
+            "address": "976花蓮縣光復鄉成功街178號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    121.43290100000003,
+                    23.672860999999994
+                ]
+            },
+            "condition": 0,
+            "groupId": "223614",
+            "interfaceNumber": "",
+            "meterSetting": 0
+        },
+        {
+            "id": 5669,
+            "name": "中學街敦厚路口",
+            "division": 274,
+            "contact": "簡睿宏",
+            "phone": "03-8762058-101",
+            "address": "花蓮縣光復鄉大同村",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    121.43290100000003,
+                    23.672860999999994
+                ]
+            },
+            "condition": 0,
+            "groupId": "223614",
+            "interfaceNumber": "",
+            "meterSetting": 0
+        },
+        {
+            "id": 5670,
+            "name": "學士街敦厚路口",
+            "division": 274,
+            "contact": "簡睿宏",
+            "phone": "03-8762058-101",
+            "address": "花蓮縣光復鄉大同村",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    121.43290100000003,
+                    23.672860999999994
+                ]
+            },
+            "condition": 0,
+            "groupId": "223614",
+            "interfaceNumber": "",
+            "meterSetting": 0
+        },
+        {
+            "id": 5671,
+            "name": "學士街與160巷路口",
+            "division": 274,
+            "contact": "簡睿宏",
+            "phone": "03-8762058-101",
+            "address": "花蓮縣光復鄉大同村",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    121.43290100000003,
+                    23.672860999999994
+                ]
+            },
+            "condition": 0,
+            "groupId": "223614",
+            "interfaceNumber": "",
+            "meterSetting": 0
+        },
+        {
+            "id": 5672,
+            "name": "光復商工加水站",
+            "division": 274,
+            "contact": "簡睿宏",
+            "phone": "03-8762058-101",
+            "address": "976花蓮縣光復鄉林森路100號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    121.42717300000002,
+                    23.667347999999986
+                ]
+            },
+            "condition": 0,
+            "groupId": "223614",
+            "interfaceNumber": "",
+            "meterSetting": 0
+        },
+        {
+            "id": 5673,
+            "name": "全家便利商店加水站",
+            "division": 274,
+            "contact": "簡睿宏",
+            "phone": "03-8762058-101",
+            "address": "976花蓮縣光復鄉中山路二段223號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    121.423602,
+                    23.665927999999997
+                ]
+            },
+            "condition": 0,
+            "groupId": "223614",
+            "interfaceNumber": "",
+            "meterSetting": 0
+        },
+        {
+            "id": 5674,
+            "name": "中華電信加水站",
+            "division": 274,
+            "contact": "簡睿宏",
+            "phone": "03-8762058-101",
+            "address": "97645花蓮縣光復鄉中正路一段132號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    121.42505,
+                    23.66519200000001
+                ]
+            },
+            "condition": 0,
+            "groupId": "223614",
+            "interfaceNumber": "",
+            "meterSetting": 0
+        },
+        {
+            "id": 5675,
+            "name": "三角公園加水站",
+            "division": 274,
+            "contact": "簡睿宏",
+            "phone": "03-8762058-101",
+            "address": "976花蓮縣光復鄉林森路8號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    121.428519,
+                    23.664541000000007
+                ]
+            },
+            "condition": 0,
+            "groupId": "223614",
+            "interfaceNumber": "",
+            "meterSetting": 0
+        },
+        {
+            "id": 5676,
+            "name": "福德宮加水站",
+            "division": 274,
+            "contact": "簡睿宏",
+            "phone": "03-8762058-101",
+            "address": "976花蓮縣光復鄉中正路一段329號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    121.43174100000002,
+                    23.663386999999986
+                ]
+            },
+            "condition": 0,
+            "groupId": "223614",
+            "interfaceNumber": "",
+            "meterSetting": 0
+        },
+        {
+            "id": 5677,
+            "name": "光復圖書館加水站",
+            "division": 274,
+            "contact": "簡睿宏",
+            "phone": "03-8762058-101",
+            "address": "976花蓮縣光復鄉忠孝路23巷11號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    121.42372700000001,
+                    23.663646000000007
+                ]
+            },
+            "condition": 0,
+            "groupId": "223614",
+            "interfaceNumber": "",
+            "meterSetting": 0
+        },
+        {
+            "id": 5678,
+            "name": "大安教會加水站",
+            "division": 274,
+            "contact": "簡睿宏",
+            "phone": "03-8762058-101",
+            "address": "976花蓮縣光復鄉中山路二段129號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    121.42247100000003,
+                    23.66373199999999
+                ]
+            },
+            "condition": 0,
+            "groupId": "223614",
+            "interfaceNumber": "",
+            "meterSetting": 0
+        },
+        {
+            "id": 5679,
+            "name": "砝傣岸民宿加水站",
+            "division": 274,
+            "contact": "簡睿宏",
+            "phone": "03-8762058-101",
+            "address": "97642花蓮縣光復鄉中興176巷1弄2號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    121.41945600000001,
+                    23.658099999999983
+                ]
+            },
+            "condition": 0,
+            "groupId": "223614",
+            "interfaceNumber": "",
+            "meterSetting": 0
+        },
+        {
+            "id": 5680,
+            "name": "光復二次變電所加水站",
+            "division": 274,
+            "contact": "簡睿宏",
+            "phone": "03-8762058-101",
+            "address": "976花蓮縣光復鄉大華街80號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    121.41948500000001,
+                    23.669646999999983
+                ]
+            },
+            "condition": 0,
+            "groupId": "223614",
+            "interfaceNumber": "",
+            "meterSetting": 0
+        },
+        {
+            "id": 5681,
+            "name": "富田天主堂加水站",
+            "division": 274,
+            "contact": "簡睿宏",
+            "phone": "03-8762058-101",
+            "address": "976花蓮縣光復鄉富田一街16號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    121.44776600000003,
+                    23.658871999999995
+                ]
+            },
+            "condition": 0,
+            "groupId": "223614",
+            "interfaceNumber": "",
+            "meterSetting": 0
+        },
+        {
+            "id": 5682,
+            "name": "富田協天宮加水站",
+            "division": 274,
+            "contact": "簡睿宏",
+            "phone": "03-8762058-101",
+            "address": "976花蓮縣光復鄉光豐路25號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    121.45094400000002,
+                    23.660004000000008
+                ]
+            },
+            "condition": 0,
+            "groupId": "223614",
+            "interfaceNumber": "",
+            "meterSetting": 0
+        },
+        {
+            "id": 5683,
+            "name": "富田教會加水站",
+            "division": 274,
+            "contact": "簡睿宏",
+            "phone": "03-8762058-101",
+            "address": "976花蓮縣光復鄉中正路二段75號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    121.45061500000001,
+                    23.658417999999983
+                ]
+            },
+            "condition": 0,
+            "groupId": "223614",
+            "interfaceNumber": "",
+            "meterSetting": 0
+        },
+        {
+            "id": 5684,
+            "name": "太巴塱祭祀廣場加水站",
+            "division": 274,
+            "contact": "簡睿宏",
+            "phone": "03-8762058-101",
+            "address": "976花蓮縣光復鄉富田三街37號51",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    121.45309300000002,
+                    23.657246999999995
+                ]
+            },
+            "condition": 0,
+            "groupId": "223614",
+            "interfaceNumber": "",
+            "meterSetting": 0
+        },
+        {
+            "id": 5685,
+            "name": "大馬村加水站1",
+            "division": 274,
+            "contact": "簡睿宏",
+            "phone": "03-8762058-101",
+            "address": "花蓮縣光復鄉大馬村",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.42732238769526,
+                    24.034353425280038
+                ]
+            },
+            "condition": 0,
+            "groupId": "223614",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5686,
+            "name": "大馬村加水站2",
+            "division": 274,
+            "contact": "簡睿宏",
+            "phone": "03-8762058-101",
+            "address": "花蓮縣光復鄉大馬村",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.42732238769526,
+                    24.034353425280038
+                ]
+            },
+            "condition": 0,
+            "groupId": "223614",
+            "interfaceNumber": "",
+            "meterSetting": 0
+        },
+        {
+            "id": 5687,
+            "name": "香草場社區發展協會加水站",
+            "division": 274,
+            "contact": "簡睿宏",
+            "phone": "03-8762058-101",
+            "address": "香草場",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    121.42039800000002,
+                    23.67961500000001
+                ]
+            },
+            "condition": 0,
+            "groupId": "223614",
+            "interfaceNumber": "",
+            "meterSetting": 0
+        },
+        {
+            "id": 5688,
+            "name": "加里洞社區活動中心加水站",
+            "division": 274,
+            "contact": "簡睿宏",
+            "phone": "03-8762058-101",
+            "address": "976花蓮縣光復鄉東富路92巷",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    121.487768,
+                    23.694919
+                ]
+            },
+            "condition": 0,
+            "groupId": "223614",
+            "interfaceNumber": "",
+            "meterSetting": 0
+        },
+        {
+            "id": 5689,
+            "name": "阿陶莫加水站",
+            "division": 274,
+            "contact": "簡睿宏",
+            "phone": "03-8762058-101",
+            "address": "976花蓮縣光復鄉東富路19號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    121.47266,
+                    23.66820099999999
+                ]
+            },
+            "condition": 0,
+            "groupId": "223614",
+            "interfaceNumber": "",
+            "meterSetting": 0
+        }
     ]
 }
