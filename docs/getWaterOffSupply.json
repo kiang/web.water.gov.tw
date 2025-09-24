@@ -134,6 +134,25 @@
             "meterSetting": 0.5
         },
         {
+            "id": 5679,
+            "name": "砝傣岸民宿加水站",
+            "division": 274,
+            "contact": "簡睿宏",
+            "phone": "03-8762058-101",
+            "address": "97642花蓮縣光復鄉中興路176巷1弄2號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    121.41945600000001,
+                    23.658099999999983
+                ]
+            },
+            "condition": 0,
+            "groupId": "223614",
+            "interfaceNumber": "",
+            "meterSetting": 0
+        },
+        {
             "id": 5681,
             "name": "富田天主堂加水站",
             "division": 274,
@@ -341,215 +360,61 @@
             "groupId": "223614",
             "interfaceNumber": "",
             "meterSetting": 0.5
-        }
-    ],
-    "notsupply": [
+        },
         {
-            "id": 5663,
-            "name": "光復衛生所加水站",
+            "id": 5697,
+            "name": "砂荖活動中心加水站",
             "division": 274,
-            "contact": "簡睿宏",
+            "contact": "黃佳能",
             "phone": "03-8762058-101",
-            "address": "976花蓮縣光復鄉中學街158號",
+            "address": "花蓮縣光復鄉建國路二段39號",
             "location": {
                 "type": "Point",
                 "coordinates": [
-                    121.42594100000001,
-                    23.671898000000002
+                    121.451156,
+                    23.641910999999993
                 ]
             },
-            "condition": 1,
-            "groupId": "223801",
+            "condition": 0,
+            "groupId": "223614",
             "interfaceNumber": "",
             "meterSetting": 0.5
         },
         {
-            "id": 5665,
-            "name": "光復鄉公所取水站",
+            "id": 5698,
+            "name": "馬太鞍教會加水站1",
             "division": 274,
-            "contact": "簡睿宏",
+            "contact": "黃佳能",
             "phone": "03-8762058-101",
-            "address": "976花蓮縣光復鄉中華路257號",
+            "address": "花蓮縣光復鄉中山路三段89巷14號",
             "location": {
                 "type": "Point",
                 "coordinates": [
-                    121.42345700000001,
-                    23.669235999999998
+                    121.426732,
+                    23.675400999999997
                 ]
             },
-            "condition": 1,
-            "groupId": "223801",
+            "condition": 0,
+            "groupId": "223614",
             "interfaceNumber": "",
-            "meterSetting": 0
+            "meterSetting": 0.5
         },
         {
-            "id": 5666,
-            "name": "光復國小取水站",
+            "id": 5699,
+            "name": "馬太鞍教會加水站2",
             "division": 274,
-            "contact": "簡睿宏",
+            "contact": "黃佳能",
             "phone": "03-8762058-101",
-            "address": "976花蓮縣光復鄉中山路三段75號",
+            "address": "花蓮縣光復鄉中山路三段89巷14號",
             "location": {
                 "type": "Point",
                 "coordinates": [
-                    121.42700399999998,
-                    23.673706
+                    121.426732,
+                    23.675400999999997
                 ]
             },
-            "condition": 1,
-            "groupId": "223801",
-            "interfaceNumber": "",
-            "meterSetting": 0
-        },
-        {
-            "id": 5667,
-            "name": "光復教會加水站",
-            "division": 274,
-            "contact": "簡睿宏",
-            "phone": "03-8762058-101",
-            "address": "976花蓮縣光復鄉敦厚路194號",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    121.42645400000004,
-                    23.668704999999996
-                ]
-            },
-            "condition": 1,
-            "groupId": "223801",
-            "interfaceNumber": "",
-            "meterSetting": 0
-        },
-        {
-            "id": 5668,
-            "name": "三玄宮加水站",
-            "division": 274,
-            "contact": "簡睿宏",
-            "phone": "03-8762058-101",
-            "address": "976花蓮縣光復鄉成功街178號",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    121.43290100000003,
-                    23.672860999999994
-                ]
-            },
-            "condition": 1,
-            "groupId": "223801",
-            "interfaceNumber": "",
-            "meterSetting": 0
-        },
-        {
-            "id": 5669,
-            "name": "中學街敦厚路口",
-            "division": 274,
-            "contact": "簡睿宏",
-            "phone": "03-8762058-101",
-            "address": "花蓮縣光復鄉大同村敦厚路96號",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    121.42654200000003,
-                    23.667365000000004
-                ]
-            },
-            "condition": 1,
-            "groupId": "223801",
-            "interfaceNumber": "",
-            "meterSetting": 0
-        },
-        {
-            "id": 5670,
-            "name": "學士街敦厚路口",
-            "division": 274,
-            "contact": "簡睿宏",
-            "phone": "03-8762058-101",
-            "address": "花蓮縣光復鄉大同村敦厚路151號",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    121.42695700000003,
-                    23.669711000000007
-                ]
-            },
-            "condition": 1,
-            "groupId": "223801",
-            "interfaceNumber": "",
-            "meterSetting": 0
-        },
-        {
-            "id": 5671,
-            "name": "學士街與學士街160巷路口",
-            "division": 274,
-            "contact": "簡睿宏",
-            "phone": "03-8762058-101",
-            "address": "花蓮縣光復鄉大同村學士街160巷162號",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    121.42881700000001,
-                    23.669659999999983
-                ]
-            },
-            "condition": 1,
-            "groupId": "223801",
-            "interfaceNumber": "",
-            "meterSetting": 0
-        },
-        {
-            "id": 5679,
-            "name": "砝傣岸民宿加水站",
-            "division": 274,
-            "contact": "簡睿宏",
-            "phone": "03-8762058-101",
-            "address": "97642花蓮縣光復鄉中興176巷1弄2號",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    121.41945600000001,
-                    23.658099999999983
-                ]
-            },
-            "condition": 1,
-            "groupId": "223801",
-            "interfaceNumber": "",
-            "meterSetting": 0
-        },
-        {
-            "id": 5680,
-            "name": "光復二次變電所加水站",
-            "division": 274,
-            "contact": "簡睿宏",
-            "phone": "03-8762058-101",
-            "address": "976花蓮縣光復鄉大華街80號",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    121.41948500000001,
-                    23.669646999999983
-                ]
-            },
-            "condition": 1,
-            "groupId": "223801",
-            "interfaceNumber": "",
-            "meterSetting": 0
-        },
-        {
-            "id": 5686,
-            "name": "大馬村加水站2",
-            "division": 274,
-            "contact": "簡睿宏",
-            "phone": "03-8762058-101",
-            "address": "花蓮縣光復鄉大馬村林森路460巷及八德街路口",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    121.419757,
-                    23.679947999999975
-                ]
-            },
-            "condition": 1,
-            "groupId": "223801",
+            "condition": 0,
+            "groupId": "223614",
             "interfaceNumber": "",
             "meterSetting": 0.5
         }
