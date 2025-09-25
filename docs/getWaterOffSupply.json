@@ -286,6 +286,25 @@
             "meterSetting": 0
         },
         {
+            "id": 5689,
+            "name": "阿陶莫加水站",
+            "division": 274,
+            "contact": "簡睿宏",
+            "phone": "03-8762058-101",
+            "address": "976花蓮縣光復鄉東富路18巷7號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    121.47195,
+                    23.667600999999994
+                ]
+            },
+            "condition": 0,
+            "groupId": "223614",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
             "id": 5690,
             "name": "大進國小加水站1",
             "division": 274,
@@ -417,27 +436,6 @@
             "groupId": "223614",
             "interfaceNumber": "",
             "meterSetting": 0.5
-        }
-    ],
-    "notsupply": [
-        {
-            "id": 5689,
-            "name": "阿陶莫加水站",
-            "division": 274,
-            "contact": "簡睿宏",
-            "phone": "03-8762058-101",
-            "address": "976花蓮縣光復鄉東富路18巷7號",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    121.47195,
-                    23.667600999999994
-                ]
-            },
-            "condition": 1,
-            "groupId": "223801",
-            "interfaceNumber": "",
-            "meterSetting": 0
         }
     ]
 }
