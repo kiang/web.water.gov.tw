@@ -362,25 +362,6 @@
             "meterSetting": 0.5
         },
         {
-            "id": 5693,
-            "name": "花蓮縣光復鄉立幼兒園",
-            "division": 274,
-            "contact": "黃佳能",
-            "phone": "03-8762058-101",
-            "address": "花蓮縣光復鄉中山路一段216巷8號",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    121.41836600000003,
-                    23.652127000000007
-                ]
-            },
-            "condition": 0,
-            "groupId": "223614",
-            "interfaceNumber": "",
-            "meterSetting": 0.5
-        },
-        {
             "id": 5697,
             "name": "砂荖活動中心加水站",
             "division": 274,
@@ -449,6 +430,25 @@
                 "coordinates": [
                     121.467033,
                     23.671931999999998
+                ]
+            },
+            "condition": 0,
+            "groupId": "223614",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5710,
+            "name": "光復高職加水站",
+            "division": 274,
+            "contact": "黃佳能",
+            "phone": "03-8762058-101",
+            "address": "花蓮縣光復鄉大同村林森路100號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    121.42717563938525,
+                    23.667347073462274
                 ]
             },
             "condition": 0,
