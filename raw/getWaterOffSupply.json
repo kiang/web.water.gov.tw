@@ -134,6 +134,25 @@
             "meterSetting": 0.5
         },
         {
+            "id": 5666,
+            "name": "光復國小取水站",
+            "division": 274,
+            "contact": "簡睿宏",
+            "phone": "03-8762058-101",
+            "address": "976花蓮縣光復鄉中山路三段75號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13517192.253832793,
+                    2713697.8726521498
+                ]
+            },
+            "condition": 1,
+            "groupId": "223614",
+            "interfaceNumber": "",
+            "meterSetting": 0
+        },
+        {
             "id": 5679,
             "name": "砝傣岸民宿加水站",
             "division": 274,
@@ -154,7 +173,7 @@
         },
         {
             "id": 5681,
-            "name": "富田天主堂加水站",
+            "name": "富田天主堂加水站1",
             "division": 274,
             "contact": "簡睿宏",
             "phone": "03-8762058-101",
@@ -230,7 +249,7 @@
         },
         {
             "id": 5685,
-            "name": "大馬村加水站1",
+            "name": "大馬村加水站",
             "division": 274,
             "contact": "簡睿宏",
             "phone": "03-8762058-101",
@@ -401,7 +420,7 @@
         },
         {
             "id": 5699,
-            "name": "馬太鞍教會加水站2",
+            "name": "馬太鞍教會加水站",
             "division": 274,
             "contact": "黃佳能",
             "phone": "03-8762058-101",
@@ -449,6 +468,44 @@
                 "coordinates": [
                     13517211.36064176,
                     2712924.9757848713
+                ]
+            },
+            "condition": 0,
+            "groupId": "223614",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5714,
+            "name": "太巴塱國小",
+            "division": 274,
+            "contact": "黃佳能",
+            "phone": "03-8762058-101",
+            "address": "花蓮縣光復鄉中正路二段23號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13519506.767441645,
+                    2712025.4749829043
+                ]
+            },
+            "condition": 0,
+            "groupId": "223614",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5715,
+            "name": "富田天主堂加水站2",
+            "division": 274,
+            "contact": "黃佳能",
+            "phone": "03-8762058-101",
+            "address": "976花蓮縣光復鄉富田一街16號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13519503.469100645,
+                    2711894.929901275
                 ]
             },
             "condition": 0,
