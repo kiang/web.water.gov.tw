@@ -462,12 +462,12 @@
             "division": 274,
             "contact": "黃佳能",
             "phone": "03-8762058-101",
-            "address": "花蓮縣光復鄉大平村中山路三段134號斜對面(中山路三段與武昌街口)",
+            "address": "花蓮縣光復鄉大平村中山路三段124號(中山路三段與武昌街口)",
             "location": {
                 "type": "Point",
                 "coordinates": [
-                    13517222.4214148,
-                    2713607.5626436234
+                    13517219.322824389,
+                    2713568.9179532756
                 ]
             },
             "condition": 0,
@@ -512,6 +512,25 @@
             "groupId": "223614",
             "interfaceNumber": "",
             "meterSetting": 0.5
+        },
+        {
+            "id": 5716,
+            "name": "富田派出所加水站",
+            "division": 274,
+            "contact": "黃佳能",
+            "phone": "03-8762058-101",
+            "address": "花蓮縣光復鄉南富村中正路二段55號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13519746.256910065,
+                    2711925.1919820323
+                ]
+            },
+            "condition": 0,
+            "groupId": "223614",
+            "interfaceNumber": "",
+            "meterSetting": 0
         }
     ]
 }
