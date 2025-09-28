@@ -462,12 +462,12 @@
             "division": 274,
             "contact": "黃佳能",
             "phone": "03-8762058-101",
-            "address": "花蓮縣光復鄉大平村中山路三段124號(中山路三段與武昌街口)",
+            "address": "花蓮縣光復鄉大平村中山路三段124號",
             "location": {
                 "type": "Point",
                 "coordinates": [
-                    13517219.322824389,
-                    2713568.9179532756
+                    13517206.168769142,
+                    2713567.330490199
                 ]
             },
             "condition": 0,
@@ -645,6 +645,120 @@
             "groupId": "223614",
             "interfaceNumber": "",
             "meterSetting": 0
+        },
+        {
+            "id": 5723,
+            "name": "富田二街及光豐路口加水站",
+            "division": 274,
+            "contact": "黃佳能",
+            "phone": "03-8762058-101",
+            "address": "花蓮縣光復鄉北富村光豐路32號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13519871.395809243,
+                    2711976.47982459
+                ]
+            },
+            "condition": 0,
+            "groupId": "223614",
+            "interfaceNumber": "",
+            "meterSetting": 0
+        },
+        {
+            "id": 5724,
+            "name": "太巴塱教會加水站",
+            "division": 274,
+            "contact": "黃佳能",
+            "phone": "03-8762058-101",
+            "address": "花蓮縣光復鄉南富村中正路二段90號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13519800.46950208,
+                    2711772.666820277
+                ]
+            },
+            "condition": 0,
+            "groupId": "223614",
+            "interfaceNumber": "",
+            "meterSetting": 0
+        },
+        {
+            "id": 5728,
+            "name": "武昌街口加水站1",
+            "division": 274,
+            "contact": "黃佳能",
+            "phone": "03-8762058-101",
+            "address": "花蓮縣光復鄉大平村中山路三段124號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13517206.168769142,
+                    2713567.330490199
+                ]
+            },
+            "condition": 0,
+            "groupId": "223614",
+            "interfaceNumber": "",
+            "meterSetting": 0
+        },
+        {
+            "id": 5731,
+            "name": "光復國小加水站1",
+            "division": 274,
+            "contact": "黃佳能",
+            "phone": "03-8762058-101",
+            "address": "花蓮縣光復鄉大馬村中山路三段75號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13517192.253832793,
+                    2713697.8726521498
+                ]
+            },
+            "condition": 0,
+            "groupId": "223614",
+            "interfaceNumber": "",
+            "meterSetting": 0
+        },
+        {
+            "id": 5732,
+            "name": "光復國小加水站2",
+            "division": 274,
+            "contact": "黃佳能",
+            "phone": "03-8762058-101",
+            "address": "花蓮縣光復鄉大馬村中山路三段75號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13517192.253832793,
+                    2713697.8726521498
+                ]
+            },
+            "condition": 0,
+            "groupId": "223614",
+            "interfaceNumber": "",
+            "meterSetting": 0
+        },
+        {
+            "id": 5735,
+            "name": "武昌街口加水站2",
+            "division": 274,
+            "contact": "黃佳能",
+            "phone": "03-8762058-101",
+            "address": "花蓮縣光復鄉大平村中山路三段124號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13517206.168769142,
+                    2713567.330490199
+                ]
+            },
+            "condition": 0,
+            "groupId": "223614",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
         }
     ]
 }
