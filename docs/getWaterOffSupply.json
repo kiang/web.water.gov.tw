@@ -812,7 +812,7 @@
                     23.669721000000006
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "223614",
             "interfaceNumber": "",
             "meterSetting": 0.5
@@ -831,7 +831,7 @@
                     23.64854700000001
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "223614",
             "interfaceNumber": "",
             "meterSetting": 0
