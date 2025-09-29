@@ -797,6 +797,44 @@
             "groupId": "223614",
             "interfaceNumber": "",
             "meterSetting": 0
+        },
+        {
+            "id": 5738,
+            "name": "林森路181號加水站",
+            "division": 274,
+            "contact": "黃佳能",
+            "phone": "03-8762058-101",
+            "address": "花蓮縣光復鄉大華村林森路181號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    121.42493600000003,
+                    23.669721000000006
+                ]
+            },
+            "condition": 1,
+            "groupId": "223614",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5739,
+            "name": "中山路一段82巷加水站",
+            "division": 274,
+            "contact": "黃佳能",
+            "phone": "03-8762058-101",
+            "address": "花蓮縣光復鄉大全村中山路一段82巷18號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    121.41685499999998,
+                    23.64854700000001
+                ]
+            },
+            "condition": 1,
+            "groupId": "223614",
+            "interfaceNumber": "",
+            "meterSetting": 0
         }
     ]
 }
