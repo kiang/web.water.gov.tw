@@ -837,6 +837,25 @@
             "meterSetting": 0
         },
         {
+            "id": 5740,
+            "name": "聖保祿教堂加水站(須由中華路進入)",
+            "division": 274,
+            "contact": "黃佳能",
+            "phone": "03-8762058-101",
+            "address": "花蓮縣光復鄉大馬村中華路327號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13516911.617396504,
+                    2713464.866583828
+                ]
+            },
+            "condition": 0,
+            "groupId": "223614",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
             "id": 5741,
             "name": "阿陶莫加水站1",
             "division": 274,
@@ -886,6 +905,25 @@
                 "coordinates": [
                     13516989.986318022,
                     2713369.088346069
+                ]
+            },
+            "condition": 0,
+            "groupId": "223614",
+            "interfaceNumber": "",
+            "meterSetting": 0
+        },
+        {
+            "id": 5744,
+            "name": "舞斯菲餐廳加水站",
+            "division": 274,
+            "contact": "黃佳能",
+            "phone": "03-8762058-101",
+            "address": "花蓮縣光復鄉西富村中正路二段16之1號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13519192.108484896,
+                    2712106.0364608294
                 ]
             },
             "condition": 0,
