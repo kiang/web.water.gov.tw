@@ -191,6 +191,25 @@
             "meterSetting": 0
         },
         {
+            "id": 5682,
+            "name": "富田協天宮加水站",
+            "division": 274,
+            "contact": "簡睿宏",
+            "phone": "03-8762058-101",
+            "address": "976花蓮縣光復鄉光豐路27號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    121.45114299999999,
+                    23.659638999999988
+                ]
+            },
+            "condition": 0,
+            "groupId": "223614",
+            "interfaceNumber": "",
+            "meterSetting": 0
+        },
+        {
             "id": 5683,
             "name": "富田教會加水站",
             "division": 274,
@@ -886,6 +905,44 @@
                 "coordinates": [
                     121.44496900000001,
                     23.660608999999994
+                ]
+            },
+            "condition": 0,
+            "groupId": "223614",
+            "interfaceNumber": "",
+            "meterSetting": 0
+        },
+        {
+            "id": 5745,
+            "name": "武昌街與敦厚路口加水站",
+            "division": 274,
+            "contact": "黃佳能",
+            "phone": "03-8762051-101",
+            "address": "花蓮縣光復鄉大平村武昌街132號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    121.42865100000002,
+                    23.672417999999997
+                ]
+            },
+            "condition": 0,
+            "groupId": "223614",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5746,
+            "name": "武昌街與延平街口加水站",
+            "division": 274,
+            "contact": "黃佳能",
+            "phone": "03-8762058-101",
+            "address": "花蓮縣光復鄉大平村延平街1號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    121.42998,
+                    23.67201699999999
                 ]
             },
             "condition": 0,

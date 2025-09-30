@@ -191,6 +191,25 @@
             "meterSetting": 0
         },
         {
+            "id": 5682,
+            "name": "富田協天宮加水站",
+            "division": 274,
+            "contact": "簡睿宏",
+            "phone": "03-8762058-101",
+            "address": "976花蓮縣光復鄉光豐路27號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13519879.395021051,
+                    2711988.1470173774
+                ]
+            },
+            "condition": 0,
+            "groupId": "223614",
+            "interfaceNumber": "",
+            "meterSetting": 0
+        },
+        {
             "id": 5683,
             "name": "富田教會加水站",
             "division": 274,
@@ -886,6 +905,44 @@
                 "coordinates": [
                     13519192.108484896,
                     2712106.0364608294
+                ]
+            },
+            "condition": 0,
+            "groupId": "223614",
+            "interfaceNumber": "",
+            "meterSetting": 0
+        },
+        {
+            "id": 5745,
+            "name": "武昌街與敦厚路口加水站",
+            "division": 274,
+            "contact": "黃佳能",
+            "phone": "03-8762051-101",
+            "address": "花蓮縣光復鄉大平村武昌街132號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13517375.59703413,
+                    2713541.3194240904
+                ]
+            },
+            "condition": 0,
+            "groupId": "223614",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5746,
+            "name": "武昌街與延平街口加水站",
+            "division": 274,
+            "contact": "黃佳能",
+            "phone": "03-8762058-101",
+            "address": "花蓮縣光復鄉大平村延平街1號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13517523.540637394,
+                    2713492.579176576
                 ]
             },
             "condition": 0,
