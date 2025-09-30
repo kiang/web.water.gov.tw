@@ -310,7 +310,7 @@
             "division": 274,
             "contact": "簡睿宏",
             "phone": "03-8762058-101",
-            "address": "976花蓮縣光復鄉東富路18巷7號",
+            "address": "976花蓮縣光復鄉東富村東富路18巷7號",
             "location": {
                 "type": "Point",
                 "coordinates": [
@@ -829,6 +829,63 @@
                 "coordinates": [
                     13516062.472320732,
                     2710640.137313109
+                ]
+            },
+            "condition": 0,
+            "groupId": "223614",
+            "interfaceNumber": "",
+            "meterSetting": 0
+        },
+        {
+            "id": 5741,
+            "name": "阿陶莫加水站1",
+            "division": 274,
+            "contact": "黃佳能",
+            "phone": "03-8762051-101",
+            "address": "976花蓮縣光復鄉東富村東富路18巷7號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13522195.619665988,
+                    2712955.8386107245
+                ]
+            },
+            "condition": 0,
+            "groupId": "223614",
+            "interfaceNumber": "",
+            "meterSetting": 0
+        },
+        {
+            "id": 5742,
+            "name": "阿陶莫加水站2",
+            "division": 274,
+            "contact": "黃佳能",
+            "phone": "03-8762058-101",
+            "address": "976花蓮縣光復鄉東富村東富路18巷7號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13522195.619665988,
+                    2712955.8386107245
+                ]
+            },
+            "condition": 0,
+            "groupId": "223614",
+            "interfaceNumber": "",
+            "meterSetting": 0
+        },
+        {
+            "id": 5743,
+            "name": "光復國中加水站1",
+            "division": 274,
+            "contact": "黃佳能",
+            "phone": "03-8762058-101",
+            "address": "花蓮縣光復鄉大馬村林森路200號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13516989.986318022,
+                    2713369.088346069
                 ]
             },
             "condition": 0,
