@@ -191,25 +191,6 @@
             "meterSetting": 0
         },
         {
-            "id": 5682,
-            "name": "富田協天宮加水站",
-            "division": 274,
-            "contact": "簡睿宏",
-            "phone": "03-8762058-101",
-            "address": "976花蓮縣光復鄉光豐路27號",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    121.45114299999999,
-                    23.659638999999988
-                ]
-            },
-            "condition": 0,
-            "groupId": "223614",
-            "interfaceNumber": "",
-            "meterSetting": 0
-        },
-        {
             "id": 5683,
             "name": "富田教會加水站",
             "division": 274,
@@ -778,25 +759,6 @@
             "groupId": "223614",
             "interfaceNumber": "",
             "meterSetting": 0.5
-        },
-        {
-            "id": 5737,
-            "name": "富田協天宮加水站1",
-            "division": 274,
-            "contact": "黃佳能",
-            "phone": "03-8762058-101",
-            "address": "976花蓮縣光復鄉北富村光豐路27號",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    121.45043400000002,
-                    23.657866000000002
-                ]
-            },
-            "condition": 0,
-            "groupId": "223614",
-            "interfaceNumber": "",
-            "meterSetting": 0
         },
         {
             "id": 5738,
