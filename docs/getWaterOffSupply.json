@@ -968,6 +968,44 @@
             "groupId": "223614",
             "interfaceNumber": "",
             "meterSetting": 0
+        },
+        {
+            "id": 5748,
+            "name": "敦厚路129巷口加水站(125號門口))",
+            "division": 274,
+            "contact": "黃佳能",
+            "phone": "03-8762058-101",
+            "address": "花蓮縣光復鄉大同村敦厚路125號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    121.426644,
+                    23.668559999999996
+                ]
+            },
+            "condition": 0,
+            "groupId": "223614",
+            "interfaceNumber": "",
+            "meterSetting": 0
+        },
+        {
+            "id": 5749,
+            "name": "中學街75巷口加水站(75巷2弄1號旁))",
+            "division": 274,
+            "contact": "黃佳能",
+            "phone": "03-8762058-101",
+            "address": "花蓮縣光復鄉中學街75巷2弄1號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    121.42848300000001,
+                    23.66982899999999
+                ]
+            },
+            "condition": 0,
+            "groupId": "223614",
+            "interfaceNumber": "",
+            "meterSetting": 0
         }
     ]
 }
