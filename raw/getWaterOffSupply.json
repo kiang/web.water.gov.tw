@@ -685,6 +685,25 @@
             "meterSetting": 0
         },
         {
+            "id": 5726,
+            "name": "光復國小加水站1",
+            "division": 274,
+            "contact": "黃佳能",
+            "phone": "03-8762058-101",
+            "address": "花蓮縣光復鄉大馬村中山路三段75號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13517192.253832793,
+                    2713697.8726521498
+                ]
+            },
+            "condition": 0,
+            "groupId": "223614",
+            "interfaceNumber": "",
+            "meterSetting": 0
+        },
+        {
             "id": 5728,
             "name": "武昌街口加水站1",
             "division": 274,
@@ -696,25 +715,6 @@
                 "coordinates": [
                     13517206.168769142,
                     2713567.330490199
-                ]
-            },
-            "condition": 0,
-            "groupId": "223614",
-            "interfaceNumber": "",
-            "meterSetting": 0
-        },
-        {
-            "id": 5731,
-            "name": "光復國小加水站1",
-            "division": 274,
-            "contact": "黃佳能",
-            "phone": "03-8762058-101",
-            "address": "花蓮縣光復鄉大馬村中山路三段75號",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    13517192.253832793,
-                    2713697.8726521498
                 ]
             },
             "condition": 0,
@@ -943,6 +943,25 @@
                 "coordinates": [
                     13517523.540637394,
                     2713492.579176576
+                ]
+            },
+            "condition": 0,
+            "groupId": "223614",
+            "interfaceNumber": "",
+            "meterSetting": 0
+        },
+        {
+            "id": 5747,
+            "name": "光復國小加水站3",
+            "division": 274,
+            "contact": "黃佳能",
+            "phone": "03-8762058-101",
+            "address": "花蓮縣光復鄉大馬村中山路三段75號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13517192.253832793,
+                    2713697.8726521498
                 ]
             },
             "condition": 0,
