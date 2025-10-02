@@ -1021,7 +1021,7 @@
                     24.79740199999999
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "225353",
             "interfaceNumber": "",
             "meterSetting": 0.5
@@ -1040,26 +1040,26 @@
                     24.797129999999996
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "225353",
             "interfaceNumber": "",
             "meterSetting": 0
         },
         {
             "id": 5752,
-            "name": "香山戶政事務所",
+            "name": "香山戶政事務所(1樓戶外)",
             "division": 244,
             "contact": "廖子勝",
             "phone": "035714321",
-            "address": "新竹市香山區育德街188號",
+            "address": "新竹市香山區育德街與牛埔南路交叉口",
             "location": {
                 "type": "Point",
                 "coordinates": [
-                    120.942578,
-                    24.794419999999995
+                    120.94204902648929,
+                    24.79393738635174
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "225353",
             "interfaceNumber": "",
             "meterSetting": 0
@@ -1078,7 +1078,7 @@
                     24.791894999999997
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "225353",
             "interfaceNumber": "",
             "meterSetting": 0
@@ -1097,7 +1097,7 @@
                     24.792608000000005
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "225353",
             "interfaceNumber": "",
             "meterSetting": 0
@@ -1116,7 +1116,7 @@
                     24.770342999999993
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "225353",
             "interfaceNumber": "",
             "meterSetting": 0
@@ -1135,8 +1135,46 @@
                     24.742105999999982
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "225353",
+            "interfaceNumber": "",
+            "meterSetting": 0
+        },
+        {
+            "id": 5757,
+            "name": "佛祖街17號加水站",
+            "division": 274,
+            "contact": "黃佳能",
+            "phone": "03-8762058-101",
+            "address": "花蓮縣光復鄉大平村佛祖街17號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    121.43209200000001,
+                    23.66389200000001
+                ]
+            },
+            "condition": 0,
+            "groupId": "223614",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5758,
+            "name": "佛祖街112號加水站",
+            "division": 274,
+            "contact": "黃佳能",
+            "phone": "03-8762058-101",
+            "address": "花蓮縣光復鄉大平村佛祖街112號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    121.43356700000001,
+                    23.666859999999993
+                ]
+            },
+            "condition": 0,
+            "groupId": "223614",
             "interfaceNumber": "",
             "meterSetting": 0
         }
