@@ -1006,6 +1006,139 @@
             "groupId": "223614",
             "interfaceNumber": "",
             "meterSetting": 0
+        },
+        {
+            "id": 5750,
+            "name": "中埔市民活動中心",
+            "division": 244,
+            "contact": "廖子勝",
+            "phone": "035714321",
+            "address": "新竹市香山區中華路四段226巷5 號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13463896.823101114,
+                    2850880.4663689174
+                ]
+            },
+            "condition": 1,
+            "groupId": "225353",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5751,
+            "name": "埔前市民活動中心",
+            "division": 244,
+            "contact": "廖子勝",
+            "phone": "035714321",
+            "address": "新竹市香山區牛埔路446號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13463195.95558708,
+                    2850847.1121222484
+                ]
+            },
+            "condition": 1,
+            "groupId": "225353",
+            "interfaceNumber": "",
+            "meterSetting": 0
+        },
+        {
+            "id": 5752,
+            "name": "香山戶政事務所",
+            "division": 244,
+            "contact": "廖子勝",
+            "phone": "035714321",
+            "address": "新竹市香山區育德街188號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13463266.198185772,
+                    2850514.799909759
+                ]
+            },
+            "condition": 1,
+            "groupId": "225353",
+            "interfaceNumber": "",
+            "meterSetting": 0
+        },
+        {
+            "id": 5753,
+            "name": "香山區香山市民活動中心",
+            "division": 244,
+            "contact": "廖子勝",
+            "phone": "035714321",
+            "address": "新竹市香山區瑞光街25巷35號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13461469.501604369,
+                    2850205.179751489
+                ]
+            },
+            "condition": 1,
+            "groupId": "225353",
+            "interfaceNumber": "",
+            "meterSetting": 0
+        },
+        {
+            "id": 5754,
+            "name": "大庄市民活動中心",
+            "division": 244,
+            "contact": "廖子勝",
+            "phone": "035714321",
+            "address": "新竹市香山區宮口街30號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13460895.315670855,
+                    2850292.6084882803
+                ]
+            },
+            "condition": 1,
+            "groupId": "225353",
+            "interfaceNumber": "",
+            "meterSetting": 0
+        },
+        {
+            "id": 5755,
+            "name": "朝山市民活動中心",
+            "division": 244,
+            "contact": "廖子勝",
+            "phone": "035714321",
+            "address": "新竹市香山區西濱路四段365號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13460101.941659972,
+                    2847562.6901368108
+                ]
+            },
+            "condition": 1,
+            "groupId": "225353",
+            "interfaceNumber": "",
+            "meterSetting": 0
+        },
+        {
+            "id": 5756,
+            "name": "內湖市民活動中心",
+            "division": 244,
+            "contact": "廖子勝",
+            "phone": "035714321",
+            "address": "新竹市香山區內湖路109號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13459234.428868223,
+                    2844101.24699586
+                ]
+            },
+            "condition": 1,
+            "groupId": "225353",
+            "interfaceNumber": "",
+            "meterSetting": 0
         }
     ]
 }
