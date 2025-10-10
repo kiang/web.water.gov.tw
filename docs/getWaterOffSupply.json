@@ -134,25 +134,6 @@
             "meterSetting": 0.5
         },
         {
-            "id": 5666,
-            "name": "光復國小加水站",
-            "division": 274,
-            "contact": "簡睿宏",
-            "phone": "03-8762058-101",
-            "address": "976花蓮縣光復鄉中山路三段75號",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    121.42700399999998,
-                    23.673706
-                ]
-            },
-            "condition": 0,
-            "groupId": "223614",
-            "interfaceNumber": "",
-            "meterSetting": 0
-        },
-        {
             "id": 5679,
             "name": "砝傣岸民宿加水站",
             "division": 274,
@@ -246,44 +227,6 @@
             "groupId": "223614",
             "interfaceNumber": "",
             "meterSetting": 0
-        },
-        {
-            "id": 5685,
-            "name": "大馬村加水站",
-            "division": 274,
-            "contact": "簡睿宏",
-            "phone": "03-8762058-101",
-            "address": "花蓮縣光復鄉大馬村林森路730號",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    121.40884727239609,
-                    23.685428628642157
-                ]
-            },
-            "condition": 0,
-            "groupId": "223614",
-            "interfaceNumber": "",
-            "meterSetting": 0.5
-        },
-        {
-            "id": 5687,
-            "name": "香草場社區發展協會加水站",
-            "division": 274,
-            "contact": "簡睿宏",
-            "phone": "03-8762058-101",
-            "address": "花蓮縣光復鄉林森路426巷37之1號",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    121.42041200000003,
-                    23.679616
-                ]
-            },
-            "condition": 0,
-            "groupId": "223614",
-            "interfaceNumber": "",
-            "meterSetting": 0.5
         },
         {
             "id": 5688,
@@ -381,44 +324,6 @@
             "meterSetting": 0.5
         },
         {
-            "id": 5698,
-            "name": "馬太鞍教會加水站1",
-            "division": 274,
-            "contact": "黃佳能",
-            "phone": "03-8762058-101",
-            "address": "花蓮縣光復鄉大馬村中山路三段89巷14號",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    121.426732,
-                    23.675400999999997
-                ]
-            },
-            "condition": 0,
-            "groupId": "223614",
-            "interfaceNumber": "",
-            "meterSetting": 0.5
-        },
-        {
-            "id": 5699,
-            "name": "馬太鞍教會加水站",
-            "division": 274,
-            "contact": "黃佳能",
-            "phone": "03-8762058-101",
-            "address": "花蓮縣光復鄉大馬村中山路三段89巷14號",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    121.426732,
-                    23.675400999999997
-                ]
-            },
-            "condition": 0,
-            "groupId": "223614",
-            "interfaceNumber": "",
-            "meterSetting": 0.5
-        },
-        {
             "id": 5709,
             "name": "東富路30號加水站",
             "division": 274,
@@ -455,25 +360,6 @@
             "groupId": "223614",
             "interfaceNumber": "",
             "meterSetting": 0.5
-        },
-        {
-            "id": 5713,
-            "name": "武昌街口加水站",
-            "division": 274,
-            "contact": "黃佳能",
-            "phone": "03-8762058-101",
-            "address": "花蓮縣光復鄉大平村中山路三段124號",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    121.427129,
-                    23.672632000000004
-                ]
-            },
-            "condition": 0,
-            "groupId": "223614",
-            "interfaceNumber": "",
-            "meterSetting": 0
         },
         {
             "id": 5714,
@@ -550,25 +436,6 @@
             "groupId": "223614",
             "interfaceNumber": "",
             "meterSetting": 0.5
-        },
-        {
-            "id": 5718,
-            "name": "光復衛生所加水站",
-            "division": 274,
-            "contact": "黃佳能",
-            "phone": "03-8762058-101",
-            "address": "花蓮縣光復鄉大馬村中學街158號",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    121.42594100000001,
-                    23.671898000000002
-                ]
-            },
-            "condition": 0,
-            "groupId": "223614",
-            "interfaceNumber": "",
-            "meterSetting": 0
         },
         {
             "id": 5719,
@@ -683,82 +550,6 @@
             "groupId": "223614",
             "interfaceNumber": "",
             "meterSetting": 0
-        },
-        {
-            "id": 5726,
-            "name": "光復國小加水站1",
-            "division": 274,
-            "contact": "黃佳能",
-            "phone": "03-8762058-101",
-            "address": "花蓮縣光復鄉大馬村中山路三段75號",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    121.42700399999998,
-                    23.673706
-                ]
-            },
-            "condition": 0,
-            "groupId": "223614",
-            "interfaceNumber": "",
-            "meterSetting": 0
-        },
-        {
-            "id": 5728,
-            "name": "武昌街口加水站1",
-            "division": 274,
-            "contact": "黃佳能",
-            "phone": "03-8762058-101",
-            "address": "花蓮縣光復鄉大平村中山路三段124號",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    121.427129,
-                    23.672632000000004
-                ]
-            },
-            "condition": 0,
-            "groupId": "223614",
-            "interfaceNumber": "",
-            "meterSetting": 0
-        },
-        {
-            "id": 5732,
-            "name": "光復國小加水站2",
-            "division": 274,
-            "contact": "黃佳能",
-            "phone": "03-8762058-101",
-            "address": "花蓮縣光復鄉大馬村中山路三段75號",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    121.42700399999998,
-                    23.673706
-                ]
-            },
-            "condition": 0,
-            "groupId": "223614",
-            "interfaceNumber": "",
-            "meterSetting": 0
-        },
-        {
-            "id": 5735,
-            "name": "武昌街口加水站2",
-            "division": 274,
-            "contact": "黃佳能",
-            "phone": "03-8762058-101",
-            "address": "花蓮縣光復鄉大平村中山路三段124號",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    121.427129,
-                    23.672632000000004
-                ]
-            },
-            "condition": 0,
-            "groupId": "223614",
-            "interfaceNumber": "",
-            "meterSetting": 0.5
         },
         {
             "id": 5736,
@@ -943,25 +734,6 @@
                 "coordinates": [
                     121.42998,
                     23.67201699999999
-                ]
-            },
-            "condition": 0,
-            "groupId": "223614",
-            "interfaceNumber": "",
-            "meterSetting": 0
-        },
-        {
-            "id": 5747,
-            "name": "光復國小加水站3",
-            "division": 274,
-            "contact": "黃佳能",
-            "phone": "03-8762058-101",
-            "address": "花蓮縣光復鄉大馬村中山路三段75號",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    121.42700399999998,
-                    23.673706
                 ]
             },
             "condition": 0,
