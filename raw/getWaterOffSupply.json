@@ -134,44 +134,6 @@
             "meterSetting": 0.5
         },
         {
-            "id": 5681,
-            "name": "富田天主堂加水站1",
-            "division": 274,
-            "contact": "簡睿宏",
-            "phone": "03-8762058-101",
-            "address": "976花蓮縣光復鄉富田一街16號",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    13519503.469100645,
-                    2711894.929901275
-                ]
-            },
-            "condition": 0,
-            "groupId": "223614",
-            "interfaceNumber": "",
-            "meterSetting": 0
-        },
-        {
-            "id": 5682,
-            "name": "富田協天宮加水站",
-            "division": 274,
-            "contact": "簡睿宏",
-            "phone": "03-8762058-101",
-            "address": "976花蓮縣光復鄉光豐路27號",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    13519879.395021051,
-                    2711988.1470173774
-                ]
-            },
-            "condition": 0,
-            "groupId": "223614",
-            "interfaceNumber": "",
-            "meterSetting": 0
-        },
-        {
             "id": 5683,
             "name": "富田教會加水站",
             "division": 274,
@@ -208,44 +170,6 @@
             "groupId": "223614",
             "interfaceNumber": "",
             "meterSetting": 0
-        },
-        {
-            "id": 5688,
-            "name": "加里洞社區活動中心加水站",
-            "division": 274,
-            "contact": "簡睿宏",
-            "phone": "03-8762058-101",
-            "address": "976花蓮縣光復鄉東富路92巷21之2號",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    13524023.014740026,
-                    2716273.740476484
-                ]
-            },
-            "condition": 0,
-            "groupId": "223614",
-            "interfaceNumber": "",
-            "meterSetting": 0
-        },
-        {
-            "id": 5689,
-            "name": "阿陶莫加水站",
-            "division": 274,
-            "contact": "簡睿宏",
-            "phone": "03-8762058-101",
-            "address": "976花蓮縣光復鄉東富村東富路18巷7號",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    13522195.619665988,
-                    2712955.8386107245
-                ]
-            },
-            "condition": 0,
-            "groupId": "223614",
-            "interfaceNumber": "",
-            "meterSetting": 0.5
         },
         {
             "id": 5690,
@@ -305,25 +229,6 @@
             "meterSetting": 0.5
         },
         {
-            "id": 5709,
-            "name": "東富路30號加水站",
-            "division": 274,
-            "contact": "簡睿宏",
-            "phone": "03-8762058-101",
-            "address": "花蓮縣光復鄉東富路30號",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    13521648.261729756,
-                    2713482.2477218737
-                ]
-            },
-            "condition": 0,
-            "groupId": "223614",
-            "interfaceNumber": "",
-            "meterSetting": 0.5
-        },
-        {
             "id": 5714,
             "name": "太巴塱國小",
             "division": 274,
@@ -341,44 +246,6 @@
             "groupId": "223614",
             "interfaceNumber": "",
             "meterSetting": 0.5
-        },
-        {
-            "id": 5715,
-            "name": "富田天主堂加水站2",
-            "division": 274,
-            "contact": "黃佳能",
-            "phone": "03-8762058-101",
-            "address": "976花蓮縣光復鄉富田一街16號",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    13519503.469100645,
-                    2711894.929901275
-                ]
-            },
-            "condition": 0,
-            "groupId": "223614",
-            "interfaceNumber": "",
-            "meterSetting": 0.5
-        },
-        {
-            "id": 5716,
-            "name": "富田派出所加水站",
-            "division": 274,
-            "contact": "黃佳能",
-            "phone": "03-8762058-101",
-            "address": "花蓮縣光復鄉南富村中正路二段55號",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    13519746.256910065,
-                    2711925.1919820323
-                ]
-            },
-            "condition": 0,
-            "groupId": "223614",
-            "interfaceNumber": "",
-            "meterSetting": 0
         },
         {
             "id": 5717,
@@ -457,25 +324,6 @@
             "meterSetting": 0
         },
         {
-            "id": 5723,
-            "name": "富田二街及光豐路口加水站",
-            "division": 274,
-            "contact": "黃佳能",
-            "phone": "03-8762058-101",
-            "address": "花蓮縣光復鄉北富村光豐路32號",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    13519871.395809243,
-                    2711976.47982459
-                ]
-            },
-            "condition": 0,
-            "groupId": "223614",
-            "interfaceNumber": "",
-            "meterSetting": 0
-        },
-        {
             "id": 5724,
             "name": "太巴塱教會加水站",
             "division": 274,
@@ -512,63 +360,6 @@
             "groupId": "223614",
             "interfaceNumber": "",
             "meterSetting": 0.5
-        },
-        {
-            "id": 5741,
-            "name": "阿陶莫加水站1",
-            "division": 274,
-            "contact": "黃佳能",
-            "phone": "03-8762051-101",
-            "address": "976花蓮縣光復鄉東富村東富路18巷7號",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    13522195.619665988,
-                    2712955.8386107245
-                ]
-            },
-            "condition": 0,
-            "groupId": "223614",
-            "interfaceNumber": "",
-            "meterSetting": 0
-        },
-        {
-            "id": 5742,
-            "name": "阿陶莫加水站2",
-            "division": 274,
-            "contact": "黃佳能",
-            "phone": "03-8762058-101",
-            "address": "976花蓮縣光復鄉東富村東富路18巷7號",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    13522195.619665988,
-                    2712955.8386107245
-                ]
-            },
-            "condition": 0,
-            "groupId": "223614",
-            "interfaceNumber": "",
-            "meterSetting": 0
-        },
-        {
-            "id": 5744,
-            "name": "舞斯菲餐廳加水站",
-            "division": 274,
-            "contact": "黃佳能",
-            "phone": "03-8762058-101",
-            "address": "花蓮縣光復鄉西富村中正路二段16之1號",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    13519192.108484896,
-                    2712106.0364608294
-                ]
-            },
-            "condition": 0,
-            "groupId": "223614",
-            "interfaceNumber": "",
-            "meterSetting": 0
         },
         {
             "id": 5757,
