@@ -134,63 +134,6 @@
             "meterSetting": 0.5
         },
         {
-            "id": 5684,
-            "name": "太巴塱祭祀廣場加水站",
-            "division": 274,
-            "contact": "簡睿宏",
-            "phone": "03-8762058-101",
-            "address": "976花蓮縣光復鄉光豐路88號",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    13520442.226366503,
-                    2711662.8009970593
-                ]
-            },
-            "condition": 0,
-            "groupId": "223614",
-            "interfaceNumber": "",
-            "meterSetting": 0
-        },
-        {
-            "id": 5714,
-            "name": "太巴塱國小",
-            "division": 274,
-            "contact": "黃佳能",
-            "phone": "03-8762058-101",
-            "address": "花蓮縣光復鄉中正路二段23號",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    13519506.767441645,
-                    2712025.4749829043
-                ]
-            },
-            "condition": 0,
-            "groupId": "223614",
-            "interfaceNumber": "",
-            "meterSetting": 0.5
-        },
-        {
-            "id": 5717,
-            "name": "光復火車站加水站",
-            "division": 274,
-            "contact": "黃佳能",
-            "phone": "03-8762058-101",
-            "address": "花蓮縣光復鄉大安村中正路一段2之1號",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    13516541.925367577,
-                    2712801.4804374413
-                ]
-            },
-            "condition": 0,
-            "groupId": "223614",
-            "interfaceNumber": "",
-            "meterSetting": 0.5
-        },
-        {
             "id": 5720,
             "name": "光復火車站加水站1",
             "division": 274,
@@ -212,25 +155,6 @@
         {
             "id": 5721,
             "name": "光復火車站加水站2",
-            "division": 274,
-            "contact": "黃佳能",
-            "phone": "03-8762058-101",
-            "address": "花蓮縣光復鄉大安村中正路一段2之1號",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    13516541.925367577,
-                    2712801.4804374413
-                ]
-            },
-            "condition": 0,
-            "groupId": "223614",
-            "interfaceNumber": "",
-            "meterSetting": 0
-        },
-        {
-            "id": 5722,
-            "name": "光復火車站加水站3",
             "division": 274,
             "contact": "黃佳能",
             "phone": "03-8762058-101",
