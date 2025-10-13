@@ -134,25 +134,6 @@
             "meterSetting": 0.5
         },
         {
-            "id": 5683,
-            "name": "富田教會加水站",
-            "division": 274,
-            "contact": "簡睿宏",
-            "phone": "03-8762058-101",
-            "address": "976花蓮縣光復鄉中正路二段75號",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    121.4504274118178,
-                    23.65824364230787
-                ]
-            },
-            "condition": 0,
-            "groupId": "223614",
-            "interfaceNumber": "",
-            "meterSetting": 0
-        },
-        {
             "id": 5684,
             "name": "太巴塱祭祀廣場加水站",
             "division": 274,
@@ -265,44 +246,6 @@
             "groupId": "223614",
             "interfaceNumber": "",
             "meterSetting": 0
-        },
-        {
-            "id": 5724,
-            "name": "太巴塱教會加水站",
-            "division": 274,
-            "contact": "黃佳能",
-            "phone": "03-8762058-101",
-            "address": "花蓮縣光復鄉南富村中正路二段90號",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    121.45043400000002,
-                    23.657866000000002
-                ]
-            },
-            "condition": 0,
-            "groupId": "223614",
-            "interfaceNumber": "",
-            "meterSetting": 0
-        },
-        {
-            "id": 5736,
-            "name": "太巴塱教會加水站1",
-            "division": 274,
-            "contact": "黃佳能",
-            "phone": "03-8762058-101",
-            "address": "花蓮縣光復鄉南富村中正路二段90號",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    121.45043400000002,
-                    23.657866000000002
-                ]
-            },
-            "condition": 0,
-            "groupId": "223614",
-            "interfaceNumber": "",
-            "meterSetting": 0.5
         }
     ]
 }
