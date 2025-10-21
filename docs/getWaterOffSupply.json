@@ -132,44 +132,6 @@
             "groupId": "220679",
             "interfaceNumber": "",
             "meterSetting": 0.5
-        },
-        {
-            "id": 5720,
-            "name": "光復火車站加水站1",
-            "division": 274,
-            "contact": "黃佳能",
-            "phone": "03-8762058-101",
-            "address": "花蓮縣光復鄉大安村中正路一段2之1號",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    121.421162,
-                    23.666330999999985
-                ]
-            },
-            "condition": 0,
-            "groupId": "223614",
-            "interfaceNumber": "",
-            "meterSetting": 0
-        },
-        {
-            "id": 5721,
-            "name": "光復火車站加水站2",
-            "division": 274,
-            "contact": "黃佳能",
-            "phone": "03-8762058-101",
-            "address": "花蓮縣光復鄉大安村中正路一段2之1號",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    121.421162,
-                    23.666330999999985
-                ]
-            },
-            "condition": 0,
-            "groupId": "223614",
-            "interfaceNumber": "",
-            "meterSetting": 0
         }
     ]
 }
