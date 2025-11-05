@@ -58,6 +58,177 @@
             "meterSetting": 0.5
         },
         {
+            "id": 104,
+            "name": "南投市府南二路25號前",
+            "division": 23,
+            "contact": "方秀滿",
+            "phone": "049-2222635",
+            "address": "南投市三和里府南二路25號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.69019700000024,
+                    23.900975000000003
+                ]
+            },
+            "condition": null,
+            "groupId": "231216",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 105,
+            "name": "南投縣名間鄉新民村辦公處(南投縣名間鄉新民村外埔巷11-1號)",
+            "division": 23,
+            "contact": "方秀滿",
+            "phone": "049-2222635",
+            "address": "南投縣名間鄉新民村辦公處",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.69246700000024,
+                    23.817827000000026
+                ]
+            },
+            "condition": null,
+            "groupId": "231216",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 107,
+            "name": "僑興國小正門口 (名間鄉彰南路259號)",
+            "division": 23,
+            "contact": "方秀滿",
+            "phone": "049-2222635",
+            "address": "僑興國小正門口",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.6941960000004,
+                    23.858974999999973
+                ]
+            },
+            "condition": null,
+            "groupId": "231216",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 108,
+            "name": "漳興國小(南投縣南投市復興路669號)",
+            "division": 23,
+            "contact": "方秀滿",
+            "phone": "049-2222635#106",
+            "address": "南投縣南投市復興路669號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.68107100000006,
+                    23.918131000000017
+                ]
+            },
+            "condition": null,
+            "groupId": "231216",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 109,
+            "name": "名間鄉農會新街辦事處 (名間鄉彰南路450號)",
+            "division": 23,
+            "contact": "方秀滿",
+            "phone": "049-2222635",
+            "address": "名間鄉農會新街辦事處",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.69340399999956,
+                    23.87923600000001
+                ]
+            },
+            "condition": null,
+            "groupId": "231216",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 130,
+            "name": "南投縣南投市民族路200號旁陸橋",
+            "division": 23,
+            "contact": "方秀滿",
+            "phone": "049-2222635",
+            "address": "南投市平和里民族路200號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.68877200000009,
+                    23.909694999999978
+                ]
+            },
+            "condition": null,
+            "groupId": "231216",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 143,
+            "name": "南雅村南雅街田墘巷交叉口(名間鄉南雅街29號)",
+            "division": 23,
+            "contact": "方秀滿",
+            "phone": "049-2222635#106",
+            "address": "南雅村南雅街田墘巷交叉口",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.70241800000038,
+                    23.837397999999972
+                ]
+            },
+            "condition": null,
+            "groupId": "231216",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 148,
+            "name": "中正村福德宮(元寶土地公)",
+            "division": 23,
+            "contact": "方秀滿",
+            "phone": "049-2222635#106",
+            "address": "南投縣名間鄉庄仔巷24-1號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.695888,
+                    23.83912399999999
+                ]
+            },
+            "condition": 0,
+            "groupId": "231216",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 169,
+            "name": "南投縣名間鄉彰南路48號(慶滿樓)",
+            "division": 23,
+            "contact": "方秀滿",
+            "phone": "049-2222635#106",
+            "address": "南投縣名間鄉彰南路48號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.70305900000001,
+                    23.839077999999997
+                ]
+            },
+            "condition": 0,
+            "groupId": "231216",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
             "id": 3022,
             "name": "延和里辦公處前取水站",
             "division": 16,
@@ -74,6 +245,25 @@
             "condition": 1,
             "groupId": "231234",
             "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5477,
+            "name": "南投縣名間鄉仁和村辦公處",
+            "division": 23,
+            "contact": "郭子瑄",
+            "phone": "049-2222635#106",
+            "address": "南投縣名間鄉仁和村山腳巷11號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.70554900000003,
+                    23.855379000000003
+                ]
+            },
+            "condition": 0,
+            "groupId": "231216",
+            "interfaceNumber": "",
             "meterSetting": 0.5
         },
         {
