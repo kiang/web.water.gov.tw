@@ -1,23 +1,289 @@
 {
     "supply": [
         {
-            "id": 5661,
-            "name": "台灣道教總廟玄義宮廟前",
-            "division": 23,
-            "contact": "郭子瑄",
-            "phone": "049-2222635",
-            "address": "南投縣中寮鄉永福村竹坑巷16-1號",
+            "id": 63,
+            "name": "竹山國中前人行道取水站",
+            "division": 16,
+            "contact": "林股長",
+            "phone": "049-2642074",
+            "address": "竹山鎮中山里竹山路２１７號",
             "location": {
                 "type": "Point",
                 "coordinates": [
-                    13440100.834790673,
-                    2740594.0175160393
+                    13434258.119996898,
+                    2723350.6361163696
+                ]
+            },
+            "condition": 1,
+            "groupId": "231234",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 64,
+            "name": "雲林國小前廣場取水站",
+            "division": 16,
+            "contact": "林股長",
+            "phone": "049-2642074",
+            "address": "竹山鎮雲林里大明路６６６號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13433704.973447146,
+                    2723799.1849129656
+                ]
+            },
+            "condition": 1,
+            "groupId": "231234",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 99,
+            "name": "中和國小前人行道取水站",
+            "division": 16,
+            "contact": "林股長",
+            "phone": "049-2642074",
+            "address": "竹山鎮中崎里集山路三段１３９４號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13432720.129912099,
+                    2723915.2161443816
+                ]
+            },
+            "condition": 1,
+            "groupId": "231234",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 3022,
+            "name": "延和里辦公處前取水站",
+            "division": 16,
+            "contact": "林股長",
+            "phone": "049-2642074",
+            "address": "竹山鎮延和里大和街４２號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13435138.100571616,
+                    2724381.052395189
+                ]
+            },
+            "condition": 1,
+            "groupId": "231234",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5805,
+            "name": "萊爾富竹山桂竹店前、禮拜四夜市",
+            "division": 16,
+            "contact": "林股長",
+            "phone": "049-2642074",
+            "address": "竹山鎮桂林里興隆街43號前",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13434826.628636379,
+                    2723536.2325859806
+                ]
+            },
+            "condition": 1,
+            "groupId": "231234",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5806,
+            "name": "全家竹山夯蕃薯店前",
+            "division": 16,
+            "contact": "林股長",
+            "phone": "049-2642074",
+            "address": "竹山鎮集山路三段129號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13436718.726021392,
+                    2724779.1525665624
+                ]
+            },
+            "condition": 1,
+            "groupId": "231234",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5807,
+            "name": "7-11竹寶門市前",
+            "division": 16,
+            "contact": "林股長",
+            "phone": "049-2642074",
+            "address": "竹山鎮延正路45-30號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13436313.411755413,
+                    2725556.407242926
+                ]
+            },
+            "condition": 1,
+            "groupId": "231234",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5808,
+            "name": "竹山鎮中央里辦公室",
+            "division": 86,
+            "contact": "曾世淇",
+            "phone": "0492762076",
+            "address": "竹山镇中央里集山路一段1236巷6號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13439992.743565112,
+                    2730805.396656748
                 ]
             },
             "condition": 0,
-            "groupId": "220679",
+            "groupId": "231264",
             "interfaceNumber": "",
             "meterSetting": 0.5
+        },
+        {
+            "id": 5809,
+            "name": "集集鎮龍泉車站",
+            "division": 86,
+            "contact": "曾世淇",
+            "phone": "0492762076",
+            "address": "集集鎮田寮里龍泉巷19號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13441877.159905262,
+                    2733338.6015346455
+                ]
+            },
+            "condition": 0,
+            "groupId": "231264",
+            "interfaceNumber": "",
+            "meterSetting": 0
+        },
+        {
+            "id": 5810,
+            "name": "集集鎮八張社區活動中心",
+            "division": 86,
+            "contact": "曾世淇",
+            "phone": "0492762076",
+            "address": "集集鎮八張里八張街181號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13446516.733642545,
+                    2732799.727553096
+                ]
+            },
+            "condition": 0,
+            "groupId": "231264",
+            "interfaceNumber": "",
+            "meterSetting": 0
+        },
+        {
+            "id": 5811,
+            "name": "集集鎮水里營運所",
+            "division": 86,
+            "contact": "曾世淇",
+            "phone": "0492762076",
+            "address": "集集鎮吳厝里民權路430號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13446098.172357159,
+                    2732305.7758957827
+                ]
+            },
+            "condition": 0,
+            "groupId": "231264",
+            "interfaceNumber": "",
+            "meterSetting": 0
+        },
+        {
+            "id": 5812,
+            "name": "水里鄉三元宫",
+            "division": 86,
+            "contact": "曾世淇",
+            "phone": "0492762076",
+            "address": "水里鄉車埕里民權巷25號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13454607.211594418,
+                    2733119.544851407
+                ]
+            },
+            "condition": 0,
+            "groupId": "231264",
+            "interfaceNumber": "",
+            "meterSetting": 0
+        },
+        {
+            "id": 5813,
+            "name": "水里鄉城中村村長",
+            "division": 86,
+            "contact": "曾世淇",
+            "phone": "0492762076",
+            "address": "水里鄉城中村城福街66號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13453168.629814895,
+                    2731068.4698807253
+                ]
+            },
+            "condition": 0,
+            "groupId": "231264",
+            "interfaceNumber": "",
+            "meterSetting": 0
+        },
+        {
+            "id": 5814,
+            "name": "水里鄉三村集會所",
+            "division": 86,
+            "contact": "曾世淇",
+            "phone": "0492762076",
+            "address": "水里鄉北埔村博愛路37號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13453371.565246612,
+                    2730544.3963307845
+                ]
+            },
+            "condition": 0,
+            "groupId": "231264",
+            "interfaceNumber": "",
+            "meterSetting": 0
+        },
+        {
+            "id": 5815,
+            "name": "水里鄉上安社區活動中心",
+            "division": 86,
+            "contact": "曾世淇",
+            "phone": "0492762076",
+            "address": "水里鄉上安村水信路三段117-1號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13453421.659017468,
+                    2720741.9344815537
+                ]
+            },
+            "condition": 0,
+            "groupId": "231264",
+            "interfaceNumber": "",
+            "meterSetting": 0
         }
     ]
 }
