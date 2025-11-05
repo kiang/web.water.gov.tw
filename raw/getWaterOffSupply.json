@@ -14,7 +14,7 @@
                     2723350.6361163696
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "231234",
             "interfaceNumber": null,
             "meterSetting": 0.5
@@ -33,7 +33,7 @@
                     2723799.1849129656
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "231234",
             "interfaceNumber": null,
             "meterSetting": 0.5
@@ -52,7 +52,7 @@
                     2723915.2161443816
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "231234",
             "interfaceNumber": null,
             "meterSetting": 0.5
@@ -242,7 +242,7 @@
                     2724381.052395189
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "231234",
             "interfaceNumber": null,
             "meterSetting": 0.5
@@ -280,7 +280,7 @@
                     2723536.2325859806
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "231234",
             "interfaceNumber": "",
             "meterSetting": 0.5
@@ -299,7 +299,7 @@
                     2724779.1525665624
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "231234",
             "interfaceNumber": "",
             "meterSetting": 0.5
@@ -318,7 +318,7 @@
                     2725556.407242926
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "231234",
             "interfaceNumber": "",
             "meterSetting": 0.5
