@@ -1,6 +1,25 @@
 {
     "supply": [
         {
+            "id": 5665,
+            "name": "光復鄉公所加水站",
+            "division": 274,
+            "contact": "簡睿宏",
+            "phone": "03-8762058-101",
+            "address": "花蓮縣光復鄉大華村中華路257號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    121.42345700000001,
+                    23.669235999999998
+                ]
+            },
+            "condition": 0,
+            "groupId": "232359",
+            "interfaceNumber": "",
+            "meterSetting": 0
+        },
+        {
             "id": 5771,
             "name": "馬太鞍教會加水站1",
             "division": 274,
@@ -60,6 +79,25 @@
         {
             "id": 5784,
             "name": "馬太鞍教會加水站4",
+            "division": 274,
+            "contact": "陳雲程",
+            "phone": "038763064",
+            "address": "花蓮縣光復鄉中山路三段89巷14號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    121.426732,
+                    23.675400999999997
+                ]
+            },
+            "condition": 0,
+            "groupId": "232359",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5785,
+            "name": "馬太鞍教會加水站5",
             "division": 274,
             "contact": "陳雲程",
             "phone": "038763064",
