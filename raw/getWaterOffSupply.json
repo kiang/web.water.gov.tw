@@ -4,7 +4,7 @@
             "id": 1066,
             "name": "後甲南聖社區聯合活動中心",
             "division": 12,
-            "contact": "黃熙涵",
+            "contact": "王獻仁",
             "phone": "06-2370021",
             "address": "台南市東區裕農路878號",
             "location": {
@@ -346,7 +346,7 @@
             "id": 294,
             "name": "莊敬里活動中心",
             "division": 12,
-            "contact": "趙子翔",
+            "contact": "王獻仁",
             "phone": "06-2370021",
             "address": "台南市東區莊敬路205巷23號",
             "location": {
@@ -384,7 +384,7 @@
             "id": 297,
             "name": "崇誨公園",
             "division": 12,
-            "contact": "趙子翔",
+            "contact": "王獻仁",
             "phone": "06-2370021",
             "address": "台南市東區林森路二段與192巷口人行道",
             "location": {
@@ -403,7 +403,7 @@
             "id": 290,
             "name": "台南東門巴克禮紀念教會",
             "division": 12,
-            "contact": "趙子翔",
+            "contact": "王獻仁",
             "phone": "06-2370021",
             "address": "台南市東區東門路一段187號",
             "location": {
@@ -419,10 +419,29 @@
             "meterSetting": 0.5
         },
         {
-            "id": 838,
-            "name": "新東里活動中心",
+            "id": 899,
+            "name": "東聖里活動中心",
             "division": 12,
-            "contact": "趙子翔",
+            "contact": "王獻仁",
+            "phone": "06-2370021",
+            "address": "東區中華東路二段133巷17弄58號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13384493.894590117,
+                    2630330.1165995626
+                ]
+            },
+            "condition": null,
+            "groupId": "232858",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 838,
+            "name": "新東里活動中心後方",
+            "division": 12,
+            "contact": "王獻仁",
             "phone": "06-2370021",
             "address": "台南市東區林森路二段48號",
             "location": {
@@ -441,7 +460,7 @@
             "id": 841,
             "name": "富強里活動中心",
             "division": 12,
-            "contact": "趙子翔",
+            "contact": "王獻仁",
             "phone": "06-2370021",
             "address": "台南市東區裕農路446巷88號",
             "location": {
@@ -449,25 +468,6 @@
                 "coordinates": [
                     13384124.719401203,
                     2630323.9693007325
-                ]
-            },
-            "condition": null,
-            "groupId": "232858",
-            "interfaceNumber": null,
-            "meterSetting": 0.5
-        },
-        {
-            "id": 899,
-            "name": "東聖里活動中心",
-            "division": 12,
-            "contact": "黃熙涵",
-            "phone": "06-2370021",
-            "address": "東區中華東路二段133巷57弄34號",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    13384493.894590117,
-                    2630330.1165995626
                 ]
             },
             "condition": null,
@@ -487,6 +487,25 @@
                 "coordinates": [
                     13397551.5197832,
                     2644478.05453304
+                ]
+            },
+            "condition": null,
+            "groupId": "232858",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 842,
+            "name": "建東街大榕樹下",
+            "division": 12,
+            "contact": "王獻仁",
+            "phone": "06-2370021",
+            "address": "台南市東區建東街41號邊",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13384718.577651776,
+                    2630852.635347607
                 ]
             },
             "condition": null,
@@ -609,36 +628,17 @@
             "meterSetting": 0.5
         },
         {
-            "id": 842,
-            "name": "建東街大榕樹下",
-            "division": 12,
-            "contact": "黃熙涵",
-            "phone": "06-2370021",
-            "address": "台南市東區建東街41號邊",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    13384718.577651776,
-                    2630852.635347607
-                ]
-            },
-            "condition": null,
-            "groupId": "232858",
-            "interfaceNumber": null,
-            "meterSetting": 0.5
-        },
-        {
             "id": 1222,
             "name": "文聖公園",
             "division": 12,
-            "contact": "黃熙涵",
+            "contact": "王獻仁",
             "phone": "06-2370021",
-            "address": "文聖公園臨裕忠路人行道上",
+            "address": "裕文路跟裕興街之間的文聖公園臨裕忠路人行道上",
             "location": {
                 "type": "Point",
                 "coordinates": [
-                    13385267.819501504,
-                    2629955.993175964
+                    13501040.463635635,
+                    2864050.8168176264
                 ]
             },
             "condition": null,
@@ -650,7 +650,7 @@
             "id": 1226,
             "name": "和平里活動中心",
             "division": 12,
-            "contact": "趙子翔",
+            "contact": "王獻仁",
             "phone": "06-2370021",
             "address": "台南市東區文化路100號",
             "location": {
@@ -669,14 +669,14 @@
             "id": 1227,
             "name": "崇善里活動中心",
             "division": 12,
-            "contact": "趙子翔",
+            "contact": "王獻仁",
             "phone": "06-2370021",
-            "address": "台南市東區仁和路70巷38號",
+            "address": "台南市東區仁和路70巷9號對面消防栓旁",
             "location": {
                 "type": "Point",
                 "coordinates": [
-                    13383902.701949475,
-                    2629089.209218496
+                    13383949.16856422,
+                    2629051.0884397253
                 ]
             },
             "condition": null,
@@ -688,7 +688,7 @@
             "id": 1229,
             "name": "德高里活動中心",
             "division": 12,
-            "contact": "趙子翔",
+            "contact": "王獻仁",
             "phone": "06-2370021",
             "address": "台南市東區仁和路196號",
             "location": {
@@ -707,7 +707,7 @@
             "id": 1230,
             "name": "大智里活動中心",
             "division": 12,
-            "contact": "趙子翔",
+            "contact": "王獻仁",
             "phone": "06-2370021",
             "address": "台南市東區德東街90號",
             "location": {
@@ -726,9 +726,9 @@
             "id": 1231,
             "name": "東智社區發展協會",
             "division": 12,
-            "contact": "趙子翔",
+            "contact": "王獻仁",
             "phone": "06-2370021",
-            "address": "台南市東區長東街46巷8號",
+            "address": "台南市東區長東街46巷8號對面(第一格停車格)",
             "location": {
                 "type": "Point",
                 "coordinates": [
@@ -745,7 +745,7 @@
             "id": 1232,
             "name": "崇文暨崇成里聯合活動中心",
             "division": 12,
-            "contact": "趙子翔",
+            "contact": "王獻仁",
             "phone": "06-2370021",
             "address": "台南市東區崇德路691號",
             "location": {
@@ -764,7 +764,7 @@
             "id": 1233,
             "name": "崇成公園",
             "division": 12,
-            "contact": "趙子翔",
+            "contact": "王獻仁",
             "phone": "06-2370021",
             "address": "台南市東區崇明路與崇明二十四街口人行道",
             "location": {
@@ -783,7 +783,7 @@
             "id": 1235,
             "name": "崇德里活動中心",
             "division": 12,
-            "contact": "趙子翔",
+            "contact": "王獻仁",
             "phone": "06-2370021",
             "address": "台南市東區崇德七街30巷2號",
             "location": {
@@ -802,7 +802,7 @@
             "id": 1236,
             "name": "崇學公園",
             "division": 12,
-            "contact": "趙子翔",
+            "contact": "王獻仁",
             "phone": "06-2370021",
             "address": "台南市東區崇學路與崇學路20巷口人行道",
             "location": {
