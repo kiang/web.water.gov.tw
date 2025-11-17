@@ -23,7 +23,7 @@
             "id": 1261,
             "name": "大仁社區活動中心",
             "division": 12,
-            "contact": "黃熙涵",
+            "contact": "王献仁",
             "phone": "06-2370021",
             "address": "台南市北區和緯路一段1號",
             "location": {
@@ -42,7 +42,7 @@
             "id": 1262,
             "name": "光武活動中心",
             "division": 12,
-            "contact": "黃熙涵",
+            "contact": "王献仁",
             "phone": "06-2370021",
             "address": "台南市北區北門路二段591號",
             "location": {
@@ -61,7 +61,7 @@
             "id": 1263,
             "name": "小北里活動中心",
             "division": 12,
-            "contact": "黃熙涵",
+            "contact": "王献仁",
             "phone": "06-2370021",
             "address": "台南市北區公園路433巷15號",
             "location": {
@@ -80,7 +80,7 @@
             "id": 1266,
             "name": "正覺社區活動中心",
             "division": 12,
-            "contact": "黃熙涵",
+            "contact": "王献仁",
             "phone": "06-2370021",
             "address": "台南市北區公園路769巷20弄5號",
             "location": {
@@ -382,7 +382,7 @@
         },
         {
             "id": 292,
-            "name": "許嵩煙故居",
+            "name": "東門路許嵩煙故居",
             "division": 12,
             "contact": "王獻仁",
             "phone": "06-2370021",
@@ -857,7 +857,7 @@
         },
         {
             "id": 1228,
-            "name": "停車場",
+            "name": "嘟嘟房停車場",
             "division": 12,
             "contact": "王獻仁",
             "phone": "06-2370021",
@@ -918,7 +918,7 @@
             "division": 12,
             "contact": "王獻仁",
             "phone": "06-2370021",
-            "address": "台南市東區長東街46巷8號對面(第一格停車格)",
+            "address": "台南市東區長東街46巷8號里長辦公室對面(第一格停車格)",
             "location": {
                 "type": "Point",
                 "coordinates": [
@@ -1030,7 +1030,7 @@
             "id": 1237,
             "name": "東區區公所",
             "division": 12,
-            "contact": "趙子翔",
+            "contact": "王獻仁",
             "phone": "06-2370021",
             "address": "台南市東區崇學路100號",
             "location": {
@@ -1049,7 +1049,7 @@
             "id": 1238,
             "name": "龍山社區活動中心",
             "division": 12,
-            "contact": "趙子翔",
+            "contact": "王獻仁",
             "phone": "06-2370021",
             "address": "台南市東區林森路一段311號",
             "location": {
@@ -1068,7 +1068,7 @@
             "id": 1239,
             "name": "德光里活動中心",
             "division": 12,
-            "contact": "趙子翔",
+            "contact": "王獻仁",
             "phone": "06-2370021",
             "address": "台南市東區崇德路111號",
             "location": {
@@ -1087,7 +1087,7 @@
             "id": 1242,
             "name": "衛福部胸腔病院前",
             "division": 12,
-            "contact": "趙子翔",
+            "contact": "王獻仁",
             "phone": "06-2370021",
             "address": "台南市東區大同路1段69號前人行道",
             "location": {
@@ -1106,7 +1106,7 @@
             "id": 1247,
             "name": "財團法人基督教台灣信義會救主堂",
             "division": 12,
-            "contact": "黃熙涵",
+            "contact": "王獻仁",
             "phone": "06-2370021",
             "address": "台南市北區開元路64號前人行道",
             "location": {
@@ -1125,7 +1125,7 @@
             "id": 1250,
             "name": "東興社區活動中心",
             "division": 12,
-            "contact": "黃熙涵",
+            "contact": "王獻仁",
             "phone": "06-2370021",
             "address": "台南市北區小東路401巷51之1號",
             "location": {
@@ -1144,7 +1144,7 @@
             "id": 1251,
             "name": "振興里活動中心",
             "division": 12,
-            "contact": "黃熙涵",
+            "contact": "王獻仁",
             "phone": "06-2370021",
             "address": "台南市北區林森路三段181號",
             "location": {
@@ -1163,7 +1163,7 @@
             "id": 1252,
             "name": "重興社區活動中心",
             "division": 12,
-            "contact": "黃熙涵",
+            "contact": "王獻仁",
             "phone": "06-2370021",
             "address": "台南市北區東豐路451巷169號",
             "location": {
@@ -1182,7 +1182,7 @@
             "id": 1255,
             "name": "開元元寶里活動中心",
             "division": 12,
-            "contact": "黃熙涵",
+            "contact": "王献仁",
             "phone": "06-2370021",
             "address": "台南市北區北園街114巷11號",
             "location": {
@@ -1201,7 +1201,7 @@
             "id": 1256,
             "name": "開元寺",
             "division": 12,
-            "contact": "黃熙涵",
+            "contact": "王献仁",
             "phone": "06-2370021",
             "address": "台南市北區北園街89號",
             "location": {
@@ -1220,7 +1220,7 @@
             "id": 1258,
             "name": "公園里活動中心",
             "division": 12,
-            "contact": "黃熙涵",
+            "contact": "王献仁",
             "phone": "06-2370021",
             "address": "台南市北區公園南路39號",
             "location": {
@@ -1543,7 +1543,7 @@
             "id": 3875,
             "name": "赤嵌里活動中心",
             "division": 12,
-            "contact": "黃熙涵",
+            "contact": "王献仁",
             "phone": "06-2370021",
             "address": "台南市中西區公園路125號",
             "location": {
@@ -1980,7 +1980,7 @@
             "id": 3928,
             "name": "永華里活動中心",
             "division": 12,
-            "contact": "黃熙涵",
+            "contact": "王献仁",
             "phone": "06-2370021",
             "address": "台南市中西區開山路1號",
             "location": {
@@ -1999,14 +1999,14 @@
             "id": 3929,
             "name": "府前路一段萬昌街口",
             "division": 12,
-            "contact": "黃靖予",
+            "contact": "王献仁",
             "phone": "06-2370021",
-            "address": "台南市中西區府前路一段與萬昌街口南側人行道",
+            "address": "台南市中西區府前路一段與萬昌街口公布欄旁",
             "location": {
                 "type": "Point",
                 "coordinates": [
-                    13381672.990042351,
-                    2630673.8443571846
+                    13381677.026437638,
+                    2630682.623540682
                 ]
             },
             "condition": 0,
@@ -2224,25 +2224,6 @@
             "meterSetting": 0.5
         },
         {
-            "id": 5407,
-            "name": "鄉城陽光鎮社區（中華東路二段185巷40號前方步道）",
-            "division": 12,
-            "contact": "黃熙涵",
-            "phone": "06-2370021",
-            "address": "中華東路二段185巷40號前方步道",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    13384358.156373395,
-                    2630144.2823765245
-                ]
-            },
-            "condition": 0,
-            "groupId": "232858",
-            "interfaceNumber": "",
-            "meterSetting": 0.5
-        },
-        {
             "id": 5408,
             "name": "大台南天然氣股份有限公司",
             "division": 34,
@@ -2303,14 +2284,14 @@
             "id": 5414,
             "name": "忠義路三段71號右邊",
             "division": 12,
-            "contact": "黃熙涵",
+            "contact": "王獻仁",
             "phone": "06-2370021",
-            "address": "台南市北區忠義路三段71號右邊巷口榕樹下",
+            "address": "台南市北區忠義路三段71號右邊巷口榕樹下(有堆資源回收旁)",
             "location": {
                 "type": "Point",
                 "coordinates": [
-                    13381218.567939034,
-                    2632056.6678357637
+                    13381214.605272884,
+                    2632043.6707540136
                 ]
             },
             "condition": 0,
@@ -2322,7 +2303,7 @@
             "id": 5417,
             "name": "復興社區發展協會",
             "division": 12,
-            "contact": "黃熙涵",
+            "contact": "王獻仁",
             "phone": "06-2370021",
             "address": "東區自由路3段268號",
             "location": {
