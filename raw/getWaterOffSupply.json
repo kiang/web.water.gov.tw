@@ -1236,6 +1236,82 @@
             "meterSetting": 0.5
         },
         {
+            "id": 2431,
+            "name": "瑞濱里活動中心",
+            "division": 25,
+            "contact": "總機",
+            "phone": "02-24972006",
+            "address": "新北市瑞芳區建基一路4-2號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13560995.471584529,
+                    2890639.7780798916
+                ]
+            },
+            "condition": null,
+            "groupId": "233069",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 2433,
+            "name": "深澳里活動中心",
+            "division": 25,
+            "contact": "總機",
+            "phone": "02-24972006",
+            "address": "新北市瑞芳區深澳路67-1號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13560737.378230093,
+                    2891735.795870614
+                ]
+            },
+            "condition": null,
+            "groupId": "233069",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 3291,
+            "name": "孝忠里民會堂",
+            "division": 239,
+            "contact": "總機",
+            "phone": "2425-2103、2431-9680",
+            "address": "信義區深溪路8號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13556621.728791263,
+                    2891766.7711524866
+                ]
+            },
+            "condition": 0,
+            "groupId": "233069",
+            "interfaceNumber": "",
+            "meterSetting": 0
+        },
+        {
+            "id": 3292,
+            "name": "孝德里民會堂",
+            "division": 239,
+            "contact": "總機",
+            "phone": "2425-2103 、2431-9680",
+            "address": "信義區東峰街154號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13556122.015597088,
+                    2891781.7720669275
+                ]
+            },
+            "condition": 0,
+            "groupId": "233069",
+            "interfaceNumber": "",
+            "meterSetting": 0
+        },
+        {
             "id": 3815,
             "name": "中華里-中華里活動中心",
             "division": 34,
@@ -2847,6 +2923,63 @@
             },
             "condition": 0,
             "groupId": "232858",
+            "interfaceNumber": "",
+            "meterSetting": 0
+        },
+        {
+            "id": 5840,
+            "name": "貢寮淨水場",
+            "division": 24,
+            "contact": "總機",
+            "phone": "24941820",
+            "address": "貢寮區下雙溪街20號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13572166.804033723,
+                    2877096.9106254363
+                ]
+            },
+            "condition": 0,
+            "groupId": "233069",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5841,
+            "name": "龍洞龍興廟",
+            "division": 24,
+            "contact": "總機",
+            "phone": "24941820",
+            "address": "貢寮區龍洞街41號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13571225.673122957,
+                    2889648.1095355754
+                ]
+            },
+            "condition": 0,
+            "groupId": "233069",
+            "interfaceNumber": "",
+            "meterSetting": 0
+        },
+        {
+            "id": 5842,
+            "name": "雙溪三忠廟",
+            "division": 24,
+            "contact": "總機",
+            "phone": "24941820",
+            "address": "新北市雙溪區長安街15號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13565922.854285674,
+                    2880005.6978502567
+                ]
+            },
+            "condition": 0,
+            "groupId": "233069",
             "interfaceNumber": "",
             "meterSetting": 0
         }
