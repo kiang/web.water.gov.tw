@@ -2018,7 +2018,7 @@
             "id": 3931,
             "name": "法華社區活動中心",
             "division": 12,
-            "contact": "黃靖予",
+            "contact": "王献仁",
             "phone": "06-2370021",
             "address": "台南市中西區府連路22號",
             "location": {
@@ -2037,7 +2037,7 @@
             "id": 3932,
             "name": "南門里活動中心",
             "division": 12,
-            "contact": "黃靖予",
+            "contact": "王献仁",
             "phone": "06-2370021",
             "address": "台南市中西區南寧街47號",
             "location": {
@@ -2056,7 +2056,7 @@
             "id": 3933,
             "name": "小西門公園",
             "division": 12,
-            "contact": "黃靖予",
+            "contact": "王献仁",
             "phone": "06-2370021",
             "address": "台南市中西區和意路1號對面人行道",
             "location": {
@@ -2091,139 +2091,6 @@
             "meterSetting": 0.5
         },
         {
-            "id": 5395,
-            "name": "祥和公園",
-            "division": 12,
-            "contact": "黃熙涵",
-            "phone": "06-2370021",
-            "address": "中西區萬昌街與青年路196巷口",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    120.21047651767731,
-                    22.99121967648732
-                ]
-            },
-            "condition": 0,
-            "groupId": "232858",
-            "interfaceNumber": "",
-            "meterSetting": 0.5
-        },
-        {
-            "id": 5398,
-            "name": "北區林森路三段246號人行道",
-            "division": 12,
-            "contact": "黃熙涵",
-            "phone": "06-2370021",
-            "address": "北區林森路三段246號人行道",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    120.22447898983955,
-                    23.00700154157642
-                ]
-            },
-            "condition": 0,
-            "groupId": "232858",
-            "interfaceNumber": "",
-            "meterSetting": 0.5
-        },
-        {
-            "id": 5399,
-            "name": "永祥公園南側",
-            "division": 12,
-            "contact": "黃熙涵",
-            "phone": "06-2370021",
-            "address": "北區實踐街85巷與實踐街交叉口",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    120.21952226758003,
-                    23.01374505957435
-                ]
-            },
-            "condition": 0,
-            "groupId": "232858",
-            "interfaceNumber": "",
-            "meterSetting": 0.5
-        },
-        {
-            "id": 5400,
-            "name": "知安根大廈前方轉角步道",
-            "division": 12,
-            "contact": "黃熙涵",
-            "phone": "06-2370021",
-            "address": "北區長榮路四段56號",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    120.22273900000002,
-                    23.004120000000015
-                ]
-            },
-            "condition": 0,
-            "groupId": "232858",
-            "interfaceNumber": "",
-            "meterSetting": 0.5
-        },
-        {
-            "id": 5401,
-            "name": "北區長勝路32號",
-            "division": 12,
-            "contact": "黃熙涵",
-            "phone": "06-2370021",
-            "address": "北區長勝路32號圍牆旁的人行道上",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    120.21941700000004,
-                    23.010173000000016
-                ]
-            },
-            "condition": 0,
-            "groupId": "232858",
-            "interfaceNumber": "",
-            "meterSetting": 0.5
-        },
-        {
-            "id": 5402,
-            "name": "小康社區老人休閒活動中心",
-            "division": 12,
-            "contact": "黃熙涵",
-            "phone": "06-2370021",
-            "address": "北區實踐街17號",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    120.21724909543994,
-                    23.014605410953042
-                ]
-            },
-            "condition": 0,
-            "groupId": "232858",
-            "interfaceNumber": "",
-            "meterSetting": 0.5
-        },
-        {
-            "id": 5404,
-            "name": "長興生態公園",
-            "division": 12,
-            "contact": "黃熙涵",
-            "phone": "06-2370021",
-            "address": "公園北路156號對面空地",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    120.20793914794919,
-                    23.005009158195783
-                ]
-            },
-            "condition": 0,
-            "groupId": "232858",
-            "interfaceNumber": "",
-            "meterSetting": 0.5
-        },
-        {
             "id": 5408,
             "name": "大台南天然氣股份有限公司",
             "division": 34,
@@ -2243,74 +2110,17 @@
             "meterSetting": 0.5
         },
         {
-            "id": 5411,
-            "name": "虎尾里活動中心",
-            "division": 12,
-            "contact": "黃熙涵",
-            "phone": "06-2370021",
-            "address": "東區富農街一段188巷10弄7號",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    120.23526199999999,
-                    22.981441000000007
-                ]
-            },
-            "condition": 0,
-            "groupId": "232858",
-            "interfaceNumber": "",
-            "meterSetting": 0.5
-        },
-        {
-            "id": 5413,
-            "name": "開南街與開南街275巷人行道",
-            "division": 12,
-            "contact": "黃熙涵",
-            "phone": "06-2370021",
-            "address": "開南街與開南街275巷人行道(位於開南街上)",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    120.22865384817123,
-                    23.003814207830814
-                ]
-            },
-            "condition": 0,
-            "groupId": "232858",
-            "interfaceNumber": "",
-            "meterSetting": 0.5
-        },
-        {
-            "id": 5414,
-            "name": "忠義路三段71號右邊",
-            "division": 12,
-            "contact": "王獻仁",
-            "phone": "06-2370021",
-            "address": "台南市北區忠義路三段71號右邊巷口榕樹下(有堆資源回收旁)",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    120.20549600000001,
-                    23.000207
-                ]
-            },
-            "condition": 0,
-            "groupId": "232858",
-            "interfaceNumber": "",
-            "meterSetting": 0.5
-        },
-        {
             "id": 5417,
-            "name": "復興社區發展協會",
+            "name": "三鯤鯓天宮壇對面廣場",
             "division": 12,
             "contact": "王獻仁",
             "phone": "06-2370021",
-            "address": "東區自由路3段268號",
+            "address": "台南市安平區漁光路121號前(三鯤鯓天宮壇對面廣場)",
             "location": {
                 "type": "Point",
                 "coordinates": [
-                    120.2375480532646,
-                    22.98076243415446
+                    120.16109300000001,
+                    22.977106000000003
                 ]
             },
             "condition": 0,
