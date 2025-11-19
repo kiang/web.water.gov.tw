@@ -77,6 +77,44 @@
             "meterSetting": 0.5
         },
         {
+            "id": 1264,
+            "name": "永祥公園南側",
+            "division": 12,
+            "contact": "王献仁",
+            "phone": "06-2370021",
+            "address": "台南市北區實踐街85巷與實踐街交叉口",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13382765.397099124,
+                    2633673.0860306607
+                ]
+            },
+            "condition": null,
+            "groupId": "232858",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 1265,
+            "name": "小康社區老人休閒活動中心",
+            "division": 12,
+            "contact": "王献仁",
+            "phone": "06-2370021",
+            "address": "台南市北區實踐街17號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13382523.499845631,
+                    2633797.0554803517
+                ]
+            },
+            "condition": null,
+            "groupId": "232858",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
             "id": 1266,
             "name": "正覺社區活動中心",
             "division": 12,
@@ -761,6 +799,25 @@
             "meterSetting": 0.5
         },
         {
+            "id": 964,
+            "name": "鄉城陽光鎮社區",
+            "division": 12,
+            "contact": "王獻仁",
+            "phone": "06-2370021",
+            "address": "中華東路二段185巷40號前方步道",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13384358.267692884,
+                    2630144.2823765245
+                ]
+            },
+            "condition": null,
+            "groupId": "232858",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
             "id": 1221,
             "name": "臺灣基督長老教會後甲教會",
             "division": 12,
@@ -1084,6 +1141,25 @@
             "meterSetting": 0.5
         },
         {
+            "id": 1240,
+            "name": "忠孝公園(榮譽街與榮譽街127巷交叉口)",
+            "division": 12,
+            "contact": "王獻仁",
+            "phone": "06-2370021",
+            "address": "台南市東區榮譽街與榮譽街127巷交叉口",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13382764.72918218,
+                    2629085.548143003
+                ]
+            },
+            "condition": null,
+            "groupId": "232858",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
             "id": 1242,
             "name": "衛福部胸腔病院前",
             "division": 12,
@@ -1114,6 +1190,25 @@
                 "coordinates": [
                     13382453.533524545,
                     2632721.1623906083
+                ]
+            },
+            "condition": null,
+            "groupId": "232858",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 1248,
+            "name": "知安根大廈前方轉角步道",
+            "division": 12,
+            "contact": "王献仁",
+            "phone": "06-2370021",
+            "address": "北區長榮路四段56號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13383134.087252634,
+                    2632516.88949716
                 ]
             },
             "condition": null,
@@ -1179,6 +1274,44 @@
             "meterSetting": 0.5
         },
         {
+            "id": 1253,
+            "name": "開南街與開南街275巷人行道",
+            "division": 12,
+            "contact": "王献仁",
+            "phone": "06-2370021",
+            "address": "台南市北區開南街與開南街275巷人行道(位於開南街上)",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13383841.522616625,
+                    2632644.4782942347
+                ]
+            },
+            "condition": 0,
+            "groupId": "232858",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 1254,
+            "name": "北區林森路三段246號人行道人行道",
+            "division": 12,
+            "contact": "王献仁",
+            "phone": "06-2370021",
+            "address": "台南市北區林森路三段246號人行道",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13383337.13400384,
+                    2632866.1586426906
+                ]
+            },
+            "condition": null,
+            "groupId": "232858",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
             "id": 1255,
             "name": "開元元寶里活動中心",
             "division": 12,
@@ -1209,6 +1342,25 @@
                 "coordinates": [
                     13383142.436214441,
                     2633454.4183122157
+                ]
+            },
+            "condition": null,
+            "groupId": "232858",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 1257,
+            "name": "北區長勝路32號",
+            "division": 12,
+            "contact": "王献仁",
+            "phone": "06-2370021",
+            "address": "台南市北區長勝路32號圍牆旁的人行道上",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13382764.283904219,
+                    2633249.0571611677
                 ]
             },
             "condition": null,
@@ -1532,6 +1684,25 @@
                 "coordinates": [
                     13393141.828688685,
                     2634487.693766096
+                ]
+            },
+            "condition": 0,
+            "groupId": "232858",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 3873,
+            "name": "祥和公園",
+            "division": 12,
+            "contact": "王献仁",
+            "phone": "06-2370021",
+            "address": "台南市中西區萬昌街與青年路196巷口",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13381761.29529217,
+                    2630960.3864676594
                 ]
             },
             "condition": 0,
@@ -1977,6 +2148,25 @@
             "meterSetting": 0.5
         },
         {
+            "id": 3927,
+            "name": "華南銀行前人行道",
+            "division": 12,
+            "contact": "王献仁",
+            "phone": "06-2370021",
+            "address": "台南市中西區永福路二段154號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13380794.819473103,
+                    2631379.39781996
+                ]
+            },
+            "condition": 0,
+            "groupId": "232858",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
             "id": 3928,
             "name": "永華里活動中心",
             "division": 12,
@@ -2007,6 +2197,25 @@
                 "coordinates": [
                     13381677.026437638,
                     2630682.623540682
+                ]
+            },
+            "condition": 0,
+            "groupId": "232858",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 3930,
+            "name": "台南女中演藝廳前人行道",
+            "division": 12,
+            "contact": "王献仁",
+            "phone": "06-2370021",
+            "address": "台南市中西區樹林街二段與大埔街89巷口",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13381528.860195393,
+                    2630358.5526098916
                 ]
             },
             "condition": 0,
@@ -2659,6 +2868,139 @@
             "groupId": "233069",
             "interfaceNumber": "",
             "meterSetting": 0
+        },
+        {
+            "id": 5843,
+            "name": "小茂屋旁公園",
+            "division": 12,
+            "contact": "王獻仁",
+            "phone": "06-2370021",
+            "address": "台南市東區長榮路三段40號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13383026.997902488,
+                    2631181.318386078
+                ]
+            },
+            "condition": 0,
+            "groupId": "232858",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5844,
+            "name": "青年公園",
+            "division": 12,
+            "contact": "王献仁",
+            "phone": "06-2370021",
+            "address": "台南市東區育樂街與青年路交叉口",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13382210.692076502,
+                    2630972.7208473785
+                ]
+            },
+            "condition": 0,
+            "groupId": "232858",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5845,
+            "name": "光明公園",
+            "division": 12,
+            "contact": "王献仁",
+            "phone": "06-2370021",
+            "address": "台南市東區小東路198巷24弄52號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13383545.301451622,
+                    2631942.6917863204
+                ]
+            },
+            "condition": 0,
+            "groupId": "232858",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5846,
+            "name": "裕豐街214巷25號(南天府)",
+            "division": 12,
+            "contact": "王献仁",
+            "phone": "06-2370021",
+            "address": "台南市東區裕豐街214巷25號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13383744.674659634,
+                    2630596.284612071
+                ]
+            },
+            "condition": 0,
+            "groupId": "232858",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5847,
+            "name": "復興社區發展協會",
+            "division": 12,
+            "contact": "王献仁",
+            "phone": "06-2370021",
+            "address": "東區自由路3段268號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13384777.385575721,
+                    2629065.114134744
+                ]
+            },
+            "condition": 0,
+            "groupId": "232858",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5848,
+            "name": "虎尾里活動中心",
+            "division": 12,
+            "contact": "王献仁",
+            "phone": "06-2370021",
+            "address": "台南市東區富農街一段188巷10弄7號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13384528.141235836,
+                    2629774.394722127
+                ]
+            },
+            "condition": 0,
+            "groupId": "232858",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5849,
+            "name": "聖公廟",
+            "division": 12,
+            "contact": "王献仁",
+            "phone": "06-2370021",
+            "address": "臺南市東區樹林街一段79號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13382275.480020145,
+                    2630329.4107256397
+                ]
+            },
+            "condition": 0,
+            "groupId": "232858",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
         }
     ]
 }
