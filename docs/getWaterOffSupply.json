@@ -2468,7 +2468,7 @@
             "condition": 0,
             "groupId": "232858",
             "interfaceNumber": "",
-            "meterSetting": 0
+            "meterSetting": 0.5
         },
         {
             "id": 5819,
@@ -2487,7 +2487,7 @@
             "condition": 0,
             "groupId": "232858",
             "interfaceNumber": "",
-            "meterSetting": 0
+            "meterSetting": 0.5
         },
         {
             "id": 5820,
@@ -2506,7 +2506,7 @@
             "condition": 0,
             "groupId": "232858",
             "interfaceNumber": "",
-            "meterSetting": 0
+            "meterSetting": 0.5
         },
         {
             "id": 5821,
@@ -2525,7 +2525,7 @@
             "condition": 0,
             "groupId": "232858",
             "interfaceNumber": "",
-            "meterSetting": 0
+            "meterSetting": 0.5
         },
         {
             "id": 5823,
@@ -2544,7 +2544,7 @@
             "condition": 0,
             "groupId": "232858",
             "interfaceNumber": "",
-            "meterSetting": 0
+            "meterSetting": 0.5
         },
         {
             "id": 5824,
@@ -2582,7 +2582,7 @@
             "condition": 0,
             "groupId": "232858",
             "interfaceNumber": "",
-            "meterSetting": 0
+            "meterSetting": 0.5
         },
         {
             "id": 5826,
@@ -2620,7 +2620,7 @@
             "condition": 0,
             "groupId": "232858",
             "interfaceNumber": "",
-            "meterSetting": 0
+            "meterSetting": 0.5
         },
         {
             "id": 5828,
@@ -2639,7 +2639,7 @@
             "condition": 0,
             "groupId": "232858",
             "interfaceNumber": "",
-            "meterSetting": 0
+            "meterSetting": 0.5
         },
         {
             "id": 5829,
@@ -2658,7 +2658,7 @@
             "condition": 0,
             "groupId": "232858",
             "interfaceNumber": "",
-            "meterSetting": 0
+            "meterSetting": 0.5
         },
         {
             "id": 5830,
@@ -2677,7 +2677,7 @@
             "condition": 0,
             "groupId": "232858",
             "interfaceNumber": "",
-            "meterSetting": 0
+            "meterSetting": 0.5
         },
         {
             "id": 5831,
@@ -2696,7 +2696,7 @@
             "condition": 0,
             "groupId": "232858",
             "interfaceNumber": "",
-            "meterSetting": 0
+            "meterSetting": 0.5
         },
         {
             "id": 5832,
@@ -2715,7 +2715,7 @@
             "condition": 0,
             "groupId": "232858",
             "interfaceNumber": "",
-            "meterSetting": 0
+            "meterSetting": 0.5
         },
         {
             "id": 5833,
@@ -2753,7 +2753,7 @@
             "condition": 0,
             "groupId": "232858",
             "interfaceNumber": "",
-            "meterSetting": 0
+            "meterSetting": 0.5
         },
         {
             "id": 5835,
@@ -2772,7 +2772,7 @@
             "condition": 0,
             "groupId": "232858",
             "interfaceNumber": "",
-            "meterSetting": 0
+            "meterSetting": 0.5
         },
         {
             "id": 5836,
@@ -2791,7 +2791,7 @@
             "condition": 0,
             "groupId": "232858",
             "interfaceNumber": "",
-            "meterSetting": 0
+            "meterSetting": 0.5
         },
         {
             "id": 5837,
@@ -2810,7 +2810,7 @@
             "condition": 0,
             "groupId": "232858",
             "interfaceNumber": "",
-            "meterSetting": 0
+            "meterSetting": 0.5
         },
         {
             "id": 5838,
@@ -2829,7 +2829,7 @@
             "condition": 0,
             "groupId": "232858",
             "interfaceNumber": "",
-            "meterSetting": 0
+            "meterSetting": 0.5
         },
         {
             "id": 5839,
@@ -2848,7 +2848,7 @@
             "condition": 0,
             "groupId": "232858",
             "interfaceNumber": "",
-            "meterSetting": 0
+            "meterSetting": 0.5
         },
         {
             "id": 5840,
@@ -3052,6 +3052,25 @@
                 "coordinates": [
                     120.357723,
                     23.102033000000013
+                ]
+            },
+            "condition": 0,
+            "groupId": "232858",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5851,
+            "name": "石坑里八萬農建大軍青果集貨場",
+            "division": 67,
+            "contact": "溫添吉",
+            "phone": "06-5742323",
+            "address": "高雄市內門區高121縣道近東門溪",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.455854,
+                    22.917653999999985
                 ]
             },
             "condition": 0,
