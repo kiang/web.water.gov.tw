@@ -3077,6 +3077,139 @@
             "groupId": "232858",
             "interfaceNumber": "",
             "meterSetting": 0.5
+        },
+        {
+            "id": 5852,
+            "name": "石子瀨社區活動中心",
+            "division": 35,
+            "contact": "梁善荇",
+            "phone": "065973437",
+            "address": "臺南市大內區石城里114-66號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.35435400000003,
+                    23.12216299999999
+                ]
+            },
+            "condition": 0,
+            "groupId": "232858",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5853,
+            "name": "朝天宮",
+            "division": 37,
+            "contact": "黃琬珺",
+            "phone": "06-2303756",
+            "address": "台南市歸仁區保大路一段156號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.294539,
+                    22.996221999999992
+                ]
+            },
+            "condition": 0,
+            "groupId": "232858",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5854,
+            "name": "後壁厝觀音廟",
+            "division": 37,
+            "contact": "黃琬珺",
+            "phone": "06-2303756",
+            "address": "台南市仁德區德善路108巷31號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.254461,
+                    22.948446999999987
+                ]
+            },
+            "condition": 0,
+            "groupId": "232858",
+            "interfaceNumber": "",
+            "meterSetting": 0
+        },
+        {
+            "id": 5855,
+            "name": "太子廟",
+            "division": 37,
+            "contact": "黃琬珺",
+            "phone": "06-2303756",
+            "address": "台南市仁德區太子里太子路354號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.257097,
+                    22.991567999999987
+                ]
+            },
+            "condition": 0,
+            "groupId": "232858",
+            "interfaceNumber": "",
+            "meterSetting": 0
+        },
+        {
+            "id": 5856,
+            "name": "北極殿",
+            "division": 37,
+            "contact": "黃琬珺",
+            "phone": "06-2303756",
+            "address": "台南市仁德區新田里新田二街118巷15號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.26807300000002,
+                    22.95835699999999
+                ]
+            },
+            "condition": 0,
+            "groupId": "232858",
+            "interfaceNumber": "",
+            "meterSetting": 0
+        },
+        {
+            "id": 5857,
+            "name": "仁德區公所",
+            "division": 37,
+            "contact": "黃琬珺",
+            "phone": "06-2303756",
+            "address": "台南市仁德區中正路三段5號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.25167400000001,
+                    22.972449999999988
+                ]
+            },
+            "condition": 0,
+            "groupId": "232858",
+            "interfaceNumber": "",
+            "meterSetting": 0
+        },
+        {
+            "id": 5858,
+            "name": "虎形山公園前",
+            "division": 37,
+            "contact": "黃琬珺",
+            "phone": "06-2303756",
+            "address": "台南市龍崎區崎頂里新市子49號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.360148,
+                    22.964418
+                ]
+            },
+            "condition": 0,
+            "groupId": "232858",
+            "interfaceNumber": "",
+            "meterSetting": 0
         }
     ]
 }
