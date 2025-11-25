@@ -3210,6 +3210,158 @@
             "groupId": "232858",
             "interfaceNumber": "",
             "meterSetting": 0
+        },
+        {
+            "id": 5859,
+            "name": "田尾鄉打簾受武宮",
+            "division": 73,
+            "contact": "陳股長",
+            "phone": "04-8882073",
+            "address": "彰化縣田尾鄉公園路一段436號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13416746.896178171,
+                    2741998.0373055474
+                ]
+            },
+            "condition": 0,
+            "groupId": "235368",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5860,
+            "name": "田尾鄉柳鳳鳳聖宮",
+            "division": 73,
+            "contact": "陳股長",
+            "phone": "04-8882073",
+            "address": "彰化縣田尾鄉民生路二段338號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13416007.512120321,
+                    2742575.9488002905
+                ]
+            },
+            "condition": 0,
+            "groupId": "235368",
+            "interfaceNumber": "",
+            "meterSetting": 0
+        },
+        {
+            "id": 5861,
+            "name": "田尾鄉溪畔社區發展協會",
+            "division": 73,
+            "contact": "陳股長",
+            "phone": "04-8882073",
+            "address": "彰化縣田尾鄉溪畔巷157號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13418175.681842502,
+                    2741772.1632119524
+                ]
+            },
+            "condition": 0,
+            "groupId": "235368",
+            "interfaceNumber": "",
+            "meterSetting": 0
+        },
+        {
+            "id": 5862,
+            "name": "田尾鄉海豐崙夜市",
+            "division": 73,
+            "contact": "陳股長",
+            "phone": "04-8882073",
+            "address": "彰化縣田尾鄉中正路三段72號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13414233.079437075,
+                    2743051.9563188353
+                ]
+            },
+            "condition": 0,
+            "groupId": "235368",
+            "interfaceNumber": "",
+            "meterSetting": 0
+        },
+        {
+            "id": 5863,
+            "name": "永靖鄉崙子社區活動中心",
+            "division": 73,
+            "contact": "陳股長",
+            "phone": "04-8882073",
+            "address": "彰化縣永靖鄉九分路216號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13421201.902199715,
+                    2745030.2999829496
+                ]
+            },
+            "condition": 0,
+            "groupId": "235368",
+            "interfaceNumber": "",
+            "meterSetting": 0
+        },
+        {
+            "id": 5864,
+            "name": "永靖光雲社區活動中心",
+            "division": 73,
+            "contact": "陳股長",
+            "phone": "04-8882073",
+            "address": "彰化縣永靖鄉意善巷78-1號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13420306.559535267,
+                    2744524.2733479855
+                ]
+            },
+            "condition": 0,
+            "groupId": "235368",
+            "interfaceNumber": "",
+            "meterSetting": 0
+        },
+        {
+            "id": 5865,
+            "name": "永靖五汴頭天聖宮",
+            "division": 73,
+            "contact": "陳股長",
+            "phone": "04-8882073",
+            "address": "彰化縣永靖鄉中山路三段468號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13420469.75390877,
+                    2745787.9698271533
+                ]
+            },
+            "condition": 0,
+            "groupId": "235368",
+            "interfaceNumber": "",
+            "meterSetting": 0
+        },
+        {
+            "id": 5866,
+            "name": "永靖鄉清福宮",
+            "division": 73,
+            "contact": "陳股長",
+            "phone": "04-8882073",
+            "address": "彰化縣永靖鄉永興路二段202號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13420796.476614248,
+                    2744141.6281580147
+                ]
+            },
+            "condition": 0,
+            "groupId": "235368",
+            "interfaceNumber": "",
+            "meterSetting": 0
         }
     ]
 }
