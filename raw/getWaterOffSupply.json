@@ -3023,11 +3023,11 @@
         },
         {
             "id": 5849,
-            "name": "聖公廟",
+            "name": "泉南里活動中心",
             "division": 12,
             "contact": "王献仁",
             "phone": "06-2370021",
-            "address": "臺南市東區樹林街一段79號",
+            "address": "台南市東區府連路326巷2號",
             "location": {
                 "type": "Point",
                 "coordinates": [
