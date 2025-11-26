@@ -3362,6 +3362,25 @@
             "groupId": "235368",
             "interfaceNumber": "",
             "meterSetting": 0
+        },
+        {
+            "id": 5867,
+            "name": "永靖新吉利餐廳旁空地",
+            "division": 73,
+            "contact": "陳股長",
+            "phone": "04-8882073",
+            "address": "彰化縣永靖鄉永南村永久路183號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13418782.373067327,
+                    2743660.8382965573
+                ]
+            },
+            "condition": 0,
+            "groupId": "235368",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
         }
     ]
 }
