@@ -1,139 +1,6 @@
 {
     "supply": [
         {
-            "id": 2431,
-            "name": "瑞濱里活動中心",
-            "division": 25,
-            "contact": "總機",
-            "phone": "02-24972006",
-            "address": "新北市瑞芳區建基一路4-2號",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    13560995.471584529,
-                    2890639.7780798916
-                ]
-            },
-            "condition": null,
-            "groupId": "233069",
-            "interfaceNumber": null,
-            "meterSetting": 0.5
-        },
-        {
-            "id": 2433,
-            "name": "深澳里活動中心",
-            "division": 25,
-            "contact": "總機",
-            "phone": "02-24972006",
-            "address": "新北市瑞芳區深澳路67-1號",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    13560737.378230093,
-                    2891735.795870614
-                ]
-            },
-            "condition": null,
-            "groupId": "233069",
-            "interfaceNumber": null,
-            "meterSetting": 0.5
-        },
-        {
-            "id": 3291,
-            "name": "孝忠里民會堂",
-            "division": 239,
-            "contact": "總機",
-            "phone": "2425-2103、2431-9680",
-            "address": "信義區深溪路8號",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    13556621.728791263,
-                    2891766.7711524866
-                ]
-            },
-            "condition": 0,
-            "groupId": "233069",
-            "interfaceNumber": "",
-            "meterSetting": 0
-        },
-        {
-            "id": 3292,
-            "name": "孝德里民會堂",
-            "division": 239,
-            "contact": "總機",
-            "phone": "2425-2103 、2431-9680",
-            "address": "信義區東峰街154號",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    13556122.015597088,
-                    2891781.7720669275
-                ]
-            },
-            "condition": 0,
-            "groupId": "233069",
-            "interfaceNumber": "",
-            "meterSetting": 0
-        },
-        {
-            "id": 5840,
-            "name": "貢寮淨水場",
-            "division": 24,
-            "contact": "總機",
-            "phone": "24941820",
-            "address": "貢寮區下雙溪街20號",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    13572166.804033723,
-                    2877096.9106254363
-                ]
-            },
-            "condition": 0,
-            "groupId": "233069",
-            "interfaceNumber": "",
-            "meterSetting": 0.5
-        },
-        {
-            "id": 5841,
-            "name": "龍洞龍興廟",
-            "division": 24,
-            "contact": "總機",
-            "phone": "24941820",
-            "address": "貢寮區龍洞街41號",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    13571225.673122957,
-                    2889648.1095355754
-                ]
-            },
-            "condition": 0,
-            "groupId": "233069",
-            "interfaceNumber": "",
-            "meterSetting": 0
-        },
-        {
-            "id": 5842,
-            "name": "雙溪三忠廟",
-            "division": 24,
-            "contact": "總機",
-            "phone": "24941820",
-            "address": "新北市雙溪區長安街15號",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    13565922.854285674,
-                    2880005.6978502567
-                ]
-            },
-            "condition": 0,
-            "groupId": "233069",
-            "interfaceNumber": "",
-            "meterSetting": 0
-        },
-        {
             "id": 5859,
             "name": "田尾鄉打簾受武宮",
             "division": 73,
@@ -301,6 +168,293 @@
             },
             "condition": 0,
             "groupId": "235368",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5876,
+            "name": "淡水區公所前",
+            "division": 48,
+            "contact": "陳弘斌",
+            "phone": "02-26212267",
+            "address": "淡水區中山北路二段375號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13519077.338089887,
+                    2898739.385833523
+                ]
+            },
+            "condition": 0,
+            "groupId": "236199",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5877,
+            "name": "海都2",
+            "division": 48,
+            "contact": "陳弘斌",
+            "phone": "26212267",
+            "address": "淡水區新市三路二段265號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13518406.74947735,
+                    2899811.134427189
+                ]
+            },
+            "condition": 0,
+            "groupId": "236199",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5878,
+            "name": "川普",
+            "division": 48,
+            "contact": "陳弘斌",
+            "phone": "26212267",
+            "address": "淡水區淡金路一段565號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13520090.345456107,
+                    2897903.0273823985
+                ]
+            },
+            "condition": 0,
+            "groupId": "236199",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5879,
+            "name": "新興國小",
+            "division": 48,
+            "contact": "陳弘斌",
+            "phone": "26212267",
+            "address": "淡水區新興街123號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13518641.967561396,
+                    2897830.9445464816
+                ]
+            },
+            "condition": 0,
+            "groupId": "236199",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5880,
+            "name": "台北灣3期:江南頤和",
+            "division": 48,
+            "contact": "陳弘斌",
+            "phone": "26212267",
+            "address": "淡水區濱海路三段148巷",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13517279.862272048,
+                    2899397.5327394647
+                ]
+            },
+            "condition": 0,
+            "groupId": "236199",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5881,
+            "name": "星海別墅北區",
+            "division": 48,
+            "contact": "陳弘斌",
+            "phone": "26212267",
+            "address": "淡水區新市一路一段331巷",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13518181.661466964,
+                    2898849.238999043
+                ]
+            },
+            "condition": 0,
+            "groupId": "236199",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5882,
+            "name": "崁頂市民活動中心",
+            "division": 48,
+            "contact": "陳弘斌",
+            "phone": "26212267",
+            "address": "淡水區新市三路一段231號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13517389.289331498,
+                    2900102.3355640266
+                ]
+            },
+            "condition": 0,
+            "groupId": "236199",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        }
+    ],
+    "notsupply": [
+        {
+            "id": 5868,
+            "name": "花旗二路395巷口高雄市旗山區三協里花旗二路395巷2號",
+            "division": 267,
+            "contact": "于家偉股長",
+            "phone": "07-6613807",
+            "address": "高雄市旗山區三協里花旗二路395巷2號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13409454.467655795,
+                    2618087.8828173536
+                ]
+            },
+            "condition": 0,
+            "groupId": "236150",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5869,
+            "name": "花旗二路170巷16號",
+            "division": 267,
+            "contact": "于家偉股長",
+            "phone": "07-6613807",
+            "address": "高雄市旗山區三協里花旗二路170巷16號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13410042.568525653,
+                    2617937.691607877
+                ]
+            },
+            "condition": 0,
+            "groupId": "236150",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5870,
+            "name": "內門南海紫竹寺",
+            "division": 267,
+            "contact": "于家偉股長",
+            "phone": "07-6613807",
+            "address": "高雄市內門區內埔82號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13409715.128102807,
+                    2625021.923283728
+                ]
+            },
+            "condition": 0,
+            "groupId": "236150",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5871,
+            "name": "內門紫雲宮",
+            "division": 267,
+            "contact": "于家偉股長",
+            "phone": "07-6613807",
+            "address": "高雄市內門區觀亭里16鄰中埔頭2-1號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13408757.873756392,
+                    2622946.180234359
+                ]
+            },
+            "condition": 0,
+            "groupId": "236150",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5872,
+            "name": "內門紫竹寺",
+            "division": 267,
+            "contact": "于家偉股長",
+            "phone": "07-6613807",
+            "address": "高雄市內門區中正路115巷18號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13409025.104773248,
+                    2621992.5088736443
+                ]
+            },
+            "condition": 0,
+            "groupId": "236150",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5873,
+            "name": "內門竹峯宮",
+            "division": 267,
+            "contact": "于家偉股長",
+            "phone": "07-6613807",
+            "address": "高雄市內門區金竹里安定50-1 號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13416608.494009135,
+                    2633624.970533653
+                ]
+            },
+            "condition": 0,
+            "groupId": "236150",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5874,
+            "name": "溝坪興天宮",
+            "division": 267,
+            "contact": "于家偉股長",
+            "phone": "07-6613807",
+            "address": "高雄市內門區溝坪里廣福40號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13414098.313943537,
+                    2631136.2883822587
+                ]
+            },
+            "condition": 0,
+            "groupId": "236150",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5875,
+            "name": "溝坪派出所",
+            "division": 267,
+            "contact": "于家偉股長",
+            "phone": "07-6613807",
+            "address": "高雄市內門區永興里頂庄9號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13413999.781836761,
+                    2629828.4986014417
+                ]
+            },
+            "condition": 0,
+            "groupId": "236150",
             "interfaceNumber": "",
             "meterSetting": 0.5
         }
