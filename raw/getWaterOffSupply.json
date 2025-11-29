@@ -303,6 +303,215 @@
             "groupId": "236199",
             "interfaceNumber": "",
             "meterSetting": 0.5
+        },
+        {
+            "id": 5883,
+            "name": "鄧公里資收站",
+            "division": 48,
+            "contact": "陳弘斌",
+            "phone": "26212267",
+            "address": "淡水區鄧公路30巷2號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13519966.11290438,
+                    2896601.7764218296
+                ]
+            },
+            "condition": 0,
+            "groupId": "236199",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5884,
+            "name": "麥迪奇三角處",
+            "division": 48,
+            "contact": "陳弘斌",
+            "phone": "26212267",
+            "address": "淡水區淡金路38巷37-51號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13520695.144249585,
+                    2895623.8522140766
+                ]
+            },
+            "condition": 0,
+            "groupId": "236199",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5885,
+            "name": "淡水區中山北路一段184巷旁",
+            "division": 48,
+            "contact": "陳弘斌",
+            "phone": "26212267",
+            "address": "淡水區中山北路一段184巷",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13519191.106609477,
+                    2897714.210450079
+                ]
+            },
+            "condition": 0,
+            "groupId": "236199",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5886,
+            "name": "淡水行忠宮",
+            "division": 48,
+            "contact": "陳弘斌",
+            "phone": "26212267",
+            "address": "淡水區新民街一段80號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13518475.210964186,
+                    2897442.7364614997
+                ]
+            },
+            "condition": 0,
+            "groupId": "236199",
+            "interfaceNumber": "",
+            "meterSetting": 0
+        },
+        {
+            "id": 5887,
+            "name": "名軒海樂地",
+            "division": 48,
+            "contact": "陳弘斌",
+            "phone": "26212267",
+            "address": "淡水區沙崙路二段757號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13517938.317060092,
+                    2900396.3720284877
+                ]
+            },
+            "condition": 0,
+            "groupId": "236199",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5888,
+            "name": "躍淡水",
+            "division": 48,
+            "contact": "陳弘斌",
+            "phone": "26212267",
+            "address": "淡水區義山路一段1號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13518337.842712548,
+                    2898748.4889767733
+                ]
+            },
+            "condition": 0,
+            "groupId": "236199",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5889,
+            "name": "常春藤社區",
+            "division": 48,
+            "contact": "陳弘斌",
+            "phone": "26212267",
+            "address": "淡水區新民街120巷60號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13518531.538626527,
+                    2897651.723024885
+                ]
+            },
+            "condition": 0,
+            "groupId": "236199",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5890,
+            "name": "翰林苑社區",
+            "division": 48,
+            "contact": "陳弘斌",
+            "phone": "26212267",
+            "address": "淡水區新民街106巷2號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13518445.822618617,
+                    2897530.5621256097
+                ]
+            },
+            "condition": 0,
+            "groupId": "236199",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5891,
+            "name": "公園上璟社區",
+            "division": 48,
+            "contact": "陳弘斌",
+            "phone": "26212267",
+            "address": "淡水區濱海路二段202巷13號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13518022.029317167,
+                    2899312.5255975784
+                ]
+            },
+            "condition": 0,
+            "groupId": "236199",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5892,
+            "name": "淡水區大仁街23號旁",
+            "division": 48,
+            "contact": "陳弘斌",
+            "phone": "26212267",
+            "address": "淡水區大仁街23號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13518913.141840966,
+                    2897287.5052434173
+                ]
+            },
+            "condition": 0,
+            "groupId": "236199",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5893,
+            "name": "淡水區新春街46-1號(娃娃機店前)",
+            "division": 48,
+            "contact": "陳弘斌",
+            "phone": "26212267",
+            "address": "淡水區新春街46-1號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13518368.566892007,
+                    2898083.112978596
+                ]
+            },
+            "condition": 0,
+            "groupId": "236199",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
         }
     ],
     "notsupply": [
