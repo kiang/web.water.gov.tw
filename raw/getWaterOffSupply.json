@@ -1002,7 +1002,7 @@
                     2627631.290925826
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "232858",
             "interfaceNumber": null,
             "meterSetting": 0.5
@@ -2218,7 +2218,7 @@
                     2630199.1883304105
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "232858",
             "interfaceNumber": "",
             "meterSetting": 0.5
@@ -3740,6 +3740,25 @@
             },
             "condition": 0,
             "groupId": "236199",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5894,
+            "name": "花旗二路401號",
+            "division": 267,
+            "contact": "于家偉股長",
+            "phone": "07-6613807",
+            "address": "高雄市旗山區三協里花旗二路401號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13409427.294918172,
+                    2618204.0986592607
+                ]
+            },
+            "condition": 0,
+            "groupId": "236150",
             "interfaceNumber": "",
             "meterSetting": 0.5
         }
