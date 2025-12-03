@@ -685,6 +685,25 @@
             "meterSetting": 0.5
         },
         {
+            "id": 842,
+            "name": "建東街大榕樹下",
+            "division": 12,
+            "contact": "王獻仁",
+            "phone": "06-2370021",
+            "address": "台南市東區建東街41號邊",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13384718.577651776,
+                    2630852.635347607
+                ]
+            },
+            "condition": 0,
+            "groupId": "232858",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
             "id": 809,
             "name": "台糖加油站",
             "division": 35,
@@ -794,25 +813,6 @@
                 ]
             },
             "condition": null,
-            "groupId": "232858",
-            "interfaceNumber": null,
-            "meterSetting": 0.5
-        },
-        {
-            "id": 842,
-            "name": "建東街大榕樹下",
-            "division": 12,
-            "contact": "王獻仁",
-            "phone": "06-2370021",
-            "address": "台南市東區建東街41號邊",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    13384718.577651776,
-                    2630852.635347607
-                ]
-            },
-            "condition": 1,
             "groupId": "232858",
             "interfaceNumber": null,
             "meterSetting": 0.5
