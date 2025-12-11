@@ -1101,6 +1101,101 @@
             "groupId": "210836",
             "interfaceNumber": "",
             "meterSetting": 0.5
+        },
+        {
+            "id": 5896,
+            "name": "明德路2號旁(德音國小)",
+            "division": 79,
+            "contact": "黃春祥股長",
+            "phone": "02-29097480",
+            "address": "明德路2號旁(德音國小)",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13489475.593056612,
+                    2850358.8241352923
+                ]
+            },
+            "condition": 0,
+            "groupId": "238848",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5897,
+            "name": "成泰路一段七巷13號(台北神話社區旁)",
+            "division": 79,
+            "contact": "黃春祥股長",
+            "phone": "02-29097480",
+            "address": "成泰路一段七巷13號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13517865.514113111,
+                    2884039.970627562
+                ]
+            },
+            "condition": 0,
+            "groupId": "238848",
+            "interfaceNumber": "",
+            "meterSetting": 0
+        },
+        {
+            "id": 5901,
+            "name": "德音國小側門-五股公所",
+            "division": 79,
+            "contact": "黃春祥股長",
+            "phone": "02-29097480",
+            "address": "成泰路一段127號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13518134.128044397,
+                    2884652.2463905956
+                ]
+            },
+            "condition": 0,
+            "groupId": "238848",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5902,
+            "name": "德音休閒廣場(蓬萊路10號)-五股公所",
+            "division": 79,
+            "contact": "黃春祥股長",
+            "phone": "02-29097480",
+            "address": "蓬萊路10號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13389847.431783902,
+                    2585774.4694089224
+                ]
+            },
+            "condition": 0,
+            "groupId": "238848",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5903,
+            "name": ".德音國小大門口前-五股公所",
+            "division": 79,
+            "contact": "黃春祥股長",
+            "phone": "02-29097480",
+            "address": "明德路2號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13489475.593056612,
+                    2850358.8241352923
+                ]
+            },
+            "condition": 0,
+            "groupId": "238848",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
         }
     ]
 }
