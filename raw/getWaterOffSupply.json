@@ -437,5 +437,539 @@
             "interfaceNumber": "",
             "meterSetting": 0.5
         }
+    ],
+    "notsupply": [
+        {
+            "id": 104,
+            "name": "南投市府南二路25號前",
+            "division": 23,
+            "contact": "方秀滿",
+            "phone": "049-2222635",
+            "address": "南投市三和里府南二路25號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13435171.2737799,
+                    2741346.1162647
+                ]
+            },
+            "condition": null,
+            "groupId": "231216",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 105,
+            "name": "南投縣名間鄉新民村辦公處(南投縣名間鄉新民村外埔巷11-1號)",
+            "division": 23,
+            "contact": "方秀滿",
+            "phone": "049-2222635",
+            "address": "南投縣名間鄉新民村辦公處",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13435423.969024,
+                    2731225.1964373
+                ]
+            },
+            "condition": null,
+            "groupId": "231216",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 106,
+            "name": "新興里同源八街與同源七街18巷路口(同源社區公園)",
+            "division": 23,
+            "contact": "方秀滿",
+            "phone": "049-2222635#106",
+            "address": "同源八街與同源七街18巷",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13432308.9157131,
+                    2744186.3223897
+                ]
+            },
+            "condition": null,
+            "groupId": "231216",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 107,
+            "name": "僑興國小正門口 (名間鄉彰南路259號)",
+            "division": 23,
+            "contact": "方秀滿",
+            "phone": "049-2222635",
+            "address": "僑興國小正門口",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13435616.4404236,
+                    2736232.99095619
+                ]
+            },
+            "condition": null,
+            "groupId": "231216",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 108,
+            "name": "漳興國小(南投縣南投市復興路669號)",
+            "division": 23,
+            "contact": "方秀滿",
+            "phone": "049-2222635#106",
+            "address": "南投縣南投市復興路669號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13434155.3721069,
+                    2743435.18388718
+                ]
+            },
+            "condition": null,
+            "groupId": "231216",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 109,
+            "name": "名間鄉農會新街辦事處 (名間鄉彰南路450號)",
+            "division": 23,
+            "contact": "方秀滿",
+            "phone": "049-2222635",
+            "address": "名間鄉農會新街辦事處",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13435528.2753868,
+                    2738699.37979168
+                ]
+            },
+            "condition": null,
+            "groupId": "231216",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 110,
+            "name": "永興里(南投市八卦路51號)",
+            "division": 23,
+            "contact": "方秀滿",
+            "phone": "049-2222635#106",
+            "address": "南投市八卦路51號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13429350.8228843,
+                    2740395.43632335
+                ]
+            },
+            "condition": null,
+            "groupId": "231216",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 112,
+            "name": "永山宮(南投縣南投市福興里永鳴路122號)",
+            "division": 23,
+            "contact": "方秀滿",
+            "phone": "049-2222635#106",
+            "address": "南投市福興里永鳴路122號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13431394.3147768,
+                    2745284.84179888
+                ]
+            },
+            "condition": null,
+            "groupId": "231216",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 113,
+            "name": "南投縣立體育場(文化路與南崗一路交叉口)",
+            "division": 23,
+            "contact": "方秀滿",
+            "phone": "049-2222635#106",
+            "address": "南投縣立體育場",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13434234.8542233,
+                    2741843.2736282
+                ]
+            },
+            "condition": null,
+            "groupId": "231216",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 114,
+            "name": "鳳鳴里活活動中心(南投縣南投市鳳鳴里八卦路839號)",
+            "division": 23,
+            "contact": "方秀滿",
+            "phone": "049-2222635#106",
+            "address": "南投縣南投市鳳鳴里八卦路839號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13429373.4207409,
+                    2744418.68572803
+                ]
+            },
+            "condition": null,
+            "groupId": "231216",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 115,
+            "name": "吉利路401號大樹旁公園",
+            "division": 23,
+            "contact": "方秀滿",
+            "phone": "049-2222635#106",
+            "address": "南投市福興里吉利路401號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13431274.0897267,
+                    2746130.2181386
+                ]
+            },
+            "condition": null,
+            "groupId": "231216",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 130,
+            "name": "南投縣南投市民族路200號旁陸橋",
+            "division": 23,
+            "contact": "方秀滿",
+            "phone": "049-2222635",
+            "address": "南投市平和里民族路200號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13435012.6435055,
+                    2742407.90660723
+                ]
+            },
+            "condition": null,
+            "groupId": "231216",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 140,
+            "name": "南投市南崗一路55巷巷口",
+            "division": 23,
+            "contact": "方秀滿",
+            "phone": "049-2222635",
+            "address": "南投市三興里南崗一路55巷",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13434484.7664802,
+                    2741303.86530965
+                ]
+            },
+            "condition": null,
+            "groupId": "231216",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 143,
+            "name": "南雅村南雅街田墘巷交叉口(名間鄉南雅街29號)",
+            "division": 23,
+            "contact": "方秀滿",
+            "phone": "049-2222635#106",
+            "address": "南雅村南雅街田墘巷交叉口",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13436531.7092769,
+                    2733606.82841398
+                ]
+            },
+            "condition": null,
+            "groupId": "231216",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 146,
+            "name": "南投縣農會展售中心(南投市南崗三路1號)",
+            "division": 23,
+            "contact": "方秀滿",
+            "phone": "049-2222635#106",
+            "address": "南投市南崗三路1號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13433168.079543,
+                    2743861.65274076
+                ]
+            },
+            "condition": null,
+            "groupId": "231216",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 147,
+            "name": "南投市八卦路169巷口",
+            "division": 23,
+            "contact": "方秀滿",
+            "phone": "049-2222635#106",
+            "address": "南投市八卦路169巷",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13429294.4952219,
+                    2741070.33037601
+                ]
+            },
+            "condition": null,
+            "groupId": "231216",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 148,
+            "name": "名間鄉庄仔巷24-1號中正村福德宮(元寶土地公)",
+            "division": 23,
+            "contact": "方秀滿",
+            "phone": "049-2222635#106",
+            "address": "南投縣名間鄉庄仔巷24-1號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13435804.793001978,
+                    2733816.8858590554
+                ]
+            },
+            "condition": 0,
+            "groupId": "231216",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 169,
+            "name": "南投縣名間鄉彰南路48號(慶滿樓)",
+            "division": 23,
+            "contact": "方秀滿",
+            "phone": "049-2222635#106",
+            "address": "南投縣名間鄉彰南路48號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13436603.065070458,
+                    2733811.2875363063
+                ]
+            },
+            "condition": 0,
+            "groupId": "231216",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5476,
+            "name": "南投市鳳山寺",
+            "division": 23,
+            "contact": "郭子瑄",
+            "phone": "049-2222635#106",
+            "address": "南投縣南投市鳳山里八卦路1310號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13429236.052489249,
+                    2746407.7979538357
+                ]
+            },
+            "condition": 0,
+            "groupId": "231216",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5477,
+            "name": "南投縣名間鄉仁和村辦公處",
+            "division": 23,
+            "contact": "郭子瑄",
+            "phone": "049-2222635#106",
+            "address": "南投縣名間鄉仁和村山腳巷11號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13436880.250602534,
+                    2735795.2871211665
+                ]
+            },
+            "condition": 0,
+            "groupId": "231216",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5808,
+            "name": "竹山鎮中央里辦公室",
+            "division": 86,
+            "contact": "曾世淇",
+            "phone": "0492762076",
+            "address": "竹山镇中央里集山路一段1236巷6號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13439992.743565112,
+                    2730805.396656748
+                ]
+            },
+            "condition": 0,
+            "groupId": "242511",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5810,
+            "name": "集集鎮八張社區活動中心",
+            "division": 86,
+            "contact": "曾世淇",
+            "phone": "0492762076",
+            "address": "集集鎮八張里八張街181號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13446516.733642545,
+                    2732799.727553096
+                ]
+            },
+            "condition": 0,
+            "groupId": "242511",
+            "interfaceNumber": "",
+            "meterSetting": 0
+        },
+        {
+            "id": 5811,
+            "name": "集集鎮水里營運所",
+            "division": 86,
+            "contact": "曾世淇",
+            "phone": "0492762076",
+            "address": "集集鎮吳厝里民權路430號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13446098.172357159,
+                    2732305.7758957827
+                ]
+            },
+            "condition": 0,
+            "groupId": "242511",
+            "interfaceNumber": "",
+            "meterSetting": 0
+        },
+        {
+            "id": 5814,
+            "name": "水里鄉三村集會所",
+            "division": 86,
+            "contact": "曾世淇",
+            "phone": "0492762076",
+            "address": "水里鄉北埔村博愛路37號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13453371.565246612,
+                    2730544.3963307845
+                ]
+            },
+            "condition": 0,
+            "groupId": "242511",
+            "interfaceNumber": "",
+            "meterSetting": 0
+        },
+        {
+            "id": 5815,
+            "name": "水里鄉上安社區活動中心",
+            "division": 86,
+            "contact": "曾世淇",
+            "phone": "0492762076",
+            "address": "水里鄉上安村水信路三段117-1號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13453421.659017468,
+                    2720741.9344815537
+                ]
+            },
+            "condition": 0,
+            "groupId": "242511",
+            "interfaceNumber": "",
+            "meterSetting": 0
+        },
+        {
+            "id": 5929,
+            "name": "田寮社區發展中心",
+            "division": 86,
+            "contact": "曾世淇",
+            "phone": "049-2762076",
+            "address": "南投縣集集鎮田寮里田寮巷1-1號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13441829.069885237,
+                    2732807.2726354273
+                ]
+            },
+            "condition": 0,
+            "groupId": "242511",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5930,
+            "name": "水里鄉車埕火車站",
+            "division": 86,
+            "contact": "曾世淇",
+            "phone": "0492762076",
+            "address": "南投縣水里鄉車埕村民權巷2號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13454700.497327702,
+                    2733007.7054170896
+                ]
+            },
+            "condition": 0,
+            "groupId": "242511",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5931,
+            "name": "水里鄉城中村辦公室",
+            "division": 86,
+            "contact": "曾世淇",
+            "phone": "0492762076",
+            "address": "南投縣水里鄉城中村城福街66號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13453168.629814895,
+                    2731068.4698807253
+                ]
+            },
+            "condition": 0,
+            "groupId": "242511",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        }
     ]
 }
