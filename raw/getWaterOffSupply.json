@@ -94,6 +94,120 @@
             "groupId": "238848",
             "interfaceNumber": "",
             "meterSetting": 0.5
+        },
+        {
+            "id": 5932,
+            "name": "峰谷路218巷口福德祠旁",
+            "division": 32,
+            "contact": "廖文聖",
+            "phone": "04-23393138",
+            "address": "霧峰區峰谷路218巷口福德祠旁",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13437020.464964839,
+                    2758480.9746696455
+                ]
+            },
+            "condition": 0,
+            "groupId": "242812",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5933,
+            "name": "峰谷路155號峰谷公園",
+            "division": 32,
+            "contact": "廖文聖",
+            "phone": "04-23393138",
+            "address": "霧峰區峰谷路155號峰谷公園",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13436217.279003559,
+                    2758216.1323099234
+                ]
+            },
+            "condition": 0,
+            "groupId": "242812",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5934,
+            "name": "復興路二段106號對面",
+            "division": 32,
+            "contact": "廖文聖",
+            "phone": "04-23393138",
+            "address": "霧峰區復興路二段106號對面",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13438752.867076656,
+                    2758093.865897907
+                ]
+            },
+            "condition": 0,
+            "groupId": "242812",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5935,
+            "name": "復興八街口",
+            "division": 32,
+            "contact": "廖文聖",
+            "phone": "04-23393138",
+            "address": "霧峰區復興八街口",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13439594.243026627,
+                    2758119.6902781418
+                ]
+            },
+            "condition": 0,
+            "groupId": "242812",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5936,
+            "name": "復興六街口",
+            "division": 32,
+            "contact": "廖文聖",
+            "phone": "04-23393138",
+            "address": "霧峰區復興六街口",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13439280.13461352,
+                    2758072.5142997466
+                ]
+            },
+            "condition": 0,
+            "groupId": "242812",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5937,
+            "name": "峰谷國小前",
+            "division": 32,
+            "contact": "廖文聖",
+            "phone": "04-23393138",
+            "address": "霧峰區峰谷國小前",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13439045.19205948,
+                    2757704.795305566
+                ]
+            },
+            "condition": 0,
+            "groupId": "242812",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
         }
     ],
     "notsupply": [
