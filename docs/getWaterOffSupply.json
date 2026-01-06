@@ -98,6 +98,101 @@
     ],
     "notsupply": [
         {
+            "id": 58,
+            "name": "竹山營運所",
+            "division": 16,
+            "contact": "林股長",
+            "phone": "049-2642074",
+            "address": "竹山鎮下坪里大明路３５６號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.68286300000003,
+                    23.760117
+                ]
+            },
+            "condition": null,
+            "groupId": "242237",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 63,
+            "name": "竹山國中前人行道",
+            "division": 16,
+            "contact": "林股長",
+            "phone": "049-2642074",
+            "address": "竹山鎮中山里竹山路２１７號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.68199400000002,
+                    23.75309699999998
+                ]
+            },
+            "condition": 0,
+            "groupId": "242237",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 64,
+            "name": "雲林國小前廣場",
+            "division": 16,
+            "contact": "林股長",
+            "phone": "049-2642074",
+            "address": "竹山鎮雲林里大明路６６６號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.67702500000001,
+                    23.756785000000008
+                ]
+            },
+            "condition": 0,
+            "groupId": "242237",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 99,
+            "name": "中和國小前人行道",
+            "division": 16,
+            "contact": "林股長",
+            "phone": "049-2642074",
+            "address": "竹山鎮中崎里集山路三段１３９４號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.66817800000003,
+                    23.757738999999976
+                ]
+            },
+            "condition": 0,
+            "groupId": "242237",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 103,
+            "name": "(鯉魚社區廣場)鯉魚里",
+            "division": 16,
+            "contact": "林股長",
+            "phone": "049-2642074",
+            "address": "鯉行路6-5號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.65779299999993,
+                    23.72291599999995
+                ]
+            },
+            "condition": null,
+            "groupId": "242237",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
             "id": 104,
             "name": "南投市府南二路25號前",
             "division": 23,
@@ -440,6 +535,44 @@
             "meterSetting": 0.5
         },
         {
+            "id": 3021,
+            "name": "竹山鎮公所前",
+            "division": 16,
+            "contact": "林股長",
+            "phone": "049-2642074",
+            "address": "竹山鎮雲林里公所路１００號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.671526,
+                    23.757851000000013
+                ]
+            },
+            "condition": null,
+            "groupId": "242237",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 3022,
+            "name": "延和里辦公處前",
+            "division": 16,
+            "contact": "林股長",
+            "phone": "049-2642074",
+            "address": "竹山鎮延和里大和街４２號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.68989899999998,
+                    23.761569000000005
+                ]
+            },
+            "condition": 0,
+            "groupId": "242237",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
             "id": 5476,
             "name": "南投市鳳山寺",
             "division": 23,
@@ -474,6 +607,25 @@
             },
             "condition": 0,
             "groupId": "231216",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5806,
+            "name": "全家竹山夯蕃薯店前",
+            "division": 16,
+            "contact": "林股長",
+            "phone": "049-2642074",
+            "address": "竹山鎮集山路三段129號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.70409800000002,
+                    23.76484200000001
+                ]
+            },
+            "condition": 0,
+            "groupId": "242237",
             "interfaceNumber": "",
             "meterSetting": 0.5
         },
@@ -571,6 +723,82 @@
             "groupId": "242511",
             "interfaceNumber": "",
             "meterSetting": 0
+        },
+        {
+            "id": 5925,
+            "name": "中山停車場",
+            "division": 16,
+            "contact": "林股長",
+            "phone": "049-2642074",
+            "address": "城隍廟旁，近桂林橋",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.68656090165284,
+                    23.754153789484683
+                ]
+            },
+            "condition": 0,
+            "groupId": "242237",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5926,
+            "name": "延和國中操場前人行道",
+            "division": 16,
+            "contact": "林股長",
+            "phone": "049-2642074",
+            "address": "竹山鎮鹿山路40號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.69632482171164,
+                    23.760424903925696
+                ]
+            },
+            "condition": 0,
+            "groupId": "242237",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5927,
+            "name": "竹山護天宮前廣場",
+            "division": 16,
+            "contact": "林股長",
+            "phone": "049-2642074",
+            "address": "竹山鎮延正路70號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.69837835128705,
+                    23.77307935224093
+                ]
+            },
+            "condition": 0,
+            "groupId": "242237",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5928,
+            "name": "邊空地",
+            "division": 16,
+            "contact": "林股長",
+            "phone": "049-2642074",
+            "address": "竹山鎮鯉南路與如意街口",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.67769392780404,
+                    23.7477851393569
+                ]
+            },
+            "condition": 0,
+            "groupId": "242237",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
         },
         {
             "id": 5929,
