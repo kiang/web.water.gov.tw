@@ -96,6 +96,236 @@
             "meterSetting": 0.5
         },
         {
+            "id": 3021,
+            "name": "竹山鎮公所前",
+            "division": 16,
+            "contact": "林股長",
+            "phone": "049-2642074",
+            "address": "竹山鎮雲林里公所路１００號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13433092.827567272,
+                    2723928.838315382
+                ]
+            },
+            "condition": null,
+            "groupId": "242237",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 3022,
+            "name": "延和里辦公處前",
+            "division": 16,
+            "contact": "林股長",
+            "phone": "049-2642074",
+            "address": "竹山鎮延和里大和街４２號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13435138.100571616,
+                    2724381.052395189
+                ]
+            },
+            "condition": 0,
+            "groupId": "242237",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5806,
+            "name": "全家竹山夯蕃薯店前",
+            "division": 16,
+            "contact": "林股長",
+            "phone": "049-2642074",
+            "address": "竹山鎮集山路三段129號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13436718.726021392,
+                    2724779.1525665624
+                ]
+            },
+            "condition": 0,
+            "groupId": "242237",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5896,
+            "name": "明德路2號旁(德音國小)",
+            "division": 79,
+            "contact": "黃春祥股長",
+            "phone": "02-29097480",
+            "address": "新北市五股區明德路2號旁",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13518032.27071032,
+                    2884513.492835878
+                ]
+            },
+            "condition": 0,
+            "groupId": "238848",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5897,
+            "name": "成泰路一段七巷13號(台北神話社區旁)",
+            "division": 79,
+            "contact": "黃春祥股長",
+            "phone": "02-29097480",
+            "address": "成泰路一段七巷13號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13517865.514113111,
+                    2884039.970627562
+                ]
+            },
+            "condition": 0,
+            "groupId": "238848",
+            "interfaceNumber": "",
+            "meterSetting": 0
+        },
+        {
+            "id": 5901,
+            "name": "德音國小側門-五股公所",
+            "division": 79,
+            "contact": "黃春祥股長",
+            "phone": "02-29097480",
+            "address": "成泰路一段127號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13518134.128044397,
+                    2884652.2463905956
+                ]
+            },
+            "condition": 0,
+            "groupId": "238848",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5902,
+            "name": "德音休閒廣場(蓬萊路10號)-五股公所",
+            "division": 79,
+            "contact": "黃春祥股長",
+            "phone": "02-29097480",
+            "address": "新北市五股區蓬萊路10號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13518121.660261426,
+                    2885520.929250766
+                ]
+            },
+            "condition": 0,
+            "groupId": "238848",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5903,
+            "name": "德音國小大門口前-五股公所",
+            "division": 79,
+            "contact": "黃春祥股長",
+            "phone": "02-29097480",
+            "address": "新北市五股區明德路31號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13518024.923623927,
+                    2884491.493939808
+                ]
+            },
+            "condition": 0,
+            "groupId": "238848",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5925,
+            "name": "中山停車場",
+            "division": 16,
+            "contact": "林股長",
+            "phone": "049-2642074",
+            "address": "城隍廟旁，近桂林橋",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13434766.505163392,
+                    2723479.1656340887
+                ]
+            },
+            "condition": 0,
+            "groupId": "242237",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5926,
+            "name": "延和國中操場前人行道",
+            "division": 16,
+            "contact": "林股長",
+            "phone": "049-2642074",
+            "address": "竹山鎮鹿山路40號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13435853.419772483,
+                    2724241.8965400886
+                ]
+            },
+            "condition": 0,
+            "groupId": "242237",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5927,
+            "name": "竹山護天宮前廣場",
+            "division": 16,
+            "contact": "林股長",
+            "phone": "049-2642074",
+            "address": "竹山鎮延正路70號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13436082.017639147,
+                    2725781.1190781984
+                ]
+            },
+            "condition": 0,
+            "groupId": "242237",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5928,
+            "name": "鯉南路與如意街口邊空地",
+            "division": 16,
+            "contact": "林股長",
+            "phone": "049-2642074",
+            "address": "竹山鎮鯉南路與如意街口",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13433779.438149668,
+                    2722704.6094481926
+                ]
+            },
+            "condition": 0,
+            "groupId": "242237",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        }
+    ],
+    "notsupply": [
+        {
             "id": 104,
             "name": "南投市府南二路25號前",
             "division": 23,
@@ -438,44 +668,6 @@
             "meterSetting": 0.5
         },
         {
-            "id": 3021,
-            "name": "竹山鎮公所前",
-            "division": 16,
-            "contact": "林股長",
-            "phone": "049-2642074",
-            "address": "竹山鎮雲林里公所路１００號",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    13433092.827567272,
-                    2723928.838315382
-                ]
-            },
-            "condition": null,
-            "groupId": "242237",
-            "interfaceNumber": null,
-            "meterSetting": 0.5
-        },
-        {
-            "id": 3022,
-            "name": "延和里辦公處前",
-            "division": 16,
-            "contact": "林股長",
-            "phone": "049-2642074",
-            "address": "竹山鎮延和里大和街４２號",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    13435138.100571616,
-                    2724381.052395189
-                ]
-            },
-            "condition": 0,
-            "groupId": "242237",
-            "interfaceNumber": null,
-            "meterSetting": 0.5
-        },
-        {
             "id": 5476,
             "name": "南投市鳳山寺",
             "division": 23,
@@ -513,198 +705,6 @@
             "interfaceNumber": "",
             "meterSetting": 0.5
         },
-        {
-            "id": 5806,
-            "name": "全家竹山夯蕃薯店前",
-            "division": 16,
-            "contact": "林股長",
-            "phone": "049-2642074",
-            "address": "竹山鎮集山路三段129號",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    13436718.726021392,
-                    2724779.1525665624
-                ]
-            },
-            "condition": 0,
-            "groupId": "242237",
-            "interfaceNumber": "",
-            "meterSetting": 0.5
-        },
-        {
-            "id": 5896,
-            "name": "明德路2號旁(德音國小)",
-            "division": 79,
-            "contact": "黃春祥股長",
-            "phone": "02-29097480",
-            "address": "新北市五股區明德路2號旁",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    13518032.27071032,
-                    2884513.492835878
-                ]
-            },
-            "condition": 0,
-            "groupId": "238848",
-            "interfaceNumber": "",
-            "meterSetting": 0.5
-        },
-        {
-            "id": 5897,
-            "name": "成泰路一段七巷13號(台北神話社區旁)",
-            "division": 79,
-            "contact": "黃春祥股長",
-            "phone": "02-29097480",
-            "address": "成泰路一段七巷13號",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    13517865.514113111,
-                    2884039.970627562
-                ]
-            },
-            "condition": 0,
-            "groupId": "238848",
-            "interfaceNumber": "",
-            "meterSetting": 0
-        },
-        {
-            "id": 5901,
-            "name": "德音國小側門-五股公所",
-            "division": 79,
-            "contact": "黃春祥股長",
-            "phone": "02-29097480",
-            "address": "成泰路一段127號",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    13518134.128044397,
-                    2884652.2463905956
-                ]
-            },
-            "condition": 0,
-            "groupId": "238848",
-            "interfaceNumber": "",
-            "meterSetting": 0.5
-        },
-        {
-            "id": 5902,
-            "name": "德音休閒廣場(蓬萊路10號)-五股公所",
-            "division": 79,
-            "contact": "黃春祥股長",
-            "phone": "02-29097480",
-            "address": "新北市五股區蓬萊路10號",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    13518121.660261426,
-                    2885520.929250766
-                ]
-            },
-            "condition": 0,
-            "groupId": "238848",
-            "interfaceNumber": "",
-            "meterSetting": 0.5
-        },
-        {
-            "id": 5903,
-            "name": "德音國小大門口前-五股公所",
-            "division": 79,
-            "contact": "黃春祥股長",
-            "phone": "02-29097480",
-            "address": "新北市五股區明德路31號",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    13518024.923623927,
-                    2884491.493939808
-                ]
-            },
-            "condition": 0,
-            "groupId": "238848",
-            "interfaceNumber": "",
-            "meterSetting": 0.5
-        },
-        {
-            "id": 5925,
-            "name": "中山停車場",
-            "division": 16,
-            "contact": "林股長",
-            "phone": "049-2642074",
-            "address": "城隍廟旁，近桂林橋",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    13434766.505163392,
-                    2723479.1656340887
-                ]
-            },
-            "condition": 0,
-            "groupId": "242237",
-            "interfaceNumber": "",
-            "meterSetting": 0.5
-        },
-        {
-            "id": 5926,
-            "name": "延和國中操場前人行道",
-            "division": 16,
-            "contact": "林股長",
-            "phone": "049-2642074",
-            "address": "竹山鎮鹿山路40號",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    13435853.419772483,
-                    2724241.8965400886
-                ]
-            },
-            "condition": 0,
-            "groupId": "242237",
-            "interfaceNumber": "",
-            "meterSetting": 0.5
-        },
-        {
-            "id": 5927,
-            "name": "竹山護天宮前廣場",
-            "division": 16,
-            "contact": "林股長",
-            "phone": "049-2642074",
-            "address": "竹山鎮延正路70號",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    13436082.017639147,
-                    2725781.1190781984
-                ]
-            },
-            "condition": 0,
-            "groupId": "242237",
-            "interfaceNumber": "",
-            "meterSetting": 0.5
-        },
-        {
-            "id": 5928,
-            "name": "鯉南路與如意街口邊空地",
-            "division": 16,
-            "contact": "林股長",
-            "phone": "049-2642074",
-            "address": "竹山鎮鯉南路與如意街口",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    13433779.438149668,
-                    2722704.6094481926
-                ]
-            },
-            "condition": 0,
-            "groupId": "242237",
-            "interfaceNumber": "",
-            "meterSetting": 0.5
-        }
-    ],
-    "notsupply": [
         {
             "id": 5808,
             "name": "竹山鎮中央里辦公室",
