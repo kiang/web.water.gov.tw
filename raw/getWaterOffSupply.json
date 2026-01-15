@@ -1,6 +1,82 @@
 {
     "supply": [
         {
+            "id": 5011,
+            "name": "老大公廟前",
+            "division": 239,
+            "contact": "嘉仁里王里長",
+            "phone": "0935306094 ( 0975311880)",
+            "address": "基隆市安樂區樂一路76巷37號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13551272.1593417,
+                    2891613.811863814
+                ]
+            },
+            "condition": 0,
+            "groupId": "193931",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5016,
+            "name": "成功一路與光二路口",
+            "division": 239,
+            "contact": "光華里陳里長",
+            "phone": "0916317388",
+            "address": "基隆市仁愛區成功一路115號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13551726.467774555,
+                    2891401.0852897246
+                ]
+            },
+            "condition": 0,
+            "groupId": "193931",
+            "interfaceNumber": "",
+            "meterSetting": 0
+        },
+        {
+            "id": 5018,
+            "name": "東明里里民活動中心",
+            "division": 239,
+            "contact": "東明里翁里長",
+            "phone": "0936-126645",
+            "address": "基隆巿東信路35巷47號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13555032.369247887,
+                    2891358.686625597
+                ]
+            },
+            "condition": 0,
+            "groupId": "193931",
+            "interfaceNumber": "",
+            "meterSetting": 0
+        },
+        {
+            "id": 5019,
+            "name": "劉銘傳路口",
+            "division": 239,
+            "contact": "水錦里孫里長",
+            "phone": "0932075600",
+            "address": "基隆巿劉銘傳路1號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13553258.492743816,
+                    2891467.37052519
+                ]
+            },
+            "condition": 0,
+            "groupId": "193931",
+            "interfaceNumber": "",
+            "meterSetting": 0
+        },
+        {
             "id": 5896,
             "name": "明德路2號旁(德音國小)",
             "division": 79,
