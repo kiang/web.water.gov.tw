@@ -20,6 +20,44 @@
             "meterSetting": 0.5
         },
         {
+            "id": 5012,
+            "name": "基隆女中信綠里里民活動中心",
+            "division": 44,
+            "contact": "x",
+            "phone": "2425-2103",
+            "address": "基隆市信義區東信路322-1號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13554266.987602511,
+                    2891571.26880157
+                ]
+            },
+            "condition": 0,
+            "groupId": "193931",
+            "interfaceNumber": "",
+            "meterSetting": 0
+        },
+        {
+            "id": 5014,
+            "name": "孝二路口三軍總醫院",
+            "division": 44,
+            "contact": "x",
+            "phone": "2425-2103",
+            "address": "基隆市仁愛區孝二路39號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13551963.541995097,
+                    2891556.3480034294
+                ]
+            },
+            "condition": 0,
+            "groupId": "193931",
+            "interfaceNumber": "",
+            "meterSetting": 0
+        },
+        {
             "id": 5016,
             "name": "成功一路與光二路口",
             "division": 239,
@@ -69,6 +107,25 @@
                 "coordinates": [
                     13553258.492743816,
                     2891467.37052519
+                ]
+            },
+            "condition": 0,
+            "groupId": "193931",
+            "interfaceNumber": "",
+            "meterSetting": 0
+        },
+        {
+            "id": 5020,
+            "name": "仁愛國小對面台電公司",
+            "division": 44,
+            "contact": "x",
+            "phone": "2425-2103",
+            "address": "基隆巿仁二路134號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13552767.6237028,
+                    2891451.2470895373
                 ]
             },
             "condition": 0,
