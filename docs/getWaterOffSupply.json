@@ -3,7 +3,7 @@
         {
             "id": 5011,
             "name": "老大公廟前",
-            "division": 239,
+            "division": 44,
             "contact": "嘉仁里王里長",
             "phone": "0935306094 ( 0975311880)",
             "address": "基隆市安樂區樂一路76巷37號",
@@ -58,47 +58,9 @@
             "meterSetting": 0
         },
         {
-            "id": 5016,
-            "name": "成功一路與光二路口",
-            "division": 239,
-            "contact": "光華里陳里長",
-            "phone": "0916317388",
-            "address": "基隆市仁愛區成功一路115號",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    121.73723012208939,
-                    25.12740089859826
-                ]
-            },
-            "condition": 0,
-            "groupId": "193931",
-            "interfaceNumber": "",
-            "meterSetting": 0
-        },
-        {
-            "id": 5018,
-            "name": "東明里里民活動中心",
-            "division": 239,
-            "contact": "東明里翁里長",
-            "phone": "0936-126645",
-            "address": "基隆巿東信路35巷47號",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    121.76692754030226,
-                    25.127056068096785
-                ]
-            },
-            "condition": 0,
-            "groupId": "193931",
-            "interfaceNumber": "",
-            "meterSetting": 0
-        },
-        {
             "id": 5019,
             "name": "劉銘傳路口",
-            "division": 239,
+            "division": 44,
             "contact": "水錦里孫里長",
             "phone": "0932075600",
             "address": "基隆巿劉銘傳路1號",
@@ -126,6 +88,101 @@
                 "coordinates": [
                     121.74658298492433,
                     25.12780886582185
+                ]
+            },
+            "condition": 0,
+            "groupId": "193931",
+            "interfaceNumber": "",
+            "meterSetting": 0
+        },
+        {
+            "id": 5022,
+            "name": "朝棟里光華國宅",
+            "division": 44,
+            "contact": "朝棟里李里長",
+            "phone": "0928-510118",
+            "address": "基隆市成功一路144號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    121.73655420541768,
+                    25.128663649872365
+                ]
+            },
+            "condition": 0,
+            "groupId": "193931",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5023,
+            "name": "信義國中停車場",
+            "division": 44,
+            "contact": "東安里林里長",
+            "phone": "0921-816105",
+            "address": "基隆巿東信路4號(電子看板下)",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    121.76836252212527,
+                    25.129384869262484
+                ]
+            },
+            "condition": 0,
+            "groupId": "193931",
+            "interfaceNumber": "",
+            "meterSetting": 0
+        },
+        {
+            "id": 5024,
+            "name": "成功一路與光二路口",
+            "division": 44,
+            "contact": "光華里陳里長",
+            "phone": "0916-317388",
+            "address": "基隆市成功一路115號7-11前人行道",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    121.7369645833969,
+                    25.127459179713608
+                ]
+            },
+            "condition": 0,
+            "groupId": "193931",
+            "interfaceNumber": "",
+            "meterSetting": 0
+        },
+        {
+            "id": 5026,
+            "name": "仁祥診所旁",
+            "division": 44,
+            "contact": "褚主任",
+            "phone": "0981-137767",
+            "address": "基隆巿忠一路20號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    121.73972994089127,
+                    25.13141008882207
+                ]
+            },
+            "condition": 0,
+            "groupId": "193931",
+            "interfaceNumber": "",
+            "meterSetting": 0
+        },
+        {
+            "id": 5027,
+            "name": "東明里里民活動中心",
+            "division": 44,
+            "contact": "東明里翁里長",
+            "phone": "0936-126645",
+            "address": "基隆巿東信路35巷47號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    121.76696509122849,
+                    25.127060924871174
                 ]
             },
             "condition": 0,
