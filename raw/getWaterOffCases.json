@@ -225,7 +225,7 @@
         "startTime": "09:00:00",
         "lastUpdatedTime": "2026-01-22T07:31:06.805+0000",
         "endTime": "18:30:00",
-        "category": 2,
+        "category": 1,
         "type": 2,
         "startDate": "2026-01-22T16:00:00.000+0000",
         "pressureDownArea": null,
@@ -7999,7 +7999,7 @@
         "startTime": "15:03:00",
         "lastUpdatedTime": "2026-01-23T07:03:49.148+0000",
         "endTime": "18:30:00",
-        "category": 2,
+        "category": 1,
         "type": 1,
         "startDate": "2026-01-22T16:00:00.000+0000",
         "pressureDownArea": null,
@@ -11807,7 +11807,7 @@
         "startTime": "15:30:00",
         "lastUpdatedTime": "2026-01-23T07:28:17.122+0000",
         "endTime": "20:00:00",
-        "category": 2,
+        "category": 1,
         "type": 1,
         "startDate": "2026-01-22T16:00:00.000+0000",
         "pressureDownArea": {
@@ -12103,7 +12103,7 @@
         "startTime": "15:50:00",
         "lastUpdatedTime": "2026-01-23T07:50:28.080+0000",
         "endTime": "19:30:00",
-        "category": 2,
+        "category": 1,
         "type": 1,
         "startDate": "2026-01-22T16:00:00.000+0000",
         "pressureDownArea": null,
@@ -14335,7 +14335,7 @@
         "startTime": "16:20:00",
         "lastUpdatedTime": "2026-01-23T08:20:36.444+0000",
         "endTime": "19:00:00",
-        "category": 2,
+        "category": 1,
         "type": 1,
         "startDate": "2026-01-22T16:00:00.000+0000",
         "pressureDownArea": null,
@@ -14769,7 +14769,7 @@
         "startTime": "16:31:00",
         "lastUpdatedTime": "2026-01-23T08:31:26.265+0000",
         "endTime": "21:00:00",
-        "category": 2,
+        "category": 1,
         "type": 1,
         "startDate": "2026-01-22T16:00:00.000+0000",
         "pressureDownArea": null,
@@ -15061,7 +15061,7 @@
         "startTime": "16:42:00",
         "lastUpdatedTime": "2026-01-23T09:07:03.225+0000",
         "endTime": "19:00:00",
-        "category": 2,
+        "category": 1,
         "type": 1,
         "startDate": "2026-01-22T16:00:00.000+0000",
         "pressureDownArea": null,
@@ -38117,7 +38117,7 @@
         "startTime": "09:00:00",
         "lastUpdatedTime": "2026-01-22T10:22:07.832+0000",
         "endTime": "20:00:00",
-        "category": 2,
+        "category": 1,
         "type": 1,
         "startDate": "2026-01-22T16:00:00.000+0000",
         "pressureDownArea": null,
@@ -38509,68 +38509,6 @@
         "type": 2,
         "startDate": "2026-01-25T16:00:00.000+0000",
         "pressureDownArea": null,
-        "isSchedule": false
-    },
-    {
-        "no": "202601220099",
-        "endDate": "2026-01-22T16:00:00.000+0000",
-        "actualEndTime": null,
-        "waterOffArea": null,
-        "startTime": "20:30:00",
-        "lastUpdatedTime": "2026-01-22T12:05:21.878+0000",
-        "endTime": "07:30:00",
-        "category": 1,
-        "type": 1,
-        "startDate": "2026-01-21T16:00:00.000+0000",
-        "pressureDownArea": {
-            "type": "MultiPolygon",
-            "coordinates": [
-                [
-                    [
-                        [
-                            13419225.438445745,
-                            2718608.799436072
-                        ],
-                        [
-                            13419074.518658862,
-                            2718602.2849000487
-                        ],
-                        [
-                            13418806.33773383,
-                            2718491.538079235
-                        ],
-                        [
-                            13418812.852233404,
-                            2718378.6197585627
-                        ],
-                        [
-                            13418834.567304885,
-                            2718235.300330528
-                        ],
-                        [
-                            13419493.619516568,
-                            2718232.0430442924
-                        ],
-                        [
-                            13419455.618086806,
-                            2718291.75947264
-                        ],
-                        [
-                            13419403.50194441,
-                            2718376.448258704
-                        ],
-                        [
-                            13419328.585017053,
-                            2718486.1093295887
-                        ],
-                        [
-                            13419225.438445745,
-                            2718608.799436072
-                        ]
-                    ]
-                ]
-            ]
-        },
         "isSchedule": false
     },
     {
