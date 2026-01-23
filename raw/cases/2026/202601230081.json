@@ -148,10 +148,10 @@
         ]
     },
     "startTime": "00:00:00",
-    "lastUpdatedTime": "2026-01-23T07:10:17.002+0000",
+    "lastUpdatedTime": "2026-01-23T07:31:06.839+0000",
     "endTime": "08:30:00",
     "category": 3,
-    "type": 1,
+    "type": 2,
     "startDate": "2026-01-26T16:00:00.000+0000",
     "pressureDownArea": null,
     "isSchedule": false

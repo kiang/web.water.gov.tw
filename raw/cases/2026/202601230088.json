@@ -1,5 +1,5 @@
 {
-    "no": "202601230075",
+    "no": "202601230088",
     "endDate": "2026-01-22T16:00:00.000+0000",
     "actualEndTime": null,
     "waterOffArea": {
@@ -1915,9 +1915,9 @@
             ]
         ]
     },
-    "startTime": "14:47:00",
-    "lastUpdatedTime": "2026-01-23T06:47:57.118+0000",
-    "endTime": "16:00:00",
+    "startTime": "16:18:00",
+    "lastUpdatedTime": "2026-01-23T08:18:13.239+0000",
+    "endTime": "17:30:00",
     "category": 1,
     "type": 1,
     "startDate": "2026-01-22T16:00:00.000+0000",
