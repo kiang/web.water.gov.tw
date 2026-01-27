@@ -94,6 +94,63 @@
             "groupId": "238848",
             "interfaceNumber": "",
             "meterSetting": 0.5
+        },
+        {
+            "id": 5947,
+            "name": "崇文里民活動中心",
+            "division": 239,
+            "contact": "x",
+            "phone": "x",
+            "address": "仁愛區龍安街148號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13552270.783018947,
+                    2891072.3463516706
+                ]
+            },
+            "condition": 0,
+            "groupId": "246746",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5948,
+            "name": "南榮路319巷",
+            "division": 239,
+            "contact": "x",
+            "phone": "x",
+            "address": "基隆市仁愛區南榮路319巷319巷1號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13552469.19085213,
+                    2890441.3676406406
+                ]
+            },
+            "condition": 0,
+            "groupId": "246746",
+            "interfaceNumber": "",
+            "meterSetting": 0
+        },
+        {
+            "id": 5949,
+            "name": "南榮路161巷口",
+            "division": 239,
+            "contact": "x",
+            "phone": "x",
+            "address": "基隆市仁愛區161巷19號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13552447.470525496,
+                    2891023.5068997117
+                ]
+            },
+            "condition": 0,
+            "groupId": "246746",
+            "interfaceNumber": "",
+            "meterSetting": 0
         }
     ]
 }
