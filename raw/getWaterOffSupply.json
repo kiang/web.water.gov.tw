@@ -151,6 +151,139 @@
             "groupId": "246746",
             "interfaceNumber": "",
             "meterSetting": 0
+        },
+        {
+            "id": 5950,
+            "name": "0205廣昌里活動中心",
+            "division": 7,
+            "contact": "林股長",
+            "phone": "07-3513332",
+            "address": "高雄市楠梓區廣昌里廣昌街175巷37號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13390074.412225628,
+                    2596689.2585247285
+                ]
+            },
+            "condition": 0,
+            "groupId": "247921",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5951,
+            "name": "0205興昌里9號公園",
+            "division": 7,
+            "contact": "林股長",
+            "phone": "07-3513332",
+            "address": "高雄市楠梓區德民路與興泰街口",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13389928.695012182,
+                    2597897.9655209016
+                ]
+            },
+            "condition": 0,
+            "groupId": "247921",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5952,
+            "name": "0205楠梓公3公園",
+            "division": 7,
+            "contact": "林股長",
+            "phone": "07-3513332",
+            "address": "高雄市楠梓區大學二十七街與大學西路交叉口",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13389655.739620756,
+                    2598764.1231710706
+                ]
+            },
+            "condition": 0,
+            "groupId": "247921",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5953,
+            "name": "0205警察局梓官分駐所",
+            "division": 4,
+            "contact": "葉天祥",
+            "phone": "07-6222814",
+            "address": "高雄市梓官區梓義里梓官路267號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13388043.499435596,
+                    2603090.4024499236
+                ]
+            },
+            "condition": 0,
+            "groupId": "247921",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5954,
+            "name": "0205大舍甲大壽宮",
+            "division": 4,
+            "contact": "葉天祥",
+            "phone": "07-6222814",
+            "address": "高雄市梓官區大舍東路公厝巷4號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13387678.928103248,
+                    2601590.8866365855
+                ]
+            },
+            "condition": 0,
+            "groupId": "247921",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5955,
+            "name": "0205赤崁活動中心",
+            "division": 4,
+            "contact": "葉天祥",
+            "phone": "07-6222814",
+            "address": "高雄市梓官區赤崁里赤崁東路57號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13386053.106940214,
+                    2600540.268644655
+                ]
+            },
+            "condition": 0,
+            "groupId": "247921",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5956,
+            "name": "0205智蚵信蚵活動中心",
+            "division": 4,
+            "contact": "葉天祥",
+            "phone": "07-6222814",
+            "address": "高雄市梓官區信蚵里廣澤路3號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13386679.501714908,
+                    2599355.023961658
+                ]
+            },
+            "condition": 0,
+            "groupId": "247921",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
         }
     ]
 }
