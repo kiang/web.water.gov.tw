@@ -151,6 +151,44 @@
             "groupId": "246746",
             "interfaceNumber": "",
             "meterSetting": 0
+        },
+        {
+            "id": 5958,
+            "name": "板橋區自由路26巷巷口",
+            "division": 76,
+            "contact": "陳秀如股長",
+            "phone": "02-296121",
+            "address": "新北市板橋區自由路26巷巷口",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    121.46558618552082,
+                    25.022775549201583
+                ]
+            },
+            "condition": 0,
+            "groupId": "249499",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5959,
+            "name": "板橋區民生路三段1號(新埔站一號出口",
+            "division": 76,
+            "contact": "陳秀如",
+            "phone": "02-2961-2196",
+            "address": "板橋區民生路三段1號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    121.46752166761142,
+                    25.023166851966373
+                ]
+            },
+            "condition": 0,
+            "groupId": "249499",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
         }
     ]
 }
