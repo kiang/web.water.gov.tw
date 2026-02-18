@@ -88,7 +88,7 @@
     {
         "no": "202602180001",
         "endDate": "2026-02-17T16:00:00.000+0000",
-        "actualEndTime": null,
+        "actualEndTime": "2026-02-18T03:25:50.522+0000",
         "waterOffArea": {
             "type": "MultiPolygon",
             "coordinates": [
@@ -5427,12 +5427,54 @@
             ]
         },
         "startTime": "08:25:00",
-        "lastUpdatedTime": "2026-02-18T00:25:48.259+0000",
+        "lastUpdatedTime": "2026-02-18T03:25:50.522+0000",
         "endTime": "17:00:00",
-        "category": 2,
+        "category": 1,
         "type": 1,
         "startDate": "2026-02-17T16:00:00.000+0000",
         "pressureDownArea": null,
+        "isSchedule": false
+    },
+    {
+        "no": "202602180002",
+        "endDate": "2026-02-17T16:00:00.000+0000",
+        "actualEndTime": null,
+        "waterOffArea": null,
+        "startTime": "11:22:00",
+        "lastUpdatedTime": "2026-02-18T03:22:39.580+0000",
+        "endTime": "17:30:00",
+        "category": 2,
+        "type": 1,
+        "startDate": "2026-02-17T16:00:00.000+0000",
+        "pressureDownArea": {
+            "type": "MultiPolygon",
+            "coordinates": [
+                [
+                    [
+                        [
+                            120.65063238143922,
+                            24.120244231875933
+                        ],
+                        [
+                            120.65508484840393,
+                            24.11560269243444
+                        ],
+                        [
+                            120.65793871879578,
+                            24.117894106362336
+                        ],
+                        [
+                            120.65384030342102,
+                            24.122290764352897
+                        ],
+                        [
+                            120.65063238143922,
+                            24.120244231875933
+                        ]
+                    ]
+                ]
+            ]
+        },
         "isSchedule": false
     }
 ]
