@@ -1031,7 +1031,7 @@
         "startTime": "10:30:00",
         "lastUpdatedTime": "2026-02-23T08:57:46.738+0000",
         "endTime": "20:30:00",
-        "category": 2,
+        "category": 1,
         "type": 1,
         "startDate": "2026-02-22T16:00:00.000+0000",
         "pressureDownArea": null,
@@ -4033,7 +4033,7 @@
         "startTime": "11:27:00",
         "lastUpdatedTime": "2026-02-23T03:27:11.601+0000",
         "endTime": "19:00:00",
-        "category": 2,
+        "category": 1,
         "type": 1,
         "startDate": "2026-02-22T16:00:00.000+0000",
         "pressureDownArea": null,
@@ -4355,7 +4355,7 @@
         "startTime": "13:05:00",
         "lastUpdatedTime": "2026-02-23T09:29:26.401+0000",
         "endTime": "20:00:00",
-        "category": 2,
+        "category": 1,
         "type": 1,
         "startDate": "2026-02-22T16:00:00.000+0000",
         "pressureDownArea": null,
@@ -5221,7 +5221,7 @@
         "startTime": "14:51:00",
         "lastUpdatedTime": "2026-02-23T08:54:05.694+0000",
         "endTime": "20:00:00",
-        "category": 2,
+        "category": 1,
         "type": 1,
         "startDate": "2026-02-22T16:00:00.000+0000",
         "pressureDownArea": null,
@@ -5739,7 +5739,7 @@
         "startTime": "16:08:00",
         "lastUpdatedTime": "2026-02-23T08:08:48.854+0000",
         "endTime": "20:30:00",
-        "category": 2,
+        "category": 1,
         "type": 1,
         "startDate": "2026-02-22T16:00:00.000+0000",
         "pressureDownArea": null,
@@ -5753,7 +5753,7 @@
         "startTime": "16:28:00",
         "lastUpdatedTime": "2026-02-23T08:32:32.439+0000",
         "endTime": "21:00:00",
-        "category": 2,
+        "category": 1,
         "type": 1,
         "startDate": "2026-02-22T16:00:00.000+0000",
         "pressureDownArea": {
@@ -5879,7 +5879,7 @@
         "startTime": "16:42:00",
         "lastUpdatedTime": "2026-02-23T08:42:09.834+0000",
         "endTime": "18:30:00",
-        "category": 2,
+        "category": 1,
         "type": 1,
         "startDate": "2026-02-22T16:00:00.000+0000",
         "pressureDownArea": null,
@@ -6441,7 +6441,7 @@
         "startTime": "16:56:00",
         "lastUpdatedTime": "2026-02-23T08:57:08.400+0000",
         "endTime": "20:00:00",
-        "category": 2,
+        "category": 1,
         "type": 1,
         "startDate": "2026-02-22T16:00:00.000+0000",
         "pressureDownArea": null,
@@ -6924,6 +6924,68 @@
         "category": 3,
         "type": 1,
         "startDate": "2026-02-23T16:00:00.000+0000",
+        "pressureDownArea": null,
+        "isSchedule": false
+    },
+    {
+        "no": "202602230054",
+        "endDate": "2026-02-23T16:00:00.000+0000",
+        "actualEndTime": null,
+        "waterOffArea": {
+            "type": "MultiPolygon",
+            "coordinates": [
+                [
+                    [
+                        [
+                            120.53658054953277,
+                            23.46515153472506
+                        ],
+                        [
+                            120.53108932646866,
+                            23.467739428915667
+                        ],
+                        [
+                            120.53324119197339,
+                            23.471971360876292
+                        ],
+                        [
+                            120.53718793008325,
+                            23.477301448208667
+                        ],
+                        [
+                            120.53406673359464,
+                            23.481655861378588
+                        ],
+                        [
+                            120.54007608941936,
+                            23.484652703269823
+                        ],
+                        [
+                            120.54124374959854,
+                            23.476353236211878
+                        ],
+                        [
+                            120.54169742745879,
+                            23.47149610173587
+                        ],
+                        [
+                            120.53758458696075,
+                            23.46366199962162
+                        ],
+                        [
+                            120.53658054953277,
+                            23.46515153472506
+                        ]
+                    ]
+                ]
+            ]
+        },
+        "startTime": "19:23:00",
+        "lastUpdatedTime": "2026-02-23T11:24:04.114+0000",
+        "endTime": "01:30:00",
+        "category": 2,
+        "type": 1,
+        "startDate": "2026-02-22T16:00:00.000+0000",
         "pressureDownArea": null,
         "isSchedule": false
     }
