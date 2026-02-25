@@ -322,6 +322,120 @@
             "groupId": "246746",
             "interfaceNumber": "",
             "meterSetting": 0
+        },
+        {
+            "id": 5960,
+            "name": "府前里活動中心",
+            "division": 12,
+            "contact": "王獻仁",
+            "phone": "06-2370021",
+            "address": "中西區尊王路53號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13380194.473459255,
+                    2630978.6461899667
+                ]
+            },
+            "condition": 0,
+            "groupId": "250167",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5961,
+            "name": "河樂廣場",
+            "division": 12,
+            "contact": "王獻仁",
+            "phone": "06-2370021",
+            "address": "康樂街與中正路叉口",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13380003.115254583,
+                    2631209.615300941
+                ]
+            },
+            "condition": 0,
+            "groupId": "250167",
+            "interfaceNumber": "",
+            "meterSetting": 0
+        },
+        {
+            "id": 5962,
+            "name": "五條港里活動中心",
+            "division": 12,
+            "contact": "王獻仁",
+            "phone": "06-2370021",
+            "address": "中西區成功路343號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13439129.572233502,
+                    2769328.308801646
+                ]
+            },
+            "condition": 0,
+            "groupId": "250167",
+            "interfaceNumber": "",
+            "meterSetting": 0
+        },
+        {
+            "id": 5963,
+            "name": "海安教會",
+            "division": 12,
+            "contact": "王獻仁",
+            "phone": "06-2370021",
+            "address": "海安路二段297號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13380334.847337145,
+                    2631827.6853635916
+                ]
+            },
+            "condition": 0,
+            "groupId": "250167",
+            "interfaceNumber": "",
+            "meterSetting": 0
+        },
+        {
+            "id": 5964,
+            "name": "藥王廟",
+            "division": 12,
+            "contact": "王獻仁",
+            "phone": "06-2370021",
+            "address": "金華路四段86號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13380035.620545894,
+                    2631813.899159099
+                ]
+            },
+            "condition": 0,
+            "groupId": "250167",
+            "interfaceNumber": "",
+            "meterSetting": 0
+        },
+        {
+            "id": 5965,
+            "name": "西和里協進活動中心",
+            "division": 12,
+            "contact": "王獻仁",
+            "phone": "06-2370021",
+            "address": "中西區民權路三段447巷1號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13379225.993889352,
+                    2631877.02555928
+                ]
+            },
+            "condition": 0,
+            "groupId": "250167",
+            "interfaceNumber": "",
+            "meterSetting": 0
         }
     ]
 }
