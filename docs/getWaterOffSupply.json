@@ -1,6 +1,177 @@
 {
     "supply": [
         {
+            "id": 3873,
+            "name": "祥和公園",
+            "division": 12,
+            "contact": "王献仁",
+            "phone": "06-2370021",
+            "address": "台南市中西區萬昌街與青年路196巷口",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.210407,
+                    22.99124899999997
+                ]
+            },
+            "condition": 0,
+            "groupId": "250167",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 3875,
+            "name": "赤嵌里活動中心",
+            "division": 12,
+            "contact": "王献仁",
+            "phone": "06-2370021",
+            "address": "台南市中西區公園路125號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.20627349615098,
+                    22.996881311841825
+                ]
+            },
+            "condition": 0,
+            "groupId": "250167",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 3927,
+            "name": "華南銀行前人行道",
+            "division": 12,
+            "contact": "王献仁",
+            "phone": "06-2370021",
+            "address": "台南市中西區永福路二段154號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.20172500000001,
+                    22.994713999999995
+                ]
+            },
+            "condition": 0,
+            "groupId": "250167",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 3928,
+            "name": "永華里活動中心",
+            "division": 12,
+            "contact": "王献仁",
+            "phone": "06-2370021",
+            "address": "台南市中西區開山路1號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.20563602436597,
+                    22.992160747401545
+                ]
+            },
+            "condition": 0,
+            "groupId": "250167",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 3929,
+            "name": "府前路一段萬昌街口",
+            "division": 12,
+            "contact": "王献仁",
+            "phone": "06-2370021",
+            "address": "台南市中西區府前路一段與萬昌街口公布欄旁",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.20965,
+                    22.988951999999998
+                ]
+            },
+            "condition": 0,
+            "groupId": "250167",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 3930,
+            "name": "台南女中演藝廳前人行道",
+            "division": 12,
+            "contact": "王献仁",
+            "phone": "06-2370021",
+            "address": "台南市中西區樹林街二段與大埔街89巷口",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.208319,
+                    22.986271999999985
+                ]
+            },
+            "condition": 0,
+            "groupId": "250167",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 3931,
+            "name": "法華社區活動中心",
+            "division": 12,
+            "contact": "王献仁",
+            "phone": "06-2370021",
+            "address": "台南市中西區府連路22號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.20996,
+                    22.982168000000005
+                ]
+            },
+            "condition": 0,
+            "groupId": "250167",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 3932,
+            "name": "南門里活動中心",
+            "division": 12,
+            "contact": "王献仁",
+            "phone": "06-2370021",
+            "address": "台南市中西區南寧街47號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.20041555166242,
+                    22.98495407065366
+                ]
+            },
+            "condition": 0,
+            "groupId": "250167",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 3933,
+            "name": "小西門公園",
+            "division": 12,
+            "contact": "王献仁",
+            "phone": "06-2370021",
+            "address": "台南市中西區和意路1號對面人行道",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.19895732397345,
+                    22.988513628916973
+                ]
+            },
+            "condition": 0,
+            "groupId": "250167",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
             "id": 5896,
             "name": "明德路2號旁(德音國小)",
             "division": 79,
