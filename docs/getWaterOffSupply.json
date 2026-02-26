@@ -267,63 +267,6 @@
             "meterSetting": 0.5
         },
         {
-            "id": 5947,
-            "name": "崇文里民活動中心",
-            "division": 239,
-            "contact": "x",
-            "phone": "x",
-            "address": "基隆市仁愛區龍安街148之1號",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    121.742166,
-                    25.124689999999983
-                ]
-            },
-            "condition": 0,
-            "groupId": "246746",
-            "interfaceNumber": "",
-            "meterSetting": 0.5
-        },
-        {
-            "id": 5948,
-            "name": "南榮路319巷",
-            "division": 239,
-            "contact": "x",
-            "phone": "x",
-            "address": "基隆市仁愛區南榮路319巷1號",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    121.7438605427742,
-                    25.11956669230479
-                ]
-            },
-            "condition": 0,
-            "groupId": "246746",
-            "interfaceNumber": "",
-            "meterSetting": 0
-        },
-        {
-            "id": 5949,
-            "name": "南榮路161巷口",
-            "division": 239,
-            "contact": "x",
-            "phone": "x",
-            "address": "基隆市仁愛區南榮路161巷口",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    121.74306660890582,
-                    25.124239106421278
-                ]
-            },
-            "condition": 0,
-            "groupId": "246746",
-            "interfaceNumber": "",
-            "meterSetting": 0
-        },
-        {
             "id": 5960,
             "name": "府前里活動中心",
             "division": 12,
@@ -434,6 +377,329 @@
             },
             "condition": 0,
             "groupId": "250167",
+            "interfaceNumber": "",
+            "meterSetting": 0
+        },
+        {
+            "id": 5966,
+            "name": "新北市瑞芳區明燈路一段45巷1-1號",
+            "division": 25,
+            "contact": "服務所",
+            "phone": "2497-2006",
+            "address": "新北市瑞芳區明燈路一段45巷1-1號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    121.821571,
+                    25.106547999999993
+                ]
+            },
+            "condition": 0,
+            "groupId": "250381",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5967,
+            "name": "新北市瑞芳區明燈路154號",
+            "division": 25,
+            "contact": "服務所",
+            "phone": "2497-2006",
+            "address": "新北市瑞芳區明燈路154號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    121.81867400000003,
+                    25.108432
+                ]
+            },
+            "condition": 0,
+            "groupId": "250381",
+            "interfaceNumber": "",
+            "meterSetting": 0
+        },
+        {
+            "id": 5968,
+            "name": "新北市瑞芳區逢甲路32號",
+            "division": 25,
+            "contact": "服務所",
+            "phone": "2497-2006",
+            "address": "新北市瑞芳區逢甲路32號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    121.811298,
+                    25.108549000000004
+                ]
+            },
+            "condition": 0,
+            "groupId": "250381",
+            "interfaceNumber": "",
+            "meterSetting": 0
+        },
+        {
+            "id": 5969,
+            "name": "新北市瑞芳區岳王路10號",
+            "division": 25,
+            "contact": "服務所",
+            "phone": "2497-2006",
+            "address": "新北市瑞芳區岳王路10號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    121.807232,
+                    25.110669999999992
+                ]
+            },
+            "condition": 0,
+            "groupId": "250381",
+            "interfaceNumber": "",
+            "meterSetting": 0
+        },
+        {
+            "id": 5970,
+            "name": "新北市瑞芳區九芎橋路23號(弓橋里活動中心)",
+            "division": 25,
+            "contact": "服務所",
+            "phone": "2497-2006",
+            "address": "新北市瑞芳區九芎橋路23號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    121.83283343911174,
+                    25.092994405577144
+                ]
+            },
+            "condition": 0,
+            "groupId": "250381",
+            "interfaceNumber": "",
+            "meterSetting": 0
+        },
+        {
+            "id": 5971,
+            "name": "新北市瑞芳區明燈路一段18巷7號",
+            "division": 25,
+            "contact": "服務所",
+            "phone": "2497-2006",
+            "address": "新北市瑞芳區明燈路一段18巷7號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    121.82226400000003,
+                    25.108546000000004
+                ]
+            },
+            "condition": 0,
+            "groupId": "250381",
+            "interfaceNumber": "",
+            "meterSetting": 0
+        },
+        {
+            "id": 5972,
+            "name": "新北市瑞芳區瑞芳街8號(保雲對面)",
+            "division": 25,
+            "contact": "服務所",
+            "phone": "2497-2006",
+            "address": "新北市瑞芳區瑞芳街8號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    121.80673420429231,
+                    25.10990559389674
+                ]
+            },
+            "condition": 0,
+            "groupId": "250381",
+            "interfaceNumber": "",
+            "meterSetting": 0
+        },
+        {
+            "id": 5973,
+            "name": "新北市瑞芳區瑞芳街54號旁(瑞芳高工後門)",
+            "division": 25,
+            "contact": "服務所",
+            "phone": "2497-2006",
+            "address": "新北市瑞芳區瑞芳街54號旁",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    121.80572032928467,
+                    25.109772013780866
+                ]
+            },
+            "condition": 0,
+            "groupId": "250381",
+            "interfaceNumber": "",
+            "meterSetting": 0
+        },
+        {
+            "id": 5974,
+            "name": "新北市瑞芳區明燈路一段瑞柑新村10號",
+            "division": 25,
+            "contact": "服務所",
+            "phone": "2497-2006",
+            "address": "新北市瑞芳區明燈路一段瑞柑新村10號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    121.82883024215698,
+                    25.106466466605816
+                ]
+            },
+            "condition": 0,
+            "groupId": "250381",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5975,
+            "name": "新北市瑞芳區明燈路一段45巷旁109號旁",
+            "division": 25,
+            "contact": "服務所",
+            "phone": "2497-2006",
+            "address": "新北市瑞芳區明燈路一段45巷109號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    121.82221055030818,
+                    25.10385062493842
+                ]
+            },
+            "condition": 0,
+            "groupId": "250381",
+            "interfaceNumber": "",
+            "meterSetting": 0
+        },
+        {
+            "id": 5976,
+            "name": "新北市瑞芳區逢甲路270號",
+            "division": 25,
+            "contact": "服務所",
+            "phone": "2497-2006",
+            "address": "新北市瑞芳區逢甲路270號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    121.80497467517851,
+                    25.111377394237337
+                ]
+            },
+            "condition": 0,
+            "groupId": "250381",
+            "interfaceNumber": "",
+            "meterSetting": 0
+        },
+        {
+            "id": 5977,
+            "name": "新北市瑞芳區逢甲路350號(福德宮)",
+            "division": 25,
+            "contact": "服務所",
+            "phone": "2497-2006",
+            "address": "新北市瑞芳區逢甲路350號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    121.80097281932832,
+                    25.112225007184858
+                ]
+            },
+            "condition": 0,
+            "groupId": "250381",
+            "interfaceNumber": "",
+            "meterSetting": 0
+        },
+        {
+            "id": 5978,
+            "name": "明燈路一段201巷105號(棒球場旁)",
+            "division": 25,
+            "contact": "服務所",
+            "phone": "2497-2006",
+            "address": "瑞芳區明燈路一段201巷105號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    121.81913137435913,
+                    25.106716632375853
+                ]
+            },
+            "condition": 0,
+            "groupId": "250381",
+            "interfaceNumber": "",
+            "meterSetting": 0
+        },
+        {
+            "id": 5979,
+            "name": "明燈路一段79號",
+            "division": 25,
+            "contact": "服務所",
+            "phone": "2497-2006",
+            "address": "瑞芳區明燈路一段79號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    121.82008355855942,
+                    25.106986227923976
+                ]
+            },
+            "condition": 0,
+            "groupId": "250381",
+            "interfaceNumber": "",
+            "meterSetting": 0
+        },
+        {
+            "id": 5980,
+            "name": "明燈路一段219號",
+            "division": 25,
+            "contact": "服務所",
+            "phone": "2497-2006",
+            "address": "瑞芳區明燈路一段219號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    121.81825429201125,
+                    25.108011171338887
+                ]
+            },
+            "condition": 0,
+            "groupId": "250381",
+            "interfaceNumber": "",
+            "meterSetting": 0
+        },
+        {
+            "id": 5981,
+            "name": "新北市瑞芳區明燈路三段109號(龍川里辦公所前)",
+            "division": 25,
+            "contact": "服務所",
+            "phone": "2497-2006",
+            "address": "新北市瑞芳區明燈路三段109號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    121.80351823568343,
+                    25.108560071151626
+                ]
+            },
+            "condition": 0,
+            "groupId": "250381",
+            "interfaceNumber": "",
+            "meterSetting": 0
+        },
+        {
+            "id": 5982,
+            "name": "新北市瑞芳區一坑路71-2號(礦工醫院)",
+            "division": 25,
+            "contact": "服務所",
+            "phone": "2497-2006",
+            "address": "新北市瑞芳區一坑路71-2號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    121.8022495508194,
+                    25.108652363798488
+                ]
+            },
+            "condition": 0,
+            "groupId": "250381",
             "interfaceNumber": "",
             "meterSetting": 0
         }
