@@ -1,346 +1,42 @@
 {
     "supply": [
         {
-            "id": 3873,
-            "name": "祥和公園",
-            "division": 12,
-            "contact": "王献仁",
-            "phone": "06-2370021",
-            "address": "台南市中西區萬昌街與青年路196巷口",
+            "id": 2395,
+            "name": "123",
+            "division": 235,
+            "contact": "123",
+            "phone": "11111",
+            "address": "台中市北區雙十路二段2-1號",
             "location": {
                 "type": "Point",
                 "coordinates": [
-                    120.210407,
-                    22.99124899999997
+                    120.68859338833138,
+                    24.151706186293982
                 ]
             },
-            "condition": 0,
-            "groupId": "250167",
-            "interfaceNumber": "",
+            "condition": null,
+            "groupId": "168799",
+            "interfaceNumber": null,
             "meterSetting": 0.5
         },
         {
-            "id": 3875,
-            "name": "赤嵌里活動中心",
-            "division": 12,
-            "contact": "王献仁",
-            "phone": "06-2370021",
-            "address": "台南市中西區公園路125號",
+            "id": 5010,
+            "name": "123",
+            "division": 235,
+            "contact": "123",
+            "phone": "123",
+            "address": "123",
             "location": {
                 "type": "Point",
                 "coordinates": [
-                    120.20627349615098,
-                    22.996881311841825
+                    120.58593760058281,
+                    24.145500472967377
                 ]
             },
             "condition": 0,
-            "groupId": "250167",
+            "groupId": "168799",
             "interfaceNumber": "",
             "meterSetting": 0.5
-        },
-        {
-            "id": 3927,
-            "name": "華南銀行前人行道",
-            "division": 12,
-            "contact": "王献仁",
-            "phone": "06-2370021",
-            "address": "台南市中西區永福路二段154號",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    120.20172500000001,
-                    22.994713999999995
-                ]
-            },
-            "condition": 0,
-            "groupId": "250167",
-            "interfaceNumber": "",
-            "meterSetting": 0.5
-        },
-        {
-            "id": 3928,
-            "name": "永華里活動中心",
-            "division": 12,
-            "contact": "王献仁",
-            "phone": "06-2370021",
-            "address": "台南市中西區開山路1號",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    120.20563602436597,
-                    22.992160747401545
-                ]
-            },
-            "condition": 0,
-            "groupId": "250167",
-            "interfaceNumber": "",
-            "meterSetting": 0.5
-        },
-        {
-            "id": 3929,
-            "name": "府前路一段萬昌街口",
-            "division": 12,
-            "contact": "王献仁",
-            "phone": "06-2370021",
-            "address": "台南市中西區府前路一段與萬昌街口公布欄旁",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    120.20965,
-                    22.988951999999998
-                ]
-            },
-            "condition": 0,
-            "groupId": "250167",
-            "interfaceNumber": "",
-            "meterSetting": 0.5
-        },
-        {
-            "id": 3930,
-            "name": "台南女中演藝廳前人行道",
-            "division": 12,
-            "contact": "王献仁",
-            "phone": "06-2370021",
-            "address": "台南市中西區樹林街二段與大埔街89巷口",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    120.208319,
-                    22.986271999999985
-                ]
-            },
-            "condition": 0,
-            "groupId": "250167",
-            "interfaceNumber": "",
-            "meterSetting": 0.5
-        },
-        {
-            "id": 3931,
-            "name": "法華社區活動中心",
-            "division": 12,
-            "contact": "王献仁",
-            "phone": "06-2370021",
-            "address": "台南市中西區府連路22號",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    120.20996,
-                    22.982168000000005
-                ]
-            },
-            "condition": 0,
-            "groupId": "250167",
-            "interfaceNumber": "",
-            "meterSetting": 0.5
-        },
-        {
-            "id": 3932,
-            "name": "南門里活動中心",
-            "division": 12,
-            "contact": "王献仁",
-            "phone": "06-2370021",
-            "address": "台南市中西區南寧街47號",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    120.20041555166242,
-                    22.98495407065366
-                ]
-            },
-            "condition": 0,
-            "groupId": "250167",
-            "interfaceNumber": "",
-            "meterSetting": 0.5
-        },
-        {
-            "id": 3933,
-            "name": "小西門公園",
-            "division": 12,
-            "contact": "王献仁",
-            "phone": "06-2370021",
-            "address": "台南市中西區和意路1號對面人行道",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    120.19895732397345,
-                    22.988513628916973
-                ]
-            },
-            "condition": 0,
-            "groupId": "250167",
-            "interfaceNumber": "",
-            "meterSetting": 0.5
-        },
-        {
-            "id": 5467,
-            "name": "114泰山區大科路300號(大科里民活動 中心",
-            "division": 79,
-            "contact": "黃春祥股長",
-            "phone": "02-29097480#201",
-            "address": "泰山區大科路300號",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    121.40493500000001,
-                    25.056557999999985
-                ]
-            },
-            "condition": 0,
-            "groupId": "250563",
-            "interfaceNumber": "",
-            "meterSetting": 0.5
-        },
-        {
-            "id": 5468,
-            "name": "114泰山區泰林路三段22號(黎明技術學院",
-            "division": 79,
-            "contact": "黃春祥股長",
-            "phone": "02-29097480#201",
-            "address": "泰山區泰林路三段22號",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    121.41961600000003,
-                    25.065894999999994
-                ]
-            },
-            "condition": 0,
-            "groupId": "250563",
-            "interfaceNumber": "",
-            "meterSetting": 0.5
-        },
-        {
-            "id": 5469,
-            "name": "114五股區登林路81號(新加坡花園城堡",
-            "division": 79,
-            "contact": "黃春祥股長",
-            "phone": "02-29097480#201",
-            "address": "五股區登林路81號",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    121.42718600000002,
-                    25.070266999999994
-                ]
-            },
-            "condition": 0,
-            "groupId": "250563",
-            "interfaceNumber": "",
-            "meterSetting": 0.5
-        },
-        {
-            "id": 5960,
-            "name": "府前里活動中心",
-            "division": 12,
-            "contact": "王獻仁",
-            "phone": "06-2370021",
-            "address": "中西區尊王路53號",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    120.196332,
-                    22.991399999999995
-                ]
-            },
-            "condition": 0,
-            "groupId": "250167",
-            "interfaceNumber": "",
-            "meterSetting": 0.5
-        },
-        {
-            "id": 5961,
-            "name": "河樂廣場",
-            "division": 12,
-            "contact": "王獻仁",
-            "phone": "06-2370021",
-            "address": "康樂街與中正路叉口",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    120.19461300000003,
-                    22.993310000000005
-                ]
-            },
-            "condition": 0,
-            "groupId": "250167",
-            "interfaceNumber": "",
-            "meterSetting": 0
-        },
-        {
-            "id": 5962,
-            "name": "五條港里活動中心",
-            "division": 12,
-            "contact": "王獻仁",
-            "phone": "06-2370021",
-            "address": "中西區成功路343號",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    120.725755,
-                    24.130583000000016
-                ]
-            },
-            "condition": 0,
-            "groupId": "250167",
-            "interfaceNumber": "",
-            "meterSetting": 0
-        },
-        {
-            "id": 5963,
-            "name": "海安教會",
-            "division": 12,
-            "contact": "王獻仁",
-            "phone": "06-2370021",
-            "address": "海安路二段297號",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    120.19759300000003,
-                    22.998420999999986
-                ]
-            },
-            "condition": 0,
-            "groupId": "250167",
-            "interfaceNumber": "",
-            "meterSetting": 0
-        },
-        {
-            "id": 5964,
-            "name": "藥王廟",
-            "division": 12,
-            "contact": "王獻仁",
-            "phone": "06-2370021",
-            "address": "金華路四段86號",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    120.19490500000003,
-                    22.998306999999993
-                ]
-            },
-            "condition": 0,
-            "groupId": "250167",
-            "interfaceNumber": "",
-            "meterSetting": 0
-        },
-        {
-            "id": 5965,
-            "name": "西和里協進活動中心",
-            "division": 12,
-            "contact": "王獻仁",
-            "phone": "06-2370021",
-            "address": "中西區民權路三段447巷1號",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    120.18763200000001,
-                    22.998829000000008
-                ]
-            },
-            "condition": 0,
-            "groupId": "250167",
-            "interfaceNumber": "",
-            "meterSetting": 0
         }
     ]
 }
