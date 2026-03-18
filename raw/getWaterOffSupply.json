@@ -1,6 +1,63 @@
 {
     "supply": [
         {
+            "id": 955,
+            "name": "芳苑鄉公所供水站",
+            "division": 50,
+            "contact": "趙俊雄",
+            "phone": "04-8960240",
+            "address": "彰化縣芳苑鄉斗苑路202號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13393999.314832017,
+                    2744201.545249647
+                ]
+            },
+            "condition": null,
+            "groupId": "253303",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 1523,
+            "name": "芳苑鄉天寶宮供水站",
+            "division": 50,
+            "contact": "趙俊雄",
+            "phone": "04-8960240",
+            "address": "彰化縣芳苑鄉成功一路39號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13399402.874234615,
+                    2753957.9258455904
+                ]
+            },
+            "condition": null,
+            "groupId": "253303",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
+            "id": 1527,
+            "name": "大城鄉公所供水站",
+            "division": 50,
+            "contact": "趙俊雄",
+            "phone": "04-8960240",
+            "address": "彰化縣大城鄉中平路185號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13394062.432983298,
+                    2735424.782022806
+                ]
+            },
+            "condition": null,
+            "groupId": "253303",
+            "interfaceNumber": null,
+            "meterSetting": 0.5
+        },
+        {
             "id": 2395,
             "name": "123",
             "division": 235,
@@ -35,6 +92,519 @@
             },
             "condition": 0,
             "groupId": "168799",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5908,
+            "name": "長安國小",
+            "division": 50,
+            "contact": "江俊霖",
+            "phone": "04-8960240#101",
+            "address": "彰化縣竹塘鄉東陽路二段123號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13401410.1872926,
+                    2734881.4552002586
+                ]
+            },
+            "condition": 0,
+            "groupId": "253303",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5912,
+            "name": "竹塘公園",
+            "division": 50,
+            "contact": "江俊霖",
+            "phone": "04-8960240#101",
+            "address": "彰化縣竹塘鄉東陽路一段49巷16弄3號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13405574.426804192,
+                    2736099.5849406864
+                ]
+            },
+            "condition": 0,
+            "groupId": "253303",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5913,
+            "name": "竹塘慈航宮",
+            "division": 50,
+            "contact": "江俊霖",
+            "phone": "04-8960240#101",
+            "address": "彰化縣竹塘鄉光明路249-1號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13405943.339596681,
+                    2735804.0508162505
+                ]
+            },
+            "condition": 0,
+            "groupId": "253303",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5917,
+            "name": "路口厝福安宮-天上聖母",
+            "division": 50,
+            "contact": "江俊霖",
+            "phone": "04-8960240#101",
+            "address": "彰化縣埤頭鄉溪林路366號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13409997.372812392,
+                    2734811.5932973195
+                ]
+            },
+            "condition": 0,
+            "groupId": "253303",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5997,
+            "name": "尚德兒童遊戲場",
+            "division": 50,
+            "contact": "江俊霖",
+            "phone": "04-8960240#101",
+            "address": "彰化縣二林鎮尚義街23巷11號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13398844.050390834,
+                    2741439.750629715
+                ]
+            },
+            "condition": 0,
+            "groupId": "253303",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5998,
+            "name": "頂崙子天倫宮",
+            "division": 50,
+            "contact": "江俊霖",
+            "phone": "04-8960240#101",
+            "address": "彰化縣竹塘鄉彰173-1鄉道525號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13405705.115886386,
+                    2736215.58481533
+                ]
+            },
+            "condition": 0,
+            "groupId": "253303",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5999,
+            "name": "竹塘面前厝開天宮",
+            "division": 50,
+            "contact": "江俊霖",
+            "phone": "04-8960240#101",
+            "address": "彰化縣竹塘鄉成功路81號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13404866.768801223,
+                    2738198.5478287
+                ]
+            },
+            "condition": 0,
+            "groupId": "253303",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 6000,
+            "name": "竹塘鹿寮保聖宮",
+            "division": 50,
+            "contact": "江俊霖",
+            "phone": "04-8960240#101",
+            "address": "彰化縣竹塘鄉竹鹿路保安巷103號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13402854.112407679,
+                    2736479.1134102587
+                ]
+            },
+            "condition": 0,
+            "groupId": "253303",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 6002,
+            "name": "彰化竹塘幸竹宮",
+            "division": 50,
+            "contact": "江俊霖",
+            "phone": "04-8960240#101",
+            "address": "彰化縣竹塘鄉東陽路一段302號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13404495.740938408,
+                    2735521.18067195
+                ]
+            },
+            "condition": 0,
+            "groupId": "253303",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 6003,
+            "name": "竹元南天宮",
+            "division": 50,
+            "contact": "江俊霖",
+            "phone": "04-8960240#101",
+            "address": "彰化縣竹塘鄉東陽路 一段大崙巷42號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13405314.161834719,
+                    2736027.039807451
+                ]
+            },
+            "condition": 0,
+            "groupId": "253303",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 6004,
+            "name": "竹塘鄉農會",
+            "division": 50,
+            "contact": "江俊霖",
+            "phone": "04-8960240#101",
+            "address": "彰化縣竹塘鄉東陽路一段16號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13405582.441807533,
+                    2736282.89678127
+                ]
+            },
+            "condition": 0,
+            "groupId": "253303",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 6005,
+            "name": "洪醒夫公園",
+            "division": 50,
+            "contact": "江俊霖",
+            "phone": "04-8960240#101",
+            "address": "南光里 彰化縣二林鎮建國路70號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13399005.463652484,
+                    2740474.941552372
+                ]
+            },
+            "condition": 0,
+            "groupId": "253303",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 6006,
+            "name": "大城菜寮-三太宮 池府千歲",
+            "division": 50,
+            "contact": "江俊霖",
+            "phone": "04-8960240#101",
+            "address": "彰化縣大城鄉中山路3號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13396021.099423805,
+                    2734445.9796039993
+                ]
+            },
+            "condition": 0,
+            "groupId": "253303",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 6007,
+            "name": "大城東西港永鎮宮",
+            "division": 50,
+            "contact": "江俊霖",
+            "phone": "04-8960240#101",
+            "address": "彰化縣大城鄉永鎮路12號527",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13390562.214234285,
+                    2737008.1314514303
+                ]
+            },
+            "condition": 0,
+            "groupId": "253303",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 6009,
+            "name": "金瓜寮福德宮",
+            "division": 50,
+            "contact": "江俊霖",
+            "phone": "04-8960240#101",
+            "address": "彰化縣二林鎮五權街78巷16號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13400648.4280171,
+                    2741334.305467577
+                ]
+            },
+            "condition": 0,
+            "groupId": "253303",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 6010,
+            "name": "福林宮",
+            "division": 50,
+            "contact": "江俊霖",
+            "phone": "04-8960240#101",
+            "address": "彰化縣二林鎮仁愛路578號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13398992.661911042,
+                    2741715.4212266966
+                ]
+            },
+            "condition": 0,
+            "groupId": "253303",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 6011,
+            "name": "二林至揚宮",
+            "division": 50,
+            "contact": "江俊霖",
+            "phone": "04-8960240#101",
+            "address": "彰化縣二林鎮二城路771號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13398467.345233988,
+                    2740134.5207579294
+                ]
+            },
+            "condition": 0,
+            "groupId": "253303",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 6012,
+            "name": "二林文化教育園區",
+            "division": 50,
+            "contact": "江俊霖",
+            "phone": "04-8960240#101",
+            "address": "彰化縣二林鎮西和一街65號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13398644.34322435,
+                    2740903.4000725984
+                ]
+            },
+            "condition": 0,
+            "groupId": "253303",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 6013,
+            "name": "儒林公園",
+            "division": 50,
+            "contact": "江俊霖",
+            "phone": "04-8960240#101",
+            "address": "彰化縣二林鎮仁愛路236巷11號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13399754.977783993,
+                    2741696.6696284655
+                ]
+            },
+            "condition": 0,
+            "groupId": "253303",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 6014,
+            "name": "長青公園",
+            "division": 50,
+            "contact": "江俊霖",
+            "phone": "04-8960240#101",
+            "address": "彰化縣二林鎮仁愛路443號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13399444.953002134,
+                    2741664.2805568683
+                ]
+            },
+            "condition": 0,
+            "groupId": "253303",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 6015,
+            "name": "二林鎮立圖書館",
+            "division": 50,
+            "contact": "江俊霖",
+            "phone": "04-8960240#101",
+            "address": "彰化縣二林鎮斗苑路四段626號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13400069.789303957,
+                    2741221.9206970194
+                ]
+            },
+            "condition": 0,
+            "groupId": "253303",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 6016,
+            "name": "彰化縣芳苑鄉新寶國民小學",
+            "division": 50,
+            "contact": "江俊霖",
+            "phone": "04-8960240#101",
+            "address": "彰化縣芳苑鄉芳漢路新寶段129巷100號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13396755.474104568,
+                    2750760.8032426806
+                ]
+            },
+            "condition": 0,
+            "groupId": "253303",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 6017,
+            "name": "王功福海宮",
+            "division": 50,
+            "contact": "江俊霖",
+            "phone": "04-8960240#101",
+            "address": "彰化縣芳苑鄉芳漢路王功段2號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13396266.336262025,
+                    2749108.0930242673
+                ]
+            },
+            "condition": 0,
+            "groupId": "253303",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 6018,
+            "name": "芳苑新街玄武宮",
+            "division": 50,
+            "contact": "江俊霖",
+            "phone": "04-8960240#101",
+            "address": "彰化縣芳苑鄉新東路20號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13392428.374177944,
+                    2741686.806783818
+                ]
+            },
+            "condition": 0,
+            "groupId": "253303",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 6019,
+            "name": "大城美豐永慶宮",
+            "division": 50,
+            "contact": "江俊霖",
+            "phone": "04-8960240#101",
+            "address": "彰化縣大城鄉順元路10之7號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13391681.42039472,
+                    2739357.278540589
+                ]
+            },
+            "condition": 0,
+            "groupId": "253303",
+            "interfaceNumber": "",
+            "meterSetting": 0
+        },
+        {
+            "id": 6020,
+            "name": "大城頂庄全安宮",
+            "division": 50,
+            "contact": "江俊霖",
+            "phone": "04-8960240#101",
+            "address": "彰化縣大城鄉東厝路40 號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13390148.884964969,
+                    2734866.971609593
+                ]
+            },
+            "condition": 0,
+            "groupId": "253303",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 6021,
+            "name": "儒孝重劃區公園",
+            "division": 50,
+            "contact": "江俊霖",
+            "phone": "04-8960240#101",
+            "address": "彰化縣二林鎮永樂街48號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13400934.964386405,
+                    2740951.4943257007
+                ]
+            },
+            "condition": 0,
+            "groupId": "253303",
             "interfaceNumber": "",
             "meterSetting": 0.5
         }
