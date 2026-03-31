@@ -1,6 +1,6 @@
 {
     "no": "202603300085",
-    "endDate": "2026-03-31T16:00:00.000+0000",
+    "endDate": "2026-04-07T16:00:00.000+0000",
     "actualEndTime": null,
     "waterOffArea": {
         "type": "MultiPolygon",
@@ -80,11 +80,11 @@
         ]
     },
     "startTime": "09:00:00",
-    "lastUpdatedTime": "2026-03-30T08:31:16.893+0000",
+    "lastUpdatedTime": "2026-03-31T08:38:44.722+0000",
     "endTime": "16:00:00",
     "category": 3,
     "type": 2,
-    "startDate": "2026-03-31T16:00:00.000+0000",
+    "startDate": "2026-04-07T16:00:00.000+0000",
     "pressureDownArea": null,
     "isSchedule": false
 }
