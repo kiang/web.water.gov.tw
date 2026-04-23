@@ -37,6 +37,139 @@
             "groupId": "168799",
             "interfaceNumber": "",
             "meterSetting": 0.5
+        },
+        {
+            "id": 5012,
+            "name": "基隆女中信綠里里民活動中心",
+            "division": 44,
+            "contact": "x",
+            "phone": "2425-2103",
+            "address": "基隆市信義區東信路322-1號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    121.76005200000002,
+                    25.128784999999983
+                ]
+            },
+            "condition": 0,
+            "groupId": "259976",
+            "interfaceNumber": "",
+            "meterSetting": 0
+        },
+        {
+            "id": 5018,
+            "name": "東明里里民活動中心",
+            "division": 44,
+            "contact": "基隆所",
+            "phone": "2425-2103",
+            "address": "基隆巿東信路35巷47號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    121.76692754030226,
+                    25.127056068096785
+                ]
+            },
+            "condition": 0,
+            "groupId": "259976",
+            "interfaceNumber": "",
+            "meterSetting": 0
+        },
+        {
+            "id": 6037,
+            "name": "入船里民活動中心",
+            "division": 44,
+            "contact": "基隆所",
+            "phone": "2425-2103",
+            "address": "基隆市中船路11號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    121.75001499999999,
+                    25.137221999999984
+                ]
+            },
+            "condition": 0,
+            "groupId": "259976",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 6038,
+            "name": "智仁里民活動中心",
+            "division": 44,
+            "contact": "基隆所",
+            "phone": "2425-2103",
+            "address": "基隆市延平街7-1號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    121.748626,
+                    25.12714999999998
+                ]
+            },
+            "condition": 0,
+            "groupId": "259976",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 6039,
+            "name": "信義區公所",
+            "division": 44,
+            "contact": "基隆所",
+            "phone": "2425-2103",
+            "address": "基隆市信二路179號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    121.75127599999999,
+                    25.129480999999984
+                ]
+            },
+            "condition": 0,
+            "groupId": "259976",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 6040,
+            "name": "全聯義二店",
+            "division": 44,
+            "contact": "基隆所",
+            "phone": "2425-2103",
+            "address": "基隆市信四路11號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    121.746421,
+                    25.133266000000003
+                ]
+            },
+            "condition": 0,
+            "groupId": "259976",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 6041,
+            "name": "正砂里民活動中心",
+            "division": 44,
+            "contact": "基隆所",
+            "phone": "2425-2103",
+            "address": "基隆市中正路211號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    121.760955,
+                    25.143231999999983
+                ]
+            },
+            "condition": 0,
+            "groupId": "259976",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
         }
     ]
 }
