@@ -16291,7 +16291,7 @@
         "startTime": "11:56:00",
         "lastUpdatedTime": "2026-04-24T03:57:01.431+0000",
         "endTime": "20:00:00",
-        "category": 2,
+        "category": 1,
         "type": 1,
         "startDate": "2026-04-23T16:00:00.000+0000",
         "pressureDownArea": {
@@ -16819,7 +16819,7 @@
         "startTime": "14:05:00",
         "lastUpdatedTime": "2026-04-24T06:05:53.779+0000",
         "endTime": "18:30:00",
-        "category": 2,
+        "category": 1,
         "type": 1,
         "startDate": "2026-04-23T16:00:00.000+0000",
         "pressureDownArea": null,
@@ -17476,6 +17476,48 @@
         "isSchedule": false
     },
     {
+        "no": "202604240045",
+        "endDate": "2026-04-24T16:00:00.000+0000",
+        "actualEndTime": null,
+        "waterOffArea": {
+            "type": "MultiPolygon",
+            "coordinates": [
+                [
+                    [
+                        [
+                            13418057.871441565,
+                            2764619.3457760173
+                        ],
+                        [
+                            13418035.179209728,
+                            2764768.6368405083
+                        ],
+                        [
+                            13418060.737833772,
+                            2764771.5032308917
+                        ],
+                        [
+                            13418081.996885909,
+                            2764627.467202983
+                        ],
+                        [
+                            13418057.871441565,
+                            2764619.3457760173
+                        ]
+                    ]
+                ]
+            ]
+        },
+        "startTime": "09:00:00",
+        "lastUpdatedTime": "2026-04-24T12:36:00.267+0000",
+        "endTime": "17:00:00",
+        "category": 3,
+        "type": 2,
+        "startDate": "2026-04-24T16:00:00.000+0000",
+        "pressureDownArea": null,
+        "isSchedule": true
+    },
+    {
         "no": "202604240046",
         "endDate": "2026-04-23T16:00:00.000+0000",
         "actualEndTime": null,
@@ -17563,7 +17605,7 @@
         "startTime": "16:33:00",
         "lastUpdatedTime": "2026-04-24T08:33:20.519+0000",
         "endTime": "18:30:00",
-        "category": 2,
+        "category": 1,
         "type": 1,
         "startDate": "2026-04-23T16:00:00.000+0000",
         "pressureDownArea": null,
@@ -17652,6 +17694,56 @@
         "category": 3,
         "type": 2,
         "startDate": "2026-04-27T16:00:00.000+0000",
+        "pressureDownArea": null,
+        "isSchedule": false
+    },
+    {
+        "no": "202604240048",
+        "endDate": "2026-04-24T16:00:00.000+0000",
+        "actualEndTime": null,
+        "waterOffArea": {
+            "type": "MultiPolygon",
+            "coordinates": [
+                [
+                    [
+                        [
+                            13392034.25480965,
+                            2585833.3489363985
+                        ],
+                        [
+                            13392063.4495606,
+                            2585842.903564934
+                        ],
+                        [
+                            13392085.212816356,
+                            2585779.206047438
+                        ],
+                        [
+                            13391892.527831852,
+                            2585705.4230907345
+                        ],
+                        [
+                            13391885.096446004,
+                            2585723.4707082384
+                        ],
+                        [
+                            13392050.710031588,
+                            2585787.6990364064
+                        ],
+                        [
+                            13392034.25480965,
+                            2585833.3489363985
+                        ]
+                    ]
+                ]
+            ]
+        },
+        "startTime": "09:00:00",
+        "lastUpdatedTime": "2026-04-24T11:28:14.793+0000",
+        "endTime": "17:00:00",
+        "category": 3,
+        "type": 1,
+        "startDate": "2026-04-24T16:00:00.000+0000",
         "pressureDownArea": null,
         "isSchedule": false
     }
