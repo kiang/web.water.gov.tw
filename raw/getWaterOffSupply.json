@@ -170,6 +170,120 @@
             "groupId": "259976",
             "interfaceNumber": "",
             "meterSetting": 0.5
+        },
+        {
+            "id": 6042,
+            "name": "新北市新莊區豐年街59號",
+            "division": 77,
+            "contact": "趙彧劼",
+            "phone": "02-29966681",
+            "address": "新北市新莊區豐年街59號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13519414.190869026,
+                    2879530.5190897183
+                ]
+            },
+            "condition": 0,
+            "groupId": "262319",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 6043,
+            "name": "利濟街與新莊路口（慈祐宮）",
+            "division": 77,
+            "contact": "趙彧劼",
+            "phone": "02-29966681",
+            "address": "新北市新莊區利濟街與新莊路口",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13520071.30982318,
+                    2879954.7547749626
+                ]
+            },
+            "condition": 0,
+            "groupId": "262319",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 6044,
+            "name": "新莊路523號全安宮",
+            "division": 77,
+            "contact": "趙彧劼",
+            "phone": "02-29966681",
+            "address": "新北市新莊區新莊路523號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13519523.729247967,
+                    2879833.4907061993
+                ]
+            },
+            "condition": 0,
+            "groupId": "262319",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 6045,
+            "name": "中正路377巷16號（博登藥局）",
+            "division": 77,
+            "contact": "趙彧劼",
+            "phone": "02-29966681",
+            "address": "新北市新莊區中正路377巷16號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13519332.705001768,
+                    2879915.561924659
+                ]
+            },
+            "condition": 0,
+            "groupId": "262319",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 6046,
+            "name": "碧江街與武前街路口",
+            "division": 77,
+            "contact": "趙彧劼",
+            "phone": "02-29966681",
+            "address": "新北市新莊區碧江街與武前街路口",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13519780.43199374,
+                    2879737.168169502
+                ]
+            },
+            "condition": 0,
+            "groupId": "262319",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 6056,
+            "name": "泰豐街1巷口",
+            "division": 77,
+            "contact": "趙彧劼",
+            "phone": "2996-6681",
+            "address": "新莊區泰豐街1巷口",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13519590.186983973,
+                    2879572.5366874305
+                ]
+            },
+            "condition": 0,
+            "groupId": "262319",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
         }
     ]
 }
