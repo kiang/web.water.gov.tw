@@ -284,6 +284,44 @@
             "groupId": "262319",
             "interfaceNumber": "",
             "meterSetting": 0.5
+        },
+        {
+            "id": 6059,
+            "name": "台北神話社區旁",
+            "division": 79,
+            "contact": "黃春祥",
+            "phone": "29097480",
+            "address": "成泰路一段7巷13號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13517822.322150683,
+                    2883966.233757429
+                ]
+            },
+            "condition": 0,
+            "groupId": "264902",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 6060,
+            "name": "德音國小",
+            "division": 79,
+            "contact": "黃春祥",
+            "phone": "29097480",
+            "address": "五股區明德路2號旁",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13518032.27071032,
+                    2884513.492835878
+                ]
+            },
+            "condition": 0,
+            "groupId": "264902",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
         }
     ]
 }
