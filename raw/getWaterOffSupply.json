@@ -20,25 +20,6 @@
             "meterSetting": 0.5
         },
         {
-            "id": 3286,
-            "name": "北寧路31巷口",
-            "division": 239,
-            "contact": "總機",
-            "phone": "2425-2103 #302",
-            "address": "中正區北寧路31巷口",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    13555856.85257002,
-                    2894299.678891963
-                ]
-            },
-            "condition": 0,
-            "groupId": "267287",
-            "interfaceNumber": "",
-            "meterSetting": 0.5
-        },
-        {
             "id": 5010,
             "name": "123",
             "division": 235,
@@ -341,25 +322,6 @@
             "groupId": "266263",
             "interfaceNumber": "",
             "meterSetting": 0.5
-        },
-        {
-            "id": 6070,
-            "name": "中正區八斗街 1 號",
-            "division": 239,
-            "contact": "總機",
-            "phone": "2425-2103",
-            "address": "基隆市中正區八斗街1號",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    13558263.11249392,
-                    2892949.832067594
-                ]
-            },
-            "condition": 0,
-            "groupId": "267287",
-            "interfaceNumber": "",
-            "meterSetting": 0
         }
     ]
 }
