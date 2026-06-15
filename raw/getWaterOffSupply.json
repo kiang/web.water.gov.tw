@@ -39,6 +39,63 @@
             "meterSetting": 0.5
         },
         {
+            "id": 5467,
+            "name": "114泰山區大科路300號(大科里民活動 中心",
+            "division": 79,
+            "contact": "黃春祥股長",
+            "phone": "02-29097480#201",
+            "address": "泰山區大科路300號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13514735.543990476,
+                    2882693.10074668
+                ]
+            },
+            "condition": 0,
+            "groupId": "250563",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5468,
+            "name": "114泰山區泰林路三段22號(黎明技術學院",
+            "division": 79,
+            "contact": "黃春祥股長",
+            "phone": "02-29097480#201",
+            "address": "泰山區泰林路三段22號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13516369.825434815,
+                    2883840.5132267033
+                ]
+            },
+            "condition": 0,
+            "groupId": "250563",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5469,
+            "name": "114五股區登林路81號(新加坡花園城堡",
+            "division": 79,
+            "contact": "黃春祥股長",
+            "phone": "02-29097480#201",
+            "address": "五股區登林路81號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13517212.513980119,
+                    2884377.813005996
+                ]
+            },
+            "condition": 0,
+            "groupId": "250563",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
             "id": 5905,
             "name": "土庫國小",
             "division": 50,
@@ -567,44 +624,6 @@
             },
             "condition": 0,
             "groupId": "253303",
-            "interfaceNumber": "",
-            "meterSetting": 0.5
-        },
-        {
-            "id": 6059,
-            "name": "台北神話社區旁",
-            "division": 79,
-            "contact": "黃春祥",
-            "phone": "29097480",
-            "address": "成泰路一段7巷13號",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    13517822.322150683,
-                    2883966.233757429
-                ]
-            },
-            "condition": 0,
-            "groupId": "264902",
-            "interfaceNumber": "",
-            "meterSetting": 0.5
-        },
-        {
-            "id": 6060,
-            "name": "德音國小",
-            "division": 79,
-            "contact": "黃春祥",
-            "phone": "29097480",
-            "address": "五股區明德路2號旁",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    13518032.27071032,
-                    2884513.492835878
-                ]
-            },
-            "condition": 0,
-            "groupId": "264902",
             "interfaceNumber": "",
             "meterSetting": 0.5
         },
