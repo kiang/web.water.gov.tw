@@ -39,6 +39,500 @@
             "meterSetting": 0.5
         },
         {
+            "id": 5436,
+            "name": "龜山區光峰路2號(龜山自來水公司)",
+            "division": 33,
+            "contact": "蔡順傑",
+            "phone": "03-3294999#301",
+            "address": "龜山區光峯路2號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    121.34037673478815,
+                    24.996291253501912
+                ]
+            },
+            "condition": 0,
+            "groupId": "249042",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5437,
+            "name": "龜山區萬壽路二段108號(嶺頂里辦公處",
+            "division": 33,
+            "contact": "蔡順傑",
+            "phone": "03-3294999#301",
+            "address": "龜山區萬壽路二段108號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    121.361298859174,
+                    25.001800541650105
+                ]
+            },
+            "condition": 0,
+            "groupId": "249042",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5438,
+            "name": "龜山區文化七路118巷7號(大華市民活動中心",
+            "division": 33,
+            "contact": "蔡順傑",
+            "phone": "03-3294999#301",
+            "address": "龜山區文化七路118巷7號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    121.36593103430643,
+                    25.051611142605704
+                ]
+            },
+            "condition": 0,
+            "groupId": "249042",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5439,
+            "name": "龜山區忠義路二段491號(大崗市民活動中心",
+            "division": 33,
+            "contact": "蔡順傑",
+            "phone": "03-3294999#301",
+            "address": "龜山區忠義路二段491號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    121.35869622274187,
+                    25.051708337961013
+                ]
+            },
+            "condition": 0,
+            "groupId": "249042",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5440,
+            "name": "龜山區復興街250巷1-1號(公西市民活動中心",
+            "division": 33,
+            "contact": "蔡順傑",
+            "phone": "03-3294999#301",
+            "address": "龜山區復興街250巷1-1號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    121.35885000228882,
+                    25.061430723907996
+                ]
+            },
+            "condition": 0,
+            "groupId": "249042",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5441,
+            "name": "龜山區文昌五街99號(文化市民活動中心",
+            "division": 33,
+            "contact": "蔡順傑",
+            "phone": "03-3294999#301",
+            "address": "龜山區文昌五街99號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    121.37084126494301,
+                    25.056363905219882
+                ]
+            },
+            "condition": 0,
+            "groupId": "249042",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5442,
+            "name": "龜山區樂安街1號(顯安巖顯應祖師廟",
+            "division": 33,
+            "contact": "蔡順傑",
+            "phone": "03-3294999#301",
+            "address": "龜山區樂安街1號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    121.3812053203583,
+                    25.05272402485661
+                ]
+            },
+            "condition": 0,
+            "groupId": "249042",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5443,
+            "name": "龜山區振興路749巷1弄18號(舊路老人活動中心",
+            "division": 33,
+            "contact": "蔡順傑",
+            "phone": "03-3294999#301",
+            "address": "333桃園市龜山區振興路749巷1弄16號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    121.3607025146485,
+                    25.01897830782538
+                ]
+            },
+            "condition": 0,
+            "groupId": "249042",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5445,
+            "name": "桃園區中山路291號(桃園服務所",
+            "division": 81,
+            "contact": "鄭薇珊",
+            "phone": "03-3346128#401",
+            "address": "桃園區中山路291號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    121.30450487136844,
+                    24.992074240610595
+                ]
+            },
+            "condition": 0,
+            "groupId": "249042",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5447,
+            "name": "桃園區寶山里寶山公園",
+            "division": 81,
+            "contact": "鄭薇珊",
+            "phone": "03-3346128#401",
+            "address": "桃園區寶山里民有三街509號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    121.31406784057619,
+                    25.013106003741196
+                ]
+            },
+            "condition": 0,
+            "groupId": "249042",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5448,
+            "name": "桃園區寶民里寶山街227號寶山名邸",
+            "division": 81,
+            "contact": "鄭薇珊",
+            "phone": "03-3346128#401",
+            "address": "桃園區寶民里寶山街227號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    121.315596,
+                    25.011868999999994
+                ]
+            },
+            "condition": 0,
+            "groupId": "249042",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5449,
+            "name": "桃園區寶慶里大興西路二段172號(竹城",
+            "division": 81,
+            "contact": "鄭薇珊",
+            "phone": "03-3346128#401",
+            "address": "桃園區寶慶里大興西路二段172號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    121.29608800000001,
+                    25.01026999999997
+                ]
+            },
+            "condition": 0,
+            "groupId": "249042",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5451,
+            "name": "桃園區中寧里中寧公園",
+            "division": 81,
+            "contact": "鄭薇珊",
+            "phone": "03-3346128#401",
+            "address": "桃園區同德二街183號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    121.29937648816852,
+                    25.009955844098027
+                ]
+            },
+            "condition": 1,
+            "groupId": "249042",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5452,
+            "name": "桃園區寶安里寶慶公園",
+            "division": 81,
+            "contact": "鄭薇珊",
+            "phone": "03-3346128#401",
+            "address": "桃園區寶安里寶慶公園",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    121.29250288031474,
+                    25.01705655273007
+                ]
+            },
+            "condition": 1,
+            "groupId": "249042",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5453,
+            "name": "桃園區瑞慶里瑞慶公園",
+            "division": 81,
+            "contact": "鄭薇珊",
+            "phone": "03-3346128#401",
+            "address": "桃園區瑞慶里永安北路498號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    121.29235982894896,
+                    25.019101454732912
+                ]
+            },
+            "condition": 1,
+            "groupId": "249042",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5454,
+            "name": "桃園區明德里瑞明公園",
+            "division": 81,
+            "contact": "鄭薇珊",
+            "phone": "03-3346128#401",
+            "address": "330桃園市桃園區莊一街83號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    121.29365891218188,
+                    25.021745841645185
+                ]
+            },
+            "condition": 1,
+            "groupId": "249042",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5455,
+            "name": "桃園區同德里同德環保公園",
+            "division": 81,
+            "contact": "鄭薇珊",
+            "phone": "03-3346128#401",
+            "address": "同德國小",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    121.29526734352113,
+                    25.01481392690813
+                ]
+            },
+            "condition": 0,
+            "groupId": "249042",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5456,
+            "name": "桃園區中正里向陽公園(力行路加油站對面)",
+            "division": 81,
+            "contact": "鄭薇珊",
+            "phone": "03-3346128#401",
+            "address": "桃園區力行路加油站對面",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    121.29644930362701,
+                    24.99846128941056
+                ]
+            },
+            "condition": 0,
+            "groupId": "249042",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5457,
+            "name": "桃園區中埔里中路兒二公園永安路765巷天台街口",
+            "division": 81,
+            "contact": "鄭薇珊",
+            "phone": "03-3346128#401",
+            "address": "桃園區中埔里中路兒二公園永安路765巷天台街口",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    121.29040718100443,
+                    25.007427879798712
+                ]
+            },
+            "condition": 1,
+            "groupId": "249042",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5458,
+            "name": "桃園區自強里新埔十街莊敬路一段口綠地",
+            "division": 81,
+            "contact": "鄭薇珊",
+            "phone": "03-3346128#401",
+            "address": "桃園區自強里新埔十街",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    121.29792451858522,
+                    25.02432536030612
+                ]
+            },
+            "condition": 0,
+            "groupId": "249042",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5459,
+            "name": "桃園區經國里同新公園",
+            "division": 81,
+            "contact": "鄭薇珊",
+            "phone": "03-3346128#401",
+            "address": "桃園區經國里經國路521巷",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    121.30562782374908,
+                    25.012324953062983
+                ]
+            },
+            "condition": 1,
+            "groupId": "249042",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5460,
+            "name": "桃園市蘆竹區山林路三段102巷9號(坑子市民活動中心",
+            "division": 81,
+            "contact": "鄭薇珊",
+            "phone": "03-3346128#401",
+            "address": "桃園市蘆竹區山林路三段102巷9號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    121.31625000000001,
+                    25.077560000000013
+                ]
+            },
+            "condition": 0,
+            "groupId": "249042",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5461,
+            "name": "蘆竹區山林路2段471號(外社市民活動桃園市中心",
+            "division": 81,
+            "contact": "鄭薇珊",
+            "phone": "03-3346128#401",
+            "address": "蘆竹區山林路2段471號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    121.30547400000003,
+                    25.08265699999999
+                ]
+            },
+            "condition": 0,
+            "groupId": "249042",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5462,
+            "name": "桃園市蘆竹區山外路117號(彎頭仔市民活動中心",
+            "division": 81,
+            "contact": "鄭薇珊",
+            "phone": "03-3346128#401",
+            "address": "桃園市蘆竹區山外路117號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    121.28811500000002,
+                    25.082984999999976
+                ]
+            },
+            "condition": 0,
+            "groupId": "249042",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5464,
+            "name": "桃園市蘆竹區南山路三段125號",
+            "division": 81,
+            "contact": "鄭薇珊",
+            "phone": "03-3346128#401",
+            "address": "桃園市蘆竹區南山路三段125號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    121.285445,
+                    25.08028099999997
+                ]
+            },
+            "condition": 0,
+            "groupId": "249042",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5465,
+            "name": "桃園市蘆竹區南山路二段46號",
+            "division": 81,
+            "contact": "鄭薇珊",
+            "phone": "03-3346128#401",
+            "address": "桃園市蘆竹區南山路二段46號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    121.28903800000002,
+                    25.06187900000002
+                ]
+            },
+            "condition": 0,
+            "groupId": "249042",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
             "id": 5467,
             "name": "114泰山區大科路300號(大科里民活動 中心",
             "division": 79,
@@ -244,6 +738,25 @@
             },
             "condition": 0,
             "groupId": "253303",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 5957,
+            "name": "蘆竹區瓦窯里南山路與仁愛路口公園-婦幼館旁",
+            "division": 81,
+            "contact": "鄭薇珊",
+            "phone": "03-3346128#401",
+            "address": "蘆竹區南山路與仁愛路口公園-婦幼館旁",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    121.29275321960448,
+                    25.050963171637957
+                ]
+            },
+            "condition": 0,
+            "groupId": "249042",
             "interfaceNumber": "",
             "meterSetting": 0.5
         },
