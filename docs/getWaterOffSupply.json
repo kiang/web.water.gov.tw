@@ -52,9 +52,9 @@
                     24.996291253501912
                 ]
             },
-            "condition": 0,
+            "condition": 1,
             "groupId": "249042",
-            "interfaceNumber": "",
+            "interfaceNumber": "021140519035-2",
             "meterSetting": 0.5
         },
         {
@@ -71,9 +71,9 @@
                     25.001800541650105
                 ]
             },
-            "condition": 0,
+            "condition": 1,
             "groupId": "249042",
-            "interfaceNumber": "",
+            "interfaceNumber": "021140519036-2",
             "meterSetting": 0.5
         },
         {
@@ -90,9 +90,9 @@
                     25.051611142605704
                 ]
             },
-            "condition": 0,
+            "condition": 1,
             "groupId": "249042",
-            "interfaceNumber": "",
+            "interfaceNumber": "021140519009-2",
             "meterSetting": 0.5
         },
         {
@@ -109,9 +109,9 @@
                     25.051708337961013
                 ]
             },
-            "condition": 0,
+            "condition": 1,
             "groupId": "249042",
-            "interfaceNumber": "",
+            "interfaceNumber": "021140519010-2",
             "meterSetting": 0.5
         },
         {
@@ -130,7 +130,7 @@
             },
             "condition": 0,
             "groupId": "249042",
-            "interfaceNumber": "",
+            "interfaceNumber": "021140519037-2",
             "meterSetting": 0.5
         },
         {
@@ -147,9 +147,9 @@
                     25.056363905219882
                 ]
             },
-            "condition": 0,
+            "condition": 1,
             "groupId": "249042",
-            "interfaceNumber": "",
+            "interfaceNumber": "021140519011-2",
             "meterSetting": 0.5
         },
         {
@@ -166,9 +166,9 @@
                     25.05272402485661
                 ]
             },
-            "condition": 0,
+            "condition": 1,
             "groupId": "249042",
-            "interfaceNumber": "",
+            "interfaceNumber": "021140519012-2",
             "meterSetting": 0.5
         },
         {
@@ -185,9 +185,9 @@
                     25.01897830782538
                 ]
             },
-            "condition": 0,
+            "condition": 1,
             "groupId": "249042",
-            "interfaceNumber": "",
+            "interfaceNumber": "021140519013-2",
             "meterSetting": 0.5
         },
         {
@@ -204,9 +204,9 @@
                     24.992074240610595
                 ]
             },
-            "condition": 0,
+            "condition": 1,
             "groupId": "249042",
-            "interfaceNumber": "",
+            "interfaceNumber": "021140519014-2",
             "meterSetting": 0.5
         },
         {
@@ -223,9 +223,9 @@
                     25.013106003741196
                 ]
             },
-            "condition": 0,
+            "condition": 1,
             "groupId": "249042",
-            "interfaceNumber": "",
+            "interfaceNumber": "021140519016-2",
             "meterSetting": 0.5
         },
         {
@@ -242,9 +242,9 @@
                     25.011868999999994
                 ]
             },
-            "condition": 0,
+            "condition": 1,
             "groupId": "249042",
-            "interfaceNumber": "",
+            "interfaceNumber": "021140519017-2",
             "meterSetting": 0.5
         },
         {
@@ -261,9 +261,9 @@
                     25.01026999999997
                 ]
             },
-            "condition": 0,
+            "condition": 1,
             "groupId": "249042",
-            "interfaceNumber": "",
+            "interfaceNumber": "021140519018-2",
             "meterSetting": 0.5
         },
         {
@@ -282,7 +282,7 @@
             },
             "condition": 1,
             "groupId": "249042",
-            "interfaceNumber": "",
+            "interfaceNumber": "021140519020-2",
             "meterSetting": 0.5
         },
         {
@@ -301,7 +301,7 @@
             },
             "condition": 1,
             "groupId": "249042",
-            "interfaceNumber": "",
+            "interfaceNumber": "021140519021-2",
             "meterSetting": 0.5
         },
         {
@@ -320,7 +320,7 @@
             },
             "condition": 1,
             "groupId": "249042",
-            "interfaceNumber": "",
+            "interfaceNumber": "021140519022-2",
             "meterSetting": 0.5
         },
         {
@@ -339,7 +339,7 @@
             },
             "condition": 1,
             "groupId": "249042",
-            "interfaceNumber": "",
+            "interfaceNumber": "021140519023-2",
             "meterSetting": 0.5
         },
         {
@@ -356,9 +356,9 @@
                     25.01481392690813
                 ]
             },
-            "condition": 0,
+            "condition": 1,
             "groupId": "249042",
-            "interfaceNumber": "",
+            "interfaceNumber": "021140519024-2",
             "meterSetting": 0.5
         },
         {
@@ -375,9 +375,9 @@
                     24.99846128941056
                 ]
             },
-            "condition": 0,
+            "condition": 1,
             "groupId": "249042",
-            "interfaceNumber": "",
+            "interfaceNumber": "021140519025-2",
             "meterSetting": 0.5
         },
         {
@@ -396,7 +396,7 @@
             },
             "condition": 1,
             "groupId": "249042",
-            "interfaceNumber": "",
+            "interfaceNumber": "021140519026-2",
             "meterSetting": 0.5
         },
         {
@@ -413,9 +413,9 @@
                     25.02432536030612
                 ]
             },
-            "condition": 0,
+            "condition": 1,
             "groupId": "249042",
-            "interfaceNumber": "",
+            "interfaceNumber": "021140519027-2",
             "meterSetting": 0.5
         },
         {
@@ -434,7 +434,7 @@
             },
             "condition": 1,
             "groupId": "249042",
-            "interfaceNumber": "",
+            "interfaceNumber": "021140519028-2",
             "meterSetting": 0.5
         },
         {
@@ -451,9 +451,9 @@
                     25.077560000000013
                 ]
             },
-            "condition": 0,
+            "condition": 1,
             "groupId": "249042",
-            "interfaceNumber": "",
+            "interfaceNumber": "021140519029-2",
             "meterSetting": 0.5
         },
         {
@@ -470,9 +470,9 @@
                     25.08265699999999
                 ]
             },
-            "condition": 0,
+            "condition": 1,
             "groupId": "249042",
-            "interfaceNumber": "",
+            "interfaceNumber": "021140519030-2",
             "meterSetting": 0.5
         },
         {
@@ -489,9 +489,9 @@
                     25.082984999999976
                 ]
             },
-            "condition": 0,
+            "condition": 1,
             "groupId": "249042",
-            "interfaceNumber": "",
+            "interfaceNumber": "021140519031-2",
             "meterSetting": 0.5
         },
         {
@@ -508,9 +508,9 @@
                     25.08028099999997
                 ]
             },
-            "condition": 0,
+            "condition": 1,
             "groupId": "249042",
-            "interfaceNumber": "",
+            "interfaceNumber": "021140519033-2",
             "meterSetting": 0.5
         },
         {
@@ -527,9 +527,9 @@
                     25.06187900000002
                 ]
             },
-            "condition": 0,
+            "condition": 1,
             "groupId": "249042",
-            "interfaceNumber": "",
+            "interfaceNumber": "021140519034-2",
             "meterSetting": 0.5
         },
         {
@@ -755,9 +755,9 @@
                     25.050963171637957
                 ]
             },
-            "condition": 0,
+            "condition": 1,
             "groupId": "249042",
-            "interfaceNumber": "",
+            "interfaceNumber": "021140519032-2",
             "meterSetting": 0.5
         },
         {
