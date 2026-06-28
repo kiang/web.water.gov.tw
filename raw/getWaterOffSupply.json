@@ -204,7 +204,7 @@
                     2874771.1547869383
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "249042",
             "interfaceNumber": "021140519014-2",
             "meterSetting": 0.5
@@ -318,7 +318,7 @@
                     2878090.990104184
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "249042",
             "interfaceNumber": "021140519022-2",
             "meterSetting": 0.5
@@ -413,7 +413,7 @@
                     2878732.742654162
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "249042",
             "interfaceNumber": "021140519027-2",
             "meterSetting": 0.5
