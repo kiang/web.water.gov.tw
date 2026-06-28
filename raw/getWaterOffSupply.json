@@ -71,7 +71,7 @@
                     2875965.781944769
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "249042",
             "interfaceNumber": "021140519036-2",
             "meterSetting": 0.5
@@ -90,7 +90,7 @@
                     2882085.222935532
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "249042",
             "interfaceNumber": "021140519009-2",
             "meterSetting": 0.5
@@ -109,7 +109,7 @@
                     2882097.1662212024
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "249042",
             "interfaceNumber": "021140519010-2",
             "meterSetting": 0.5
@@ -128,7 +128,7 @@
                     2883291.8929037545
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "249042",
             "interfaceNumber": "021140519037-2",
             "meterSetting": 0.5
@@ -185,7 +185,7 @@
                     2878075.8619362614
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "249042",
             "interfaceNumber": "021140519013-2",
             "meterSetting": 0.5
@@ -223,7 +223,7 @@
                     2877354.48748182
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "249042",
             "interfaceNumber": "021140519016-2",
             "meterSetting": 0.5
@@ -242,7 +242,7 @@
                     2877202.5339974966
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "249042",
             "interfaceNumber": "021140519017-2",
             "meterSetting": 0.5
@@ -375,7 +375,7 @@
                     2875555.629609779
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "249042",
             "interfaceNumber": "021140519025-2",
             "meterSetting": 0.5
@@ -432,7 +432,7 @@
                     2877258.543073273
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "249042",
             "interfaceNumber": "021140519028-2",
             "meterSetting": 0.5
@@ -451,7 +451,7 @@
                     2885274.133661445
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "249042",
             "interfaceNumber": "021140519029-2",
             "meterSetting": 0.5
@@ -489,7 +489,7 @@
                     2885940.908938792
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "249042",
             "interfaceNumber": "021140519031-2",
             "meterSetting": 0.5
@@ -527,7 +527,7 @@
                     2883346.981195483
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "249042",
             "interfaceNumber": "021140519034-2",
             "meterSetting": 0.5
@@ -755,7 +755,7 @@
                     2882005.6010356243
                 ]
             },
-            "condition": 1,
+            "condition": 0,
             "groupId": "249042",
             "interfaceNumber": "021140519032-2",
             "meterSetting": 0.5
