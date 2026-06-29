@@ -1288,10 +1288,10 @@
         ]
     },
     "startTime": "09:00:00",
-    "lastUpdatedTime": "2026-06-29T03:17:17.372+0000",
+    "lastUpdatedTime": "2026-06-29T05:37:27.754+0000",
     "endTime": "17:00:00",
     "category": 3,
-    "type": 1,
+    "type": 2,
     "startDate": "2026-07-01T16:00:00.000+0000",
     "pressureDownArea": null,
     "isSchedule": false
