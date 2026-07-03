@@ -1139,6 +1139,63 @@
             "groupId": "253303",
             "interfaceNumber": "",
             "meterSetting": 0.5
+        },
+        {
+            "id": 6091,
+            "name": "新竹芎林福昌宮",
+            "division": 22,
+            "contact": "曾金城",
+            "phone": "5516814-211",
+            "address": "新竹縣芎林鄉石潭村福昌街300號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13480726.660316698,
+                    2844956.574549317
+                ]
+            },
+            "condition": 0,
+            "groupId": "273949",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 6092,
+            "name": "秀湖派出所",
+            "division": 22,
+            "contact": "曾金城",
+            "phone": "5516814-211",
+            "address": "新竹縣芎林鄉秀湖村五和街5號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13482683.54564535,
+                    2843119.4813373946
+                ]
+            },
+            "condition": 0,
+            "groupId": "273949",
+            "interfaceNumber": "",
+            "meterSetting": 0
+        },
+        {
+            "id": 6093,
+            "name": "福昌街",
+            "division": 22,
+            "contact": "曾金城",
+            "phone": "5516814-211",
+            "address": "芎林鄉永興村福昌街26號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13532305.544500344,
+                    2747965.332113383
+                ]
+            },
+            "condition": 0,
+            "groupId": "273949",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
         }
     ]
 }
