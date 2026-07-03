@@ -1141,6 +1141,120 @@
             "meterSetting": 0.5
         },
         {
+            "id": 6079,
+            "name": "1150703中山高中",
+            "division": 7,
+            "contact": "林宏勳",
+            "phone": "07-3513332",
+            "address": "楠梓區藍昌路416號 側門消防栓旁",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13390867.786236513,
+                    2599337.04076199
+                ]
+            },
+            "condition": 0,
+            "groupId": "271532",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 6081,
+            "name": "1150703援中國小",
+            "division": 7,
+            "contact": "林宏勳",
+            "phone": "07-3513332",
+            "address": "楠梓區大學西路567號(大學南路全家對面)",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13389327.347122915,
+                    2599293.5915013533
+                ]
+            },
+            "condition": 0,
+            "groupId": "271532",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 6082,
+            "name": "1150703隆昌兒童公園",
+            "division": 7,
+            "contact": "林宏勳",
+            "phone": "07-3513332",
+            "address": "楠梓區後昌路837巷51號對面",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13391034.988111684,
+                    2597088.329619464
+                ]
+            },
+            "condition": 0,
+            "groupId": "271532",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 6084,
+            "name": "1150703翠屏里德惠路活動中心廣場",
+            "division": 7,
+            "contact": "林宏勳",
+            "phone": "07-3513332",
+            "address": "楠梓區翠屏里德惠路55號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13391975.081211435,
+                    2599010.44995369
+                ]
+            },
+            "condition": 0,
+            "groupId": "271532",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 6085,
+            "name": "1150703廣昌里活動中心",
+            "division": 7,
+            "contact": "林宏勳",
+            "phone": "07-3513332",
+            "address": "高雄市楠梓區廣昌里廣昌街175巷37號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13390074.412225628,
+                    2596689.2585247285
+                ]
+            },
+            "condition": 0,
+            "groupId": "271532",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
+            "id": 6086,
+            "name": "1150703楠梓派出所旁",
+            "division": 7,
+            "contact": "林宏勳",
+            "phone": "07-3513332",
+            "address": "楠梓區東寧里旗楠路25號旁人行道",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13394926.828829309,
+                    2599568.4100008444
+                ]
+            },
+            "condition": 0,
+            "groupId": "271532",
+            "interfaceNumber": "",
+            "meterSetting": 0.5
+        },
+        {
             "id": 6091,
             "name": "新竹芎林福昌宮",
             "division": 22,
