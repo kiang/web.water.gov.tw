@@ -3071,7 +3071,7 @@
         "startTime": "08:00:00",
         "lastUpdatedTime": "2026-07-03T10:12:21.896+0000",
         "endTime": "18:30:00",
-        "category": 2,
+        "category": 1,
         "type": 2,
         "startDate": "2026-07-03T16:00:00.000+0000",
         "pressureDownArea": null,
@@ -4128,80 +4128,6 @@
         "startDate": "2026-07-05T16:00:00.000+0000",
         "pressureDownArea": null,
         "isSchedule": true
-    },
-    {
-        "no": "202607030096",
-        "endDate": "2026-07-03T16:00:00.000+0000",
-        "actualEndTime": null,
-        "waterOffArea": {
-            "type": "MultiPolygon",
-            "coordinates": [
-                [
-                    [
-                        [
-                            13434253.802839484,
-                            2743183.11863765
-                        ],
-                        [
-                            13434272.389577808,
-                            2743142.212884232
-                        ],
-                        [
-                            13434224.691080665,
-                            2743123.327563767
-                        ],
-                        [
-                            13434234.320354735,
-                            2743103.919724554
-                        ],
-                        [
-                            13434245.218602907,
-                            2743028.6770248353
-                        ],
-                        [
-                            13434290.603088453,
-                            2742902.8992976276
-                        ],
-                        [
-                            13434317.47548121,
-                            2742917.4551770375
-                        ],
-                        [
-                            13434319.490910664,
-                            2743012.0310704336
-                        ],
-                        [
-                            13434355.320767673,
-                            2743024.9447480636
-                        ],
-                        [
-                            13434361.217764974,
-                            2743092.125729955
-                        ],
-                        [
-                            13434335.91292846,
-                            2743128.627396782
-                        ],
-                        [
-                            13434272.613514414,
-                            2743196.1069608154
-                        ],
-                        [
-                            13434253.802839484,
-                            2743183.11863765
-                        ]
-                    ]
-                ]
-            ]
-        },
-        "startTime": "23:00:00",
-        "lastUpdatedTime": "2026-07-03T14:54:07.866+0000",
-        "endTime": "09:00:00",
-        "category": 1,
-        "type": 1,
-        "startDate": "2026-07-02T16:00:00.000+0000",
-        "pressureDownArea": null,
-        "isSchedule": false
     },
     {
         "no": "202606240002",
@@ -22379,7 +22305,7 @@
         "startTime": "21:00:00",
         "lastUpdatedTime": "2026-06-29T09:27:35.973+0000",
         "endTime": "20:00:00",
-        "category": 2,
+        "category": 1,
         "type": 1,
         "startDate": "2026-07-02T16:00:00.000+0000",
         "pressureDownArea": {
@@ -26544,7 +26470,7 @@
     {
         "no": "202607040007",
         "endDate": "2026-07-03T16:00:00.000+0000",
-        "actualEndTime": null,
+        "actualEndTime": "2026-07-04T11:44:08.554+0000",
         "waterOffArea": {
             "type": "MultiPolygon",
             "coordinates": [
@@ -26615,9 +26541,9 @@
             ]
         },
         "startTime": "09:00:00",
-        "lastUpdatedTime": "2026-07-04T07:32:29.634+0000",
+        "lastUpdatedTime": "2026-07-04T11:44:08.554+0000",
         "endTime": "21:00:00",
-        "category": 2,
+        "category": 1,
         "type": 1,
         "startDate": "2026-07-03T16:00:00.000+0000",
         "pressureDownArea": null,
@@ -29859,7 +29785,7 @@
         "startTime": "09:30:00",
         "lastUpdatedTime": "2026-07-04T02:18:11.760+0000",
         "endTime": "18:30:00",
-        "category": 2,
+        "category": 1,
         "type": 1,
         "startDate": "2026-07-03T16:00:00.000+0000",
         "pressureDownArea": null,
@@ -44063,9 +43989,9 @@
             ]
         },
         "startTime": "09:46:00",
-        "lastUpdatedTime": "2026-07-04T02:50:45.313+0000",
-        "endTime": "20:00:00",
-        "category": 2,
+        "lastUpdatedTime": "2026-07-04T11:36:02.204+0000",
+        "endTime": "21:00:00",
+        "category": 1,
         "type": 1,
         "startDate": "2026-07-03T16:00:00.000+0000",
         "pressureDownArea": null,
@@ -45105,7 +45031,7 @@
         "startTime": "13:14:00",
         "lastUpdatedTime": "2026-07-04T05:14:10.433+0000",
         "endTime": "20:00:00",
-        "category": 2,
+        "category": 1,
         "type": 1,
         "startDate": "2026-07-03T16:00:00.000+0000",
         "pressureDownArea": null,
@@ -45231,7 +45157,7 @@
         "startTime": "13:59:00",
         "lastUpdatedTime": "2026-07-04T05:59:15.772+0000",
         "endTime": "20:00:00",
-        "category": 2,
+        "category": 1,
         "type": 1,
         "startDate": "2026-07-03T16:00:00.000+0000",
         "pressureDownArea": {
@@ -45486,12 +45412,12 @@
     {
         "no": "202607040032",
         "endDate": "2026-07-03T16:00:00.000+0000",
-        "actualEndTime": null,
+        "actualEndTime": "2026-07-04T10:22:32.929+0000",
         "waterOffArea": null,
         "startTime": "16:00:00",
-        "lastUpdatedTime": "2026-07-04T07:44:48.438+0000",
+        "lastUpdatedTime": "2026-07-04T10:22:32.929+0000",
         "endTime": "19:00:00",
-        "category": 2,
+        "category": 1,
         "type": 1,
         "startDate": "2026-07-03T16:00:00.000+0000",
         "pressureDownArea": {
@@ -45649,7 +45575,7 @@
         "startTime": "16:00:00",
         "lastUpdatedTime": "2026-07-04T07:56:04.365+0000",
         "endTime": "21:00:00",
-        "category": 2,
+        "category": 1,
         "type": 1,
         "startDate": "2026-07-03T16:00:00.000+0000",
         "pressureDownArea": null,
@@ -45658,7 +45584,7 @@
     {
         "no": "202607040034",
         "endDate": "2026-07-03T16:00:00.000+0000",
-        "actualEndTime": null,
+        "actualEndTime": "2026-07-04T11:00:14.245+0000",
         "waterOffArea": {
             "type": "MultiPolygon",
             "coordinates": [
@@ -45713,9 +45639,9 @@
             ]
         },
         "startTime": "15:59:00",
-        "lastUpdatedTime": "2026-07-04T07:59:53.172+0000",
+        "lastUpdatedTime": "2026-07-04T11:00:14.245+0000",
         "endTime": "20:00:00",
-        "category": 2,
+        "category": 1,
         "type": 1,
         "startDate": "2026-07-03T16:00:00.000+0000",
         "pressureDownArea": null,
@@ -45785,7 +45711,7 @@
         "startTime": "16:06:00",
         "lastUpdatedTime": "2026-07-04T08:11:27.134+0000",
         "endTime": "18:30:00",
-        "category": 2,
+        "category": 1,
         "type": 1,
         "startDate": "2026-07-03T16:00:00.000+0000",
         "pressureDownArea": null,
@@ -45794,7 +45720,7 @@
     {
         "no": "202607040036",
         "endDate": "2026-07-03T16:00:00.000+0000",
-        "actualEndTime": null,
+        "actualEndTime": "2026-07-04T10:51:52.576+0000",
         "waterOffArea": {
             "type": "MultiPolygon",
             "coordinates": [
@@ -45917,9 +45843,9 @@
             ]
         },
         "startTime": "16:31:00",
-        "lastUpdatedTime": "2026-07-04T08:31:44.363+0000",
+        "lastUpdatedTime": "2026-07-04T10:51:52.576+0000",
         "endTime": "19:30:00",
-        "category": 2,
+        "category": 1,
         "type": 1,
         "startDate": "2026-07-03T16:00:00.000+0000",
         "pressureDownArea": null,
@@ -46039,10 +45965,64 @@
         "startTime": "17:32:00",
         "lastUpdatedTime": "2026-07-04T09:32:24.114+0000",
         "endTime": "21:00:00",
-        "category": 2,
+        "category": 1,
         "type": 1,
         "startDate": "2026-07-03T16:00:00.000+0000",
         "pressureDownArea": null,
+        "isSchedule": false
+    },
+    {
+        "no": "202607040039",
+        "endDate": "2026-07-04T16:00:00.000+0000",
+        "actualEndTime": null,
+        "waterOffArea": null,
+        "startTime": "19:00:00",
+        "lastUpdatedTime": "2026-07-04T10:47:47.634+0000",
+        "endTime": "02:00:00",
+        "category": 2,
+        "type": 1,
+        "startDate": "2026-07-03T16:00:00.000+0000",
+        "pressureDownArea": {
+            "type": "MultiPolygon",
+            "coordinates": [
+                [
+                    [
+                        [
+                            13426646.52703226,
+                            2774421.678052806
+                        ],
+                        [
+                            13427267.577887077,
+                            2773939.169311756
+                        ],
+                        [
+                            13427074.09665923,
+                            2772873.828230031
+                        ],
+                        [
+                            13426510.373575626,
+                            2772938.3219726468
+                        ],
+                        [
+                            13426345.556233386,
+                            2773084.0300578154
+                        ],
+                        [
+                            13426364.665490458,
+                            2773681.194341293
+                        ],
+                        [
+                            13426615.474489518,
+                            2774445.564624145
+                        ],
+                        [
+                            13426646.52703226,
+                            2774421.678052806
+                        ]
+                    ]
+                ]
+            ]
+        },
         "isSchedule": false
     }
 ]
