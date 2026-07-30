@@ -1,6 +1,6 @@
 {
     "no": "202607270040",
-    "endDate": "2026-07-30T16:00:00.000+0000",
+    "endDate": "2026-07-31T16:00:00.000+0000",
     "actualEndTime": null,
     "waterOffArea": {
         "type": "MultiPolygon",
@@ -84,7 +84,7 @@
         ]
     },
     "startTime": "10:00:00",
-    "lastUpdatedTime": "2026-07-27T02:32:16.190+0000",
+    "lastUpdatedTime": "2026-07-30T05:50:07.812+0000",
     "endTime": "16:00:00",
     "category": 2,
     "type": 2,
