@@ -1,5 +1,5 @@
 {
-    "no": "202608030106",
+    "no": "202608040007",
     "endDate": "2026-08-03T16:00:00.000+0000",
     "actualEndTime": null,
     "waterOffArea": {
@@ -159,12 +159,12 @@
             ]
         ]
     },
-    "startTime": "23:38:00",
-    "lastUpdatedTime": "2026-08-03T15:38:49.996+0000",
-    "endTime": "08:00:00",
-    "category": 1,
+    "startTime": "08:30:00",
+    "lastUpdatedTime": "2026-08-04T00:23:54.337+0000",
+    "endTime": "17:00:00",
+    "category": 2,
     "type": 1,
-    "startDate": "2026-08-02T16:00:00.000+0000",
+    "startDate": "2026-08-03T16:00:00.000+0000",
     "pressureDownArea": null,
     "isSchedule": false
 }
