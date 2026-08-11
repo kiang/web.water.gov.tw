@@ -64,11 +64,11 @@
         ]
     },
     "startTime": "09:00:00",
-    "lastUpdatedTime": "2026-08-11T05:41:58.456+0000",
+    "lastUpdatedTime": "2026-08-11T09:14:20.820+0000",
     "endTime": "18:00:00",
     "category": 3,
     "type": 2,
     "startDate": "2026-08-13T16:00:00.000+0000",
     "pressureDownArea": null,
-    "isSchedule": false
+    "isSchedule": true
 }
