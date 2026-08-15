@@ -19585,7 +19585,7 @@
         "startTime": "12:00:00",
         "lastUpdatedTime": "2026-08-14T05:47:55.440+0000",
         "endTime": "20:00:00",
-        "category": 2,
+        "category": 1,
         "type": 2,
         "startDate": "2026-08-14T16:00:00.000+0000",
         "pressureDownArea": null,
@@ -19937,7 +19937,7 @@
         "startTime": "08:30:00",
         "lastUpdatedTime": "2026-08-14T10:54:21.806+0000",
         "endTime": "18:30:00",
-        "category": 2,
+        "category": 1,
         "type": 2,
         "startDate": "2026-08-14T16:00:00.000+0000",
         "pressureDownArea": null,
@@ -73913,7 +73913,7 @@
         "startTime": "18:00:00",
         "lastUpdatedTime": "2026-08-15T08:31:18.281+0000",
         "endTime": "21:00:00",
-        "category": 2,
+        "category": 1,
         "type": 1,
         "startDate": "2026-08-14T16:00:00.000+0000",
         "pressureDownArea": null,
@@ -73927,7 +73927,7 @@
         "startTime": "17:28:00",
         "lastUpdatedTime": "2026-08-15T09:28:23.694+0000",
         "endTime": "20:00:00",
-        "category": 2,
+        "category": 1,
         "type": 1,
         "startDate": "2026-08-14T16:00:00.000+0000",
         "pressureDownArea": {
@@ -76727,6 +76727,52 @@
         "type": 2,
         "startDate": "2026-08-16T16:00:00.000+0000",
         "pressureDownArea": null,
+        "isSchedule": false
+    },
+    {
+        "no": "202608150046",
+        "endDate": "2026-08-15T16:00:00.000+0000",
+        "actualEndTime": null,
+        "waterOffArea": null,
+        "startTime": "21:30:00",
+        "lastUpdatedTime": "2026-08-15T13:06:11.411+0000",
+        "endTime": "02:00:00",
+        "category": 3,
+        "type": 1,
+        "startDate": "2026-08-14T16:00:00.000+0000",
+        "pressureDownArea": {
+            "type": "MultiPolygon",
+            "coordinates": [
+                [
+                    [
+                        [
+                            13463149.861824846,
+                            2850615.5371244415
+                        ],
+                        [
+                            13463245.668565182,
+                            2850287.253893917
+                        ],
+                        [
+                            13463606.187338524,
+                            2850447.460942172
+                        ],
+                        [
+                            13463893.193678401,
+                            2850584.33763259
+                        ],
+                        [
+                            13463765.15206932,
+                            2850856.0896892096
+                        ],
+                        [
+                            13463149.861824846,
+                            2850615.5371244415
+                        ]
+                    ]
+                ]
+            ]
+        },
         "isSchedule": false
     }
 ]
