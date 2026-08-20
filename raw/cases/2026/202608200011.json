@@ -1,7 +1,7 @@
 {
     "no": "202608200011",
     "endDate": "2026-08-19T16:00:00.000+0000",
-    "actualEndTime": null,
+    "actualEndTime": "2026-08-20T08:35:53.396+0000",
     "waterOffArea": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -76,9 +76,9 @@
         ]
     },
     "startTime": "09:00:00",
-    "lastUpdatedTime": "2026-08-20T00:53:35.580+0000",
+    "lastUpdatedTime": "2026-08-20T08:35:53.396+0000",
     "endTime": "17:00:00",
-    "category": 2,
+    "category": 1,
     "type": 1,
     "startDate": "2026-08-19T16:00:00.000+0000",
     "pressureDownArea": null,
