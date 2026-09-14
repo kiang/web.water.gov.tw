@@ -1,3 +1,25 @@
 {
-    "supply": []
+    "supply": [
+        {
+            "id": 6128,
+            "name": "南屯區懷德街70號(小康市場)",
+            "district": 4,
+            "division": 246,
+            "contact": null,
+            "phone": null,
+            "address": "臺中市南屯區南屯區懷德街70號(小康市場)",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.63025,
+                    24.15347299999999
+                ]
+            },
+            "condition": 0,
+            "waterTruckApi": true,
+            "groupId": null,
+            "interfaceNumber": null,
+            "meterSetting": 0
+        }
+    ]
 }
