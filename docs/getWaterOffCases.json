@@ -2267,7 +2267,7 @@
         "startTime": "18:01:00",
         "lastUpdatedTime": "2026-09-20T10:01:59.740+0000",
         "endTime": "01:00:00",
-        "category": 2,
+        "category": 1,
         "type": 1,
         "startDate": "2026-09-19T16:00:00.000+0000",
         "pressureDownArea": {
@@ -4997,7 +4997,7 @@
         "startTime": "18:06:00",
         "lastUpdatedTime": "2026-09-20T10:07:33.937+0000",
         "endTime": "01:00:00",
-        "category": 2,
+        "category": 1,
         "type": 1,
         "startDate": "2026-09-19T16:00:00.000+0000",
         "pressureDownArea": {
