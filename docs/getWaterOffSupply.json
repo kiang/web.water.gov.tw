@@ -1,3 +1,1223 @@
 {
-    "supply": []
+    "supply": [],
+    "notsupply": [
+        {
+            "id": 6134,
+            "name": "三皇宮",
+            "district": 7,
+            "division": 8,
+            "contact": null,
+            "phone": null,
+            "address": "高雄市茄萣區白雲里文化路86巷9-1號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.18359,
+                    22.91214799999998
+                ]
+            },
+            "condition": 2,
+            "waterTruckApi": true,
+            "groupId": null,
+            "interfaceNumber": null,
+            "meterSetting": 0
+        },
+        {
+            "id": 6135,
+            "name": "一甲福德宮",
+            "district": 7,
+            "division": 8,
+            "contact": null,
+            "phone": null,
+            "address": "高雄市路竹區平和路2號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.27476500000002,
+                    22.871937000000003
+                ]
+            },
+            "condition": 2,
+            "waterTruckApi": true,
+            "groupId": null,
+            "interfaceNumber": null,
+            "meterSetting": 0
+        },
+        {
+            "id": 6136,
+            "name": "茄萣靈霄殿",
+            "district": 7,
+            "division": 8,
+            "contact": null,
+            "phone": null,
+            "address": "高雄市茄萣區保定里港東街50之1號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.18641000000001,
+                    22.896192999999997
+                ]
+            },
+            "condition": 2,
+            "waterTruckApi": true,
+            "groupId": null,
+            "interfaceNumber": null,
+            "meterSetting": 0
+        },
+        {
+            "id": 6137,
+            "name": "海埔海山社區活動中心",
+            "district": 7,
+            "division": 8,
+            "contact": null,
+            "phone": null,
+            "address": "高雄市湖內區海山里和平路150號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.224014,
+                    22.895429999999998
+                ]
+            },
+            "condition": 2,
+            "waterTruckApi": true,
+            "groupId": null,
+            "interfaceNumber": null,
+            "meterSetting": 0
+        },
+        {
+            "id": 6138,
+            "name": "新港宮",
+            "district": 7,
+            "division": 8,
+            "contact": null,
+            "phone": null,
+            "address": "高雄市永安區新興路134號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.20906000000001,
+                    22.821982999999996
+                ]
+            },
+            "condition": 2,
+            "waterTruckApi": true,
+            "groupId": null,
+            "interfaceNumber": null,
+            "meterSetting": 0
+        },
+        {
+            "id": 6139,
+            "name": "永安宮",
+            "district": 7,
+            "division": 8,
+            "contact": null,
+            "phone": null,
+            "address": "高雄市永安區永安路49號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.22494500000002,
+                    22.818192999999987
+                ]
+            },
+            "condition": 2,
+            "waterTruckApi": true,
+            "groupId": null,
+            "interfaceNumber": null,
+            "meterSetting": 0
+        },
+        {
+            "id": 6140,
+            "name": "順北宮2",
+            "district": 7,
+            "division": 8,
+            "contact": null,
+            "phone": null,
+            "address": "高雄市茄萣區忠孝街202-3號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.183525,
+                    22.901459999999986
+                ]
+            },
+            "condition": 2,
+            "waterTruckApi": true,
+            "groupId": null,
+            "interfaceNumber": null,
+            "meterSetting": 0
+        },
+        {
+            "id": 6141,
+            "name": "頂寮社區活動中心",
+            "district": 7,
+            "division": 8,
+            "contact": null,
+            "phone": null,
+            "address": "高雄市路竹區三公路73號之1",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.22430000000001,
+                    22.85918599999999
+                ]
+            },
+            "condition": 2,
+            "waterTruckApi": true,
+            "groupId": null,
+            "interfaceNumber": null,
+            "meterSetting": 0
+        },
+        {
+            "id": 6142,
+            "name": "文南社區活動中心",
+            "district": 7,
+            "division": 8,
+            "contact": null,
+            "phone": null,
+            "address": "高雄市路竹區中華路293號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.254234,
+                    22.855393999999983
+                ]
+            },
+            "condition": 2,
+            "waterTruckApi": true,
+            "groupId": null,
+            "interfaceNumber": null,
+            "meterSetting": 0
+        },
+        {
+            "id": 6143,
+            "name": "社南里里長辦公處",
+            "district": 7,
+            "division": 8,
+            "contact": null,
+            "phone": null,
+            "address": "高雄市路竹區智仁街123號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.26317000000002,
+                    22.860528999999982
+                ]
+            },
+            "condition": 2,
+            "waterTruckApi": true,
+            "groupId": null,
+            "interfaceNumber": null,
+            "meterSetting": 0
+        },
+        {
+            "id": 6144,
+            "name": "路竹鴨寮保安宮",
+            "district": 7,
+            "division": 8,
+            "contact": null,
+            "phone": null,
+            "address": "高雄市路竹區保安路88號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.26805,
+                    22.848096999999985
+                ]
+            },
+            "condition": 2,
+            "waterTruckApi": true,
+            "groupId": null,
+            "interfaceNumber": null,
+            "meterSetting": 0
+        },
+        {
+            "id": 6145,
+            "name": "下茄萣太皇殿",
+            "district": 7,
+            "division": 8,
+            "contact": null,
+            "phone": null,
+            "address": "高雄市茄萣區吉定里忠孝街22號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.18625000000002,
+                    22.890330999999986
+                ]
+            },
+            "condition": 2,
+            "waterTruckApi": true,
+            "groupId": null,
+            "interfaceNumber": null,
+            "meterSetting": 0
+        },
+        {
+            "id": 6146,
+            "name": "白砂崙福德祠",
+            "district": 7,
+            "division": 8,
+            "contact": null,
+            "phone": null,
+            "address": "高雄市茄萣區福德路38號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.18302000000001,
+                    22.915832999999985
+                ]
+            },
+            "condition": 2,
+            "waterTruckApi": true,
+            "groupId": null,
+            "interfaceNumber": null,
+            "meterSetting": 0
+        },
+        {
+            "id": 6147,
+            "name": "後鄉順安宮",
+            "district": 7,
+            "division": 8,
+            "contact": null,
+            "phone": null,
+            "address": "高雄市路竹區順安路60之1號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.24375000000002,
+                    22.842732999999985
+                ]
+            },
+            "condition": 2,
+            "waterTruckApi": true,
+            "groupId": null,
+            "interfaceNumber": null,
+            "meterSetting": 0
+        },
+        {
+            "id": 6148,
+            "name": "振裕藥局(西側)",
+            "district": 7,
+            "division": 8,
+            "contact": null,
+            "phone": null,
+            "address": "高雄市湖內區保生路553號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.21202,
+                    22.90577299999999
+                ]
+            },
+            "condition": 2,
+            "waterTruckApi": true,
+            "groupId": null,
+            "interfaceNumber": null,
+            "meterSetting": 0
+        },
+        {
+            "id": 6149,
+            "name": "賜福宮4館",
+            "district": 7,
+            "division": 8,
+            "contact": null,
+            "phone": null,
+            "address": "高雄市茄萣區仁愛路3段2巷口",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.18519000000002,
+                    22.899509999999996
+                ]
+            },
+            "condition": 2,
+            "waterTruckApi": true,
+            "groupId": null,
+            "interfaceNumber": null,
+            "meterSetting": 0
+        },
+        {
+            "id": 6150,
+            "name": "竹園社區活動中心",
+            "district": 7,
+            "division": 8,
+            "contact": null,
+            "phone": null,
+            "address": "高雄市路竹區新生路156巷40號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.2922,
+                    22.872522
+                ]
+            },
+            "condition": 2,
+            "waterTruckApi": true,
+            "groupId": null,
+            "interfaceNumber": null,
+            "meterSetting": 0
+        },
+        {
+            "id": 6151,
+            "name": "林氏宗祠",
+            "district": 7,
+            "division": 8,
+            "contact": null,
+            "phone": null,
+            "address": "高雄市茄萣區茄萣路一段143號旁",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.18485,
+                    22.891099999999987
+                ]
+            },
+            "condition": 2,
+            "waterTruckApi": true,
+            "groupId": null,
+            "interfaceNumber": null,
+            "meterSetting": 0
+        },
+        {
+            "id": 6152,
+            "name": "竹仔港文興宮",
+            "district": 7,
+            "division": 8,
+            "contact": null,
+            "phone": null,
+            "address": "高雄市永安區維新路光明九巷66號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.24567,
+                    22.80835499999999
+                ]
+            },
+            "condition": 2,
+            "waterTruckApi": true,
+            "groupId": null,
+            "interfaceNumber": null,
+            "meterSetting": 0
+        },
+        {
+            "id": 6153,
+            "name": "草仔寮忠興宮",
+            "district": 7,
+            "division": 8,
+            "contact": null,
+            "phone": null,
+            "address": "高雄市湖內區中正路2段620號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.195854,
+                    22.913457999999984
+                ]
+            },
+            "condition": 2,
+            "waterTruckApi": true,
+            "groupId": null,
+            "interfaceNumber": null,
+            "meterSetting": 0
+        },
+        {
+            "id": 6154,
+            "name": "湖內區劉家社區發展協會",
+            "district": 7,
+            "division": 8,
+            "contact": null,
+            "phone": null,
+            "address": "高雄市湖內區仁愛街89號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.21935,
+                    22.89502999999998
+                ]
+            },
+            "condition": 2,
+            "waterTruckApi": true,
+            "groupId": null,
+            "interfaceNumber": null,
+            "meterSetting": 0
+        },
+        {
+            "id": 6155,
+            "name": "路竹大社東安宮",
+            "district": 7,
+            "division": 8,
+            "contact": null,
+            "phone": null,
+            "address": "高雄市路竹區東安路36巷1號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.26952000000001,
+                    22.864234999999994
+                ]
+            },
+            "condition": 2,
+            "waterTruckApi": true,
+            "groupId": null,
+            "interfaceNumber": null,
+            "meterSetting": 0
+        },
+        {
+            "id": 6156,
+            "name": "路竹三爺埤武安宮",
+            "district": 7,
+            "division": 8,
+            "contact": null,
+            "phone": null,
+            "address": "高雄市路竹區三民路52號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.28052499999998,
+                    22.833952000000007
+                ]
+            },
+            "condition": 2,
+            "waterTruckApi": true,
+            "groupId": null,
+            "interfaceNumber": null,
+            "meterSetting": 0
+        },
+        {
+            "id": 6157,
+            "name": "舊港里活動中心",
+            "district": 7,
+            "division": 4,
+            "contact": null,
+            "phone": null,
+            "address": "高雄市彌陀區舊港里舊港路南二巷16號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.229614,
+                    22.799189999999985
+                ]
+            },
+            "condition": 2,
+            "waterTruckApi": true,
+            "groupId": null,
+            "interfaceNumber": null,
+            "meterSetting": 0
+        },
+        {
+            "id": 6158,
+            "name": "田尾玉湖宮",
+            "district": 7,
+            "division": 8,
+            "contact": null,
+            "phone": null,
+            "address": "高雄市湖內區中山路一段496巷2號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.24126,
+                    22.89423599999998
+                ]
+            },
+            "condition": 2,
+            "waterTruckApi": true,
+            "groupId": null,
+            "interfaceNumber": null,
+            "meterSetting": 0
+        },
+        {
+            "id": 6159,
+            "name": "路竹服務所內",
+            "district": 7,
+            "division": 8,
+            "contact": null,
+            "phone": null,
+            "address": "高雄市湖內區中山路1段148號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.25121,
+                    22.880064
+                ]
+            },
+            "condition": 2,
+            "waterTruckApi": true,
+            "groupId": null,
+            "interfaceNumber": null,
+            "meterSetting": 0
+        },
+        {
+            "id": 6160,
+            "name": "路竹體育園區",
+            "district": 7,
+            "division": 8,
+            "contact": null,
+            "phone": null,
+            "address": "高雄市路竹區大同路155號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.26722,
+                    22.862812
+                ]
+            },
+            "condition": 2,
+            "waterTruckApi": true,
+            "groupId": null,
+            "interfaceNumber": null,
+            "meterSetting": 0
+        },
+        {
+            "id": 6161,
+            "name": "路竹蔡文聲靈宮",
+            "district": 7,
+            "division": 8,
+            "contact": null,
+            "phone": null,
+            "address": "高雄市路竹區文化路274號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.25373000000002,
+                    22.859654999999986
+                ]
+            },
+            "condition": 2,
+            "waterTruckApi": true,
+            "groupId": null,
+            "interfaceNumber": null,
+            "meterSetting": 0
+        },
+        {
+            "id": 6162,
+            "name": "烏樹林保寧宮",
+            "district": 7,
+            "division": 8,
+            "contact": null,
+            "phone": null,
+            "address": "高雄市永安區保安路240號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.235275,
+                    22.83570900000001
+                ]
+            },
+            "condition": 2,
+            "waterTruckApi": true,
+            "groupId": null,
+            "interfaceNumber": null,
+            "meterSetting": 0
+        },
+        {
+            "id": 6163,
+            "name": "新達清雲宮",
+            "district": 7,
+            "division": 8,
+            "contact": null,
+            "phone": null,
+            "address": "高雄市路竹區平海路86巷27號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.22696000000002,
+                    22.849723999999995
+                ]
+            },
+            "condition": 2,
+            "waterTruckApi": true,
+            "groupId": null,
+            "interfaceNumber": null,
+            "meterSetting": 0
+        },
+        {
+            "id": 6164,
+            "name": "萬福宮",
+            "district": 7,
+            "division": 8,
+            "contact": null,
+            "phone": null,
+            "address": "高雄市茄萣區白砂路237號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.18394500000001,
+                    22.913149999999987
+                ]
+            },
+            "condition": 2,
+            "waterTruckApi": true,
+            "groupId": null,
+            "interfaceNumber": null,
+            "meterSetting": 0
+        },
+        {
+            "id": 6165,
+            "name": "東保角三興宮",
+            "district": 7,
+            "division": 8,
+            "contact": null,
+            "phone": null,
+            "address": "高雄市湖內區中華街2號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.22357,
+                    22.898936999999997
+                ]
+            },
+            "condition": 2,
+            "waterTruckApi": true,
+            "groupId": null,
+            "interfaceNumber": null,
+            "meterSetting": 0
+        },
+        {
+            "id": 6166,
+            "name": "湖內長壽宮",
+            "district": 7,
+            "division": 8,
+            "contact": null,
+            "phone": null,
+            "address": "高雄市湖內區中山路1段453號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.24402000000002,
+                    22.886580000000002
+                ]
+            },
+            "condition": 2,
+            "waterTruckApi": true,
+            "groupId": null,
+            "interfaceNumber": null,
+            "meterSetting": 0
+        },
+        {
+            "id": 6167,
+            "name": "竹滬華山殿",
+            "district": 7,
+            "division": 8,
+            "contact": null,
+            "phone": null,
+            "address": "高雄市路竹區華山路7號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.22896000000001,
+                    22.863433999999994
+                ]
+            },
+            "condition": 2,
+            "waterTruckApi": true,
+            "groupId": null,
+            "interfaceNumber": null,
+            "meterSetting": 0
+        },
+        {
+            "id": 6168,
+            "name": "湖內普濟宮",
+            "district": 7,
+            "division": 8,
+            "contact": null,
+            "phone": null,
+            "address": "高雄市湖內區民族街139號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.238945,
+                    22.886050000000004
+                ]
+            },
+            "condition": 2,
+            "waterTruckApi": true,
+            "groupId": null,
+            "interfaceNumber": null,
+            "meterSetting": 0
+        },
+        {
+            "id": 6169,
+            "name": "路竹區公所",
+            "district": 7,
+            "division": 8,
+            "contact": null,
+            "phone": null,
+            "address": "高雄市路竹區國昌路76號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.25928499999999,
+                    22.85479399999999
+                ]
+            },
+            "condition": 2,
+            "waterTruckApi": true,
+            "groupId": null,
+            "interfaceNumber": null,
+            "meterSetting": 0
+        },
+        {
+            "id": 6170,
+            "name": "路竹玉聖宮",
+            "district": 7,
+            "division": 8,
+            "contact": null,
+            "phone": null,
+            "address": "高雄市路竹區自由街85巷",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.25737000000001,
+                    22.868017
+                ]
+            },
+            "condition": 2,
+            "waterTruckApi": true,
+            "groupId": null,
+            "interfaceNumber": null,
+            "meterSetting": 0
+        },
+        {
+            "id": 6171,
+            "name": "正順廟",
+            "district": 7,
+            "division": 8,
+            "contact": null,
+            "phone": null,
+            "address": "高雄市茄萣區崎漏路68號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.19047,
+                    22.87955299999999
+                ]
+            },
+            "condition": 2,
+            "waterTruckApi": true,
+            "groupId": null,
+            "interfaceNumber": null,
+            "meterSetting": 0
+        },
+        {
+            "id": 6172,
+            "name": "九星壇",
+            "district": 7,
+            "division": 8,
+            "contact": null,
+            "phone": null,
+            "address": "高雄市茄萣區港埔路2號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.18810999999998,
+                    22.899010000000004
+                ]
+            },
+            "condition": 2,
+            "waterTruckApi": true,
+            "groupId": null,
+            "interfaceNumber": null,
+            "meterSetting": 0
+        },
+        {
+            "id": 6173,
+            "name": "下坑福善宮",
+            "district": 7,
+            "division": 8,
+            "contact": null,
+            "phone": null,
+            "address": "高雄市路竹區太平路276號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.28893,
+                    22.86664399999999
+                ]
+            },
+            "condition": 2,
+            "waterTruckApi": true,
+            "groupId": null,
+            "interfaceNumber": null,
+            "meterSetting": 0
+        },
+        {
+            "id": 6174,
+            "name": "興毅純陽聖道堂前廣場(人行道)",
+            "district": 7,
+            "division": 8,
+            "contact": null,
+            "phone": null,
+            "address": "高雄市湖內區保生路392號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.21789000000001,
+                    22.90720199999999
+                ]
+            },
+            "condition": 2,
+            "waterTruckApi": true,
+            "groupId": null,
+            "interfaceNumber": null,
+            "meterSetting": 0
+        },
+        {
+            "id": 6175,
+            "name": "路竹天后宮",
+            "district": 7,
+            "division": 8,
+            "contact": null,
+            "phone": null,
+            "address": "高雄市路竹區聖母街30號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.25561500000002,
+                    22.865509999999997
+                ]
+            },
+            "condition": 2,
+            "waterTruckApi": true,
+            "groupId": null,
+            "interfaceNumber": null,
+            "meterSetting": 0
+        },
+        {
+            "id": 6176,
+            "name": "本洲里活動中心",
+            "district": 7,
+            "division": 4,
+            "contact": null,
+            "phone": null,
+            "address": "高雄市岡山區本洲里本洲二街6號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.26112,
+                    22.809939999999987
+                ]
+            },
+            "condition": 2,
+            "waterTruckApi": true,
+            "groupId": null,
+            "interfaceNumber": null,
+            "meterSetting": 0
+        },
+        {
+            "id": 6177,
+            "name": "金鑾宮",
+            "district": 7,
+            "division": 8,
+            "contact": null,
+            "phone": null,
+            "address": "高雄市茄萣區港東街111號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.18375,
+                    22.895062999999997
+                ]
+            },
+            "condition": 2,
+            "waterTruckApi": true,
+            "groupId": null,
+            "interfaceNumber": null,
+            "meterSetting": 0
+        },
+        {
+            "id": 6178,
+            "name": "永安區鹽田社區活動中心",
+            "district": 7,
+            "division": 8,
+            "contact": null,
+            "phone": null,
+            "address": "高雄市永安區鹽田里新興路99號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.20843,
+                    22.83358799999998
+                ]
+            },
+            "condition": 2,
+            "waterTruckApi": true,
+            "groupId": null,
+            "interfaceNumber": null,
+            "meterSetting": 0
+        },
+        {
+            "id": 6179,
+            "name": "文賢里辦公室(圍仔内慈雲寺前)",
+            "district": 7,
+            "division": 8,
+            "contact": null,
+            "phone": null,
+            "address": "高雄市湖內區中正路2段242號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.20988000000001,
+                    22.908643999999995
+                ]
+            },
+            "condition": 2,
+            "waterTruckApi": true,
+            "groupId": null,
+            "interfaceNumber": null,
+            "meterSetting": 0
+        },
+        {
+            "id": 6180,
+            "name": "永安郵局前",
+            "district": 7,
+            "division": 8,
+            "contact": null,
+            "phone": null,
+            "address": "高雄市永安區永華路15號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.22594000000001,
+                    22.817322
+                ]
+            },
+            "condition": 2,
+            "waterTruckApi": true,
+            "groupId": null,
+            "interfaceNumber": null,
+            "meterSetting": 0
+        },
+        {
+            "id": 6181,
+            "name": "路竹一甲觀音亭",
+            "district": 7,
+            "division": 8,
+            "contact": null,
+            "phone": null,
+            "address": "高雄市路竹區大智路39號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.26937999999998,
+                    22.873854
+                ]
+            },
+            "condition": 2,
+            "waterTruckApi": true,
+            "groupId": null,
+            "interfaceNumber": null,
+            "meterSetting": 0
+        },
+        {
+            "id": 6182,
+            "name": "太陽殿",
+            "district": 7,
+            "division": 8,
+            "contact": null,
+            "phone": null,
+            "address": "高雄市茄萣區忠孝街54號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.18572,
+                    22.892838
+                ]
+            },
+            "condition": 2,
+            "waterTruckApi": true,
+            "groupId": null,
+            "interfaceNumber": null,
+            "meterSetting": 0
+        },
+        {
+            "id": 6183,
+            "name": "高雄市政府警察局湖內分局一甲派出所",
+            "district": 7,
+            "division": 8,
+            "contact": null,
+            "phone": null,
+            "address": "高雄市路竹區金平路356號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.267715,
+                    22.86971699999999
+                ]
+            },
+            "condition": 2,
+            "waterTruckApi": true,
+            "groupId": null,
+            "interfaceNumber": null,
+            "meterSetting": 0
+        },
+        {
+            "id": 6184,
+            "name": "太爺福安宮",
+            "district": 7,
+            "division": 8,
+            "contact": null,
+            "phone": null,
+            "address": "高雄市湖內區中正路1段102號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.22475399999999,
+                    22.910161999999993
+                ]
+            },
+            "condition": 2,
+            "waterTruckApi": true,
+            "groupId": null,
+            "interfaceNumber": null,
+            "meterSetting": 0
+        },
+        {
+            "id": 6185,
+            "name": "湖內區公所",
+            "district": 7,
+            "division": 8,
+            "contact": null,
+            "phone": null,
+            "address": "高雄市湖內區中正路二段77號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.21173,
+                    22.908267999999996
+                ]
+            },
+            "condition": 2,
+            "waterTruckApi": true,
+            "groupId": null,
+            "interfaceNumber": null,
+            "meterSetting": 0
+        },
+        {
+            "id": 6186,
+            "name": "順北宮1",
+            "district": 7,
+            "division": 8,
+            "contact": null,
+            "phone": null,
+            "address": "高雄市茄萣區忠孝街202-3號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.183525,
+                    22.901459999999986
+                ]
+            },
+            "condition": 2,
+            "waterTruckApi": true,
+            "groupId": null,
+            "interfaceNumber": null,
+            "meterSetting": 0
+        },
+        {
+            "id": 6187,
+            "name": "高雄市立圖書館湖內分館",
+            "district": 7,
+            "division": 8,
+            "contact": null,
+            "phone": null,
+            "address": "高雄市湖內區保生路101號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.22352000000001,
+                    22.906513000000004
+                ]
+            },
+            "condition": 2,
+            "waterTruckApi": true,
+            "groupId": null,
+            "interfaceNumber": null,
+            "meterSetting": 0
+        },
+        {
+            "id": 6188,
+            "name": "北嶺社區活動中心",
+            "district": 7,
+            "division": 8,
+            "contact": null,
+            "phone": null,
+            "address": "高雄市路竹區民治路16巷22 號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.27093,
+                    22.820798999999983
+                ]
+            },
+            "condition": 2,
+            "waterTruckApi": true,
+            "groupId": null,
+            "interfaceNumber": null,
+            "meterSetting": 0
+        },
+        {
+            "id": 6189,
+            "name": "賜福宮",
+            "district": 7,
+            "division": 8,
+            "contact": null,
+            "phone": null,
+            "address": "高雄市茄萣區嘉泰村茄萣路2段57號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.18281599999999,
+                    22.898585999999995
+                ]
+            },
+            "condition": 2,
+            "waterTruckApi": true,
+            "groupId": null,
+            "interfaceNumber": null,
+            "meterSetting": 0
+        },
+        {
+            "id": 6190,
+            "name": "碧雲宮",
+            "district": 7,
+            "division": 4,
+            "contact": null,
+            "phone": null,
+            "address": "高雄市岡山區灣裡里灣裡路2號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.28364000000002,
+                    22.815559999999994
+                ]
+            },
+            "condition": 2,
+            "waterTruckApi": true,
+            "groupId": null,
+            "interfaceNumber": null,
+            "meterSetting": 0
+        },
+        {
+            "id": 6191,
+            "name": "戶政事務所",
+            "district": 7,
+            "division": 8,
+            "contact": null,
+            "phone": null,
+            "address": "高雄市茄萣區茄萣路二段3號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.18328,
+                    22.897531999999988
+                ]
+            },
+            "condition": 2,
+            "waterTruckApi": true,
+            "groupId": null,
+            "interfaceNumber": null,
+            "meterSetting": 0
+        }
+    ]
 }
