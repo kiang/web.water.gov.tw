@@ -506,27 +506,6 @@
             "meterSetting": 0
         },
         {
-            "id": 6158,
-            "name": "田尾玉湖宮",
-            "district": 7,
-            "division": 8,
-            "contact": null,
-            "phone": null,
-            "address": "高雄市湖內區中山路一段496巷2號",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    120.24126,
-                    22.89423599999998
-                ]
-            },
-            "condition": 2,
-            "waterTruckApi": true,
-            "groupId": null,
-            "interfaceNumber": null,
-            "meterSetting": 0
-        },
-        {
             "id": 6159,
             "name": "路竹服務所內",
             "district": 7,
@@ -560,27 +539,6 @@
                 "coordinates": [
                     120.26722,
                     22.862812
-                ]
-            },
-            "condition": 2,
-            "waterTruckApi": true,
-            "groupId": null,
-            "interfaceNumber": null,
-            "meterSetting": 0
-        },
-        {
-            "id": 6161,
-            "name": "路竹蔡文聲靈宮",
-            "district": 7,
-            "division": 8,
-            "contact": null,
-            "phone": null,
-            "address": "高雄市路竹區文化路274號",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    120.25373000000002,
-                    22.859654999999986
                 ]
             },
             "condition": 2,
@@ -707,27 +665,6 @@
                 "coordinates": [
                     120.22896000000001,
                     22.863433999999994
-                ]
-            },
-            "condition": 2,
-            "waterTruckApi": true,
-            "groupId": null,
-            "interfaceNumber": null,
-            "meterSetting": 0
-        },
-        {
-            "id": 6168,
-            "name": "湖內普濟宮",
-            "district": 7,
-            "division": 8,
-            "contact": null,
-            "phone": null,
-            "address": "高雄市湖內區民族街139號",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    120.238945,
-                    22.886050000000004
                 ]
             },
             "condition": 2,
@@ -1211,6 +1148,69 @@
                 "coordinates": [
                     120.18328,
                     22.897531999999988
+                ]
+            },
+            "condition": 2,
+            "waterTruckApi": true,
+            "groupId": null,
+            "interfaceNumber": null,
+            "meterSetting": 0
+        },
+        {
+            "id": 6192,
+            "name": "路竹蔡文福靈宮",
+            "district": 7,
+            "division": 8,
+            "contact": null,
+            "phone": null,
+            "address": "高雄市路竹區文化路274號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.25373000000002,
+                    22.859654999999986
+                ]
+            },
+            "condition": 2,
+            "waterTruckApi": true,
+            "groupId": null,
+            "interfaceNumber": null,
+            "meterSetting": 0
+        },
+        {
+            "id": 6193,
+            "name": "田尾玉湖宮",
+            "district": 7,
+            "division": 8,
+            "contact": null,
+            "phone": null,
+            "address": "高雄市湖內區中山路一段496巷2號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.24126,
+                    22.89423599999998
+                ]
+            },
+            "condition": 2,
+            "waterTruckApi": true,
+            "groupId": null,
+            "interfaceNumber": null,
+            "meterSetting": 0
+        },
+        {
+            "id": 6194,
+            "name": "湖內普濟宮",
+            "district": 7,
+            "division": 8,
+            "contact": null,
+            "phone": null,
+            "address": "高雄市湖內區民族街139號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.238945,
+                    22.886050000000004
                 ]
             },
             "condition": 2,
