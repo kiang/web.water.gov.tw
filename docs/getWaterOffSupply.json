@@ -484,27 +484,6 @@
             "meterSetting": 0
         },
         {
-            "id": 6157,
-            "name": "舊港里活動中心",
-            "district": 7,
-            "division": 4,
-            "contact": null,
-            "phone": null,
-            "address": "高雄市彌陀區舊港里舊港路南二巷16號",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    120.229614,
-                    22.799189999999985
-                ]
-            },
-            "condition": 0,
-            "waterTruckApi": true,
-            "groupId": null,
-            "interfaceNumber": null,
-            "meterSetting": 0
-        },
-        {
             "id": 6159,
             "name": "路竹服務所內",
             "district": 7,
@@ -820,27 +799,6 @@
             "meterSetting": 0
         },
         {
-            "id": 6176,
-            "name": "本洲里活動中心",
-            "district": 7,
-            "division": 4,
-            "contact": null,
-            "phone": null,
-            "address": "高雄市岡山區本洲里本洲二街6號",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    120.26112,
-                    22.809939999999987
-                ]
-            },
-            "condition": 0,
-            "waterTruckApi": true,
-            "groupId": null,
-            "interfaceNumber": null,
-            "meterSetting": 0
-        },
-        {
             "id": 6177,
             "name": "金鑾宮",
             "district": 7,
@@ -1114,27 +1072,6 @@
             "meterSetting": 0
         },
         {
-            "id": 6190,
-            "name": "碧雲宮",
-            "district": 7,
-            "division": 4,
-            "contact": null,
-            "phone": null,
-            "address": "高雄市岡山區灣裡里灣裡路2號",
-            "location": {
-                "type": "Point",
-                "coordinates": [
-                    120.28364000000002,
-                    22.815559999999994
-                ]
-            },
-            "condition": 0,
-            "waterTruckApi": true,
-            "groupId": null,
-            "interfaceNumber": null,
-            "meterSetting": 0
-        },
-        {
             "id": 6191,
             "name": "戶政事務所",
             "district": 7,
@@ -1210,6 +1147,69 @@
                 "coordinates": [
                     120.238945,
                     22.886050000000004
+                ]
+            },
+            "condition": 0,
+            "waterTruckApi": true,
+            "groupId": null,
+            "interfaceNumber": null,
+            "meterSetting": 0
+        },
+        {
+            "id": 6195,
+            "name": "舊港里活動中心",
+            "district": 7,
+            "division": 4,
+            "contact": null,
+            "phone": null,
+            "address": "高雄市彌陀區高雄市彌陀區舊港里舊港路南二巷16號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.22960999999998,
+                    22.799645999999992
+                ]
+            },
+            "condition": 0,
+            "waterTruckApi": true,
+            "groupId": null,
+            "interfaceNumber": null,
+            "meterSetting": 0
+        },
+        {
+            "id": 6196,
+            "name": "本洲里活動中心",
+            "district": 7,
+            "division": 4,
+            "contact": null,
+            "phone": null,
+            "address": "高雄市岡山區高雄市岡山區本洲里本洲二街6號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.26087000000001,
+                    22.809804999999987
+                ]
+            },
+            "condition": 0,
+            "waterTruckApi": true,
+            "groupId": null,
+            "interfaceNumber": null,
+            "meterSetting": 0
+        },
+        {
+            "id": 6197,
+            "name": "碧雲宮",
+            "district": 7,
+            "division": 4,
+            "contact": null,
+            "phone": null,
+            "address": "高雄市岡山區高雄市岡山區灣裡里灣裡路2號",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.28361,
+                    22.815310999999987
                 ]
             },
             "condition": 0,
