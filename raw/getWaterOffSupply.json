@@ -1,6 +1,5 @@
 {
-    "supply": [],
-    "notsupply": [
+    "supply": [
         {
             "id": 6134,
             "name": "三皇宮",
@@ -16,7 +15,7 @@
                     2621397.8760140683
                 ]
             },
-            "condition": 2,
+            "condition": 0,
             "waterTruckApi": true,
             "groupId": null,
             "interfaceNumber": null,
@@ -37,7 +36,7 @@
                     2616538.9132139836
                 ]
             },
-            "condition": 2,
+            "condition": 0,
             "waterTruckApi": true,
             "groupId": null,
             "interfaceNumber": null,
@@ -58,7 +57,7 @@
                     2619469.7548244265
                 ]
             },
-            "condition": 2,
+            "condition": 0,
             "waterTruckApi": true,
             "groupId": null,
             "interfaceNumber": null,
@@ -79,7 +78,7 @@
                     2619377.553896766
                 ]
             },
-            "condition": 2,
+            "condition": 0,
             "waterTruckApi": true,
             "groupId": null,
             "interfaceNumber": null,
@@ -100,7 +99,7 @@
                     2610504.6417634385
                 ]
             },
-            "condition": 2,
+            "condition": 0,
             "waterTruckApi": true,
             "groupId": null,
             "interfaceNumber": null,
@@ -121,7 +120,7 @@
                     2610046.913212207
                 ]
             },
-            "condition": 2,
+            "condition": 0,
             "waterTruckApi": true,
             "groupId": null,
             "interfaceNumber": null,
@@ -142,7 +141,7 @@
                     2620106.233303406
                 ]
             },
-            "condition": 2,
+            "condition": 0,
             "waterTruckApi": true,
             "groupId": null,
             "interfaceNumber": null,
@@ -163,7 +162,7 @@
                     2614998.4255163525
                 ]
             },
-            "condition": 2,
+            "condition": 0,
             "waterTruckApi": true,
             "groupId": null,
             "interfaceNumber": null,
@@ -184,7 +183,7 @@
                     2614540.330168116
                 ]
             },
-            "condition": 2,
+            "condition": 0,
             "waterTruckApi": true,
             "groupId": null,
             "interfaceNumber": null,
@@ -205,7 +204,7 @@
                     2615160.670683741
                 ]
             },
-            "condition": 2,
+            "condition": 0,
             "waterTruckApi": true,
             "groupId": null,
             "interfaceNumber": null,
@@ -226,7 +225,7 @@
                     2613658.84667059
                 ]
             },
-            "condition": 2,
+            "condition": 0,
             "waterTruckApi": true,
             "groupId": null,
             "interfaceNumber": null,
@@ -247,7 +246,7 @@
                     2618761.4039961537
                 ]
             },
-            "condition": 2,
+            "condition": 0,
             "waterTruckApi": true,
             "groupId": null,
             "interfaceNumber": null,
@@ -268,7 +267,7 @@
                     2621843.2311504637
                 ]
             },
-            "condition": 2,
+            "condition": 0,
             "waterTruckApi": true,
             "groupId": null,
             "interfaceNumber": null,
@@ -289,7 +288,7 @@
                     2613010.9013015265
                 ]
             },
-            "condition": 2,
+            "condition": 0,
             "waterTruckApi": true,
             "groupId": null,
             "interfaceNumber": null,
@@ -310,7 +309,7 @@
                     2620627.4462576504
                 ]
             },
-            "condition": 2,
+            "condition": 0,
             "waterTruckApi": true,
             "groupId": null,
             "interfaceNumber": null,
@@ -331,7 +330,7 @@
                     2619870.5871653473
                 ]
             },
-            "condition": 2,
+            "condition": 0,
             "waterTruckApi": true,
             "groupId": null,
             "interfaceNumber": null,
@@ -352,7 +351,7 @@
                     2616609.5923400973
                 ]
             },
-            "condition": 2,
+            "condition": 0,
             "waterTruckApi": true,
             "groupId": null,
             "interfaceNumber": null,
@@ -373,7 +372,7 @@
                     2618854.3264738037
                 ]
             },
-            "condition": 2,
+            "condition": 0,
             "waterTruckApi": true,
             "groupId": null,
             "interfaceNumber": null,
@@ -394,7 +393,7 @@
                     2608858.8107863492
                 ]
             },
-            "condition": 2,
+            "condition": 0,
             "waterTruckApi": true,
             "groupId": null,
             "interfaceNumber": null,
@@ -415,7 +414,7 @@
                     2621556.1962630507
                 ]
             },
-            "condition": 2,
+            "condition": 0,
             "waterTruckApi": true,
             "groupId": null,
             "interfaceNumber": null,
@@ -436,7 +435,7 @@
                     2619329.2180999285
                 ]
             },
-            "condition": 2,
+            "condition": 0,
             "waterTruckApi": true,
             "groupId": null,
             "interfaceNumber": null,
@@ -457,7 +456,7 @@
                     2615608.3935135575
                 ]
             },
-            "condition": 2,
+            "condition": 0,
             "waterTruckApi": true,
             "groupId": null,
             "interfaceNumber": null,
@@ -478,7 +477,7 @@
                     2611950.253936245
                 ]
             },
-            "condition": 2,
+            "condition": 0,
             "waterTruckApi": true,
             "groupId": null,
             "interfaceNumber": null,
@@ -499,7 +498,7 @@
                     2607752.061510419
                 ]
             },
-            "condition": 2,
+            "condition": 0,
             "waterTruckApi": true,
             "groupId": null,
             "interfaceNumber": null,
@@ -520,7 +519,7 @@
                     2617520.8366470695
                 ]
             },
-            "condition": 2,
+            "condition": 0,
             "waterTruckApi": true,
             "groupId": null,
             "interfaceNumber": null,
@@ -541,7 +540,7 @@
                     2615436.4790670318
                 ]
             },
-            "condition": 2,
+            "condition": 0,
             "waterTruckApi": true,
             "groupId": null,
             "interfaceNumber": null,
@@ -562,7 +561,7 @@
                     2612162.4745621355
                 ]
             },
-            "condition": 2,
+            "condition": 0,
             "waterTruckApi": true,
             "groupId": null,
             "interfaceNumber": null,
@@ -583,7 +582,7 @@
                     2613855.385487372
                 ]
             },
-            "condition": 2,
+            "condition": 0,
             "waterTruckApi": true,
             "groupId": null,
             "interfaceNumber": null,
@@ -604,7 +603,7 @@
                     2621518.9727386907
                 ]
             },
-            "condition": 2,
+            "condition": 0,
             "waterTruckApi": true,
             "groupId": null,
             "interfaceNumber": null,
@@ -625,7 +624,7 @@
                     2619801.3440980064
                 ]
             },
-            "condition": 2,
+            "condition": 0,
             "waterTruckApi": true,
             "groupId": null,
             "interfaceNumber": null,
@@ -646,7 +645,7 @@
                     2618308.1576903476
                 ]
             },
-            "condition": 2,
+            "condition": 0,
             "waterTruckApi": true,
             "groupId": null,
             "interfaceNumber": null,
@@ -667,7 +666,7 @@
                     2615511.6234595575
                 ]
             },
-            "condition": 2,
+            "condition": 0,
             "waterTruckApi": true,
             "groupId": null,
             "interfaceNumber": null,
@@ -688,7 +687,7 @@
                     2614467.8478979636
                 ]
             },
-            "condition": 2,
+            "condition": 0,
             "waterTruckApi": true,
             "groupId": null,
             "interfaceNumber": null,
@@ -709,7 +708,7 @@
                     2616065.3105133637
                 ]
             },
-            "condition": 2,
+            "condition": 0,
             "waterTruckApi": true,
             "groupId": null,
             "interfaceNumber": null,
@@ -730,7 +729,7 @@
                     2617459.094682553
                 ]
             },
-            "condition": 2,
+            "condition": 0,
             "waterTruckApi": true,
             "groupId": null,
             "interfaceNumber": null,
@@ -751,7 +750,7 @@
                     2619810.1656243596
                 ]
             },
-            "condition": 2,
+            "condition": 0,
             "waterTruckApi": true,
             "groupId": null,
             "interfaceNumber": null,
@@ -772,7 +771,7 @@
                     2615899.431982798
                 ]
             },
-            "condition": 2,
+            "condition": 0,
             "waterTruckApi": true,
             "groupId": null,
             "interfaceNumber": null,
@@ -793,7 +792,7 @@
                     2620800.140224873
                 ]
             },
-            "condition": 2,
+            "condition": 0,
             "waterTruckApi": true,
             "groupId": null,
             "interfaceNumber": null,
@@ -814,7 +813,7 @@
                     2615762.429420452
                 ]
             },
-            "condition": 2,
+            "condition": 0,
             "waterTruckApi": true,
             "groupId": null,
             "interfaceNumber": null,
@@ -835,7 +834,7 @@
                     2609050.220147979
                 ]
             },
-            "condition": 2,
+            "condition": 0,
             "waterTruckApi": true,
             "groupId": null,
             "interfaceNumber": null,
@@ -856,7 +855,7 @@
                     2619333.205797774
                 ]
             },
-            "condition": 2,
+            "condition": 0,
             "waterTruckApi": true,
             "groupId": null,
             "interfaceNumber": null,
@@ -877,7 +876,7 @@
                     2611906.2882528165
                 ]
             },
-            "condition": 2,
+            "condition": 0,
             "waterTruckApi": true,
             "groupId": null,
             "interfaceNumber": null,
@@ -898,7 +897,7 @@
                     2620974.4070808403
                 ]
             },
-            "condition": 2,
+            "condition": 0,
             "waterTruckApi": true,
             "groupId": null,
             "interfaceNumber": null,
@@ -919,7 +918,7 @@
                     2609941.721986596
                 ]
             },
-            "condition": 2,
+            "condition": 0,
             "waterTruckApi": true,
             "groupId": null,
             "interfaceNumber": null,
@@ -940,7 +939,7 @@
                     2616770.524409134
                 ]
             },
-            "condition": 2,
+            "condition": 0,
             "waterTruckApi": true,
             "groupId": null,
             "interfaceNumber": null,
@@ -961,7 +960,7 @@
                     2619064.340463447
                 ]
             },
-            "condition": 2,
+            "condition": 0,
             "waterTruckApi": true,
             "groupId": null,
             "interfaceNumber": null,
@@ -982,7 +981,7 @@
                     2616270.6977613084
                 ]
             },
-            "condition": 2,
+            "condition": 0,
             "waterTruckApi": true,
             "groupId": null,
             "interfaceNumber": null,
@@ -1003,7 +1002,7 @@
                     2621157.860600299
                 ]
             },
-            "condition": 2,
+            "condition": 0,
             "waterTruckApi": true,
             "groupId": null,
             "interfaceNumber": null,
@@ -1024,7 +1023,7 @@
                     2620928.9670007923
                 ]
             },
-            "condition": 2,
+            "condition": 0,
             "waterTruckApi": true,
             "groupId": null,
             "interfaceNumber": null,
@@ -1045,7 +1044,7 @@
                     2620106.233303406
                 ]
             },
-            "condition": 2,
+            "condition": 0,
             "waterTruckApi": true,
             "groupId": null,
             "interfaceNumber": null,
@@ -1066,7 +1065,7 @@
                     2620716.874676871
                 ]
             },
-            "condition": 2,
+            "condition": 0,
             "waterTruckApi": true,
             "groupId": null,
             "interfaceNumber": null,
@@ -1087,7 +1086,7 @@
                     2610361.645512594
                 ]
             },
-            "condition": 2,
+            "condition": 0,
             "waterTruckApi": true,
             "groupId": null,
             "interfaceNumber": null,
@@ -1108,7 +1107,7 @@
                     2619758.9283321137
                 ]
             },
-            "condition": 2,
+            "condition": 0,
             "waterTruckApi": true,
             "groupId": null,
             "interfaceNumber": null,
@@ -1129,7 +1128,7 @@
                     2609728.9261796763
                 ]
             },
-            "condition": 2,
+            "condition": 0,
             "waterTruckApi": true,
             "groupId": null,
             "interfaceNumber": null,
@@ -1150,7 +1149,7 @@
                     2619631.560851406
                 ]
             },
-            "condition": 2,
+            "condition": 0,
             "waterTruckApi": true,
             "groupId": null,
             "interfaceNumber": null,
@@ -1171,7 +1170,7 @@
                     2615055.0842943327
                 ]
             },
-            "condition": 2,
+            "condition": 0,
             "waterTruckApi": true,
             "groupId": null,
             "interfaceNumber": null,
@@ -1192,7 +1191,7 @@
                     2619233.2719654012
                 ]
             },
-            "condition": 2,
+            "condition": 0,
             "waterTruckApi": true,
             "groupId": null,
             "interfaceNumber": null,
@@ -1213,7 +1212,7 @@
                     2618244.1169669502
                 ]
             },
-            "condition": 2,
+            "condition": 0,
             "waterTruckApi": true,
             "groupId": null,
             "interfaceNumber": null,
