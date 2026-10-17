@@ -1617,7 +1617,7 @@
         "startTime": "08:30:00",
         "lastUpdatedTime": "2026-10-16T08:32:45.450+0000",
         "endTime": "18:30:00",
-        "category": 2,
+        "category": 1,
         "type": 2,
         "startDate": "2026-10-16T16:00:00.000+0000",
         "pressureDownArea": {
@@ -17058,48 +17058,6 @@
         "isSchedule": false
     },
     {
-        "no": "202610170001",
-        "endDate": "2026-10-16T16:00:00.000+0000",
-        "actualEndTime": null,
-        "waterOffArea": null,
-        "startTime": "01:56:00",
-        "lastUpdatedTime": "2026-10-16T17:56:41.833+0000",
-        "endTime": "09:00:00",
-        "category": 1,
-        "type": 1,
-        "startDate": "2026-10-16T16:00:00.000+0000",
-        "pressureDownArea": {
-            "type": "MultiPolygon",
-            "coordinates": [
-                [
-                    [
-                        [
-                            120.76219081878664,
-                            24.192430787837516
-                        ],
-                        [
-                            120.76237320899963,
-                            24.189719879658558
-                        ],
-                        [
-                            120.76796293258667,
-                            24.189387128836017
-                        ],
-                        [
-                            120.76740503311157,
-                            24.192998407525113
-                        ],
-                        [
-                            120.76219081878664,
-                            24.192430787837516
-                        ]
-                    ]
-                ]
-            ]
-        },
-        "isSchedule": false
-    },
-    {
         "no": "202610170002",
         "endDate": "2026-10-16T16:00:00.000+0000",
         "actualEndTime": null,
@@ -27865,7 +27823,7 @@
         "startTime": "13:00:00",
         "lastUpdatedTime": "2026-10-17T04:14:41.555+0000",
         "endTime": "18:30:00",
-        "category": 2,
+        "category": 1,
         "type": 1,
         "startDate": "2026-10-16T16:00:00.000+0000",
         "pressureDownArea": null,
@@ -30107,7 +30065,7 @@
         "startTime": "13:00:00",
         "lastUpdatedTime": "2026-10-17T07:26:41.677+0000",
         "endTime": "19:00:00",
-        "category": 2,
+        "category": 1,
         "type": 1,
         "startDate": "2026-10-16T16:00:00.000+0000",
         "pressureDownArea": null,
@@ -30433,7 +30391,7 @@
         "startTime": "13:00:00",
         "lastUpdatedTime": "2026-10-17T04:58:59.670+0000",
         "endTime": "19:00:00",
-        "category": 2,
+        "category": 1,
         "type": 1,
         "startDate": "2026-10-16T16:00:00.000+0000",
         "pressureDownArea": null,
@@ -43313,7 +43271,7 @@
         "startTime": "16:10:00",
         "lastUpdatedTime": "2026-10-17T08:10:59.346+0000",
         "endTime": "19:00:00",
-        "category": 2,
+        "category": 1,
         "type": 1,
         "startDate": "2026-10-16T16:00:00.000+0000",
         "pressureDownArea": null,
@@ -43497,7 +43455,7 @@
         "startTime": "17:05:00",
         "lastUpdatedTime": "2026-10-17T09:05:29.768+0000",
         "endTime": "20:00:00",
-        "category": 2,
+        "category": 1,
         "type": 1,
         "startDate": "2026-10-16T16:00:00.000+0000",
         "pressureDownArea": null,
