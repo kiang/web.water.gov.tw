@@ -4,10 +4,10 @@
     "actualEndTime": null,
     "waterOffArea": null,
     "startTime": "10:42:00",
-    "lastUpdatedTime": "2026-10-27T02:42:33.447+0000",
-    "endTime": "14:30:00",
+    "lastUpdatedTime": "2026-10-27T06:23:32.038+0000",
+    "endTime": "17:00:00",
     "category": 2,
-    "type": 1,
+    "type": 2,
     "startDate": "2026-10-26T16:00:00.000+0000",
     "pressureDownArea": {
         "type": "MultiPolygon",
