@@ -2745,7 +2745,7 @@
         "startTime": "14:54:00",
         "lastUpdatedTime": "2026-10-30T09:55:26.244+0000",
         "endTime": "20:00:00",
-        "category": 2,
+        "category": 1,
         "type": 1,
         "startDate": "2026-10-29T16:00:00.000+0000",
         "pressureDownArea": null,
@@ -2957,7 +2957,7 @@
         "startTime": "15:17:00",
         "lastUpdatedTime": "2026-10-30T07:17:17.525+0000",
         "endTime": "18:30:00",
-        "category": 2,
+        "category": 1,
         "type": 1,
         "startDate": "2026-10-29T16:00:00.000+0000",
         "pressureDownArea": {
@@ -3687,7 +3687,7 @@
         "startTime": "15:55:00",
         "lastUpdatedTime": "2026-10-30T07:55:08.508+0000",
         "endTime": "19:00:00",
-        "category": 2,
+        "category": 1,
         "type": 1,
         "startDate": "2026-10-29T16:00:00.000+0000",
         "pressureDownArea": null,
@@ -4257,7 +4257,7 @@
         "startTime": "16:30:00",
         "lastUpdatedTime": "2026-10-30T08:20:23.595+0000",
         "endTime": "19:00:00",
-        "category": 2,
+        "category": 1,
         "type": 1,
         "startDate": "2026-10-29T16:00:00.000+0000",
         "pressureDownArea": null,
@@ -4547,7 +4547,7 @@
         "startTime": "18:30:00",
         "lastUpdatedTime": "2026-10-30T08:55:33.878+0000",
         "endTime": "22:00:00",
-        "category": 3,
+        "category": 2,
         "type": 1,
         "startDate": "2026-10-29T16:00:00.000+0000",
         "pressureDownArea": {
@@ -4586,6 +4586,110 @@
                         [
                             120.1987267620604,
                             22.99702282054516
+                        ]
+                    ]
+                ]
+            ]
+        },
+        "isSchedule": false
+    },
+    {
+        "no": "202610300089",
+        "endDate": "2026-10-30T16:00:00.000+0000",
+        "actualEndTime": null,
+        "waterOffArea": {
+            "type": "MultiPolygon",
+            "coordinates": [
+                [
+                    [
+                        [
+                            120.26777345442798,
+                            23.007316409886087
+                        ],
+                        [
+                            120.26899934590774,
+                            23.005944169897113
+                        ],
+                        [
+                            120.27071809315326,
+                            23.004090927782034
+                        ],
+                        [
+                            120.26972567578379,
+                            23.003181916375297
+                        ],
+                        [
+                            120.2683848761418,
+                            23.001910861252632
+                        ],
+                        [
+                            120.26749730880248,
+                            23.0023283378611
+                        ],
+                        [
+                            120.26669843721581,
+                            23.00252989328445
+                        ],
+                        [
+                            120.2660608030075,
+                            23.00280372090699
+                        ],
+                        [
+                            120.26551460774698,
+                            23.003149371420115
+                        ],
+                        [
+                            120.26777345442798,
+                            23.007316409886087
+                        ]
+                    ]
+                ]
+            ]
+        },
+        "startTime": "20:14:00",
+        "lastUpdatedTime": "2026-10-30T12:14:39.469+0000",
+        "endTime": "01:00:00",
+        "category": 2,
+        "type": 1,
+        "startDate": "2026-10-29T16:00:00.000+0000",
+        "pressureDownArea": null,
+        "isSchedule": false
+    },
+    {
+        "no": "202610300090",
+        "endDate": "2026-10-30T16:00:00.000+0000",
+        "actualEndTime": null,
+        "waterOffArea": null,
+        "startTime": "20:25:00",
+        "lastUpdatedTime": "2026-10-30T12:25:10.491+0000",
+        "endTime": "04:00:00",
+        "category": 2,
+        "type": 1,
+        "startDate": "2026-10-29T16:00:00.000+0000",
+        "pressureDownArea": {
+            "type": "MultiPolygon",
+            "coordinates": [
+                [
+                    [
+                        [
+                            120.69029688835141,
+                            24.13172005807373
+                        ],
+                        [
+                            120.690221786499,
+                            24.12635435621393
+                        ],
+                        [
+                            120.68411707878111,
+                            24.12635435621393
+                        ],
+                        [
+                            120.68497538566587,
+                            24.129536597068785
+                        ],
+                        [
+                            120.69029688835141,
+                            24.13172005807373
                         ]
                     ]
                 ]
@@ -7673,7 +7777,7 @@
         "startTime": "11:00:00",
         "lastUpdatedTime": "2026-10-29T07:37:02.516+0000",
         "endTime": "21:00:00",
-        "category": 2,
+        "category": 1,
         "type": 2,
         "startDate": "2026-10-29T16:00:00.000+0000",
         "pressureDownArea": null,
@@ -7885,7 +7989,7 @@
         "startTime": "09:00:00",
         "lastUpdatedTime": "2026-10-29T08:22:10.490+0000",
         "endTime": "19:00:00",
-        "category": 2,
+        "category": 1,
         "type": 2,
         "startDate": "2026-10-29T16:00:00.000+0000",
         "pressureDownArea": null,
@@ -20057,7 +20161,7 @@
         "startTime": "10:30:00",
         "lastUpdatedTime": "2026-10-30T01:35:10.604+0000",
         "endTime": "20:00:00",
-        "category": 2,
+        "category": 1,
         "type": 1,
         "startDate": "2026-10-29T16:00:00.000+0000",
         "pressureDownArea": null,
